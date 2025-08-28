@@ -244,7 +244,7 @@ Se explican las ramas más prominentes:
 6.1.3. [Source Code Style Guide & Conventions](#613-source-code-style-guide--conventions)<br>
 6.1.4. [Software Deployment Configuration](#614-software-deployment-configuration)<br>
 6.2. [Landing Page & Mobile Application Implementation](#62-landing-page--mobile-application-implementation)<br>
-6.2.X. [Sprint n]<br>
+6.2.X. [Sprint n](#62x-sprint-n)<br>
 6.2.X.1. [Sprint Planning n](#62x1-sprint-planning-n)<br>
 6.2.X.2. [Sprint Backlog n](#62x2-sprint-backlog-n)<br>
 6.2.X.3. [Development Evidence for Sprint Review](#62x3-development-evidence-for-sprint-review)<br>
