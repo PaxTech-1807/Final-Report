@@ -404,10 +404,54 @@ Segmento objetivo #2: Clientes de servicios de belleza
 | Pagar por medios electrónicos                         | Baja                     | Baja                       | Alta                | Alta                 |
 
 ### 2.3.3. User Journey Mapping
-### 2.3.4. Empathy Mapping
-### 2.3.5. As-is Scenario Mapping
-## 2.4. Ubiquitous Language
+Para el segmento de los salones estilistas o barberos se consideró el momento desde que el cliente se contacta con la recepcionista hasta que el cliente haya terminado su cita y haya salido de salón. En la otra mano, para el segmento de los clientes de los salones se consideró desde que descubren el salón de manera online o por otra persona hasta que haya atendido la cita deseada.
 
+![Journey mapping | Segmento objetivo #1](img/journeymapping1.png)
+
+![Journey mapping | Segmento objetivo #2](img/journeymapping2.png)
+### 2.3.4. Empathy Mapping
+Segmento objetivo #1: Salones de belleza y barberías
+
+<div align="center">
+
+<img src="img/Andrea_Mercedes_empathy_mapping.png" alt="empathy_mapping_1" />
+
+</div>
+
+Segmento objetivo #2: Clientes de servicios de belleza
+
+<div align="center">
+
+<img src="img/Camila_Cortez_empathy_mapping.png" alt="empathy_mapping_2" />
+
+</div>
+### 2.3.5. As-is Scenario Mapping
+Segmento objetivo #1: Salones de belleza y barberías
+
+![As-is Scenario Mapping | Segmento objetivo #1](img/Asis1.jpg)
+
+Segmento objetivo #2: Clientes de servicios de belleza
+
+![As-is Scenario Mapping | Segmento objetivo #2](img/Asis2.jpg)
+## 2.4. Ubiquitous Language
+| **Término del Lenguaje Ubicuo**    | **Clase**                                    | **Bounded Context** | **Definición**                                                                            |
+| ---------------------------------- | -------------------------------------------- | ------------------- | ----------------------------------------------------------------------------------------- |
+| **Reserva Agendada**               | `Reservations`                               | Reservations        | Una reserva confirmada vinculada a un `ClientId`, `TimeSlotId`, `ServiceId` y `WorkerId`. |
+| **Horario Disponible**             | `TimeSlotId`                                 | Reservations        | Identificador de un bloque de tiempo libre, no asignado a ninguna `Reservation`.          |
+| **Bloque de Tiempo**               | `TimeSlotId`                                 | Reservations        | Unidad estándar de tiempo usada para agendar reservas.                                    |
+| **Cancelación de Reserva**         | `UpdateReservationCommand` (con cancelación) | Reservations        | Acción de actualizar o eliminar una reserva, liberando su `TimeSlotId`.                   |
+| **Reprogramación de Reserva**      | `UpdateReservationCommand`                   | Reservations        | Comando para cambiar el `TimeSlotId` de una reserva ya existente.                         |
+| **Servicio Seleccionado**          | `ServiceId`                                  | Reservations        | Identificador de servicio incluido en una reserva.                                        |
+| **Cambio en la Agenda**            | `UpdateReservationCommand`                   | Reservations        | Cualquier alteración en los datos de una reserva existente.                               |
+| **Trabajador**                     | `Workers`                                    | Workers             | Agregado que representa al profesional que realiza un servicio.                           |
+| **Especialización del Trabajador** | `WorkerSpecialization`                       | Workers             | Valor que describe la especialidad del trabajador (ej. barbería, uñas).                   |
+| **Servicio**                       | `Services`                                   | Services            | Agregado que representa un tratamiento o actividad ofrecida por un `Provider`.            |
+| **Duración del Servicio**          | `Duration`                                   | Services            | Valor que indica el tiempo necesario para completar el servicio.                          |
+| **Precio del Servicio**            | `Money` (compartido)                         | Services / Shared   | Valor objeto que representa el costo del servicio.                                        |
+| **Proveedor**                      | `ProviderId`                                 | Profiles / Services | Identificador del prestador del servicio.                                                 |
+| **Cliente**                        | `ClientId`                                   | Profiles            | Identificador del usuario que agenda y recibe el servicio.                                |
+| **Reseña**                         | `Reviews`                                    | Reviews             | Agregado que contiene la valoración textual y numérica hecha por un `Client`.             |
+| **Puntaje de Reseña**              | `Review.rating`                              | Reviews             | Valor numérico asociado a una reseña de servicio.                                         |
 # Capítulo III: Requirements specification
 ## 3.1. To-Be Scenario Mapping.
 ## 3.2. User Stories.
