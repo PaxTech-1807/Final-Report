@@ -298,7 +298,7 @@ Visión: Consolidarnos como la startup tecnológica de referencia en Latinoamér
 | **Perfil**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | **Foto**                                                                       |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
 | **Natalia Bertha Roman Cruz**<br>Mi nombre es Natalia Roman. Soy estudiante de la carrera Ingeniería de Software y tengo 19 años. Me considero una persona dedicada y organizada, que se esfuerza por alcanzar sus logros. Dentro de este proyecto, me interesa poder aportar en gran parte en la codificación de las ideas planteadas. Espero que el equipo logre su objetivo y aprendamos lo más posible en el proceso | <img src="img/natalia-foto.png" alt="natalia image" width="200">  |
-| **Bri**<br> aaa | <img src="img/bri-foto.png" alt="bri image" width="200">  |
+| **Britney Delhy Qqueso Rodriguez**<br> Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona autodidacta, dedicada, creativa y responsable. Me comprometo a contribuir al equipo con mis conocimientos y habilidades, apoyar en lo que sea necesario y aprender en el proceso. | <img src="img/bri-foto.png" alt="bri image" width="200">  |
 | **Jorge Suin Yum Gonzales**<br> iiiii | <img src="img/jorge-foto.png" alt="jorge image" width="200">  |
 | **Gael Rivera**<br> ooo | <img src="img/gael-foto.png" alt="gael image" width="200">   
 | **Luciana**<br> eeee | <img src="img/luciana-foto.png" alt="luciana image" width="200"> |
@@ -839,6 +839,71 @@ Preguntas para el segmento objetivo 02
 * ¿Cuánto valoras la opción de poder hacer pagos anticipados o de forma digital para evitar el manejo de efectivo?
 
 ### 2.2.2. Registro de entrevistas
+
+### Segmento Objetivo 1 (Salones de Belleza y Barberías)
+
+##### Datos del Entrevistado #1
+
+- **Nombre completo:** Luis Fernando Farfán
+- **Segmento Objetivo:** Barbero 
+- **Edad:** 29 años
+- **Distrito:** Chiclayo
+- **Inicio de la entrevista:** 0:15 minutos
+- **Duración:** 20:43 minutos
+- **Screenshot del cuadro de video:** ![Entrevista Luis Fernando](img/Entrevista-1.png)
+
+- **URL del video (Microsoft Stream):** *[Entrevista 01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fLXfTL)*
+
+
+**Resumen:**
+Luis Fernando Farfán es un barbero de Chiclayo que tiene 8 años de experiencia. Utiliza las redes sociales y WhatsApp para ambos el marketing de su negocio y la recepción de citas. Utiliza la agenda Fresha para registrar las citas y gestionar los horarios. Se enfrenta a desafíos como la comunicación sobre información del horario y especialmente se enfrenta a clientes que cancelan al último minuto, llegan tarde o no llegan en absoluto lo cual le causa una perdida de tiempo y clientes posibles. Le resulta de gran importancia saber en qué horarios se encuentran disponibles sus barberos para asignar a los clientes. Se enfoca que sus barberos y el mismo sean empáticos y carismáticos para que los clientes se sientan comodos y vuelvan a la barbería.
+
+
+##### Datos del Entrevistado #2
+
+- **Nombre completo:** Maria Ysabel Sosa Rodriguez
+- **Segmento Objetivo:** Dueña de un Salón de belleza
+- **Edad:** 45 años
+- **Distrito:** San Juan de Lurigancho
+- **Inicio de la entrevista:** 7:53 minutos
+- **Duración:** 20:43 minutos
+- **Screenshot del cuadro de video:** ![Entrevista Maria Ysabel Sosa](img/Entrevista-2.png)
+
+- **URL del video (Microsoft Stream):** *[Entrevista 02](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fLXfTL)*
+
+
+**Resumen:**
+María Ysabel Sosa Rodríguez, de 45 años, es dueña de un salón de belleza y actualmente enfrenta retos en la gestión de sus citas. Durante la entrevista, expresó su interés en implementar un sistema automatizado para agendar citas, ya que considera que las cancelaciones de último momento resultan frustrantes y afectan su negocio. Además, destacó que los métodos tradicionales como llamadas o mensajes son poco prácticos, ya que demandan tiempo y a menudo generan incomodidad tanto para ella como para sus clientas. María Ysabel ve en la tecnología una oportunidad para optimizar este proceso y mejorar la eficiencia en la atención al cliente.
+
+### Segmento Objetivo 2 (Clientes de servicios de belleza)
+
+#### Datos del Entrevistado #1
+
+- **Nombre completo:** Anedyib Villar Bisso
+- **Segmento Objetivo:** Clientes de servicio de belleza
+- **Edad:** 20 años
+- **Distrito:** San Isidro
+- **Screenshot del cuadro de video:** *![interview_1.jpeg](img/Entrevista-3.png)*
+- **URL del video (Microsoft Stream):** *[Entrevista 01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fLXfTL)*
+- **Inicio de la entrevista:** 12:20 minutos
+- **Duración:** 20:43 minutos
+
+**Resumen:** En esta entrevista con Anedyib, comentó que visita el salón dos veces al mes (manicure al inicio y recorte de puntas a fin de mes). Valora especialmente el buen trato con su estilista y la facilidad para agendar por WhatsApp, y suele atenderse siempre con la misma persona por la confianza construida. La puntualidad es crítica; relató una mala experiencia que le arruinó planes. Cancelar le resulta fácil, pero reprogramar es complicado por choques de horarios. Prefiere pagos digitales (tarjeta o Yape) y recordatorios tipo calendario. Ha intentado reservar en webs pero no pudo y terminó llamando, algo que le disgustó. Sugiere mejorar la comunicación proactiva desde la reserva hasta la llegada y ofrecer pagos anticipados y digitales.
+
+
+#### Datos del Entrevistado #2
+
+- **Nombre completo:** Emily Arroyo Gonzales
+- **Segmento Objetivo:** Clientes de servicio de belleza
+- **Edad:** 20
+- **Distrito:** Chorrillos
+- **Screenshot del cuadro de video:** *![interview_2.jpeg](img/Entrevista-4.png)*
+- **URL del video (Microsoft Stream):** *[Entrevista 02](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fLXfTL)*
+- **Inicio de la entrevista:** 16:53 minutos
+- **Duración:** 20:43 minutos
+
+**Resumen:** En esta entrevista con Emily, indicó que acude por corte de cabello, a veces limpieza facial y manicure. Sus criterios clave son ubicación cercana, reputación, comentarios y calidad; está dispuesta a pagar más por un buen servicio. Generalmente se atiende con el mismo estilista porque conoce sus gustos. Prefiere agendar por WhatsApp por mayor comodidad; la puntualidad es muy importante, aunque tolera una breve espera. Cancelar y reprogramar le resulta fácil vía WhatsApp. Paga con Yape o tarjeta y prefiere recordatorios por WhatsApp. Propone mejorar la atención (amabilidad y escuchar lo solicitado). Considera importante la presencia en redes para ver trabajos, opiniones y promociones, y valora los pagos digitales por seguridad, comodidad y ahorro de tiempo. 
+
 ### 2.2.3. Análisis de entrevistas
 **Análisis del Segmento Objetivo 01**
 
