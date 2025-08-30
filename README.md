@@ -294,6 +294,15 @@ Misión: Desarrollar y ofrecer soluciones tecnológicas de calidad que resuelvan
 Visión: Consolidarnos como la startup tecnológica de referencia en Latinoamérica para el sector de la belleza, siendo reconocidos por ofrecer productos digitales innovadores que transforman la manera en que se gestionan los servicios, se atiende a los clientes y se impulsa el desarrollo profesional.
 
 ### 1.1.2. Perfiles de integrantes del equipo
+
+| **Perfil**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | **Foto**                                                                       |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| **Natalia Bertha Roman Cruz**<br>Mi nombre es Natalia Roman. Soy estudiante de la carrera Ingeniería de Software y tengo 19 años. Me considero una persona dedicada y organizada, que se esfuerza por alcanzar sus logros. Dentro de este proyecto, me interesa poder aportar en gran parte en la codificación de las ideas planteadas. Espero que el equipo logre su objetivo y aprendamos lo más posible en el proceso | <img src="img/natalia-foto.png" alt="natalia image" width="200">  |
+| **Bri**<br> aaa | <img src="img/bri-foto.png" alt="bri image" width="200">  |
+| **Jorge Suin Yum Gonzales**<br> iiiii | <img src="img/jorge-foto.png" alt="jorge image" width="200">  |
+| **Gael Rivera**<br> ooo | <img src="img/gael-foto.png" alt="gael image" width="200">   
+| **Luciana**<br> eeee | <img src="img/luciana-foto.png" alt="luciana image" width="200"> |
+
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
 ### 1.2.2. Lean UX Process
