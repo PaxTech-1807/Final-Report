@@ -304,7 +304,89 @@ Visión: Consolidarnos como la startup tecnológica de referencia en Latinoamér
 | **Luciana**<br> eeee | <img src="img/luciana-foto.png" alt="luciana image" width="200"> |
 
 ## 1.2. Solution Profile
+
+uTime es una solución integral diseñada para optimizar la gestión de citas en el sector de la belleza mediante una plataforma digital conectada en tiempo real con clientes y profesionales. Esta innovadora herramienta permite a los estilistas gestionar su disponibilidad de manera eficiente, reducir cancelaciones y olvidos, y atraer nuevos clientes sin depender exclusivamente del boca a boca o la comunicación manual y desde su dispositivo móvil.
+
 ### 1.2.1. Antecedentes y problemática
+
+Según Lean Construction México, la técnica de las 5W's y 2H's facilita la creación y desarrollo de un plan de acción o estrategia detallada (Alvarez, 2020). A raíz de esto, resultará útil para nuestro contexto dado que nos permitirá entender y analizar a mayor profundidad las necesidades de los usuarios. Por ende, se recopiló información mediante esta técnica, la cual se presentará a continuación.
+
+**What (Qué)**
+
+##### ¿Cuál es el problema?
+
+El problema principal es la falta de una herramienta eficiente para gestionar citas en tiempo real para estilistas y otros profesionales de la belleza desde un dispositivo móvil. La mayoría de ellos aún dependen de WhatsApp, redes sociales o llamadas telefónicas, lo que genera desorden en la agenda, cancelaciones inesperadas y pérdida de tiempo administrativo. Según un informe de Araya et al. (2025), el 70% de las pymes en América Latina maneja el uso de datos y analítica en un nivel básico. Es decir, los profesionales independientes en América Latina prefieren gestionar sus citas manualmente, lo que puede derivar en errores, pérdidas económicas y dificultades para expandir su clientela.
+
+##### ¿Cuál es la relación con la persona en cuestión?
+
+uTime busca resolver este problema proporcionando aplicaciones móviles que permitan a los estilistas gestionar su disponibilidad, recibir pagos y fidelizar clientes. Al facilitar la organización y automatizar procesos clave, se mejora la eficiencia operativa y la experiencia del cliente. Según un estudio de Telefónica (2022), las pequeñas empresas que implementan soluciones digitales para la gestión de clientes aumentan su productividad hasta en un 25%.
+
+**Who (Quién)**
+
+##### ¿Quiénes están involucrados?
+
+Los principales involucrados son los estilistas y profesionales de la belleza, ya sea barberos, maquilladores, manicuristas, etc., que están en búsqueda de una aplicación móvil que les permite automatizar y digitalizar la gestión de citas. Asimismo, están los clientes, que son las personas que buscan servicios de belleza y bienestar.
+
+##### ¿A quiénes le sucede el problema?
+
+El problema afecta a todos los usuarios involucrados. En América Latina, se estima que más del 60% de los profesionales de este sector son trabajadores autónomos (Expo Belleza Fest, 2016). Por ende, los profesionales independientes del sector de la belleza trabajan sin el respaldo de un sistema de gestión digital, por lo que, se ven perjudicados al no poder separar sus agendas de manera eficaz y simplificada. Esto también afecta a los clientes, ya que, la desorganización o la demora para verificar la disponibilidad de los estilistas puede ser un aspecto desalentador.
+
+**Where (Dónde)**
+
+##### ¿En dónde ocurre el problema?
+
+El problema ocurre en áreas urbanas del Perú donde estilistas y barberos aun gestionan su tiempo de manera informal como de manera física, mensajes de texto o redes sociales generando una desorden y posibles errores debido a la cantidad de entradas.
+
+##### ¿En dónde nos enfocaremos?
+
+Nos enfocaremos en zonas urbanas del Perú con alta concentración de estilistas y barberos, especialmente en aquellas ciudades donde existe un acceso razonable a tecnología digital y conectividad, y donde los usuarios potenciales cuentan con los conocimientos básicos y los dispositivos móviles necesarios para utilizar una aplicación web.
+
+**When (Cuándo)**
+
+##### ¿Cuándo sucede el problema?
+
+Actualmente, esto ocurre cada vez que un cliente de nuestro segmento requiere de una cita, y la hora y datos de la misma son guardados de forma manual o informalmente.
+
+##### ¿Cuándo utiliza el cliente el producto?
+
+Nuestros segmentos utilizarían el producto en el caso de la recepción de un deseo de cita, con la cual, en primer lugar, se revisará si el tiempo en el que se desea la cita y el estilista que se desea contratar están disponibles. En el caso de que así sea, se registra en el calendario digital.
+
+**Why (Por qué)**
+
+##### ¿Cuál es la causa del problema?
+
+Existen varias causas al problema. En primer lugar las personas, que optan registrar de manera manual o informal las citas que reciben, sería debido a la baja alfabetización digital, confianza a sus métodos actuales o la falta de una opción que encaje con sus necesidades.
+El problema también está en la falta de opciones de calendario digital en tiempo real para nuestro segmento. En el presente aplicaciones como google calendar o zoho ofrecen un servicio parecido, sin embargo, debido a su complejidad que es causado por ambos, falta y exceso de características que no se centran a estilistas y barberos, no las hacen opciones atractivas, lo que causa que el usuario opte por escribir manualmente solamente la información necesaria.
+
+**How (Cómo)**
+
+##### ¿En qué condiciones los clientes usan nuestro producto?
+
+A través de cualquier dispositivo móvil con conexión a internet y con la tecnología suficiente, nuestras aplicaciones proporcionarán de manera simple y concisa las herramientas necesarias para la gestion de las citas de los clientes y activación de las notificaciones.
+
+**How much (Cuánto)**
+
+##### Estadísticas que sustentan la problemática.
+
+Según Ochoa (2021), en una encuesta realizada en un salón de belleza llamado “Mónica Garcés”, el 80% de encuestados argumenta que no recibe una atención adecuada respecto a la reservación de citas a un salón de belleza. Asimismo, el 20% desconoce dicho proceso. Por lo general, se suelen comunicar mediante vía telefónica con la dueña del local, y no se logra llevar un control o manejo adecuado de horarios.
+
+<div align="center">
+<img src="img/img.png" alt="dato_estadistico_1" />
+</div>
+
+De acuerdo a los salones de belleza que operan en Tegucigalpa, el 53,3% de las mujeres esperan ser atendidas por orden de llegada en salones de belleza. Sin embargo, en su mayoría estos servicios no cuentan con un servicio via web que les permita administrar sus servicios de forma eficiente.
+
+<div align="center">
+<img src="img/img_1.png" alt="dato_estadistico_2" />
+</div>
+
+Según el salón de belleza "Giselle Spa" de La Molina (2021), se realizo una encuesta a 205 cliente respecto a la calidad de servicio que ofrece el salon de belleza se identifico que el 53,4% admiten que dicha calidad se manifiesta de forma regular, debido al poco interés que se percibe respecto a los cronogramas, comunicación activa y organización laboral.
+
+<div align="center">
+<img src="img/img_2.png" alt="dato_estadistico_3" />
+<img src="img/img_3.png" alt="dato_estadistico_4" />
+</div>
+
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
 #### 1.2.2.2. Lean UX Assumptions
