@@ -969,7 +969,9 @@ María Ysabel Sosa Rodríguez, de 45 años, es dueña de un salón de belleza y 
          + Mejora en la puntualidad y la atención al cliente.
          + Facilitar el uso de herramientas digitales.
 ## 2.3. Needfinding
+
 ### 2.3.1. User Personas
+
 Segmento objetivo #1: Salones de belleza y barberías
 
 <div align="center">
@@ -985,6 +987,7 @@ Segmento objetivo #2: Clientes de servicios de belleza
 <img src="img/Camila_Cortez_user_persona.png" alt="user_persona_2" />
 
 </div>
+
 ### 2.3.2. User Task Matrix
 
 *Tarea**                                             | **Frecuencia (Andrea)** | **Importancia (Andrea)** | **Frecuencia (Camila)** | **Importancia (Camila)** |
@@ -1009,12 +1012,15 @@ Segmento objetivo #2: Clientes de servicios de belleza
 | Pagar por medios electrónicos                         | Baja                     | Baja                       | Alta                | Alta                 |
 
 ### 2.3.3. User Journey Mapping
+
 Para el segmento de los salones estilistas o barberos se consideró el momento desde que el cliente se contacta con la recepcionista hasta que el cliente haya terminado su cita y haya salido de salón. En la otra mano, para el segmento de los clientes de los salones se consideró desde que descubren el salón de manera online o por otra persona hasta que haya atendido la cita deseada.
 
 ![Journey mapping | Segmento objetivo #1](img/journeymapping1.png)
 
 ![Journey mapping | Segmento objetivo #2](img/journeymapping2.png)
+
 ### 2.3.4. Empathy Mapping
+
 Segmento objetivo #1: Salones de belleza y barberías
 
 <div align="center">
@@ -1030,7 +1036,9 @@ Segmento objetivo #2: Clientes de servicios de belleza
 <img src="img/Camila_Cortez_empathy_mapping.png" alt="empathy_mapping_2" />
 
 </div>
+
 ### 2.3.5. As-is Scenario Mapping
+
 Segmento objetivo #1: Salones de belleza y barberías
 
 ![As-is Scenario Mapping | Segmento objetivo #1](img/Asis1.jpg)
@@ -1038,7 +1046,9 @@ Segmento objetivo #1: Salones de belleza y barberías
 Segmento objetivo #2: Clientes de servicios de belleza
 
 ![As-is Scenario Mapping | Segmento objetivo #2](img/Asis2.jpg)
+
 ## 2.4. Ubiquitous Language
+
 | **Término del Lenguaje Ubicuo**    | **Clase**                                    | **Bounded Context** | **Definición**                                                                            |
 | ---------------------------------- | -------------------------------------------- | ------------------- | ----------------------------------------------------------------------------------------- |
 | **Reserva Agendada**               | `Reservations`                               | Reservations        | Una reserva confirmada vinculada a un `ClientId`, `TimeSlotId`, `ServiceId` y `WorkerId`. |
@@ -1057,11 +1067,31 @@ Segmento objetivo #2: Clientes de servicios de belleza
 | **Cliente**                        | `ClientId`                                   | Profiles            | Identificador del usuario que agenda y recibe el servicio.                                |
 | **Reseña**                         | `Reviews`                                    | Reviews             | Agregado que contiene la valoración textual y numérica hecha por un `Client`.             |
 | **Puntaje de Reseña**              | `Review.rating`                              | Reviews             | Valor numérico asociado a una reseña de servicio.                                         |
+
+<br>
+
 # Capítulo III: Requirements specification
+
 ## 3.1. To-Be Scenario Mapping.
+
+**Segmento objetivo #1:** Salones de belleza y barberías
+
+![To-be Scenario Mapping | Segmento objetivo #1](img/Tobe1.jpg)
+
+**Segmento objetivo #2:** Clientes de servicios de belleza
+
+![To-be Scenario Mapping | Segmento objetivo #1](img/Tobe2.jpg)
+
 ## 3.2. User Stories.
+
+
 ## 3.3. Impact Mapping.
+
+
+
 ## 3.4. Product Backlog.
+
+
 
 # Capítulo IV: Solution Software Design
 ## 4.1. Strategic-Level Domain-Driven Design
