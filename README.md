@@ -300,7 +300,7 @@ Visión: Consolidarnos como la startup tecnológica de referencia en Latinoamér
 | **Natalia Bertha Roman Cruz**<br>Mi nombre es Natalia Roman. Soy estudiante de la carrera Ingeniería de Software y tengo 19 años. Me considero una persona dedicada y organizada, que se esfuerza por alcanzar sus logros. Dentro de este proyecto, me interesa poder aportar en gran parte en la codificación de las ideas planteadas. Espero que el equipo logre su objetivo y aprendamos lo más posible en el proceso | <img src="img/natalia-foto.png" alt="natalia image" width="200">  |
 | **Britney Delhy Qqueso Rodriguez**<br> Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona autodidacta, dedicada, creativa y responsable. Me comprometo a contribuir al equipo con mis conocimientos y habilidades, apoyar en lo que sea necesario y aprender en el proceso. | <img src="img/bri-foto.png" alt="bri image" width="200">  |
 | **Jorge Suin Yum Gonzales**<br> iiiii | <img src="img/jorge-foto.png" alt="jorge image" width="200">  |
-| **Gael Rivera**<br> ooo | <img src="img/gael-foto.png" alt="gael image" width="200">   
+| **Eduardo Gael Rivera Sosa**<br> Mi nombre es Gael Rivera, soy estudiante de Ingeniería de Software. Me considero una persona responsable, competitiva y dedicada, con habilidades que me permiten comunicarme y trabajar en equipo de manera efectiva. Siempre estoy dispuesto a asumir nuevos desafíos y encontrar soluciones colaborativas. | <img src="img/gael-foto.jpg" alt="gael image" width="200">   
 | **Luciana**<br> eeee | <img src="img/luciana-foto.png" alt="luciana image" width="200"> |
 
 ## 1.2. Solution Profile
