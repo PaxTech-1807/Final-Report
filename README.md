@@ -1072,7 +1072,7 @@ Segmento objetivo #2: Clientes de servicios de belleza
 
 # Capítulo III: Requirements specification
 
-## 3.1. To-Be Scenario Mapping.
+## 3.1. To-Be Scenario Mapping
 
 **Segmento objetivo #1:** Salones de belleza y barberías
 
@@ -1082,14 +1082,15 @@ Segmento objetivo #2: Clientes de servicios de belleza
 
 ![To-be Scenario Mapping | Segmento objetivo #1](img/Tobe2.jpg)
 
-## 3.2. User Stories.
-
-
-## 3.3. Impact Mapping.
+## 3.2. User Stories
 
 
 
-## 3.4. Product Backlog.
+## 3.3. Impact Mapping
+
+![Impact Mapping](img/impact-mapping.png)
+
+## 3.4. Product Backlog
 
 
 
