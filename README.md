@@ -301,7 +301,7 @@ Visión: Consolidarnos como la startup tecnológica de referencia en Latinoamér
 | **Britney Delhy Qqueso Rodriguez**<br> Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona autodidacta, dedicada, creativa y responsable. Me comprometo a contribuir al equipo con mis conocimientos y habilidades, apoyar en lo que sea necesario y aprender en el proceso. | <img src="img/bri-foto.png" alt="bri image" width="200">  |
 | **Jorge Suin Yum Gonzales**<br> iiiii | <img src="img/jorge-foto.png" alt="jorge image" width="200">  |
 | **Eduardo Gael Rivera Sosa**<br> Mi nombre es Gael Rivera, soy estudiante de Ingeniería de Software. Me considero una persona responsable, competitiva y dedicada, con habilidades que me permiten comunicarme y trabajar en equipo de manera efectiva. Siempre estoy dispuesto a asumir nuevos desafíos y encontrar soluciones colaborativas. | <img src="img/gael-foto.jpg" alt="gael image" width="200">   
-| **Luciana**<br> eeee | <img src="img/luciana-foto.png" alt="luciana image" width="200"> |
+| **Luciana**<br> Mi nombre es Luciana Carolina, estudiante de la carrera de Ingeniería de Software, actualmente cursando el sexto ciclo. Me considero una persona proactiva, que busca mejorar día a día sus habilidades en el campo de la programación. Me gusta arriesgarme a probar nuevas cosas y valoro el trabajo colaborativo como una herramienta clave para el crecimiento personal y profesional. | <img src="img/Luciana_img.png" alt="luciana image" width="200"> |
 
 ## 1.2. Solution Profile
 
