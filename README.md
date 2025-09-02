@@ -478,7 +478,7 @@ Para los profesionales de la belleza:
 - Creemos que, al incluir un módulo de promociones y descuentos, los estilistas podrán aumentar la captación de nuevos clientes y fidelizar a los actuales. Sabremos que hemos tenido éxito cuando el número de reservas aumente en un 30% en comparación con el período previo a la implementación de esta funcionalidad.
 
 #### 1.2.2.4. Lean UX Canvas
-![Lean UX Canvas](img/lean-ux-canvas.png)
+![Lean UX Canvas](img/Final-lean-ux-canvas.png)
 
 ## 1.3. Segmentos objetivo
 
