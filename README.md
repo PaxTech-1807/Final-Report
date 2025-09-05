@@ -1315,6 +1315,7 @@ Segmento objetivo #2: Clientes de servicios de belleza
 #### 4.1.1.2. Domain Message Flows Modeling
 
 ![DomainMessageFlowsModeling1](img/scenario-modeling1.png)
+![DomainMessageFlowsModeling2](img/scenario-modeling2.png)
 
 #### 4.1.1.3. Bounded Context Canvases
 ### 4.1.2. Context Mapping
