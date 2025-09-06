@@ -1334,6 +1334,135 @@ Segmento objetivo #2: Clientes de servicios de belleza
 ##### 4.2.X.6.1. Bounded Context Domain Layer Class Diagrams
 ##### 4.2.X.6.2. Bounded Context Database Design Diagram
 
+### 4.2.1. Bounded Context: Profiles
+### 4.2.1.1. Domain Layer  
+
+#### Aggregates  
+
+**Client**  
+Representa el perfil de un cliente que utiliza la plataforma para reservar servicios. Está vinculado a un usuario de IAM y almacena su nombre completo.  
+- **Atributos**  
+  - `id: UUID`  
+  - `fullName: FullName`  
+  - `user: User` *(referencia a IAM)*  
+  - `createdAt: LocalDateTime`  
+  - `updatedAt: LocalDateTime`  
+- **Funciones**  
+  - `Client(CreateClientCommand command, User user)`  
+  - `getUser(): User`  
+  - `getFirstName(): String`  
+  - `getLastName(): String`  
+  - `getFullName(): String`  
+
+---
+
+**Provider**  
+Representa el perfil de un proveedor que ofrece servicios en la plataforma. Está vinculado a un usuario de IAM y contiene el nombre de la empresa.  
+- **Atributos**  
+  - `id: UUID`  
+  - `companyName: CompanyName`  
+  - `user: User` *(referencia a IAM)*  
+  - `createdAt: LocalDateTime`  
+  - `updatedAt: LocalDateTime`  
+- **Funciones**  
+  - `Provider(CreateProviderCommand command, User user)`  
+  - `getCompanyName(): String`  
+
+---
+
+#### Value Objects  
+
+**FullName**  
+Encapsula el nombre y apellido de un cliente, garantizando consistencia y reglas de validación.  
+- **Atributos**  
+  - `firstName: String`  
+  - `lastName: String`  
+- **Funciones**  
+  - `FullName(firstName: String, lastName: String)`  
+  - `getFirstName(): String`  
+  - `getLastName(): String`  
+  - `getFullName(): String`  
+
+---
+
+**CompanyName**  
+Representa el nombre de la empresa de un proveedor, asegurando que no sea vacío y cumpla con las reglas del dominio.  
+- **Atributos**  
+  - `value: String`  
+- **Funciones**  
+  - `CompanyName(value: String)`  
+  - `getValue(): String`  
+
+---
+
+### 4.2.1.2. Interface Layer  
+
+**ClientsController**  
+Expone operaciones HTTP para gestionar perfiles de clientes en la plataforma.  
+- **Funciones**  
+  - `createClient(CreateClientCommand)`  
+  - `getClientById(UUID)`  
+  - `updateClient(...)`  
+  - `deleteClient(UUID)`  
+
+**ProvidersController**  
+Expone operaciones HTTP para gestionar perfiles de proveedores.  
+- **Funciones**  
+  - `createProvider(CreateProviderCommand)`  
+  - `getProviderById(UUID)`  
+  - `updateProvider(UpdateProviderCommand)`  
+  - `deleteProvider(UUID)`  
+
+---
+
+### 4.2.1.3. Application Layer  
+
+**CreateClientCommand**  
+Ordena la creación de un perfil de cliente a partir de un usuario de IAM.  
+- **Atributos:** `firstName: String`, `lastName: String`, `userId: UUID`  
+
+**CreateProviderCommand**  
+Ordena la creación de un perfil de proveedor asociado a un usuario de IAM.  
+- **Atributos:** `companyName: String`, `userId: UUID`  
+
+**UpdateProviderCommand**  
+Permite modificar datos del perfil de un proveedor existente.  
+- **Atributos:** `providerId: UUID`, `companyName: String?`  
+
+**DeleteClientCommand**  
+Ordena la eliminación lógica de un perfil de cliente.  
+- **Atributos:** `clientId: UUID`  
+
+**DeleteProviderCommand**  
+Ordena la eliminación lógica de un perfil de proveedor.  
+- **Atributos:** `providerId: UUID`  
+
+---
+
+### 4.2.1.4. Infrastructure Layer  
+
+**ClientRepository**  
+Accede a la persistencia de los perfiles de clientes, implementando la interfaz de repositorio del dominio.  
+- **Funciones**  
+  - `findById(UUID): Optional<Client>`  
+  - `findByUserId(UUID): Optional<Client>`  
+  - `save(Client): Client`  
+  - `delete(Client): void`  
+
+**ProviderRepository**  
+Accede a la persistencia de los perfiles de proveedores, implementando la interfaz de repositorio del dominio.  
+- **Funciones**  
+  - `findById(UUID): Optional<Provider>`  
+  - `findByUserId(UUID): Optional<Provider>`  
+  - `save(Provider): Provider`  
+  - `delete(Provider): void`  
+
+
+#### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams
+#### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
+##### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
+##### 4.2.1.6.2. Bounded Context Database Design Diagram
+
 # Capítulo V: Solution UI/UX Design
 ## 5.1. Product design
 ### 5.1.1. Style Guidelines
