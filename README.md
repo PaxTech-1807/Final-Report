@@ -1738,9 +1738,9 @@ Accede a la persistencia de los perfiles de proveedores, implementando la interf
 
 #### Aggregates  
 
-**Reservation**
-Representa la reservación que ha realizado un usuario cliente en un horario, espacio y con un trabajador en específico.
-- **Atributos**
+**Reservation**  
+Representa la reservación que ha realizado un usuario cliente en un horario, espacio y con un trabajador en específico.  
+- **Atributos**  
    - `id: UUID`
    - `client_id: Long`
    - `service_id: Long`
@@ -1748,7 +1748,7 @@ Representa la reservación que ha realizado un usuario cliente en un horario, es
    - `payment_id: Long`
    - `time_slot_id: Long`
    - `worker_id: Long`
-- **Funciones**
+- **Funciones**  
    - `Reservation(CreateReservationCommand command)`
    - `getClientId(): Long`
    - `getProviderId(): Long`
@@ -1758,24 +1758,24 @@ Representa la reservación que ha realizado un usuario cliente en un horario, es
 
 ---
 
-#### Entities
+#### Entities  
 
-**Payment**
-Representa el estado y moneda del pago que debe realizarse por un servicio solicitado.
-- **Atributos**
+**Payment**  
+Representa el estado y moneda del pago que debe realizarse por un servicio solicitado.  
+- **Atributos**  
    - `money: Money`
    - `status: Boolean`
-- **Funciones**
+- **Funciones**  
    - `Payment(CreatePaymentCommand command)`
  
-**TmeSlot**
-Representa el tiempo de reserva que es está programando de forma que este no pueda ser ocupado por otro cleinte ocasionando un cruce.
-- **Atributos**
+**TmeSlot**  
+Representa el tiempo de reserva que es está programando de forma que este no pueda ser ocupado por otro cleinte ocasionando un cruce.  
+- **Atributos**  
    - `startTime: LocalDateTime`
    - `endTime: LocalDateTime`
    - `status: Boolean`
    - `type: TimeSlotType`
-- **Funciones**
+- **Funciones**  
    - `TimeSlot(CreateTimeSlotCommand command)`
    - `getStartTime(): LocalDateTime`
    - `getEndTime(): LocalDateTime`
@@ -1788,55 +1788,55 @@ Representa el tiempo de reserva que es está programando de forma que este no pu
 
 #### Value Objects  
 
-**Money**
-Encapsula el monto y moneda en la que se realiza el pago de una reserva incluyendo las validaciones necesarias para evitar el ingreso de montos inválidos.
-- **Atributos**
+**Money**  
+Encapsula el monto y moneda en la que se realiza el pago de una reserva incluyendo las validaciones necesarias para evitar el ingreso de montos inválidos.  
+- **Atributos**  
    - `amount: Float`
    - `currency: String`
-- **Funciones**
+- **Funciones**  
    - `Money(float amount, String currency)`
  
-**TimeSlotType**
-Encapsula el tipo de tiempo designado para una reserva.
-- **Atributos**
+**TimeSlotType**  
+Encapsula el tipo de tiempo designado para una reserva.  
+- **Atributos**  
    - `type: String`
-- **Funciones**
+- **Funciones**  
    - `TimeSlotType(String type)`
  
 ---
 
-#### 4.2.2.2. Interface Layer
+#### 4.2.2.2. Interface Layer  
 
-**ReservationsController**
-Expone las operacions HTTP para gestionar las reservaciones de los clientes.
-- **Funciones**
+**ReservationsController**  
+Expone las operacions HTTP para gestionar las reservaciones de los clientes.  
+- **Funciones**  
    - `createReservation(CreateReservationCommand)`
    - `getAllReservations(GetAllReservationsQuery)`
    - `getReservationById(GetReservationByIdQuery)`
  
-**PaymentsController**
-Expone las operaciones HTTP para gestionar los pagos de las reservaciones.
-- **Funciones**
+**PaymentsController**  
+Expone las operaciones HTTP para gestionar los pagos de las reservaciones.  
+- **Funciones**  
    - `createPayment(CreatePaymentCommand)`
    - `getPaymentById(GetPaymentByIdQuery)`
    - `getAllPayments(GetAllPaymentsQuery)`
  
-**TimeSlotsController**
-Expone las operaciones HTTP para gestionar los tiempos que ocupa cada reserva.
-- **Funciones**
+**TimeSlotsController**  
+Expone las operaciones HTTP para gestionar los tiempos que ocupa cada reserva.  
+- **Funciones**  
    - `createTimeSlot(CreateTimeSlotCommand)`
    - `getTimeSlotById(GetTimeSlotByIdQuery)`
    - `getAllTimeSlots(GetAllTimeSlotsQuery)`
 
 ---
 
-#### 4.2.2.3. Application Layer
+#### 4.2.2.3. Application Layer  
 
-**CreateReservationCommand**
-Ordena la creación de una reservación considerando que los elementos bajo los que se está creando se encuentren disponibles.
+**CreateReservationCommand**  
+Ordena la creación de una reservación considerando que los elementos bajo los que se está creando se encuentren disponibles.  
 - **Atributos:** `clientId: Long`, `providerId: Long`, `paymentId: Long`, `timeSlotId: Long`, `workerId: Long`
 
-**CreatePaymentCommand**  
+**CreatePaymentCommand**   
 Ordena la creación de un pago considerando el monto, la moneda y el estado del mismo.  
 - **Atributos:** `amount: float`, `currency: String`, `status: boolean`
 
@@ -1869,23 +1869,23 @@ Devuelve un intervalo de tiempo de una reserva previamente registrada consideran
 
 #### 4.2.2.4. Infrastructure Layer
 
-**ReservationRepository**
-Accede a la persistencia de las reservas, implementando la interfaz de repositorio del dominio.  
+**ReservationRepository**  
+Accede a la persistencia de las reservas, implementando la interfaz de repositorio del dominio.   
 - **Funciones**
    - `findById(UUID): Optional<Reservation>`
    - `save(Reservation): Reservation`  
    - `delete(Reservation): void`
  
-**PaymentRepository**
+**PaymentRepository**  
 Accede a la persistencia de los pagos, implementando la interfaz de repositorio del dominio.  
-- **Funciones**
+- **Funciones**  
    - `findById(UUID): Optional<Payment>`
    - `save(Payment): Payment`  
    - `delete(Payment): void`
  
-**TimeSlotRepository**
+**TimeSlotRepository**  
 Accede a la persistencia de los intervalos de tiempo, implementando la interfaz de repositorio del dominio.  
-- **Funciones**
+- **Funciones**  
    - `findById(UUID): Optional<TimeSlot>`
    - `save(TimeSlot): TimeSlot`  
    - `delete(TimeSlot): void`
