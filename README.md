@@ -1589,10 +1589,33 @@ Contiene el aggregate Services
 
 #### 4.1.1.3. Bounded Context Canvases
 ### 4.1.2. Context Mapping
+
+
 ### 4.1.3. Software Architecture
+
+La arquitectura de software de uTime se presenta utilizando el modelo C4, el cual permite visualizar la solución desde diferentes niveles de abstracción. 
+
+A continuación se detallan los diagramas de contexto, contenedores, componentes y despliegue que definen la estructura del sistema de reservas universitarias.
+
 #### 4.1.3.1. Software Architecture Context Level Diagrams
+
+<div align="center">
+   <img src="img/context-diagram.png" alt="c4-image"/>
+</div>
+
 #### 4.1.3.2. Software Architecture Container Level Diagrams
+
+<div align="center">
+   <img src="img/container-diagram.png" alt="c4-image"/>
+</div>
+
+#### 4.1.3.2. Software Architecture Component Level Diagrams
+
+
+
 #### 4.1.3.3. Software Architecture Deployment Diagrams
+
+
 ## 4.2. Tactical-Level Domain-Driven Design
 ### 4.2.X. Bounded Context: <Bounded Context Name>
 #### 4.2.X.1. Domain Layer
