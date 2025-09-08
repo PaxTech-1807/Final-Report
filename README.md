@@ -1580,6 +1580,8 @@ Contiene el aggregate Services
 
 <img src="img/event_stoming_56.png" alt="event storming image">
 
+---
+
 #### 4.1.1.2. Domain Message Flows Modeling
 
 ![DomainMessageFlowsModeling1](img/scenario-modeling1.png)
@@ -1730,6 +1732,178 @@ Accede a la persistencia de los perfiles de proveedores, implementando la interf
 #### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
 ##### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
 ##### 4.2.1.6.2. Bounded Context Database Design Diagram
+
+### 4.2.2. Bounded Context: Reservations
+#### 4.2.2.1. Domain Layer
+
+#### Aggregates  
+
+**Reservation**
+Representa la reservación que ha realizado un usuario cliente en un horario, espacio y con un trabajador en específico.
+- **Atributos**
+   - `id: UUID`
+   - `client_id: Long`
+   - `service_id: Long`
+   - `provider_id: Long`
+   - `payment_id: Long`
+   - `time_slot_id: Long`
+   - `worker_id: Long`
+- **Funciones**
+   - `Reservation(CreateReservationCommand command)`
+   - `getClientId(): Long`
+   - `getProviderId(): Long`
+   - `getPaymentId(): Long`
+   - `getTimeSlotId(): Long`
+   - `getWorkerId(): Long`
+
+---
+
+#### Entities
+
+**Payment**
+Representa el estado y moneda del pago que debe realizarse por un servicio solicitado.
+- **Atributos**
+   - `money: Money`
+   - `status: Boolean`
+- **Funciones**
+   - `Payment(CreatePaymentCommand command)`
+ 
+**TmeSlot**
+Representa el tiempo de reserva que es está programando de forma que este no pueda ser ocupado por otro cleinte ocasionando un cruce.
+- **Atributos**
+   - `startTime: LocalDateTime`
+   - `endTime: LocalDateTime`
+   - `status: Boolean`
+   - `type: TimeSlotType`
+- **Funciones**
+   - `TimeSlot(CreateTimeSlotCommand command)`
+   - `getStartTime(): LocalDateTime`
+   - `getEndTime(): LocalDateTime`
+   - `isStatus(): Boolean`
+   - `getType(): String`
+   - `markUnavailable(): void`
+   - `markAvailable(): void`
+
+---
+
+#### Value Objects  
+
+**Money**
+Encapsula el monto y moneda en la que se realiza el pago de una reserva incluyendo las validaciones necesarias para evitar el ingreso de montos inválidos.
+- **Atributos**
+   - `amount: Float`
+   - `currency: String`
+- **Funciones**
+   - `Money(float amount, String currency)`
+ 
+**TimeSlotType**
+Encapsula el tipo de tiempo designado para una reserva.
+- **Atributos**
+   - `type: String`
+- **Funciones**
+   - `TimeSlotType(String type)`
+ 
+---
+
+#### 4.2.2.2. Interface Layer
+
+**ReservationsController**
+Expone las operacions HTTP para gestionar las reservaciones de los clientes.
+- **Funciones**
+   - `createReservation(CreateReservationCommand)`
+   - `getAllReservations(GetAllReservationsQuery)`
+   - `getReservationById(GetReservationByIdQuery)`
+ 
+**PaymentsController**
+Expone las operaciones HTTP para gestionar los pagos de las reservaciones.
+- **Funciones**
+   - `createPayment(CreatePaymentCommand)`
+   - `getPaymentById(GetPaymentByIdQuery)`
+   - `getAllPayments(GetAllPaymentsQuery)`
+ 
+**TimeSlotsController**
+Expone las operaciones HTTP para gestionar los tiempos que ocupa cada reserva.
+- **Funciones**
+   - `createTimeSlot(CreateTimeSlotCommand)`
+   - `getTimeSlotById(GetTimeSlotByIdQuery)`
+   - `getAllTimeSlots(GetAllTimeSlotsQuery)`
+
+---
+
+#### 4.2.2.3. Application Layer
+
+**CreateReservationCommand**
+Ordena la creación de una reservación considerando que los elementos bajo los que se está creando se encuentren disponibles.
+- **Atributos:** `clientId: Long`, `providerId: Long`, `paymentId: Long`, `timeSlotId: Long`, `workerId: Long`
+
+**CreatePaymentCommand**  
+Ordena la creación de un pago considerando el monto, la moneda y el estado del mismo.  
+- **Atributos:** `amount: float`, `currency: String`, `status: boolean`
+
+**CreateTimeSlotCommand**  
+Ordena la creación de un intervalo de tiempo para una reserva considerando su inicio, fin, estado y tipo.  
+- **Atributos:** `startTime: LocalDateTime`, `endTime: LocalDateTime`, `status: boolean`, `type: String`
+
+**GetAllPaymentsQuery**  
+Devuelve todos los pagos que han sido ingresados.
+
+**GetAllReservationsQuery**  
+Devuelve todas las reservaciones que se han realizado.
+
+**GetAllTimeSlotsQuery**  
+Devuelve todos los intervalos de tiempo correspondientes a reservaciones que se han realizado.
+
+**GetPaymentByIdQuery**  
+Devuelve un pago previamente ingresado considerando su id.
+- **Atributos:** `id: Long`
+
+**GetReservationByIdQuery**  
+Devuelve una reserva que fue creada anteriormente considerando su id.
+- **Atributos:** `id: Long`
+
+**GetTimeSlotByIdQuery**  
+Devuelve un intervalo de tiempo de una reserva previamente registrada considerando su id.
+- **Atributos:** `id: Long`
+
+---
+
+#### 4.2.2.4. Infrastructure Layer
+
+**ReservationRepository**
+Accede a la persistencia de las reservas, implementando la interfaz de repositorio del dominio.  
+- **Funciones**
+   - `findById(UUID): Optional<Reservation>`
+   - `save(Reservation): Reservation`  
+   - `delete(Reservation): void`
+ 
+**PaymentRepository**
+Accede a la persistencia de los pagos, implementando la interfaz de repositorio del dominio.  
+- **Funciones**
+   - `findById(UUID): Optional<Payment>`
+   - `save(Payment): Payment`  
+   - `delete(Payment): void`
+ 
+**TimeSlotRepository**
+Accede a la persistencia de los intervalos de tiempo, implementando la interfaz de repositorio del dominio.  
+- **Funciones**
+   - `findById(UUID): Optional<TimeSlot>`
+   - `save(TimeSlot): TimeSlot`  
+   - `delete(TimeSlot): void`
+
+---
+
+#### 4.2.2.5. Bounded Context Software Architecture Component Level Diagrams
+
+<img src="img/reservation_components.png" alt="reservation">
+
+#### 4.2.2.6. Bounded Context Software Architecture Code Level Diagrams
+##### 4.2.2.6.1. Bounded Context Domain Layer Class Diagrams
+
+<img src="img/reservation_class.png" alt="reservation">
+
+##### 4.2.2.6.2. Bounded Context Database Design Diagram
+
+<img src="img/reservation_database.png" alt="reservation">
 
 # Capítulo V: Solution UI/UX Design
 ## 5.1. Product design
