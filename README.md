@@ -1599,19 +1599,59 @@ A continuación se detallan los diagramas de contexto, contenedores, componentes
 
 #### 4.1.3.1. Software Architecture Context Level Diagrams
 
+El diagrama de contexto presenta una visión de alto nivel del sistema uTime, mostrando cómo interactúa con los diferentes actores y sistemas externos. Este diagrama establece los límites del sistema y define las relaciones principales con usuarios y servicios externos.
+
 <div align="center">
-   <img src="img/context-diagram.png" alt="c4-image"/>
+   <img src="img/context-diagram.png" alt="context-diagram"/>
 </div>
 
 #### 4.1.3.2. Software Architecture Container Level Diagrams
 
+El diagrama de contenedores descompone el sistema uTime en sus principales componentes tecnológicos y aplicaciones. Este diagrama muestra la arquitectura interna del sistema, incluyendo la lanfing page,  aplicaciones móviles, bases de datos y APIs, así como la forma en que estos contenedores se comunican entre sí para proporcionar la funcionalidad completa.
+
 <div align="center">
-   <img src="img/container-diagram.png" alt="c4-image"/>
+   <img src="img/container-diagram.png" alt="container-diagram"/>
 </div>
 
-#### 4.1.3.2. Software Architecture Component Level Diagrams
+#### 4.1.3.3. Software Architecture Component Level Diagrams
 
+Los diagramas de componentes detallan la estructura interna de cada contenedor del sistema uTime, mostrando los elementos arquitectónicos clave como controladores, servicios de comando, servicios de consulta y repositorios. A continuación se presentan los diagramas organizados por contexto funcional, ilustrando cómo se distribuyen las responsabilidades dentro de cada módulo del sistema.
 
+**Profiles Context**
+
+<div align="center">
+   <img src="img/component-diagram-profiles.png" alt="profiles-context"/>
+</div>
+
+**Reservations Context**
+
+<div align="center">
+   <img src="img/component-diagram-reservation.png" alt="reservations-context"/>
+</div>
+
+**Reviews Context**
+
+<div align="center">
+   <img src="img/component-diagram-reviews.png" alt="reviews-context"/>
+</div>
+
+**Workers Context**
+
+<div align="center">
+   <img src="img/component-diagram-workers.png" alt="workers-ontext"/>
+</div>
+
+**Services Context**
+
+<div align="center">
+   <img src="img/component-diagram-services.png" alt="services-context"/>
+</div>
+
+**IAM Context**
+
+<div align="center">
+   <img src="img/component-diagram-iam.png" alt="iam-context"/>
+</div>
 
 #### 4.1.3.3. Software Architecture Deployment Diagrams
 
