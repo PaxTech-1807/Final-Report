@@ -2170,6 +2170,130 @@ El diagrama de base de datos del bounded context IAM muestra la estructura de la
    <img src="img/db-diagram.png" alt="db-diagram-iam"/>
 </div>
 
+
+### 4.2.4. Bounded Context: Workers 
+
+#### 4.2.4.1. Domain Layer 
+
+#### Aggregates  
+
+**Worker**
+Representa a la persona que presta servicios en el salón y cuya información operativa se gestiona en este contexto.
+
+- **Atributos**
+    - `id: UUID`
+    - `name: WorkerName`
+    - `specialization: WorkerSpecialization`
+    - `photoUrl: WorkerPhotoUrl.`
+- **Funciones**
+    - `Worker(CreateWorkerCommand)`
+    - `getName(): String`
+    - `getSpecialization(): String`
+    - `getPhotoUrl(): String.`
+
+#### Value Objects
+
+**WorkerName**
+Encapsula el nombre del trabajador.
+- **Atributos** 
+    - `name: String`
+
+**WorkerSpecialization**
+Representa la especialidad declarada por el trabajador.
+- **Atributos** 
+    - `specialization: String`
+
+**WorkerPhotoUrl**
+Contiene la URL de la fotografía del trabajador.
+- **Atributos** 
+    - `photo_url: String`
+
+
+#### 4.2.4.2. Interface Layer 
+
+**WorkerController**
+Expone operaciones HTTP para administrar trabajadores.
+
+- **Funciones**
+
+    - `createWorker() → ResponseEntity<WorkerResource>`
+    - `updateWorker() → ResponseEntity<WorkerResource>`
+    - `getWorkersWithParameters() → ResponseEntity<?>`
+    - `getWorkerById() → ResponseEntity<WorkerResource>`
+    - `getAllWorkers() → ResponseEntity<List<WorkerResource>>.`
+
+- **Recursos y ensambladores**
+
+    - `WorkerResource (record).`
+    - `WorkerResourceFromEntityAssembler`
+    - `CreateWorkerCommandFromResourceAssembler`
+    - `UpdateWorkerCommandFromResourceAssembler`
+
+
+#### 4.2.4.3. Application Layer 
+**CreateWorkerCommand**
+Ordena la creación de un trabajador asociado a un proveedor.
+- **Atributos** 
+    - `providerId: Long`
+    - `fullName: String` 
+    - `specialization: String`
+    - `photoUrl: String`
+
+**UpdateWorkerCommand**
+Permite modificar datos del trabajador existente.
+- **Atributos** 
+    - `workerId: UUID`
+    - `fullName: String`
+    - `specialization: String`
+    - `photoUrl: String`
+    - `active: Boolean`
+
+**DefineWeeklyScheduleCommand**
+Ordena la definición o reemplazo del horario semanal del trabajador.
+- **Atributos** 
+    - `workerId: UUID `
+    - `shifts: List<ShiftDTO>`
+
+**RegisterUnavailabilityCommand**
+Ordena el registro de una indisponibilidad del trabajador.
+- **Atributos**
+    - `workerId: UUID`
+    - `start: LocalDateTime`
+    - `end: LocalDateTime`
+    - `reason: String`
+
+**RemoveUnavailabilityCommand**
+Ordena la eliminación de una indisponibilidad registrada.
+- **Atributos**
+    - `workerId: UUID`
+    - `unavailabilityId: UUID`
+
+
+#### 4.2.4.4. Infrastructure Layer
+**WorkerRepository**
+Accede a la persistencia del agregado Worker, implementando la interfaz de repositorio del dominio (misma estructura y estilo que en Profiles).
+
+- **Funciones**
+    - `findById(UUID): Optional<Worker>`
+    - `save(Worker): Worker`
+    - `delete(Worker): void`
+
+**ShiftRepository**
+Accede a la persistencia de los turnos (Shift), siguiendo el patrón de repositorios utilizado en los demás bounded contexts.
+- **Funciones**
+    - `findById(UUID): Optional<Shift>`
+    - `save(Shift): Shift`
+    - `delete(Shift): void`
+
+#### 4.2.4.5. Bounded Context Software Architecture Component Level Diagrams
+
+#### 4.2.4.6. Bounded Context Software Architecture Code Level Diagrams
+
+##### 4.2.4.6.1. Bounded Context Domain Layer Class Diagrams
+
+##### 4.2.4.6.2. Bounded Context Database Design Diagram
+
+
 # Capítulo V: Solution UI/UX Design
 ## 5.1. Product design
 ### 5.1.1. Style Guidelines
