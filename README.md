@@ -1589,10 +1589,91 @@ Contiene el aggregate Services
 
 #### 4.1.1.3. Bounded Context Canvases
 ### 4.1.2. Context Mapping
+
+
 ### 4.1.3. Software Architecture
+
+La arquitectura de software de uTime se presenta utilizando el modelo C4, el cual permite visualizar la solución desde diferentes niveles de abstracción. 
+
+A continuación se detallan los diagramas de contexto, contenedores, componentes y despliegue que definen la estructura del sistema de reservas universitarias.
+
 #### 4.1.3.1. Software Architecture Context Level Diagrams
+
+El diagrama de contexto presenta una visión de alto nivel del sistema uTime, mostrando cómo interactúa con los diferentes actores y sistemas externos. Este diagrama establece los límites del sistema y define las relaciones principales con usuarios y servicios externos.
+
+<div align="center">
+   <img src="img/context-diagram.png" alt="context-diagram"/>
+</div>
+
 #### 4.1.3.2. Software Architecture Container Level Diagrams
-#### 4.1.3.3. Software Architecture Deployment Diagrams
+
+El diagrama de contenedores descompone el sistema uTime en sus principales componentes tecnológicos y aplicaciones. Este diagrama muestra la arquitectura interna del sistema, incluyendo la lanfing page,  aplicaciones móviles, bases de datos y APIs, así como la forma en que estos contenedores se comunican entre sí para proporcionar la funcionalidad completa.
+
+<div align="center">
+   <img src="img/container-diagram.png" alt="container-diagram"/>
+</div>
+
+#### 4.1.3.3. Software Architecture Component Level Diagrams
+
+Los diagramas de componentes detallan la estructura interna de cada contenedor del sistema uTime, mostrando los elementos arquitectónicos clave como controladores, servicios de comando, servicios de consulta y repositorios. A continuación se presentan los diagramas organizados por contexto funcional, ilustrando cómo se distribuyen las responsabilidades dentro de cada módulo del sistema.
+
+**Profiles Context**
+
+<div align="center">
+   <img src="img/component-diagram-profiles.png" alt="profiles-context"/>
+</div>
+
+**Reservations Context**
+
+<div align="center">
+   <img src="img/component-diagram-reservation.png" alt="reservations-context"/>
+</div>
+
+**Reviews Context**
+
+<div align="center">
+   <img src="img/component-diagram-reviews.png" alt="reviews-context"/>
+</div>
+
+**Workers Context**
+
+<div align="center">
+   <img src="img/component-diagram-workers.png" alt="workers-ontext"/>
+</div>
+
+**Services Context**
+
+<div align="center">
+   <img src="img/component-diagram-services.png" alt="services-context"/>
+</div>
+
+**IAM Context**
+
+<div align="center">
+   <img src="img/component-diagram-iam.png" alt="iam-context"/>
+</div>
+
+#### 4.1.3.4. Software Architecture Deployment Diagrams
+
+El diagrama de despliegue muestra la distribución física del sistema uTime en la infraestructura de Azure, ilustrando cómo los componentes del software se despliegan sobre los servicios en la nube. Este diagrama visualiza la arquitectura donde las aplicaciones cliente (navegadores web y aplicación móvil nativa) interactúan con el backend hospedado en Azure App Service, incluyendo la Landing Page, la API REST y la base de datos SQL gestionada.
+
+<div align="center">
+   <img src="img/deployment-diagram.png" alt="deployment-diagram"/>
+</div>
+
+**Explicación del diagrama de despliegue:**
+
+El sistema uTime se despliega utilizando una arquitectura de tres capas en Azure App Service:
+
+- **Dispositivos cliente**: Los usuarios acceden al sistema a través de navegadores web (PC y móvil) que se conectan a la Landing Page, y mediante la aplicación móvil nativa que se comunica directamente con la API REST.
+
+- **Azure App Service**: Hospeda tres componentes principales:
+  - **Landing Page**: Página web accesible desde navegadores
+  - **Web service (API REST App)**: Servicio backend que maneja la lógica de negocio
+  - **SQL Database server**: Base de datos gestionada para el almacenamiento de datos
+
+- **Comunicación**: La aplicación móvil nativa se comunica directamente con la API REST mediante peticiones HTTP, mientras que los navegadores web acceden a la Landing Page, la cual a su vez puede consumir servicios de la API REST internamente.
+
 ## 4.2. Tactical-Level Domain-Driven Design
 ### 4.2.X. Bounded Context: <Bounded Context Name>
 #### 4.2.X.1. Domain Layer
