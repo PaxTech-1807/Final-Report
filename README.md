@@ -2347,6 +2347,8 @@ Representa el nombre de la empresa de un proveedor, asegurando que no sea vacío
   - `CompanyName(value: String)`  
   - `getValue(): String`  
 
+---
+
 ### 4.2.5.2. Interface Layer  
 
 **ReviewsController**  
@@ -2363,7 +2365,9 @@ Expone operaciones HTTP para gestionar perfiles de proveedores.
   - `createProvider(CreateProviderCommand)`  
   - `getProviderById(UUID)`  
   - `updateProvider(UpdateProviderCommand)`  
-  - `deleteProvider(UUID)`  
+  - `deleteProvider(UUID)`
+
+---
 
 ### 4.2.5.3. Application Layer  
 
@@ -2389,7 +2393,9 @@ Permite modificar datos del perfil de un proveedor existente.
 
 **DeleteProviderCommand**  
 Ordena la eliminación lógica de un perfil de proveedor.  
-- **Atributos:** `providerId: UUID`  
+- **Atributos:** `providerId: UUID`
+
+---
 
 ### 4.2.5.4. Infrastructure Layer  
 
@@ -2452,7 +2458,9 @@ Representa una reseña hecha por un cliente hacia un servicio.
 - **ClientId**  
   Identificador único del cliente que emite la reseña.  
   - Atributos: id: Long  
-  - Funciones: ClientId(value: Long), getValue(): Long  
+  - Funciones: ClientId(value: Long), getValue(): Long
+
+---
 
 #### 4.2.6.2. Interface Layer
 
@@ -2482,7 +2490,9 @@ Expone operaciones HTTP para gestionar las reseñas de los servicios.
 **Resources**  
 - CreateReviewResource  
 - UpdateReviewResource  
-- ReviewResource  
+- ReviewResource
+
+---
 
 #### 4.2.6.3. Application Layer
 
@@ -2512,7 +2522,9 @@ Expone operaciones HTTP para gestionar las reseñas de los servicios.
 
 - **ReviewQueryService**  
   Define operaciones de consulta.  
-  - Funciones: getReviewsByServiceId(Long), getReviewsByClientId(Long), getReviewById(Long)  
+  - Funciones: getReviewsByServiceId(Long), getReviewsByClientId(Long), getReviewById(Long)
+ 
+---
 
 #### 4.2.6.4. Infrastructure Layer
 
