@@ -1990,34 +1990,141 @@ Accede a la persistencia de los intervalos de tiempo, implementando la interfaz 
 
 #### 4.3.4.1. Domain
 
+**Aggregates**
+
+**User**
+
+Representa el usuarios que se generá al crear una cuenta y luego se le asigna si será **Cliente** o **Provider**.
+
+- **Atributos**
+   - `id: UUID`
+   - `email: String`
+   - `password: String`
+- **Funciones**
+   - `User(String email, String password)`
 
 
 #### 4.3.4.2. Interface Layer
 
+**UsersController**
+Expone las operaciones HTTP para gestionar informacion los usuarios.
+
+- **Funciones**
+   - `getAllUsers(GetAllUsersQuery)`
+   - `getUserById(GetUserByIdQuery)`
+
+
+**AuthenticationController**
+Expone las operaciones HTTP para gestionar las cuentas de los usuarios.
+
+- **Funciones**
+   - `signIn(SignInCommand)` 
+   - `signUp(SignUpCommand)`
 
 
 #### 4.3.4.3. Application Layer
 
+**SignInCommand**
+Ordena la creación de un usuario considerando que los elementos bajo los que se está creando se encuentren disponibles.
+
+- Atributos: `email: String`, `password:String`
+
+**SignUpCommand**
+
+Ordena la información de un usuario considerando que los elementos bajo los que se está creando se encuentren en la Base de Datos.
+
+- Atributos: `email: String`, `password:String`
+
+**GetAllUsersQuery**
+
+Devuelve todo los usuarios que se registraron.
+
+**GetUserByIdQuery**
+
+Devuelve un usuario previamente registrado considerando su `id`.
+
+**GetUserByEmailQuery**
+
+Devuelve un usuario previamente registrado considerando su `email`.
+
+**Timestamp**
+
+Maneja la gestión de marcas de tiempo para eventos y auditoría del sistema.
+
+- **Funciones**:
+  - `getCurrentTimestamp()`: Obtiene la marca de tiempo actual del sistema
+  - `formatTimestamp(Timestamp timestamp)`: Formatea timestamps para diferentes contextos
+
+**ApplicationReadyEvent**
+
+Gestiona eventos de inicialización y configuración cuando la aplicación está lista para recibir peticiones.
+
+- **Funciones**:
+  - `onApplicationReady()`: Se ejecuta cuando la aplicación ha terminado de inicializarse
+  - `initializeDefaultData()`: Inicializa datos por defecto del sistema si es necesario
 
 
 #### 4.3.4.4. Infrastructure Layer
 
+**Authorization**
+
+Maneja la configuración de seguridad y autenticación del sistema.
+
+- **WebSecurityConfiguration**: Configuración de seguridad web para definir políticas de acceso y autenticación
+- **EmailPasswordAuthenticationTokenBuilder**: Constructor de tokens de autenticación basados en email y contraseña
+- **UserDetailsImpl**: Implementación de detalles de usuario para el framework de seguridad
+- **BearerAuthorizationRequestFilter**: Filtro que intercepta peticiones y procesa tokens bearer para autorización
+- **UnauthorizedRequestHandlerEntryPoint**: Punto de entrada para manejar peticiones no autorizadas
+- **UserDetailsServiceImp**: Servicio que carga datos específicos del usuario para autenticación
+
+**Hashing**
+
+Gestiona el cifrado y hashing de contraseñas utilizando BCrypt.
+
+- **HashingServiceImpl**: Implementación general del servicio de hashing
+- **BCryptHashingService**: Servicio específico de hashing usando algoritmo BCrypt para cifrar contraseñas
+
+**Persistence**
+
+Maneja la persistencia de datos de usuarios en la base de datos.
+
+- **UserRepository**: Repositorio JPA para operaciones CRUD de usuarios en la base de datos
+
+**Tokens**
+
+Gestiona la creación y validación de tokens JWT para autenticación.
+
+- **TokenServiceImpl**: Implementación general del servicio de tokens
+- **BearerTokenService**: Servicio específico para manejo de tokens bearer JWT
 
 
 #### 4.3.4.5. Bounded Context Software Architecture Component Level Diagrams
 
-
+<div align="center">
+   <img src="img/component-diagram-iam.png" alt="iam-context"/>
+</div>
 
 #### 4.3.4.6. Bounded Context Software Architecture Code Level Diagrams
 
-
+Los diagramas de código muestran la implementación detallada de los componentes del bounded context IAM, incluyendo las clases, interfaces y sus relaciones a nivel de código fuente.
 
 #### 4.3.4.6.1. Bounded Context Domain Layer Class Diagrams
 
+El diagrama de clases del dominio IAM presenta la estructura interna de las entidades, servicios y repositorios que componen la capa de dominio, mostrando las relaciones entre los diferentes componentes y sus responsabilidades específicas en el manejo de autenticación y autorización.
 
+<div align="center">
+   <img src="img/class-diagram-IAM.png" alt="class-diagram-iam"/>
+</div>
+
+*Para visualizar mejor ingresar a este Link:* [Class Diagram IAM](https://www.plantuml.com/plantuml/png/hPLHJzim4CVVyocoxc6j6D8OgeIg2L7IP4GgjAJjfZrDNd8j5euJRATJGFtk8oQuEOUeFAmF8V7zphux_dU-a8e8LQJC-P30cd9m_PjbkFprsvjDPv7xqJy9Xe5lZDxiPXdDfbC_UWM283ZrlnXWuKS_GiytrbD_60oDDVBdiqMud4Nx_S-2eN_MsF_wUdmpQMn-vfyOw-tARtYU1b-3YUFa9Bud6t1xaombbBjJKeBeuJIU7FVv5pCYfRkI8Ag5-dViqcJahbRXfB44AQ5iv2wKe7pJMC-9b7ypaRHCHthRFlBxtC87cjyvkqRK8LSWrYI6Ed2xnEtWfPTn9JB6K1v7xWRKc35Dz1yA4EN8_RvVkgrM1XYl39Tbc1XylzJ0T_hP269Sg3lWYiP4qOntH2FfXeUy7sTfIdXL0VtjlNmEB72LOt2L8n1NR9pdh3wxhbbzi25gPzd3UgenamYEgM7j5i518UpC6pxBfFL_pp9FN83glqT1zb37sDdRuh3CjXYCVsVVxBfsyAliy2OuyVTdjW2nfN6L6fuqTd9Bce9K9Crh2zAzLmW1N1ccFnZj7InydOcKD53r-jPm6RnV1WtnHa2Iqjy2LwqOCsvpLOZRZ2OMI3bLb33w21DOauAf2L6anUxUd3jhGQGIHQmA0HsDL7Lw9kYZZkDGoN_2dmN4XQ2gz3A-ffj2Q3yBqsAOrvh6esIPtGE_B2XBG5XUbP0ce0XbCanpPbalWGWGADe87WgGAg1CjJVZf4OXgRahmXC6mkTAbFECSjLzVYt1vp0wLNf5v1tbcqCLgp6pOJilJvIvmbZdeNCGaae5F8PU-wPzUYEX2F9CKfM9igL0IRRGBvwPaIO7Bt_itg0yqVV7woZenkeXW6_8RdpCMANYAPNgMuMSlsCqQFKS70oQiYjkAwa9xNldani1q-AITpINZdqP7n-VjuPg1uH7guFR0DFubZgCcal6SP2d1dIv3OMNxT2H1SMBB6Z48wDZQSmOtcmcssnwVM-u09uKAVi7)
 
 #### 4.3.4.6.2. Bounded Context Database Design Diagram
 
+El diagrama de base de datos del bounded context IAM muestra la estructura de las tablas, sus atributos y las restricciones de integridad referencial que garantizan la consistencia de los datos de autenticación y autorización.
+
+<div align="center">
+   <img src="img/db-diagram.png" alt="db-diagram-iam"/>
+</div>
 
 # Capítulo V: Solution UI/UX Design
 ## 5.1. Product design
