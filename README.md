@@ -1810,10 +1810,18 @@ Accede a la persistencia de los perfiles de proveedores, implementando la interf
 
 
 #### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams
-#### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
-##### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
-##### 4.2.1.6.2. Bounded Context Database Design Diagram
+<div align="center">
+   <img src="img/component-diagram-profiles.png" alt="profiles-context"/>
+</div>
 
+#### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
+
+##### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
+
+![profiles-class-diagram](img/profile-context.svg)
+
+##### 4.2.1.6.2. Bounded Context Database Design Diagram
+![provider and client database diagram](img/provider-client-diagram.png)
 ### 4.2.2. Bounded Context: Reservations
 #### 4.2.2.1. Domain Layer
 
