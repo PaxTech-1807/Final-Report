@@ -188,79 +188,77 @@ Se explican las ramas más prominentes:
 2.3.2. [User Task Matrix](#232-user-task-matrix)<br>
 2.3.3. [User Journey Mapping](#233-user-journey-mapping)<br>
 2.3.4. [Empathy Mapping](#234-empathy-mapping)<br>
-2.3.5. [As-is Scenario Mapping](#235-as-is-scenario-mapping)<br>
-2.4. [Ubiquitous Language](#24-ubiquitous-language)<br>
-3. [Capítulo III: Requirements specification](#capítulo-iii-requirements-specification)<br>
-3.1. [To-Be Scenario Mapping](#31-to-be-scenario-mapping)<br>
-3.2. [User Stories](#32-user-stories)<br>
-3.3. [Impact Mapping](#33-impact-mapping)<br>
-3.4. [Product Backlog](#34-product-backlog)<br>
-4. [Capítulo IV: Solution Software Design](#capítulo-iv-solution-software-design)<br>
-4.1. [Strategic-Level Domain-Driven Design](#41-strategic-level-domain-driven-design)<br>
-4.1.1. [EventStorming](#411-eventstorming)<br>
-4.1.1.1. [Candidate Context Discovery](#4111-candidate-context-discovery)<br>
-4.1.1.2. [Domain Message Flows Modeling](#4112-domain-message-flows-modeling)<br>
-4.1.1.3. [Bounded Context Canvases](#4113-bounded-context-canvases)<br>
-4.1.2. [Context Mapping](#412-context-mapping)<br>
-4.1.3. [Software Architecture](#413-software-architecture)<br>
-4.1.3.1. [Software Architecture Context Level Diagrams](#4131-software-architecture-context-level-diagrams)<br>
-4.1.3.2. [Software Architecture Container Level Diagrams](#4132-software-architecture-container-level-diagrams)<br>
-4.1.3.3. [Software Architecture Deployment Diagrams](#4133-software-architecture-deployment-diagrams)<br>
-4.2. [Tactical-Level Domain-Driven Design](#42-tactical-level-domain-driven-design)<br>
-4.2.X. [Bounded Context: <Bounded Context Name>](#42x-bounded-context)<br>
-4.2.X.1. [Domain Layer](#42x1-domain-layer)<br>
-4.2.X.2. [Interface Layer](#42x2-interface-layer)<br>
-4.2.X.3. [Application Layer](#42x3-application-layer)<br>
-4.2.X.4. [Infrastructure Layer](#42x4-infrastructure-layer)<br>
-4.2.X.5. [Bounded Context Software Architecture Component Level Diagrams](#42x5-bounded-context-software-architecture-component-level-diagrams)<br>
-4.2.X.6. [Bounded Context Software Architecture Code Level Diagrams](#42x6-bounded-context-software-architecture-code-level-diagrams)<br>
-4.2.X.6.1. [Bounded Context Domain Layer Class Diagrams](#42x61-bounded-context-domain-layer-class-diagrams)<br>
-4.2.X.6.2. [Bounded Context Database Design Diagram](#42x62-bounded-context-database-design-diagram)<br>
-5. [Capítulo V: Solution UI/UX Design](#capítulo-v-solution-uiux-design)<br>
-5.1. [Product design](#51-product-design)<br>
-5.1.1. [Style Guidelines](#511-style-guidelines)<br>
-5.1.1.1. [General Style Guidelines](#5111-general-style-guidelines)<br>
-5.1.2. [Information Architecture](#512-information-architecture)<br>
-5.1.2.1. [Organization Systems](#5121-organization-systems)<br>
-5.1.2.2. [Labelling Systems](#5122-labelling-systems)<br>
-5.1.2.3. [SEO Tags and Meta Tags](#5123-seo-tags-and-meta-tags)<br>
-5.1.2.4. [Searching Systems](#5124-searching-systems)<br>
-5.1.2.5. [Navigation Systems](#5125-navigation-systems)<br>
-5.1.3. [Landing Page UI Design](#513-landing-page-ui-design)<br>
-5.1.3.1. [Landing Page Wireframe](#5131-landing-page-wireframe)<br>
-5.1.3.2. [Landing Page Mock-up](#5132-landing-page-mock-up)<br>
-5.1.4. [Mobile Applications UX/UI Design](#514-mobile-applications-uxui-design)<br>
-5.1.4.1. [Mobile Applications Wireframes](#5141-mobile-applications-wireframes)<br>
-5.1.4.2. [Mobile Applications Wireflow Diagrams](#5142-mobile-applications-wireflow-diagrams)<br>
-5.1.4.3. [Mobile Applications Mock-ups](#5143-mobile-applications-mock-ups)<br>
-5.1.4.4. [Mobile Applications User Flow Diagrams](#5144-mobile-applications-user-flow-diagrams)<br>
-5.1.4.5. [Mobile Applications Prototyping](#5145-mobile-applications-prototyping)<br>
-6. [Capítulo VI: Product Implementation, Validation & Deployment](#capítulo-vi-product-implementation-validation--deployment)<br>
-6.1. [Software Configuration Management](#61-software-configuration-management)<br>
-6.1.1. [Software Development Environment Configuration](#611-software-development-environment-configuration)<br>
-6.1.2. [Source Code Management](#612-source-code-management)<br>
-6.1.3. [Source Code Style Guide & Conventions](#613-source-code-style-guide--conventions)<br>
-6.1.4. [Software Deployment Configuration](#614-software-deployment-configuration)<br>
-6.2. [Landing Page & Mobile Application Implementation](#62-landing-page--mobile-application-implementation)<br>
-6.2.X. [Sprint n](#62x-sprint-n)<br>
-6.2.X.1. [Sprint Planning n](#62x1-sprint-planning-n)<br>
-6.2.X.2. [Sprint Backlog n](#62x2-sprint-backlog-n)<br>
-6.2.X.3. [Development Evidence for Sprint Review](#62x3-development-evidence-for-sprint-review)<br>
-6.2.X.4. [Testing Suite Evidence for Sprint Review](#62x4-testing-suite-evidence-for-sprint-review)<br>
-6.2.X.5. [Execution Evidence for Sprint Review](#62x6-services-documentation-evidence-for-sprint-review)<br>
-6.2.X.6. [Services Documentation Evidence for Sprint Review](#62x6-services-documentation-evidence-for-sprint-review)<br>
-6.2.X.7. [Software Deployment Evidence for Sprint Review](#62x7-software-deployment-evidence-for-sprint-review)<br>
-6.2.X.8. [Team Collaboration Insights during Sprint](#62x8-team-collaboration-insights-during-sprint)<br>
-6.3. [Validation Interviews](#63-validation-interviews)<br>
-6.3.1. [Diseño de Entrevistas](#221-diseño-de-entrevistas)<br>
-6.3.2. [Registro de Entrevistas](#222-registro-de-entrevistas)<br>
-6.3.3. [Evaluaciones según heurísticas](#633-evaluaciones-según-heurísticas)<br>
-6.4. [Video About-the-Product](#64-video-about-the-product)<br>
-7. [Conclusiones](#conclusiones)<br>
-7.1 [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)<br>
-7.2 [Video About-the-team](#video-about-the-team)<br>
-8. [Bibliografía](#bibliografía)<br>
-9. [Anexos](#anexos)<br>
+2.3.5. [Ubiquitous Language](#235-ubiquitous-language)<br>
+2.4. [Requirements specification](#24-requirements-specification)<br>
+2.4.1. [User Stories](#241-user-stories)<br>
+2.4.2. [Impact Mapping](#242-impact-mapping)<br>
+2.4.3. [Product Backlog](#243-product-backlog)<br>
+2.5. [Strategic-Level Domain-Driven Design](#25-strategic-level-domain-driven-design)<br>
+2.5.1. [EventStorming](#251-eventstorming)<br>
+2.5.1.1. [Candidate Context Discovery](#2511-candidate-context-discovery)<br>
+2.5.1.2. [Domain Message Flows Modeling](#2512-domain-message-flows-modeling)<br>
+2.5.1.3. [Bounded Context Canvases](#2513-bounded-context-canvases)<br>
+2.5.2. [Context Mapping](#252-context-mapping)<br>
+2.5.3. [Software Architecture](#253-software-architecture)<br>
+2.5.3.1. [Software Architecture Context Level Diagrams](#2531-software-architecture-context-level-diagrams)<br>
+2.5.3.2. [Software Architecture Container Level Diagrams](#2532-software-architecture-container-level-diagrams)<br>
+2.5.3.3. [Software Architecture Deployment Diagrams](#2533-software-architecture-deployment-diagrams)<br>
+2.6 [Tactical-Level Domain-Driven Design](#26-tactical-level-domain-driven-design)<br>
+2.6.1 [Bounded Context: <Bounded Context Name>]()<br>
+2.6.1.1. [Domain Layer]()<br>
+2.6.1.2. [Interface Layer]()<br>
+2.6.1.3. [Application Layer]()<br>
+2.6.1.4. [Infrastructure Layer]()<br>
+2.6.1.5. [Bounded Context Software Architecture Component Level Diagrams]()<br>
+2.6.1.6. [Bounded Context Software Architecture Code Level Diagrams]()<br>
+2.6.1.6.1. [Bounded Context Domain Layer Class Diagrams]()<br>
+2.6.1.6.2. [Bounded Context Database Design Diagram]()<br>
+3. [Capítulo III: Solution UI/UX Design](#3-capítulo-iii-solution-uiux-design)<br>
+3.1. [Product design](#31-product-design)<br>
+3.1.1. [Style Guidelines](#311-style-guidelines)<br>
+3.1.1.1. [General Style Guidelines](#3111-general-style-guidelines)<br>
+3.1.2. [Information Architecture](#312-information-architecture)<br>
+3.1.2.1. [Organization Systems](#3121-organization-systems)<br>
+3.1.2.2. [Labelling Systems](#3122-labelling-systems)<br>
+3.1.2.3. [SEO Tags and Meta Tags](#3123-seo-tags-and-meta-tags)<br>
+3.1.2.4. [Searching Systems](#3124-searching-systems)<br>
+3.1.2.5. [Navigation Systems](#3125-navigation-systems)<br>
+3.1.3. [Landing Page UI Design](#313-landing-page-ui-design)<br>
+3.1.3.1. [Landing Page Wireframe](#3131-landing-page-wireframe)<br>
+3.1.3.2. [Landing Page Mock-up](#3132-landing-page-mock-up)<br>
+3.1.4. [Mobile Applications UX/UI Design](#314-mobile-applications-uxui-design)<br>
+3.1.4.1. [Mobile Applications Wireframes](#3141-mobile-applications-wireframes)<br>
+3.1.4.2. [Mobile Applications Wireflow Diagrams](#3142-mobile-applications-wireflow-diagrams)<br>
+3.1.4.3. [Mobile Applications Mock-ups](#3143-mobile-applications-mock-ups)<br>
+3.1.4.4. [Mobile Applications User Flow Diagrams](#3144-mobile-applications-user-flow-diagrams)<br>
+3.1.4.5. [Mobile Applications Prototyping](#3145-mobile-applications-prototyping)<br>
+4. [Capítulo IV: Product Implementation, Validation](#4-capítulo-iv-product-implementation-validation)<br>
+4.1. [Software Configuration Management](#41-software-configuration-management)<br>
+4.1.1. [Software Development Environment Configuration](#411-software-development-environment-configuration)<br>
+4.1.2. [Source Code Management](#412-source-code-management)<br>
+4.1.3. [Source Code Style Guide & Conventions](#413-source-code-style-guide--conventions)<br>
+4.1.4. [Software Deployment Configuration](#414-software-deployment-configuration)<br>
+4.2. [Landing Page & Mobile Application Implementation](#42-landing-page--mobile-application-implementation)<br>
+4.2.X. [Sprint n](#42x-sprint-n)<br>
+4.2.X.1. [Sprint Planning n](#42x1-sprint-planning-n)<br>
+4.2.X.2. [Sprint Backlog n](#42x2-sprint-backlog-n)<br>
+4.2.X.3. [Development Evidence for Sprint Review](#42x3-development-evidence-for-sprint-review)<br>
+4.2.X.4. [Testing Suite Evidence for Sprint Review](#42x4-testing-suite-evidence-for-sprint-review)<br>
+4.2.X.5. [Execution Evidence for Sprint Review](#42x5-execution-evidence-for-sprint-review)<br>
+4.2.X.6. [Services Documentation Evidence for Sprint Review](#42x6-services-documentation-evidence-for-sprint-review)<br>
+4.2.X.7. [Software Deployment Evidence for Sprint Review](#42x7-software-deployment-evidence-for-sprint-review)<br>
+4.2.X.8. [Team Collaboration Insights during Sprint](#42x8-team-collaboration-insights-during-sprint)<br>
+4.3. [Validation Interviews](#43-validation-interviews)<br>
+4.3.1. [Diseño de Entrevistas](#431-diseño-de-entrevistas)<br>
+4.3.2. [Registro de Entrevistas](#432-registro-de-entrevistas)<br>
+4.3.3. [Evaluaciones según heurísticas](#433-evaluaciones-según-heurísticas)<br>
+5. [Conclusiones](#conclusiones)<br>
+5.1 [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)<br>
+5.2 [Video App Validation](#video-app-validation)<br>
+5.3 [Video About the Product](#video-about-the-product)<br>
+6. [Glosario](#glosario)<br>
+7. [Bibliografía](#bibliografía)<br>
+8. [Anexos](#anexos)<br>
 
 
 <br>
@@ -271,7 +269,7 @@ Se explican las ramas más prominentes:
 | Criterio específico                                                  | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |----------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
 | 7.c1. Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de ingeniería de software  |  #| #
-|7.c2. Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de tecnologías de ingeniería de software. |              #                                                                                                                                         |  #| 
+| 7.c2. Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de tecnologías de ingeniería de software. |              #                                                                                                                                         |  #| 
 
 <br>
 
@@ -1123,17 +1121,7 @@ Segmento objetivo #2: Clientes de servicios de belleza
 
 </div>
 
-### 2.3.5. As-is Scenario Mapping
-
-Segmento objetivo #1: Salones de belleza y barberías
-
-![As-is Scenario Mapping | Segmento objetivo #1](img/Asis1.jpg)
-
-Segmento objetivo #2: Clientes de servicios de belleza
-
-![As-is Scenario Mapping | Segmento objetivo #2](img/Asis2.jpg)
-
-## 2.4. Ubiquitous Language
+### 2.3.5. Ubiquitous Language
 
 | **Término del Lenguaje Ubicuo**    | **Clase**                                    | **Bounded Context** | **Definición**                                                                            |
 | ---------------------------------- | -------------------------------------------- | ------------------- | ----------------------------------------------------------------------------------------- |
@@ -1156,21 +1144,9 @@ Segmento objetivo #2: Clientes de servicios de belleza
 
 <br>
 
-# Capítulo III: Requirements specification
+## 2.4 Requirements specification
 
-## 3.1. To-Be Scenario Mapping
-
-**Segmento objetivo #1:** Salones de belleza y barberías
-
-![To-be Scenario Mapping | Segmento objetivo #1](img/Tobe1.jpg)
-
-**Segmento objetivo #2:** Clientes de servicios de belleza
-
-![To-be Scenario Mapping | Segmento objetivo #1](img/Tobe2.jpg)
-
-## 3.2. User Stories
-
-### 3.2.1 User Stories
+### 2.4.1 User Stories
 
 
 | **Epic/User Story ID** | **Título**                                                 | **Descripción**                                                                                                                                                            | **Criterios de Aceptación**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | **Epic relacionada** |
@@ -1222,8 +1198,7 @@ Segmento objetivo #2: Clientes de servicios de belleza
 | US34                   | Contacto o soporte                                         | **Como** visitante, **quiero** poder contactarme con el equipo o recibir soporte, **para** resolver dudas antes de registrarme.                                            | **Escenario 1: Acceso a canal de contacto**<br>**Given** el visitante tiene una duda<br>**When** busca ayuda<br>**Then** el sistema le muestra opciones para contactarse.<br><br>**Escenario 2: Confirmación de recepción de mensaje de soporte**<br>**Given** el visitante envía una consulta<br>**When** el sistema la recibe<br>**Then** emite una confirmación automática.                                                                                                                                                      | EP12                 |
 | US35                   | Información sobre uTime                                    | **Como** visitante, **quiero** poder acceder una sección que explique quiénes son los creadores, **para** tener confianza en la plataforma y su propósito.                  | **Escenario 1: Mostrar información sobre la startup**<br>**Given** que soy un visitante en la página principal<br>**When** hago clic en el enlace "About US" us del menú de navegación<br>**Then** se debe mostrar una sección con información sobre Pactech, incluyendo su misión, visión y propósito.<br><br>**Escenario 2: Visualizar los integrantes del equipo**<br>**Given** que estoy en la sección "About Us"<br>**When**visualizo la información de la empresa<br>**Then** debo poder ver a los integrantes de Paxtech. | EP12                 |
 
-### 3.2.2 Technical Stories
-
+**Technical Stories**
 
 | **ID** | **Título**                                          | **Descripción**                                                                                                                                              | **Criterios de Aceptación**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | **Epic Relacionado** |
 |--------|-----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|
@@ -1247,11 +1222,11 @@ Segmento objetivo #2: Clientes de servicios de belleza
 | TS18   | Crear endpoints para gestión de usuarios           | **Como** developer, **quiero** implementar GET /users, GET /users/{id}, **para** consultar la información general de usuarios registrados.                          | **Escenario 1: Ver todos los usuarios**<br>**Given** un administrador accede a GET /users<br>**When** hay usuarios registrados<br>**Then** se listan correctamente.<br><br>**Escenario 2: Ver usuario por ID**<br>**Given** un ID válido<br>**When** se accede a GET /users/{id}<br>**Then** se muestran los datos del usuario.                                                                                                                                                                                        | EP06                 |
 
 
-## 3.3. Impact Mapping
+### 2.4.2. Impact Mapping
 
 ![Impact Mapping](img/impact-mapping.png)
 
-## 3.4. Product Backlog
+### 2.4.3. Product Backlog
    
 
 | **# Orden** | **User Story ID** | **Titulo**                                               | **Descripción**                                                                                                                                                            | **Story Points** |
@@ -1306,10 +1281,9 @@ Segmento objetivo #2: Clientes de servicios de belleza
 | #48         | TS02              | Implementación de autenticación con dos pasos (2FA)      | **Como** developer, **quiero** añadir autenticación de dos factores, **para** mejorar la seguridad del inicio de sesión de los usuarios.                                   | 5                |
 
 
-# Capítulo IV: Solution Software Design
-## 4.1. Strategic-Level Domain-Driven Design
-### 4.1.1. EventStorming
-#### 4.1.1.1. Candidate Context Discovery
+## 2.5. Strategic-Level Domain-Driven Design
+### 2.5.1. EventStorming
+#### 2.5.1.1. Candidate Context Discovery
 
 A continuación, se detalla el proceso y evolución de nuestro event storming.
 
@@ -1580,19 +1554,17 @@ Contiene el aggregate Services
 
 ---
 
-#### 4.1.1.2. Domain Message Flows Modeling
+#### 2.5.1.2. Domain Message Flows Modeling
 
 ![DomainMessageFlowsModeling1](img/scenario-modeling1.png)
 ![DomainMessageFlowsModeling2](img/scenario-modeling2.png)
 
-#### 4.1.1.3. Bounded Context Canvases
+#### 2.5.1.3. Bounded Context Canvases
 
 
-
-### 4.1.2. Context Mapping
+### 2.5.2. Context Mapping
 
 El Context Mapping en DDD representa, de forma explícita, cómo interactúan los bounded contexts entre sí y con sistemas o equipos externos. Este mapa permite identificar direcciones de influencia (upstream/downstream), contratos de integración, riesgos de propagación de modelos y niveles de acoplamiento aceptados. Con base en ello, se decide dónde estandarizar, dónde traducir (proteger) y dónde preservar la independencia para que cada contexto pueda evolucionar de manera segura y predecible.
-
 
 **Context Map Patterns**
 
@@ -1625,13 +1597,13 @@ En este proyecto, Profiles y Services coordinan cambios de catálogo y datos del
 <img src="img/Pattern4.png" alt="Pattern">
 
 
-### 4.1.3. Software Architecture
+### 2.5.3. Software Architecture
 
 La arquitectura de software de uTime se presenta utilizando el modelo C4, el cual permite visualizar la solución desde diferentes niveles de abstracción. 
 
 A continuación se detallan los diagramas de contexto, contenedores, componentes y despliegue que definen la estructura del sistema de reservas universitarias.
 
-#### 4.1.3.1. Software Architecture Context Level Diagrams
+#### 2.5.3.1. Software Architecture Context Level Diagrams
 
 El diagrama de contexto presenta una visión de alto nivel del sistema uTime, mostrando cómo interactúa con los diferentes actores y sistemas externos. Este diagrama establece los límites del sistema y define las relaciones principales con usuarios y servicios externos.
 
@@ -1639,7 +1611,7 @@ El diagrama de contexto presenta una visión de alto nivel del sistema uTime, mo
    <img src="img/context-diagram.png" alt="context-diagram"/>
 </div>
 
-#### 4.1.3.2. Software Architecture Container Level Diagrams
+#### 2.5.3.2. Software Architecture Container Level Diagrams
 
 El diagrama de contenedores descompone el sistema uTime en sus principales componentes tecnológicos y aplicaciones. Este diagrama muestra la arquitectura interna del sistema, incluyendo la lanfing page,  aplicaciones móviles, bases de datos y APIs, así como la forma en que estos contenedores se comunican entre sí para proporcionar la funcionalidad completa.
 
@@ -1647,47 +1619,7 @@ El diagrama de contenedores descompone el sistema uTime en sus principales compo
    <img src="img/container-diagram.png" alt="container-diagram"/>
 </div>
 
-#### 4.1.3.3. Software Architecture Component Level Diagrams
-
-Los diagramas de componentes detallan la estructura interna de cada contenedor del sistema uTime, mostrando los elementos arquitectónicos clave como controladores, servicios de comando, servicios de consulta y repositorios. A continuación se presentan los diagramas organizados por contexto funcional, ilustrando cómo se distribuyen las responsabilidades dentro de cada módulo del sistema.
-
-**Profiles Context**
-
-<div align="center">
-   <img src="img/component-diagram-profiles.png" alt="profiles-context"/>
-</div>
-
-**Reservations Context**
-
-<div align="center">
-   <img src="img/component-diagram-reservation.png" alt="reservations-context"/>
-</div>
-
-**Reviews Context**
-
-<div align="center">
-   <img src="img/component-diagram-reviews.png" alt="reviews-context"/>
-</div>
-
-**Workers Context**
-
-<div align="center">
-   <img src="img/component-diagram-workers.png" alt="workers-ontext"/>
-</div>
-
-**Services Context**
-
-<div align="center">
-   <img src="img/component-diagram-services.png" alt="services-context"/>
-</div>
-
-**IAM Context**
-
-<div align="center">
-   <img src="img/component-diagram-iam.png" alt="iam-context"/>
-</div>
-
-#### 4.1.3.4. Software Architecture Deployment Diagrams
+#### 2.5.3.3. Software Architecture Deployment Diagrams
 
 El diagrama de despliegue muestra la distribución física del sistema uTime en la infraestructura de Azure, ilustrando cómo los componentes del software se despliegan sobre los servicios en la nube. Este diagrama visualiza la arquitectura donde las aplicaciones cliente (navegadores web y aplicación móvil nativa) interactúan con el backend hospedado en Azure App Service, incluyendo la Landing Page, la API REST y la base de datos SQL gestionada.
 
@@ -1708,19 +1640,10 @@ El sistema uTime se despliega utilizando una arquitectura de tres capas en Azure
 
 - **Comunicación**: La aplicación móvil nativa se comunica directamente con la API REST mediante peticiones HTTP, mientras que los navegadores web acceden a la Landing Page, la cual a su vez puede consumir servicios de la API REST internamente.
 
-## 4.2. Tactical-Level Domain-Driven Design
-### 4.2.X. Bounded Context: <Bounded Context Name>
-#### 4.2.X.1. Domain Layer
-#### 4.2.X.2. Interface Layer
-#### 4.2.X.3. Application Layer
-#### 4.2.X.4. Infrastructure Layer
-#### 4.2.X.5. Bounded Context Software Architecture Component Level Diagrams
-#### 4.2.X.6. Bounded Context Software Architecture Code Level Diagrams
-##### 4.2.X.6.1. Bounded Context Domain Layer Class Diagrams
-##### 4.2.X.6.2. Bounded Context Database Design Diagram
+## 2.6. Tactical-Level Domain-Driven Design
 
-### 4.2.1. Bounded Context: Profiles
-### 4.2.1.1. Domain Layer  
+### 2.6.1. Bounded Context: Profiles
+### 2.6.1.1. Domain Layer  
 
 #### Aggregates  
 
@@ -1780,7 +1703,7 @@ Representa el nombre de la empresa de un proveedor, asegurando que no sea vacío
 
 ---
 
-### 4.2.1.2. Interface Layer  
+### 2.6.1.2. Interface Layer  
 
 **ClientsController**  
 Expone operaciones HTTP para gestionar perfiles de clientes en la plataforma.  
@@ -1800,7 +1723,7 @@ Expone operaciones HTTP para gestionar perfiles de proveedores.
 
 ---
 
-### 4.2.1.3. Application Layer  
+### 2.6.1.3. Application Layer  
 
 **CreateClientCommand**  
 Ordena la creación de un perfil de cliente a partir de un usuario de IAM.  
@@ -1824,7 +1747,7 @@ Ordena la eliminación lógica de un perfil de proveedor.
 
 ---
 
-### 4.2.1.4. Infrastructure Layer  
+### 2.6.1.4. Infrastructure Layer  
 
 **ClientRepository**  
 Accede a la persistencia de los perfiles de clientes, implementando la interfaz de repositorio del dominio.  
@@ -1843,21 +1766,24 @@ Accede a la persistencia de los perfiles de proveedores, implementando la interf
   - `delete(Provider): void`  
 
 
-#### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams
+#### 2.6.1.5. Bounded Context Software Architecture Component Level Diagrams
+
 <div align="center">
    <img src="img/component-diagram-profiles.png" alt="profiles-context"/>
 </div>
 
-#### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
+#### 2.6.1.6. Bounded Context Software Architecture Code Level Diagrams
 
-##### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
+##### 2.6.1.6.1. Bounded Context Domain Layer Class Diagrams
 
 ![profiles-class-diagram](img/profile-context.svg)
 
-##### 4.2.1.6.2. Bounded Context Database Design Diagram
+##### 2.6.1.6.2. Bounded Context Database Design Diagram
+
 ![provider and client database diagram](img/provider-client-diagram.png)
-### 4.2.2. Bounded Context: Reservations
-#### 4.2.2.1. Domain Layer
+
+### 2.6.2. Bounded Context: Reservations
+#### 2.6.2.1. Domain Layer
 
 #### Aggregates  
 
@@ -1928,7 +1854,7 @@ Encapsula el tipo de tiempo designado para una reserva.
  
 ---
 
-#### 4.2.2.2. Interface Layer  
+#### 2.6.2.2. Interface Layer
 
 **ReservationsController**  
 Expone las operacions HTTP para gestionar las reservaciones de los clientes.  
@@ -1953,7 +1879,7 @@ Expone las operaciones HTTP para gestionar los tiempos que ocupa cada reserva.
 
 ---
 
-#### 4.2.2.3. Application Layer  
+#### 2.6.2.3. Application Layer
 
 **CreateReservationCommand**  
 Ordena la creación de una reservación considerando que los elementos bajo los que se está creando se encuentren disponibles.  
@@ -1990,7 +1916,7 @@ Devuelve un intervalo de tiempo de una reserva previamente registrada consideran
 
 ---
 
-#### 4.2.2.4. Infrastructure Layer
+#### 2.6.2.4. Infrastructure Layer
 
 **ReservationRepository**  
 Accede a la persistencia de las reservas, implementando la interfaz de repositorio del dominio.   
@@ -2015,22 +1941,22 @@ Accede a la persistencia de los intervalos de tiempo, implementando la interfaz 
 
 ---
 
-#### 4.2.2.5. Bounded Context Software Architecture Component Level Diagrams
+#### 2.6.2.5. Bounded Context Software Architecture Component Level Diagrams
 
 <img src="img/reservation_components.png" alt="reservation">
 
-#### 4.2.2.6. Bounded Context Software Architecture Code Level Diagrams
-##### 4.2.2.6.1. Bounded Context Domain Layer Class Diagrams
+#### 2.6.2.6. Bounded Context Software Architecture Code Level Diagrams
+##### 2.6.2.6.1. Bounded Context Domain Layer Class Diagrams
 
 <img src="img/reservation_class.png" alt="reservation">
 
-##### 4.2.2.6.2. Bounded Context Database Design Diagram
+##### 2.6.2.6.2. Bounded Context Database Design Diagram
 
 <img src="img/reservation_database.png" alt="reservation">
 
-### 4.2.3 Bounded Context: IAM
+### 2.6.3 Bounded Context: IAM
 
-#### 4.3.4.1. Domain
+#### 2.6.3.1. Domain
 
 **Aggregates**
 
@@ -2046,7 +1972,7 @@ Representa el usuarios que se generá al crear una cuenta y luego se le asigna s
    - `User(String email, String password)`
 
 
-#### 4.3.4.2. Interface Layer
+#### 2.6.3.2. Interface Layer
 
 **UsersController**
 Expone las operaciones HTTP para gestionar informacion los usuarios.
@@ -2064,7 +1990,7 @@ Expone las operaciones HTTP para gestionar las cuentas de los usuarios.
    - `signUp(SignUpCommand)`
 
 
-#### 4.3.4.3. Application Layer
+#### 2.6.3.3. Application Layer
 
 **SignInCommand**
 Ordena la creación de un usuario considerando que los elementos bajo los que se está creando se encuentren disponibles.
@@ -2106,7 +2032,7 @@ Gestiona eventos de inicialización y configuración cuando la aplicación está
   - `initializeDefaultData()`: Inicializa datos por defecto del sistema si es necesario
 
 
-#### 4.3.4.4. Infrastructure Layer
+#### 2.6.3.4. Infrastructure Layer
 
 **Authorization**
 
@@ -2140,17 +2066,17 @@ Gestiona la creación y validación de tokens JWT para autenticación.
 - **BearerTokenService**: Servicio específico para manejo de tokens bearer JWT
 
 
-#### 4.3.4.5. Bounded Context Software Architecture Component Level Diagrams
+#### 2.6.3.5. Bounded Context Software Architecture Component Level Diagrams
 
 <div align="center">
    <img src="img/component-diagram-iam.png" alt="iam-context"/>
 </div>
 
-#### 4.3.4.6. Bounded Context Software Architecture Code Level Diagrams
+#### 2.6.3.6. Bounded Context Software Architecture Code Level Diagrams
 
 Los diagramas de código muestran la implementación detallada de los componentes del bounded context IAM, incluyendo las clases, interfaces y sus relaciones a nivel de código fuente.
 
-#### 4.3.4.6.1. Bounded Context Domain Layer Class Diagrams
+#### 2.6.3.6.1. Bounded Context Domain Layer Class Diagrams
 
 El diagrama de clases del dominio IAM presenta la estructura interna de las entidades, servicios y repositorios que componen la capa de dominio, mostrando las relaciones entre los diferentes componentes y sus responsabilidades específicas en el manejo de autenticación y autorización.
 
@@ -2160,7 +2086,7 @@ El diagrama de clases del dominio IAM presenta la estructura interna de las enti
 
 *Para visualizar mejor ingresar a este Link:* [Class Diagram IAM](https://www.plantuml.com/plantuml/png/hPLHJzim4CVVyocoxc6j6D8OgeIg2L7IP4GgjAJjfZrDNd8j5euJRATJGFtk8oQuEOUeFAmF8V7zphux_dU-a8e8LQJC-P30cd9m_PjbkFprsvjDPv7xqJy9Xe5lZDxiPXdDfbC_UWM283ZrlnXWuKS_GiytrbD_60oDDVBdiqMud4Nx_S-2eN_MsF_wUdmpQMn-vfyOw-tARtYU1b-3YUFa9Bud6t1xaombbBjJKeBeuJIU7FVv5pCYfRkI8Ag5-dViqcJahbRXfB44AQ5iv2wKe7pJMC-9b7ypaRHCHthRFlBxtC87cjyvkqRK8LSWrYI6Ed2xnEtWfPTn9JB6K1v7xWRKc35Dz1yA4EN8_RvVkgrM1XYl39Tbc1XylzJ0T_hP269Sg3lWYiP4qOntH2FfXeUy7sTfIdXL0VtjlNmEB72LOt2L8n1NR9pdh3wxhbbzi25gPzd3UgenamYEgM7j5i518UpC6pxBfFL_pp9FN83glqT1zb37sDdRuh3CjXYCVsVVxBfsyAliy2OuyVTdjW2nfN6L6fuqTd9Bce9K9Crh2zAzLmW1N1ccFnZj7InydOcKD53r-jPm6RnV1WtnHa2Iqjy2LwqOCsvpLOZRZ2OMI3bLb33w21DOauAf2L6anUxUd3jhGQGIHQmA0HsDL7Lw9kYZZkDGoN_2dmN4XQ2gz3A-ffj2Q3yBqsAOrvh6esIPtGE_B2XBG5XUbP0ce0XbCanpPbalWGWGADe87WgGAg1CjJVZf4OXgRahmXC6mkTAbFECSjLzVYt1vp0wLNf5v1tbcqCLgp6pOJilJvIvmbZdeNCGaae5F8PU-wPzUYEX2F9CKfM9igL0IRRGBvwPaIO7Bt_itg0yqVV7woZenkeXW6_8RdpCMANYAPNgMuMSlsCqQFKS70oQiYjkAwa9xNldani1q-AITpINZdqP7n-VjuPg1uH7guFR0DFubZgCcal6SP2d1dIv3OMNxT2H1SMBB6Z48wDZQSmOtcmcssnwVM-u09uKAVi7)
 
-#### 4.3.4.6.2. Bounded Context Database Design Diagram
+#### 2.6.3.6.2. Bounded Context Database Design Diagram
 
 El diagrama de base de datos del bounded context IAM muestra la estructura de las tablas, sus atributos y las restricciones de integridad referencial que garantizan la consistencia de los datos de autenticación y autorización.
 
@@ -2169,9 +2095,9 @@ El diagrama de base de datos del bounded context IAM muestra la estructura de la
 </div>
 
 
-### 4.2.4. Bounded Context: Workers 
+### 2.6.4. Bounded Context: Workers
 
-#### 4.2.4.1. Domain Layer 
+#### 2.6.4.1. Domain Layer
 
 #### Aggregates  
 
@@ -2207,7 +2133,7 @@ Contiene la URL de la fotografía del trabajador.
     - `photo_url: String`
 
 
-#### 4.2.4.2. Interface Layer 
+#### 2.6.4.2. Interface Layer 
 
 **WorkerController**
 Expone operaciones HTTP para administrar trabajadores.
@@ -2228,7 +2154,8 @@ Expone operaciones HTTP para administrar trabajadores.
     - `UpdateWorkerCommandFromResourceAssembler`
 
 
-#### 4.2.4.3. Application Layer 
+#### 2.6.4.3. Application Layer
+
 **CreateWorkerCommand**
 Ordena la creación de un trabajador asociado a un proveedor.
 - **Atributos** 
@@ -2267,7 +2194,8 @@ Ordena la eliminación de una indisponibilidad registrada.
     - `unavailabilityId: UUID`
 
 
-#### 4.2.4.4. Infrastructure Layer
+#### 2.6.4.4. Infrastructure Layer
+
 **WorkerRepository**
 Accede a la persistencia del agregado Worker, implementando la interfaz de repositorio del dominio (misma estructura y estilo que en Profiles).
 
@@ -2283,17 +2211,17 @@ Accede a la persistencia de los turnos (Shift), siguiendo el patrón de reposito
     - `save(Shift): Shift`
     - `delete(Shift): void`
 
-#### 4.2.4.5. Bounded Context Software Architecture Component Level Diagrams
+#### 2.6.4.5. Bounded Context Software Architecture Component Level Diagrams
 
-#### 4.2.4.6. Bounded Context Software Architecture Code Level Diagrams
+#### 2.6.4.6. Bounded Context Software Architecture Code Level Diagrams
 
-##### 4.2.4.6.1. Bounded Context Domain Layer Class Diagrams
+##### 2.6.4.6.1. Bounded Context Domain Layer Class Diagrams
 
-##### 4.2.4.6.2. Bounded Context Database Design Diagram
+##### 2.6.4.6.2. Bounded Context Database Design Diagram
 
-### 4.2.5. Bounded Context: Reviews  
+### 2.6.5. Bounded Context: Reviews
 
-### 4.2.5.1. Domain Layer  
+### 2.6.5.1. Domain Layer
 
 #### Aggregates  
 
@@ -2347,7 +2275,7 @@ Representa el nombre de la empresa de un proveedor, asegurando que no sea vacío
 
 ---
 
-### 4.2.5.2. Interface Layer  
+### 2.6.5.2. Interface Layer
 
 **ReviewsController**  
 Expone operaciones HTTP para gestionar reseñas de clientes en la plataforma.  
@@ -2367,7 +2295,7 @@ Expone operaciones HTTP para gestionar perfiles de proveedores.
 
 ---
 
-### 4.2.5.3. Application Layer  
+### 2.6.5.3. Application Layer
 
 **CreateReviewCommand**  
 Ordena la creación de una reseña asociada a un cliente y un proveedor.  
@@ -2395,7 +2323,7 @@ Ordena la eliminación lógica de un perfil de proveedor.
 
 ---
 
-### 4.2.5.4. Infrastructure Layer  
+### 2.6.5.4. Infrastructure Layer
 
 **ReviewRepository**  
 Accede a la persistencia de las reseñas/reviews, implementando la interfaz de repositorio del dominio.  
@@ -2412,6 +2340,15 @@ Accede a la persistencia de los perfiles de proveedores, implementando la interf
   - `findByUserId(UUID): Optional<Provider>`  
   - `save(Provider): Provider`  
   - `delete(Provider): void`
+
+#### 2.6.5.5. Bounded Context Software Architecture Component Level Diagrams
+
+#### 2.6.5.6. Bounded Context Software Architecture Code Level Diagrams
+
+##### 2.6.5.6.1. Bounded Context Domain Layer Class Diagrams
+
+##### 2.6.5.6.2. Bounded Context Database Design Diagram
+
 
 ### 4.2.6. Reviews Context
 
@@ -2536,62 +2473,54 @@ Accede a la persistencia de las reseñas.
 - save(Review): Review  
 - delete(Review): void  
 
-# Capítulo V: Solution UI/UX Design
-## 5.1. Product design
-### 5.1.1. Style Guidelines
-#### 5.1.1.1. General Style Guidelines
-### 5.1.2. Information Architecture
-#### 5.1.2.1. Organization Systems
-#### 5.1.2.2. Labelling Systems
-#### 5.1.2.3. SEO Tags and Meta Tags
-#### 5.1.2.4. Searching Systems
-#### 5.1.2.5. Navigation Systems
+# Capítulo II: Solution UI/UX Design
+## 3.1. Product design
+### 3.1.1. Style Guidelines
+#### 3.1.1.1. General Style Guidelines
+### 3.1.2. Information Architecture
+#### 3.1.2.1. Organization Systems
+#### 3.1.2.2. Labelling Systems
+#### 3.1.2.3. SEO Tags and Meta Tags
+#### 3.1.2.4. Searching Systems
+#### 3.1.2.5. Navigation Systems
+### 3.1.3. Landing Page UI Design
+#### 3.1.3.1. Landing Page Wireframe
+#### 3.1.3.2. Landing Page Mock-up
+###  3.1.4. Mobile Applications UX/UI Design
+#### 3.1.4.1. Mobile Applications Wireframes
+#### 3.1.4.2. Mobile Applications Wireflow Diagrams
+#### 3.1.4.3. Mobile Applications Mock-ups
+#### 3.1.4.4. Mobile Applications User Flow Diagrams
+#### 3.1.4.5. Mobile Applications Prototyping
 
-# Capítulo V: Solution UI/UX Design
-## 5.1. Product design
-### 5.1.1. Style Guidelines
-#### 5.1.1.1. General Style Guidelines
-### 5.1.2. Information Architecture
-#### 5.1.2.1. Organization Systems
-#### 5.1.2.2. Labelling Systems
-#### 5.1.2.3. SEO Tags and Meta Tags
-#### 5.1.2.4. Searching Systems
-#### 5.1.2.5. Navigation Systems
-### 5.1.3. Landing Page UI Design
-#### 5.1.3.1. Landing Page Wireframe
-#### 5.1.3.2. Landing Page Mock-up
-### 5.1.4. Mobile Applications UX/UI Design
-#### 5.1.4.1. Mobile Applications Wireframes
-#### 5.1.4.2. Mobile Applications Wireflow Diagrams
-#### 5.1.4.3. Mobile Applications Mock-ups
-#### 5.1.4.4. Mobile Applications User Flow Diagrams
-#### 5.1.4.5. Mobile Applications Prototyping
-
-# Capítulo VI: Product Implementation, Validation & Deployment
-## 6.1. Software Configuration Management
-### 6.1.1. Software Development Environment Configuration
-### 6.1.2. Source Code Management
-### 6.1.3. Source Code Style Guide & Conventions
-### 6.1.4. Software Deployment Configuration
-## 6.2. Landing Page & Mobile Application Implementation
-### 6.2.X. Sprint n
-#### 6.2.X.1. Sprint Planning n
-#### 6.2.X.2. Sprint Backlog n
-#### 6.2.X.3. Development Evidence for Sprint Review
-#### 6.2.X.4. Testing Suite Evidence for Sprint Review
-#### 6.2.X.5. Execution Evidence for Sprint Review
-#### 6.2.X.6. Services Documentation Evidence for Sprint Review
-#### 6.2.X.7. Software Deployment Evidence for Sprint Review
-#### 6.2.X.8. Team Collaboration Insights during Sprint
-#### 6.3. Validation Interviews
-#### 6.3.1. Diseño de Entrevistas
-#### 6.3.2. Registro de Entrevistas
-#### 6.3.3. Evaluaciones según heurísticas
-## 6.4. Video About-the-Product
+# Capítulo IV: Product Implementation, Validation
+## 4.1. Software Configuration Management
+### 4.1.1. Software Development Environment Configuration
+### 4.1.2. Source Code Management
+### 4.1.3. Source Code Style Guide & Conventions
+### 4.1.4. Software Deployment Configuration
+## 4.2. Landing Page & Mobile Application Implementation
+### 4.2.X. Sprint n
+#### 4.2.X.1. Sprint Planning n
+#### 4.2.X.2. Sprint Backlog n
+#### 4.2.X.3. Development Evidence for Sprint Review
+#### 4.2.X.4. Testing Suite Evidence for Sprint Review
+#### 4.2.X.5. Execution Evidence for Sprint Review
+#### 4.2.X.6. Services Documentation Evidence for Sprint Review
+#### 4.2.X.7. Software Deployment Evidence for Sprint Review
+#### 4.2.X.8. Team Collaboration Insights during Sprint
+#### 4.3. Validation Interviews
+#### 4.3.1. Diseño de Entrevistas
+#### 4.3.2. Registro de Entrevistas
+#### 4.3.3. Evaluaciones según heurísticas
+## 4.4. Video About-the-Product
 
 # Conclusiones
-## Conclusiones y recomendaciones.
-## Video About-the-team
+## Conclusiones y recomendaciones
+## Video App Validation
+## Video About the Product
+## Video About the Team
 
+# Glosario
 # Bibliografía
 # Anexos
