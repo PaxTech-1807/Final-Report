@@ -2314,8 +2314,6 @@ Representa una reseña/review de un cliente sobre un proveedor de servicios. Est
   - `getLastName(): String`  
   - `getFullName(): String`  
 
----
-
 **Provider**  
 Representa el perfil de un proveedor que ofrece servicios en la plataforma. Está vinculado a un usuario de IAM y contiene el nombre de la empresa.  
 - **Atributos**  
@@ -2327,8 +2325,6 @@ Representa el perfil de un proveedor que ofrece servicios en la plataforma. Est�
 - **Funciones**  
   - `Provider(CreateProviderCommand command, User user)`  
   - `getCompanyName(): String`  
-
----
 
 #### Value Objects  
 
@@ -2343,8 +2339,6 @@ Encapsula el nombre y apellido de un cliente, garantizando consistencia y reglas
   - `getLastName(): String`  
   - `getFullName(): String`  
 
----
-
 **CompanyName**  
 Representa el nombre de la empresa de un proveedor, asegurando que no sea vacío y cumpla con las reglas del dominio.  
 - **Atributos**  
@@ -2352,8 +2346,6 @@ Representa el nombre de la empresa de un proveedor, asegurando que no sea vacío
 - **Funciones**  
   - `CompanyName(value: String)`  
   - `getValue(): String`  
-
----
 
 ### 4.2.5.2. Interface Layer  
 
@@ -2372,8 +2364,6 @@ Expone operaciones HTTP para gestionar perfiles de proveedores.
   - `getProviderById(UUID)`  
   - `updateProvider(UpdateProviderCommand)`  
   - `deleteProvider(UUID)`  
-
----
 
 ### 4.2.5.3. Application Layer  
 
@@ -2401,8 +2391,6 @@ Permite modificar datos del perfil de un proveedor existente.
 Ordena la eliminación lógica de un perfil de proveedor.  
 - **Atributos:** `providerId: UUID`  
 
----
-
 ### 4.2.5.4. Infrastructure Layer  
 
 **ReviewRepository**  
@@ -2419,8 +2407,124 @@ Accede a la persistencia de los perfiles de proveedores, implementando la interf
   - `findById(UUID): Optional<Provider>`  
   - `findByUserId(UUID): Optional<Provider>`  
   - `save(Provider): Provider`  
-  - `delete(Provider): void`  
+  - `delete(Provider): void`
 
+### 4.2.6. Reviews Context
+
+#### 4.2.6.1. Domain Layer - Reviews
+
+**Aggregates**  
+**Review**  
+Representa una reseña hecha por un cliente hacia un servicio.  
+**Atributos:**  
+- id: Long  
+- serviceId: ServiceId  
+- clientId: ClientId  
+- rating: Rating  
+- comment: Comment  
+- createdAt: Date  
+
+**Funciones:**  
+- Review(CreateReviewCommand command)  
+- update(UpdateReviewCommand command)  
+- getServiceId(): ServiceId  
+- getClientId(): ClientId  
+- getRating(): Rating  
+- getComment(): Comment  
+- getCreatedAt(): Date  
+
+**Value Objects**  
+- **Rating**  
+  Representa la calificación del servicio (escala del 1 al 5).  
+  - Atributos: value: Int  
+  - Funciones: Rating(value: Int), getValue(): Int  
+
+- **Comment**  
+  Contiene el texto de la reseña del cliente.  
+  - Atributos: value: String  
+  - Funciones: Comment(value: String), getValue(): String  
+
+- **ServiceId**  
+  Identificador único del servicio al que pertenece la reseña.  
+  - Atributos: id: Long  
+  - Funciones: ServiceId(value: Long), getValue(): Long  
+
+- **ClientId**  
+  Identificador único del cliente que emite la reseña.  
+  - Atributos: id: Long  
+  - Funciones: ClientId(value: Long), getValue(): Long  
+
+#### 4.2.6.2. Interface Layer
+
+**Controllers**  
+**ReviewController**  
+Expone operaciones HTTP para gestionar las reseñas de los servicios.  
+**Funciones:**  
+- createReview(CreateReviewCommand)  
+- updateReview(UpdateReviewCommand)  
+- getReviewsByServiceId(Long)  
+- getReviewsByClientId(Long)  
+- getReviewById(Long)  
+
+**Assemblers**  
+- **ReviewResourceFromEntityAssembler**  
+  Convierte entidades de dominio en recursos expuestos por la API.  
+  - Funciones: toResource(Review)  
+
+- **CreateReviewCommandFromResourceAssembler**  
+  Convierte recursos HTTP en comandos de creación.  
+  - Funciones: toCommandFromResource(CreateReviewResource)  
+
+- **UpdateReviewCommandFromResourceAssembler**  
+  Convierte recursos HTTP en comandos de actualización.  
+  - Funciones: toCommandFromResource(UpdateReviewResource)  
+
+**Resources**  
+- CreateReviewResource  
+- UpdateReviewResource  
+- ReviewResource  
+
+#### 4.2.6.3. Application Layer
+
+**Commands**  
+- **CreateReviewCommand**  
+  Ordena la creación de una nueva reseña.  
+  - Atributos: serviceId: Long, clientId: Long, rating: Int, comment: String  
+
+- **UpdateReviewCommand**  
+  Permite modificar los datos de una reseña existente.  
+  - Atributos: reviewId: Long, rating: Int?, comment: String?  
+
+**Queries**  
+- **GetReviewsByServiceIdQuery**  
+  Permite obtener todas las reseñas asociadas a un servicio.  
+
+- **GetReviewsByClientIdQuery**  
+  Permite obtener todas las reseñas hechas por un cliente.  
+
+- **GetReviewByIdQuery**  
+  Permite obtener una reseña específica por ID.  
+
+**Services**  
+- **ReviewCommandService**  
+  Define operaciones de creación y actualización.  
+  - Funciones: createReview(CreateReviewCommand), updateReview(UpdateReviewCommand)  
+
+- **ReviewQueryService**  
+  Define operaciones de consulta.  
+  - Funciones: getReviewsByServiceId(Long), getReviewsByClientId(Long), getReviewById(Long)  
+
+#### 4.2.6.4. Infrastructure Layer
+
+**Repositories**  
+**ReviewRepository**  
+Accede a la persistencia de las reseñas.  
+**Funciones:**  
+- findById(Long): Optional<Review>  
+- findByServiceId(Long): List<Review>  
+- findByClientId(Long): List<Review>  
+- save(Review): Review  
+- delete(Review): void  
 
 # Capítulo V: Solution UI/UX Design
 ## 5.1. Product design
