@@ -88,19 +88,17 @@
 
 | Version | Fecha      | Autor                            | Descripción de modificación                                                                            |
 |---------|------------|----------------------------------|--------------------------------------------------------------------------------------------------------|
-| 1.0     | 01/07/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |                                                                                                        |
-| 1.1     | 03/07/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |                                                                                                        |
-| 1.2     | 05/07/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |                                                                                                        |
-| 1.3     | 07/07/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |                                                                                                        |
-| 1.4     | 08/07/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |                                                                                                        |
-| 1.5     | 09/07/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |                                                                                                        |
-| 1.6     | 11/07/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |                                                                                                        |
-| 1.7     | 13/07/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |                                                                                                        |
-| 1.8     | 16/07/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |                                                                                                        |
-| 1.9     | 17/07/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |                                                                                                        |
-| 1.10    | 19/07/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |                                                                                                        |
-| 1.11    | 22/07/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |                                                                                                        |
-| 1.12    | 23/07/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |                                                                                                        |
+| 1.0     | 01/08/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |                             Creación del documento de trabajo en formato markdown                                                                           |
+| 1.1     | 03/08/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |  Elaboración del Capitulo 1                                                                                                      |
+| 1.2     | 05/08/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |                 Elaboración de Competidores y Entrevistas                                                                                       |
+| 1.3     | 07/08/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |                           Elaboración del Needfinding                                                                             |
+| 1.4     | 08/08/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |     Elaboración de los *Requirements specification*                                                                                                   |
+| 1.5     | 09/08/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |  Elaboración del *EventStorming*                                                                                                      |
+| 1.6     | 11/08/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |                           Elaboración del *Context Mapping*                                                                             |
+| 1.7     | 13/08/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  | Elaboración del *Software Architecture*                                                                                                       |
+| 1.8     | 16/08/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |                   Elaboración del  *Tactical-Level Domain-Driven Design*                                                                                      |
+| 1.9     | 17/08/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |       Elaboración de la estructura de los Bounded Context (IAM, Services, Profiles,)                                                                                                 |
+| 1.10    | 19/08/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |      Elaboración de la estructura de los Bounded Context (Shared, Reservations, Workers, Reviews)                                                                                                    |
 
 </div>
 
