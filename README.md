@@ -1653,8 +1653,26 @@ Los diagramas de componentes detallan la estructura interna de cada contenedor d
    <img src="img/component-diagram-iam.png" alt="iam-context"/>
 </div>
 
-#### 4.1.3.3. Software Architecture Deployment Diagrams
+#### 4.1.3.4. Software Architecture Deployment Diagrams
 
+El diagrama de despliegue muestra la distribución física del sistema uTime en la infraestructura de Azure, ilustrando cómo los componentes del software se despliegan sobre los servicios en la nube. Este diagrama visualiza la arquitectura donde las aplicaciones cliente (navegadores web y aplicación móvil nativa) interactúan con el backend hospedado en Azure App Service, incluyendo la Landing Page, la API REST y la base de datos SQL gestionada.
+
+<div align="center">
+   <img src="img/deployment-diagram.png" alt="deployment-diagram"/>
+</div>
+
+**Explicación del diagrama de despliegue:**
+
+El sistema uTime se despliega utilizando una arquitectura de tres capas en Azure App Service:
+
+- **Dispositivos cliente**: Los usuarios acceden al sistema a través de navegadores web (PC y móvil) que se conectan a la Landing Page, y mediante la aplicación móvil nativa que se comunica directamente con la API REST.
+
+- **Azure App Service**: Hospeda tres componentes principales:
+  - **Landing Page**: Página web accesible desde navegadores
+  - **Web service (API REST App)**: Servicio backend que maneja la lógica de negocio
+  - **SQL Database server**: Base de datos gestionada para el almacenamiento de datos
+
+- **Comunicación**: La aplicación móvil nativa se comunica directamente con la API REST mediante peticiones HTTP, mientras que los navegadores web acceden a la Landing Page, la cual a su vez puede consumir servicios de la API REST internamente.
 
 ## 4.2. Tactical-Level Domain-Driven Design
 ### 4.2.X. Bounded Context: <Bounded Context Name>
