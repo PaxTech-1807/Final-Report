@@ -1588,7 +1588,43 @@ Contiene el aggregate Services
 ![DomainMessageFlowsModeling2](img/scenario-modeling2.png)
 
 #### 4.1.1.3. Bounded Context Canvases
+
+
+
 ### 4.1.2. Context Mapping
+
+El Context Mapping en DDD representa, de forma explícita, cómo interactúan los bounded contexts entre sí y con sistemas o equipos externos. Este mapa permite identificar direcciones de influencia (upstream/downstream), contratos de integración, riesgos de propagación de modelos y niveles de acoplamiento aceptados. Con base en ello, se decide dónde estandarizar, dónde traducir (proteger) y dónde preservar la independencia para que cada contexto pueda evolucionar de manera segura y predecible.
+
+
+**Context Map Patterns**
+
+**Open Host Service (OHS)**
+
+Un contexto upstream publica capacidades mediante un contrato claro y estable (API/endpoints/eventos), de modo que múltiples consumidores downstream puedan integrarse sin conocer su modelo interno. Favorece el reúso y reduce integraciones ad-hoc.
+En nuestro proyecto, el bounded context IAM expone verificación de identidad y emisión/validación de tokens y claims, consumidos por Profiles, Reservations, Reviews y Services.
+
+<img src="img/Pattern1.png" alt="Pattern">
+
+**Conformist (CF)**
+
+El downstream adopta el modelo del upstream sin traducción. Se gana rapidez de integración, pero se asumen sus decisiones de diseño y semántica.
+En este proyecto, Reservations se alinea al modelo de cobro y webhooks de Stripe, empleando sus estados y eventos nativos para el procesamiento de pagos.
+
+<img src="img/Pattern2.png" alt="Pattern">
+
+**Customer/Supplier (C/S)**
+
+Relación proveedor–cliente entre contextos, el supplier (upstream) prioriza parte de su backlog según las necesidades del customer (downstream), para habilitar sus objetivos.
+En nuestro proyecto, Reservations actúa como customer de Workers para consultar disponibilidad y bloquear TimeSlots; influye en mejoras orientadas a evitar overbooking.
+
+<img src="img/Pattern3.png" alt="Pattern">
+
+**Partnership (P)**
+
+Relación simétrica de interdependencia, los contextos coordinan diseño y releases para evitar bloqueos recíprocos y asegurar coherencia funcional.
+En este proyecto, Profiles y Services coordinan cambios de catálogo y datos del proveedor (nombre comercial, descripciones, imágenes) para publicar actualizaciones en el mismo ciclo.
+
+<img src="img/Pattern4.png" alt="Pattern">
 
 
 ### 4.1.3. Software Architecture
