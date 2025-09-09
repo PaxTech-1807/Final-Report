@@ -1994,6 +1994,39 @@ Accede a la persistencia de los intervalos de tiempo, implementando la interfaz 
 
 <img src="img/reservation_database.png" alt="reservation">
 
+### 4.2.3 Bounded Context: IAM
+
+#### 4.3.4.1. Domain
+
+
+
+#### 4.3.4.2. Interface Layer
+
+
+
+#### 4.3.4.3. Application Layer
+
+
+
+#### 4.3.4.4. Infrastructure Layer
+
+
+
+#### 4.3.4.5. Bounded Context Software Architecture Component Level Diagrams
+
+
+
+#### 4.3.4.6. Bounded Context Software Architecture Code Level Diagrams
+
+
+
+#### 4.3.4.6.1. Bounded Context Domain Layer Class Diagrams
+
+
+
+#### 4.3.4.6.2. Bounded Context Database Design Diagram
+
+
 # Capítulo V: Solution UI/UX Design
 ## 5.1. Product design
 ### 5.1.1. Style Guidelines
