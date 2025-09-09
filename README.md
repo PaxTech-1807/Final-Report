@@ -119,7 +119,7 @@ Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió l
 |-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Luciana Choquehuanca  |              |
 | Britney Qqueso        |              |
-| Gael Rivera           |              |
+| Gael Rivera           |    Entrevistas, User Stories, Technical Stories, Spike Stories, Impact Mapping, Product Backlog, Software Architecture Context, Container and Deployment Diagrams, Bounded Context IAM.  |
 | Natalia Roman         |              |
 | Jorge Yum             |              |
 
