@@ -1855,7 +1855,7 @@ Accede a la persistencia de los perfiles de proveedores, implementando la interf
 ![profiles-class-diagram](img/profile-context.svg)
 
 ##### 4.2.1.6.2. Bounded Context Database Design Diagram
-![provider and client database diagram](img/provider-client-diagram.png)
+![provider and client database diagram](img/BD-Diagram-Profiles.png)
 ### 4.2.2. Bounded Context: Reservations
 #### 4.2.2.1. Domain Layer
 
@@ -2165,7 +2165,7 @@ El diagrama de clases del dominio IAM presenta la estructura interna de las enti
 El diagrama de base de datos del bounded context IAM muestra la estructura de las tablas, sus atributos y las restricciones de integridad referencial que garantizan la consistencia de los datos de autenticación y autorización.
 
 <div align="center">
-   <img src="img/db-diagram.png" alt="db-diagram-iam"/>
+   <img src="img/BD-Diagram-IAM.png" alt="db-diagram-iam"/>
 </div>
 
 
@@ -2290,6 +2290,7 @@ Accede a la persistencia de los turnos (Shift), siguiendo el patrón de reposito
 ##### 4.2.4.6.1. Bounded Context Domain Layer Class Diagrams
 
 ##### 4.2.4.6.2. Bounded Context Database Design Diagram
+![worker database diagram](img/BD-Diagram-Workers.png)
 
 ### 4.2.5. Bounded Context: Reviews  
 
@@ -2535,6 +2536,8 @@ Accede a la persistencia de las reseñas.
 - findByClientId(Long): List<Review>  
 - save(Review): Review  
 - delete(Review): void  
+
+
 
 # Capítulo V: Solution UI/UX Design
 ## 5.1. Product design
