@@ -2091,7 +2091,7 @@ El diagrama de clases del dominio IAM presenta la estructura interna de las enti
 El diagrama de base de datos del bounded context IAM muestra la estructura de las tablas, sus atributos y las restricciones de integridad referencial que garantizan la consistencia de los datos de autenticación y autorización.
 
 <div align="center">
-   <img src="img/db-diagram.png" alt="db-diagram-iam"/>
+   <img src="img/BD-Diagram-IAM.png" alt="db-diagram-iam"/>
 </div>
 
 
