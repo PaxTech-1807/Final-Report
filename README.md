@@ -2293,6 +2293,134 @@ Accede a la persistencia de los turnos (Shift), siguiendo el patrón de reposito
 
 ##### 4.2.4.6.2. Bounded Context Database Design Diagram
 
+### 4.2.5. Bounded Context: Reviews  
+
+### 4.2.5.1. Domain Layer  
+
+#### Aggregates  
+
+**Review**  
+Representa una reseña/review de un cliente sobre un proveedor de servicios. Está vinculada a un usuario de IAM y almacena su contenido completo.  
+- **Atributos**  
+  - `id: UUID`  
+  - `fullname: String` *(referencia a IAM)*  
+  - `user: User` *(referencia a IAM)*  
+  - `createdAt: LocalDateTime`  
+  - `updatedAt: LocalDateTime`  
+- **Funciones**  
+  - `Review(CreateReviewCommand command, User user)`  
+  - `getUser(): User`  
+  - `getFirstName(): String`  
+  - `getLastName(): String`  
+  - `getFullName(): String`  
+
+---
+
+**Provider**  
+Representa el perfil de un proveedor que ofrece servicios en la plataforma. Está vinculado a un usuario de IAM y contiene el nombre de la empresa.  
+- **Atributos**  
+  - `id: UUID`  
+  - `companyName: CompanyName`  
+  - `user: User` *(referencia a IAM)*  
+  - `createdAt: LocalDateTime`  
+  - `updatedAt: LocalDateTime`  
+- **Funciones**  
+  - `Provider(CreateProviderCommand command, User user)`  
+  - `getCompanyName(): String`  
+
+---
+
+#### Value Objects  
+
+**FullName**  
+Encapsula el nombre y apellido de un cliente, garantizando consistencia y reglas de validación.  
+- **Atributos**  
+  - `firstName: String`  
+  - `lastName: String`  
+- **Funciones**  
+  - `FullName(firstName: String, lastName: String)`  
+  - `getFirstName(): String`  
+  - `getLastName(): String`  
+  - `getFullName(): String`  
+
+---
+
+**CompanyName**  
+Representa el nombre de la empresa de un proveedor, asegurando que no sea vacío y cumpla con las reglas del dominio.  
+- **Atributos**  
+  - `value: String`  
+- **Funciones**  
+  - `CompanyName(value: String)`  
+  - `getValue(): String`  
+
+---
+
+### 4.2.5.2. Interface Layer  
+
+**ReviewsController**  
+Expone operaciones HTTP para gestionar reseñas de clientes en la plataforma.  
+- **Funciones**  
+  - `createReview(CreateReviewCommand)`  
+  - `getReviewById(UUID)`  
+  - `updateReview(UpdateReviewCommand)`  
+  - `deleteReview(UUID)`  
+
+**ProvidersController**  
+Expone operaciones HTTP para gestionar perfiles de proveedores.  
+- **Funciones**  
+  - `createProvider(CreateProviderCommand)`  
+  - `getProviderById(UUID)`  
+  - `updateProvider(UpdateProviderCommand)`  
+  - `deleteProvider(UUID)`  
+
+---
+
+### 4.2.5.3. Application Layer  
+
+**CreateReviewCommand**  
+Ordena la creación de una reseña asociada a un cliente y un proveedor.  
+- **Atributos:** `firstName: String`, `lastName: String`, `userId: UUID`, `content: String`  
+
+**UpdateReviewCommand**  
+Permite modificar el contenido de una reseña existente.  
+- **Atributos:** `reviewId: UUID`, `content: String?`  
+
+**DeleteReviewCommand**  
+Ordena la eliminación lógica de una reseña.  
+- **Atributos:** `reviewId: UUID`  
+
+**CreateProviderCommand**  
+Ordena la creación de un perfil de proveedor asociado a un usuario de IAM.  
+- **Atributos:** `companyName: String`, `userId: UUID`  
+
+**UpdateProviderCommand**  
+Permite modificar datos del perfil de un proveedor existente.  
+- **Atributos:** `providerId: UUID`, `companyName: String?`  
+
+**DeleteProviderCommand**  
+Ordena la eliminación lógica de un perfil de proveedor.  
+- **Atributos:** `providerId: UUID`  
+
+---
+
+### 4.2.5.4. Infrastructure Layer  
+
+**ReviewRepository**  
+Accede a la persistencia de las reseñas/reviews, implementando la interfaz de repositorio del dominio.  
+- **Funciones**  
+  - `findById(UUID): Optional<Review>`  
+  - `findByUserId(UUID): Optional<Review>`  
+  - `save(Review): Review`  
+  - `delete(Review): void`  
+
+**ProviderRepository**  
+Accede a la persistencia de los perfiles de proveedores, implementando la interfaz de repositorio del dominio.  
+- **Funciones**  
+  - `findById(UUID): Optional<Provider>`  
+  - `findByUserId(UUID): Optional<Provider>`  
+  - `save(Provider): Provider`  
+  - `delete(Provider): void`  
+
 
 # Capítulo V: Solution UI/UX Design
 ## 5.1. Product design
