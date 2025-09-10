@@ -121,7 +121,7 @@ Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió l
 | Britney Qqueso        |              |
 | Gael Rivera           |    Entrevistas, User Stories, Technical Stories, Spike Stories, Impact Mapping, Product Backlog, Software Architecture Context, Container and Deployment Diagrams, Bounded Context IAM.  |
 | Natalia Roman         |              |
-| Jorge Yum             |              |
+| Jorge Yum             |      Entrevistas, Needfinding, Eventstorming, Domain Message Flow Modelling, Bounded context Profiles        |
 
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización PaxTech.
