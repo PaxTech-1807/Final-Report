@@ -274,6 +274,33 @@ Se explican las ramas más prominentes:
 <br>
 
 # Objetivos SMART
+<Table>
+   <thead>
+      <tr>
+         <th>Nombre del estudiante</th>
+         <th>Descripcion del objetivo</th>
+         <th>Fecha de inicio</th>
+         <th>Fecha de cumplimiento esperada</th>
+         <th>¿Qué se va a lograr?</th>
+         <th>¿Tiene KPI o métrica clara?</th>
+         <th>¿Es retador y va más allá de sus funciones?</th>
+         <th>¿Está alineado a la estrategia?</th>
+         <th>¿Cuándo se cumplirá?</th>
+      </tr>
+   </thead>
+   <tbody>
+   <tr>
+      <td> Jorge Suin Yum Gonzales </td>
+      <td> Investigar y mejorar mis habilidades en la programacion de aplicaciones en android, asimismo mejores practicas de desarrollo de software, para asi poder aportar al proyecto y a mi desarrollo profesional. </td>
+      <td> 09/10/2025 </td>
+      <td> 20/12/2025 </td>
+      <td> Mejorar mis habilidades en la programacion de aplicaciones en android usando android studio, diseñar el frontend para el proyecto PaxTech, asimismo iñnvestigar mejores practicas de desarrollo de software. </td>
+      <td> La metrica estara definido por la opinions de los entrevistados durante las entrevista de validacion del producto y tambien de la opinion de mis colegas.</td>
+      <td> Si, ya que el objetivo va mas alla de mis funciones, ya que me ayudara a mejorar mis habilidades y conocimientos en la programacion de aplicaciones en android y mejores practicas de desarrollo de software. </td>
+      <td> Si, ya que el objetivo esta alineado a la estrategia del proyecto PaxTech. </td>
+      <td> El objetivo se cumplira al terminar de desarrollar la aplicacion movil </td>
+   </tr>
+</table>
 
 # Capítulo I: Presentación
 
