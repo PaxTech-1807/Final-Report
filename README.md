@@ -138,7 +138,7 @@ Los integrantes son:
 - Britney Qqueso ()
 - Gael Rivera (gael-rs)
 - Natalia Roman (natRC2005)
-- Jorge Yum (myussu)
+- Jorge Yum (jsyumg, myussu)
 
 Se explican las ramas más prominentes:
 
