@@ -120,7 +120,7 @@ Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió l
 | Luciana Choquehuanca  |              |
 | Britney Qqueso        |              |
 | Gael Rivera           |    Entrevistas, User Stories, Technical Stories, Spike Stories, Impact Mapping, Product Backlog, Software Architecture Context, Container and Deployment Diagrams, Bounded Context IAM.  |
-| Natalia Roman         |              |
+| Natalia Roman         |      Entrevistas, Eventstorming, Candidate Context Discovery, Bounded Context Reservations        |
 | Jorge Yum             |      Entrevistas, Needfinding, Eventstorming, Domain Message Flow Modelling, Bounded context Profiles        |
 
 
@@ -137,7 +137,7 @@ Los integrantes son:
 - Luciana Choquehuanca () 
 - Britney Qqueso ()
 - Gael Rivera (gael-rs)
-- Natalia Roman  ()
+- Natalia Roman (natRC2005)
 - Jorge Yum (myussu)
 
 Se explican las ramas más prominentes:
@@ -292,13 +292,24 @@ Se explican las ramas más prominentes:
    <tr>
       <td> Jorge Suin Yum Gonzales </td>
       <td> Investigar y mejorar mis habilidades en la programacion de aplicaciones en android, asimismo mejores practicas de desarrollo de software, para asi poder aportar al proyecto y a mi desarrollo profesional. </td>
-      <td> 09/10/2025 </td>
+      <td> 10/09/2025 </td>
       <td> 20/12/2025 </td>
       <td> Mejorar mis habilidades en la programacion de aplicaciones en android usando android studio, diseñar el frontend para el proyecto PaxTech, asimismo iñnvestigar mejores practicas de desarrollo de software. </td>
       <td> La metrica estara definido por la opinions de los entrevistados durante las entrevista de validacion del producto y tambien de la opinion de mis colegas.</td>
-      <td> Si, ya que el objetivo va mas alla de mis funciones, ya que me ayudara a mejorar mis habilidades y conocimientos en la programacion de aplicaciones en android y mejores practicas de desarrollo de software. </td>
+      <td> Si, ya que el objetivo va mas allá de mis funciones, ya que me ayudara a mejorar mis habilidades y conocimientos en la programacion de aplicaciones en android y mejores practicas de desarrollo de software. </td>
       <td> Si, ya que el objetivo esta alineado a la estrategia del proyecto PaxTech. </td>
-      <td> El objetivo se cumplira al terminar de desarrollar la aplicacion movil </td>
+      <td> El objetivo se cumplirá al terminar de desarrollar la aplicación móvil </td>
+   </tr>
+   <tr>
+      <td> Natalia Bertha Roman Cruz </td>
+      <td> Aprender y mejorar mis habilidades de programación tanto para aplicaciones web como móviles en distintos lenguajes, así como poder identificar la herramienta adecuada para trabajar en cada caso. Además, practicar la parte de planteamiento y arquitectura del proyecto para lograr optimizar el flujo de su implementación. </td>
+      <td> 10/09/2025 </td>
+      <td> 20/12/2025 </td>
+      <td> Aprender a crear aplicaciones móviles en distintos programas desde el planteamiento hasta su implementación final para el usuario asegurando un uso adecuado de las herramientas y un diseño amigable y comprensible para nuestro público objetivo. </td>
+      <td> Los resultados obtenidos en base a si se logró el cometido de las aplicaciones a trabajar se medirán en cuanto a la opinión de nuestros usuarios finales, su nivel de satisfacción y sugerencias para futuras versiones. </td>
+      <td> Si, dado que aún poseo un bajo nivel de conocimiento en cuanto al desarrollo de aplicaciones móviles, mas no considero que vaya más allá de mis capacidades o funciones, por lo que la implementación de las aplicaciones propuestas en un objetivo lograble en el futuro cercano. </td>
+      <td> Si, dado que las aplicaciones a implementar en PaxTech van de mano con la idea de partida y contribuye a la solución del problema identificado inicialmente. </td>
+      <td> El objetivo se cumplirá una vez terminadas nuestras aplicaciones y teniendo a nuestros primeros usuarios satisfechos. </td>
    </tr>
 </table>
 
