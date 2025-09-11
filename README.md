@@ -311,6 +311,17 @@ Se explican las ramas más prominentes:
       <td> Si, dado que las aplicaciones a implementar en PaxTech van de mano con la idea de partida y contribuye a la solución del problema identificado inicialmente. </td>
       <td> El objetivo se cumplirá una vez terminadas nuestras aplicaciones y teniendo a nuestros primeros usuarios satisfechos. </td>
    </tr>
+   <tr>
+      <td> Eduardo Gael Rivera Sosa </td>
+      <td> Desarrollar y perfeccionar mis competencias en arquitectura de software y diseño de sistemas escalables, enfocándome en la implementación de patrones de Domain-Driven Design y metodologías ágiles para crear una aplicación móvil robusta y de alta calidad que supere las expectativas de nuestros usuarios objetivo. </td>
+      <td> 10/09/2025 </td>
+      <td> 20/12/2025 </td>
+      <td> Implementar una arquitectura de software sólida y escalable, desarrollar aplicaciones móviles con una interfaz de usuario intuitiva y atractiva, aplicar métodos de seguridad robustos para proteger la información de los usuarios, y utilizar metodologías ágiles para garantizar que uTime sea una aplicación móvil innovadora y funcional que revolucione la gestión de citas en el sector belleza. </td>
+      <td> La métrica estará definida por la evaluación técnica de la arquitectura implementada, la funcionalidad del sistema de autenticación, la opinión de los usuarios durante las entrevistas de validación del producto y la retroalimentación positiva del equipo de desarrollo. </td>
+      <td> Si, ya que el objetivo va más allá de mis funciones básicas, ya que me ayudará a desarrollar habilidades avanzadas en arquitectura de software, patrones de diseño complejos y liderazgo técnico en proyectos de gran escala, contribuyendo significativamente a mi crecimiento profesional. </td>
+      <td> Si, ya que el objetivo está completamente alineado a la estrategia del proyecto PaxTech, donde la arquitectura robusta y el diseño centrado en el usuario son fundamentales para el éxito de uTime en el mercado. </td>
+      <td> El objetivo se cumplirá al finalizar el desarrollo completo de la aplicación móvil con una arquitectura sólida y funcionalidades implementadas exitosamente. </td>
+   </tr>
 </table>
 
 # Capítulo I: Presentación
