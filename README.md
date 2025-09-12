@@ -388,7 +388,19 @@ Se explican las ramas más prominentes:
       <td> Si, ya que el objetivo está completamente alineado a la estrategia del proyecto PaxTech, donde la arquitectura robusta y el diseño centrado en el usuario son fundamentales para el éxito de uTime en el mercado. </td>
       <td> El objetivo se cumplirá al finalizar el desarrollo completo de la aplicación móvil con una arquitectura sólida y funcionalidades implementadas exitosamente. </td>
    </tr>
-</table>
+   <tr>
+      <td> Luciana Carolina Choquehuanca Núñez </td>
+      <td> Desarrollar y fortalecer mis competencias en diseño de interfaces (UI/UX) y en la definición de flujos de usuario, aplicando buenas prácticas de usabilidad y consistencia visual, con el fin de aportar a la construcción de FinWise, el sistema de asistencia financiera basado en IA y patrones de compra. </td>
+      <td> 10/09/2025 </td>
+      <td> 20/12/2025 </td>
+      <td> Diseñar wireframes y prototipos de alta fidelidad para la aplicación móvil de FinWise, estructurar flujos de usuario claros e intuitivos, y asegurar que la experiencia de uso esté alineada con las necesidades de los usuarios objetivo. </td>
+      <td> Sí, mediante pruebas de usabilidad con usuarios, nivel de satisfacción obtenido en encuestas (mínimo 80% de aceptación) y retroalimentación del equipo de desarrollo durante las validaciones internas. </td>
+      <td> Sí, porque implica aprender y aplicar de manera avanzada principios de diseño centrado en el usuario, prototipado y validación, lo que excede mis tareas básicas y fortalece mis capacidades profesionales. </td>
+      <td> Sí, ya que una interfaz clara, atractiva y funcional es esencial para que FinWise logre posicionarse como una herramienta confiable y fácil de usar en el mercado de finanzas personales. </td>
+      <td> El objetivo se cumplirá al entregar los prototipos finales validados con usuarios y con la aprobación del equipo de desarrollo antes del cierre del ciclo de implementación. </td>
+   </tr>
+   </tbody>
+</Table>
 
 # Capítulo I: Presentación
 
