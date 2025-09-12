@@ -2705,6 +2705,13 @@ Accede a la persistencia de las reseñas.
 
 # Conclusiones
 ## Conclusiones y recomendaciones
+
+### Conclusiones
+
+1. Al haber finalizado la primera entrega del proyecto, hemos llegado a la conclusión de que es importante identificar correctamente aquello que el cliente necesita o lo que tiene más valor para este utilizando las técnicas adecuadas, como las son las entrevsitas y la investigación realizada en nuestro 5W2H. De esta manero, tenemos más claridad en cuanto a en qué aspecto debemos enfocarnos.
+2. Podemos concluir que el realizar un event storming e identificar correctamente los Bounded Contexts que serán necesarios en la solución es primordial dado que es así que se forma la base para comenzar a definir el espacio y orden en que se implementará la solución mediante una aplicación. Así, sabemos para que secuencias se cruzan los Bounded Contexts, repartimos las responsabilidades adecuadamente y evitamos llamar ciertos sectores innecesariamente.
+3. Concluimos que el planteamiento que hemos realizado corresponde congruentemente con la idea de aplicación que deseamos implementar como solución. Esto, dado que considera todos los aspectos que deben ser tratados dados los deseos de nustros segmentos objetivos, así como representa una división justa que nos permitirá desarrollar el producto mínimo viable en poco tiempo.
+
 ## Video App Validation
 ## Video About the Product
 ## Video About the Team
