@@ -389,18 +389,19 @@ Se explican las ramas más prominentes:
       <td> El objetivo se cumplirá al finalizar el desarrollo completo de la aplicación móvil con una arquitectura sólida y funcionalidades implementadas exitosamente. </td>
    </tr>
    <tr>
-      <td> Luciana Carolina Choquehuanca Núñez </td>
-      <td> Desarrollar y fortalecer mis competencias en diseño de interfaces (UI/UX) y en la definición de flujos de usuario, aplicando buenas prácticas de usabilidad y consistencia visual, con el fin de aportar a la construcción de FinWise, el sistema de asistencia financiera basado en IA y patrones de compra. </td>
+      <td> Luciana Carolina Choquehuanca Nuñez </td>
+      <td> Desarrollar y especializar mis competencias en diseño UX/UI y testing de aplicaciones móviles, enfocándome en crear experiencias de usuario excepcionales e implementar estrategias de calidad integral que garanticen la usabilidad, accesibilidad y satisfacción del usuario final en el ecosistema PaxTech. </td>
       <td> 10/09/2025 </td>
       <td> 20/12/2025 </td>
-      <td> Diseñar wireframes y prototipos de alta fidelidad para la aplicación móvil de FinWise, estructurar flujos de usuario claros e intuitivos, y asegurar que la experiencia de uso esté alineada con las necesidades de los usuarios objetivo. </td>
-      <td> Sí, mediante pruebas de usabilidad con usuarios, nivel de satisfacción obtenido en encuestas (mínimo 80% de aceptación) y retroalimentación del equipo de desarrollo durante las validaciones internas. </td>
-      <td> Sí, porque implica aprender y aplicar de manera avanzada principios de diseño centrado en el usuario, prototipado y validación, lo que excede mis tareas básicas y fortalece mis capacidades profesionales. </td>
-      <td> Sí, ya que una interfaz clara, atractiva y funcional es esencial para que FinWise logre posicionarse como una herramienta confiable y fácil de usar en el mercado de finanzas personales. </td>
-      <td> El objetivo se cumplirá al entregar los prototipos finales validados con usuarios y con la aprobación del equipo de desarrollo antes del cierre del ciclo de implementación. </td>
+      <td> Diseñar interfaces intuitivas y atractivas para las aplicaciones móviles del proyecto, implementar prototipos interactivos de alta fidelidad, desarrollar un plan integral de testing (unitario, integración y usabilidad), crear guidelines de UX para el equipo, y establecer métricas de experiencia de usuario que aseguren la calidad y aceptación del producto final. </td>
+      <td> La métrica estará definida por la opinión de los usuarios durante las entrevistas de validación del producto, la facilidad de uso reportada por los usuarios finales, y la evaluación positiva del equipo de desarrollo sobre la calidad e implementabilidad de los diseños creados. </td>
+      <td> Sí, ya que el objetivo trasciende funciones básicas al combinar diseño, investigación de usuarios, psicología aplicada y testing avanzado. Me permitirá desarrollar habilidades en research, design thinking, accesibilidad web, y liderazgo de experiencia de usuario, posicionándome como especialista en UX/UI para proyectos tecnológicos complejos. </td>
+      <td> Sí, está completamente alineado con la estrategia de PaxTech, donde la experiencia de usuario diferencial y la calidad del producto son elementos clave para el éxito comercial y la adopción masiva de nuestras soluciones en el sector belleza y citas. </td>
+      <td> El objetivo se cumplirá al entregar las interfaces finales implementadas, documentación UX completa, plan de testing ejecutado exitosamente, y métricas de usuario que demuestren la excelencia en experiencia de usuario de las aplicaciones PaxTech. </td>
    </tr>
    </tbody>
 </Table>
+
 
 # Capítulo I: Presentación
 
