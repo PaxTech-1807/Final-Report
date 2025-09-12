@@ -2407,18 +2407,174 @@ Accede a la persistencia de los turnos (Shift), siguiendo el patrón de reposito
 
 ##### 2.6.4.6.2. Bounded Context Database Design Diagram
 
-### 2.6.5. Bounded Context: Reviews
+### 2.6.5. Bounded Context: Services
 
-### 2.6.5.1. Domain Layer
+#### 2.6.5.1. Domain Layer
 
-#### Aggregates  
+##### Aggregates
+
+**Service**  
+Representa un servicio ofrecido por un proveedor dentro de la plataforma.  
+- **Atributos**  
+  - `id: Long`  
+  - `providerId: ProviderId`  
+  - `serviceDetails: ServiceDetails`  
+  - `serviceName: ServiceName`  
+  - `duration: Duration`  
+  - `price: Money`  
+  - `status: Status`  
+- **Funciones**  
+  - `Service(CreateServiceCommand command)`  
+  - `update(UpdateServiceCommand command)`  
+  - `getProviderId(): ProviderId`  
+  - `getServiceName(): String`  
+  - `getDuration(): Int`  
+  - `getPrice(): Money`  
+  - `getStatus(): Boolean`  
+
+---
+
+##### Value Objects
+
+**ServiceName**  
+Encapsula el nombre de un servicio.  
+- **Atributos**: `serviceName: String`  
+- **Funciones**: `ServiceName(serviceName: String)`, `getValue(): String`  
+
+**Duration**  
+Representa la duración de un servicio en minutos.  
+- **Atributos**: `duration: Int`  
+- **Funciones**: `Duration(value: Int)`, `getValue(): Int`  
+
+**Status**  
+Define si un servicio está activo o inactivo.  
+- **Atributos**: `status: Boolean`  
+- **Funciones**: `Status(value: Boolean)`, `isActive(): Boolean`  
+
+**ServiceDetails**  
+Contiene la descripción general del servicio.  
+- **Atributos**: `details: String`  
+- **Funciones**: `ServiceDetails(value: String)`, `getValue(): String`  
+
+**ProviderId**  
+Identificador único del proveedor que ofrece el servicio.  
+- **Atributos**: `id: Long`  
+- **Funciones**: `ProviderId(value: Long)`, `getValue(): Long`  
+
+---
+
+#### 2.6.5.2. Interface Layer
+
+##### Controllers
+
+**ServiceController**  
+Expone operaciones HTTP para gestionar los servicios en la plataforma.  
+- **Funciones**  
+  - `createService(CreateServiceCommand)`  
+  - `updateService(UpdateServiceCommand)`  
+  - `getAllServices()`  
+  - `getServiceById(Long)`  
+  - `getServicesByProviderId(Long)`  
+
+---
+
+##### Assemblers
+
+**ServiceResourceFromEntityAssembler**  
+Convierte entidades de dominio en recursos expuestos por la API.  
+- **Funciones**: `toResource(Service)`  
+
+**CreateServiceCommandFromResourceAssembler**  
+Convierte recursos HTTP en comandos de creación.  
+- **Funciones**: `toCommandFromResource(CreateServiceResource)`  
+
+**UpdateServiceCommandFromResourceAssembler**  
+Convierte recursos HTTP en comandos de actualización.  
+- **Funciones**: `toCommandFromResource(UpdateServiceResource)`  
+
+---
+
+##### Resources
+
+- `CreateServiceResource`  
+- `UpdateServiceResource`  
+- `ServiceResource`  
+
+---
+
+#### 2.6.5.3. Application Layer
+
+##### Commands
+
+**CreateServiceCommand**  
+Ordena la creación de un nuevo servicio.  
+- **Atributos**: `serviceName: String`, `duration: Int`, `providerId: Long`, `status: Boolean`  
+
+**UpdateServiceCommand**  
+Permite modificar los datos de un servicio existente.  
+- **Atributos**: `serviceId: Long`, `serviceName: String?`, `duration: Int?`, `status: Boolean?`  
+
+---
+
+##### Queries
+
+**GetAllServicesQuery**  
+Permite obtener todos los servicios.  
+
+**GetServiceByIdQuery**  
+Permite obtener un servicio específico por ID.  
+
+**GetServicesByProviderIdQuery**  
+Permite obtener todos los servicios de un proveedor determinado.  
+
+---
+
+##### Services
+
+**ServiceCommandService**  
+Define operaciones de creación y actualización.  
+- **Funciones**: `createService(CreateServiceCommand)`, `updateService(UpdateServiceCommand)`  
+
+**ServiceQueryService**  
+Define operaciones de consulta.  
+- **Funciones**: `getAllServices()`, `getServiceById(Long)`, `getServicesByProviderId(Long)`  
+
+---
+
+#### 2.6.5.4. Infrastructure Layer
+
+##### Repositories
+
+**ServiceRepository**  
+Accede a la persistencia de los servicios.  
+- **Funciones**  
+  - `findById(Long): Optional<Service>`  
+  - `findByProviderId(Long): List<Service>`  
+  - `findAll(): List<Service>`  
+  - `save(Service): Service`  
+  - `delete(Service): void`  
+
+#### 2.6.5.5. Bounded Context Software Architecture Component Level Diagrams
+
+#### 2.6.5.6. Bounded Context Software Architecture Code Level Diagrams
+
+##### 2.6.5.6.1. Bounded Context Domain Layer Class Diagrams
+
+##### 2.6.5.6.2. Bounded Context Database Design Diagram
+
+
+### 2.6.1. Bounded Context: Reviews
+
+#### 2.6.1.1. Domain Layer
+
+##### Aggregates
 
 **Review**  
 Representa una reseña/review de un cliente sobre un proveedor de servicios. Está vinculada a un usuario de IAM y almacena su contenido completo.  
 - **Atributos**  
   - `id: UUID`  
-  - `fullname: String` *(referencia a IAM)*  
-  - `user: User` *(referencia a IAM)*  
+  - `fullname: String` (referencia a IAM)  
+  - `user: User` (referencia a IAM)  
   - `createdAt: LocalDateTime`  
   - `updatedAt: LocalDateTime`  
 - **Funciones**  
@@ -2433,14 +2589,16 @@ Representa el perfil de un proveedor que ofrece servicios en la plataforma. Est�
 - **Atributos**  
   - `id: UUID`  
   - `companyName: CompanyName`  
-  - `user: User` *(referencia a IAM)*  
+  - `user: User` (referencia a IAM)  
   - `createdAt: LocalDateTime`  
   - `updatedAt: LocalDateTime`  
 - **Funciones**  
   - `Provider(CreateProviderCommand command, User user)`  
   - `getCompanyName(): String`  
 
-#### Value Objects  
+---
+
+##### Value Objects
 
 **FullName**  
 Encapsula el nombre y apellido de un cliente, garantizando consistencia y reglas de validación.  
@@ -2463,55 +2621,57 @@ Representa el nombre de la empresa de un proveedor, asegurando que no sea vacío
 
 ---
 
-### 2.6.5.2. Interface Layer
+#### 2.6.1.2. Interface Layer
 
-**ReviewsController**  
-Expone operaciones HTTP para gestionar reseñas de clientes en la plataforma.  
+##### Controllers
+
+**ClientController**  
+Expone operaciones HTTP para gestionar perfiles de clientes en la plataforma.  
 - **Funciones**  
-  - `createReview(CreateReviewCommand)`  
-  - `getReviewById(UUID)`  
-  - `updateReview(UpdateReviewCommand)`  
-  - `deleteReview(UUID)`  
+  - `createClient(CreateClientCommand)`  
+  - `getClientById(UUID)`  
+  - `updateClient(...)`  
+  - `deleteClient(UUID)`  
 
-**ProvidersController**  
+**ProviderController**  
 Expone operaciones HTTP para gestionar perfiles de proveedores.  
 - **Funciones**  
   - `createProvider(CreateProviderCommand)`  
   - `getProviderById(UUID)`  
   - `updateProvider(UpdateProviderCommand)`  
-  - `deleteProvider(UUID)`
+  - `deleteProvider(UUID)`  
 
 ---
 
-### 2.6.5.3. Application Layer
+#### 2.6.1.3. Application Layer
 
-**CreateReviewCommand**  
-Ordena la creación de una reseña asociada a un cliente y un proveedor.  
-- **Atributos:** `firstName: String`, `lastName: String`, `userId: UUID`, `content: String`  
+##### Commands
 
-**UpdateReviewCommand**  
-Permite modificar el contenido de una reseña existente.  
-- **Atributos:** `reviewId: UUID`, `content: String?`  
-
-**DeleteReviewCommand**  
-Ordena la eliminación lógica de una reseña.  
-- **Atributos:** `reviewId: UUID`  
+**CreateClientCommand**  
+Ordena la creación de un perfil de cliente a partir de un usuario de IAM.  
+- **Atributos**: `firstName: String`, `lastName: String`, `userId: UUID`  
 
 **CreateProviderCommand**  
 Ordena la creación de un perfil de proveedor asociado a un usuario de IAM.  
-- **Atributos:** `companyName: String`, `userId: UUID`  
+- **Atributos**: `companyName: String`, `userId: UUID`  
 
 **UpdateProviderCommand**  
 Permite modificar datos del perfil de un proveedor existente.  
-- **Atributos:** `providerId: UUID`, `companyName: String?`  
+- **Atributos**: `providerId: UUID`, `companyName: String?`  
+
+**DeleteClientCommand**  
+Ordena la eliminación lógica de un perfil de cliente.  
+- **Atributos**: `clientId: UUID`  
 
 **DeleteProviderCommand**  
 Ordena la eliminación lógica de un perfil de proveedor.  
-- **Atributos:** `providerId: UUID`
+- **Atributos**: `providerId: UUID`  
 
 ---
 
-### 2.6.5.4. Infrastructure Layer
+#### 2.6.1.4. Infrastructure Layer
+
+##### Repositories
 
 **ReviewRepository**  
 Accede a la persistencia de las reseñas/reviews, implementando la interfaz de repositorio del dominio.  
@@ -2521,145 +2681,29 @@ Accede a la persistencia de las reseñas/reviews, implementando la interfaz de r
   - `save(Review): Review`  
   - `delete(Review): void`  
 
+**ClientRepository**  
+Accede a la persistencia de los perfiles de clientes, implementando la interfaz de repositorio del dominio.  
+- **Funciones**  
+  - `findById(UUID): Optional<Client>`  
+  - `findByUserId(UUID): Optional<Client>`  
+  - `save(Client): Client`  
+  - `delete(Client): void`  
+
 **ProviderRepository**  
 Accede a la persistencia de los perfiles de proveedores, implementando la interfaz de repositorio del dominio.  
 - **Funciones**  
   - `findById(UUID): Optional<Provider>`  
   - `findByUserId(UUID): Optional<Provider>`  
   - `save(Provider): Provider`  
-  - `delete(Provider): void`
+  - `delete(Provider): void`  
 
-#### 2.6.5.5. Bounded Context Software Architecture Component Level Diagrams
+#### 2.6.1.5. Bounded Context Software Architecture Component Level Diagrams
 
-#### 2.6.5.6. Bounded Context Software Architecture Code Level Diagrams
+#### 2.6.1.6. Bounded Context Software Architecture Code Level Diagrams
 
-##### 2.6.5.6.1. Bounded Context Domain Layer Class Diagrams
+##### 2.6.1.6.1. Bounded Context Domain Layer Class Diagrams
 
-##### 2.6.5.6.2. Bounded Context Database Design Diagram
-
-
-### 4.2.6. Reviews Context
-
-#### 4.2.6.1. Domain Layer - Reviews
-
-**Aggregates**  
-**Review**  
-Representa una reseña hecha por un cliente hacia un servicio.  
-**Atributos:**  
-- id: Long  
-- serviceId: ServiceId  
-- clientId: ClientId  
-- rating: Rating  
-- comment: Comment  
-- createdAt: Date  
-
-**Funciones:**  
-- Review(CreateReviewCommand command)  
-- update(UpdateReviewCommand command)  
-- getServiceId(): ServiceId  
-- getClientId(): ClientId  
-- getRating(): Rating  
-- getComment(): Comment  
-- getCreatedAt(): Date  
-
-**Value Objects**  
-- **Rating**  
-  Representa la calificación del servicio (escala del 1 al 5).  
-  - Atributos: value: Int  
-  - Funciones: Rating(value: Int), getValue(): Int  
-
-- **Comment**  
-  Contiene el texto de la reseña del cliente.  
-  - Atributos: value: String  
-  - Funciones: Comment(value: String), getValue(): String  
-
-- **ServiceId**  
-  Identificador único del servicio al que pertenece la reseña.  
-  - Atributos: id: Long  
-  - Funciones: ServiceId(value: Long), getValue(): Long  
-
-- **ClientId**  
-  Identificador único del cliente que emite la reseña.  
-  - Atributos: id: Long  
-  - Funciones: ClientId(value: Long), getValue(): Long
-
----
-
-#### 4.2.6.2. Interface Layer
-
-**Controllers**  
-**ReviewController**  
-Expone operaciones HTTP para gestionar las reseñas de los servicios.  
-**Funciones:**  
-- createReview(CreateReviewCommand)  
-- updateReview(UpdateReviewCommand)  
-- getReviewsByServiceId(Long)  
-- getReviewsByClientId(Long)  
-- getReviewById(Long)  
-
-**Assemblers**  
-- **ReviewResourceFromEntityAssembler**  
-  Convierte entidades de dominio en recursos expuestos por la API.  
-  - Funciones: toResource(Review)  
-
-- **CreateReviewCommandFromResourceAssembler**  
-  Convierte recursos HTTP en comandos de creación.  
-  - Funciones: toCommandFromResource(CreateReviewResource)  
-
-- **UpdateReviewCommandFromResourceAssembler**  
-  Convierte recursos HTTP en comandos de actualización.  
-  - Funciones: toCommandFromResource(UpdateReviewResource)  
-
-**Resources**  
-- CreateReviewResource  
-- UpdateReviewResource  
-- ReviewResource
-
----
-
-#### 4.2.6.3. Application Layer
-
-**Commands**  
-- **CreateReviewCommand**  
-  Ordena la creación de una nueva reseña.  
-  - Atributos: serviceId: Long, clientId: Long, rating: Int, comment: String  
-
-- **UpdateReviewCommand**  
-  Permite modificar los datos de una reseña existente.  
-  - Atributos: reviewId: Long, rating: Int?, comment: String?  
-
-**Queries**  
-- **GetReviewsByServiceIdQuery**  
-  Permite obtener todas las reseñas asociadas a un servicio.  
-
-- **GetReviewsByClientIdQuery**  
-  Permite obtener todas las reseñas hechas por un cliente.  
-
-- **GetReviewByIdQuery**  
-  Permite obtener una reseña específica por ID.  
-
-**Services**  
-- **ReviewCommandService**  
-  Define operaciones de creación y actualización.  
-  - Funciones: createReview(CreateReviewCommand), updateReview(UpdateReviewCommand)  
-
-- **ReviewQueryService**  
-  Define operaciones de consulta.  
-  - Funciones: getReviewsByServiceId(Long), getReviewsByClientId(Long), getReviewById(Long)
- 
----
-
-#### 4.2.6.4. Infrastructure Layer
-
-**Repositories**  
-**ReviewRepository**  
-Accede a la persistencia de las reseñas.  
-**Funciones:**  
-- findById(Long): Optional<Review>  
-- findByServiceId(Long): List<Review>  
-- findByClientId(Long): List<Review>  
-- save(Review): Review  
-- delete(Review): void  
+##### 2.6.1.6.2. Bounded Context Database Design Diagram
 
 # Capítulo II: Solution UI/UX Design
 ## 3.1. Product design
