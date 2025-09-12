@@ -1750,22 +1750,22 @@ Contiene el aggregate Services
 #### 2.5.1.3. Bounded Context Canvases
 
 #### IAM Bounded Context 
-<img src="img/IAM-boundedcanvas.png" alt="event storming image">
+<img src="img/IAM-boundedcanvas.png" alt="IAM-boundedcanvas">
 
 #### Reservations Bounded Context
-<img src="img/reservations-boundedcanvas.png" alt="event storming image">
+<img src="img/reservations-boundedcanvas.png" alt="reservations-boundedcanvas">
 
 #### Profiles Bounded Context
-<img src="img/profiles-boundedcanvas.png" alt="event storming image">
+<img src="img/profiles-boundedcanvas.png" alt="profiles-boundedcanva">
 
 #### Workers Bounded Context
-<img src="img/workers-boundedcanvas.png" alt="event storming image">
+<img src="img/workers-boundedcanvas.png" alt="workers-boundedcanvas">
 
 #### Services Bounded Context
-<img src="img/services-boundedcanvas.png" alt="event storming image">
+<img src="img/services-boundedcanvass.png" alt="services-boundedcanvass">
 
 #### Reviews Bounded Context
-<img src="img/reviews-boundedcanvas.png" alt="event storming image">
+<img src="img/reviews-boundedcanvas.png" alt="reviews-boundedcanvas">
 
 ### 2.5.2. Context Mapping
 
