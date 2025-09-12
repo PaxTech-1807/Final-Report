@@ -300,7 +300,10 @@ Se explican las ramas más prominentes:
       </td>
     </tr>
     <tr>
-      <td></td>
+      <td>
+         <strong>Luciana Carolina Choquehuanca Nuñez</strong> <br>  
+         <b>TB1:</b> Durante el desarrollo del proyecto uTime, actualicé mis conocimientos en metodologías de diseño UX/UI centradas en el usuario, profundizando en técnicas de research como análisis competitivo y entrevistas con usuarios objetivo del sector belleza. Consolidé conceptos de arquitectura de información y wireframing, aplicando principios de usabilidad y accesibilidad web. También actualicé mis habilidades en herramientas de prototipado y testing de aplicaciones móviles, integrando conceptos de psicología del usuario y design thinking para crear experiencias digitales optimizadas que complementen la arquitectura técnica desarrollada por el equipo.
+      </td>
     </tr>
     <tr>
       <td></td>
@@ -326,6 +329,8 @@ Se explican las ramas más prominentes:
     </tr>
     <tr>
       <td>
+         <strong>Luciana Carolina Choquehuanca Nuñez</strong> <br>  
+         <b>TB1:</b> A lo largo de este avance reconocí la necesidad del aprendizaje permanente al enfrentar el desafío de crear experiencias de usuario que evolucionen con las tendencias del mercado de belleza y las expectativas cambiantes de los usuarios. La investigación continua sobre nuevas metodologías de UX research, herramientas de prototipado emergentes y técnicas de testing de usabilidad me demostró que el campo del diseño digital requiere actualización constante. Me comprometí a mantenerme al día con las mejores prácticas de diseño móvil, accesibilidad y métricas de experiencia de usuario para garantizar que las interfaces que diseñe cumplan con los más altos estándares de calidad y satisfacción del usuario final.
       </td>
     </tr>
     <tr>
