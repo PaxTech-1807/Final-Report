@@ -117,7 +117,7 @@ Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió l
 
 | Integrantes     | Tareas Asignadas                                                                                                                                                                  |
 |-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Luciana Choquehuanca  |              |
+| Luciana Choquehuanca  |    Lean ux canvas, lean ux process,hypothesis statements, Tactical-Level Domain-Driven Design-reviews and services, Bounded Context Canvases-all contexts, Event storming         |
 | Britney Qqueso        |              |
 | Gael Rivera           |    Entrevistas, User Stories, Technical Stories, Spike Stories, Impact Mapping, Product Backlog, Software Architecture Context, Container and Deployment Diagrams, Bounded Context IAM.  |
 | Natalia Roman         |      Entrevistas, Eventstorming, Candidate Context Discovery, Bounded Context Reservations        |
@@ -134,7 +134,7 @@ de versiones.
 
 Los integrantes son:
 
-- Luciana Choquehuanca () 
+- Luciana Choquehuanca (lucianxaaa) 
 - Britney Qqueso ()
 - Gael Rivera (gael-rs)
 - Natalia Roman (natRC2005)
