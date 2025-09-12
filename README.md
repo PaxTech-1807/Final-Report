@@ -1749,6 +1749,23 @@ Contiene el aggregate Services
 
 #### 2.5.1.3. Bounded Context Canvases
 
+#### IAM Bounded Context 
+<img src="img/IAM-boundedcanvas.png" alt="event storming image">
+
+#### Reservations Bounded Context
+<img src="img/reservations-boundedcanvas.png" alt="event storming image">
+
+#### Profiles Bounded Context
+<img src="img/profiles-boundedcanvas.png" alt="event storming image">
+
+#### Workers Bounded Context
+<img src="img/workers-boundedcanvas.png" alt="event storming image">
+
+#### Services Bounded Context
+<img src="img/services-boundedcanvas.png" alt="event storming image">
+
+#### Reviews Bounded Context
+<img src="img/reviews-boundedcanvas.png" alt="event storming image">
 
 ### 2.5.2. Context Mapping
 
@@ -2432,8 +2449,6 @@ Representa un servicio ofrecido por un proveedor dentro de la plataforma.
   - `getPrice(): Money`  
   - `getStatus(): Boolean`  
 
----
-
 ##### Value Objects
 
 **ServiceName**  
@@ -2476,8 +2491,6 @@ Expone operaciones HTTP para gestionar los servicios en la plataforma.
   - `getServiceById(Long)`  
   - `getServicesByProviderId(Long)`  
 
----
-
 ##### Assemblers
 
 **ServiceResourceFromEntityAssembler**  
@@ -2491,8 +2504,6 @@ Convierte recursos HTTP en comandos de creación.
 **UpdateServiceCommandFromResourceAssembler**  
 Convierte recursos HTTP en comandos de actualización.  
 - **Funciones**: `toCommandFromResource(UpdateServiceResource)`  
-
----
 
 ##### Resources
 
@@ -2514,8 +2525,6 @@ Ordena la creación de un nuevo servicio.
 Permite modificar los datos de un servicio existente.  
 - **Atributos**: `serviceId: Long`, `serviceName: String?`, `duration: Int?`, `status: Boolean?`  
 
----
-
 ##### Queries
 
 **GetAllServicesQuery**  
@@ -2527,7 +2536,6 @@ Permite obtener un servicio específico por ID.
 **GetServicesByProviderIdQuery**  
 Permite obtener todos los servicios de un proveedor determinado.  
 
----
 
 ##### Services
 
@@ -2598,8 +2606,6 @@ Representa el perfil de un proveedor que ofrece servicios en la plataforma. Est�
 - **Funciones**  
   - `Provider(CreateProviderCommand command, User user)`  
   - `getCompanyName(): String`  
-
----
 
 ##### Value Objects
 
