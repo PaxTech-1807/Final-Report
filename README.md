@@ -2556,9 +2556,12 @@ Accede a la persistencia de los servicios.
 
 #### 2.6.5.5. Bounded Context Software Architecture Component Level Diagrams
 
-#### 2.6.5.6. Bounded Context Software Architecture Code Level Diagrams
+<img src="img/services-bounded.png" alt="services">
 
+#### 2.6.5.6. Bounded Context Software Architecture Code Level Diagrams
 ##### 2.6.5.6.1. Bounded Context Domain Layer Class Diagrams
+
+<img src="img/services-context-diagram.png" alt="services">
 
 ##### 2.6.5.6.2. Bounded Context Database Design Diagram
 
@@ -2699,9 +2702,12 @@ Accede a la persistencia de los perfiles de proveedores, implementando la interf
 
 #### 2.6.1.5. Bounded Context Software Architecture Component Level Diagrams
 
-#### 2.6.1.6. Bounded Context Software Architecture Code Level Diagrams
+<img src="img/review-bounded.png" alt="reviews">
 
+#### 2.6.1.6. Bounded Context Software Architecture Code Level Diagrams
 ##### 2.6.1.6.1. Bounded Context Domain Layer Class Diagrams
+
+<img src="img/reviews-context-diagram.png" alt="reviews">
 
 ##### 2.6.1.6.2. Bounded Context Database Design Diagram
 
