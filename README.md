@@ -1818,6 +1818,10 @@ Contiene el aggregate Services
 
 ![DomainMessageFlowsModeling1](img/scenario-modeling1.png)
 ![DomainMessageFlowsModeling2](img/scenario-modeling2.png)
+![DomainMessageFlowsModeling3](img/scenario-modeling3.png)
+![DomainMessageFlowsModeling4](img/scenario-modeling4.png)
+![DomainMessageFlowsModeling5](img/scenario-modeling5.png)
+![DomainMessageFlowsModeling6](img/scenario-modeling6.png)
 
 #### 2.5.1.3. Bounded Context Canvases
 
