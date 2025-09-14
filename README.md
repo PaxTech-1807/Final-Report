@@ -2828,6 +2828,18 @@ Expo Belleza Fest. (2016). Más del 60% de los estilistas en México trabajan de
 Telefónica. (2022). La digitalización de las empresas repercute hasta un 25% en su productividad. https://www.telefonica.com/es/sala-comunicacion/blog/la-digitalizacion-de-las-empresas-repercute-hasta-un-25-en-su-productividad/
 
 What is Figma? (2019). Figma Learn - Help Center. https://help.figma.com/hc/en-us/articles/14563969806359-What-is-Figma
+
 # Anexos
-Organizacion del repositorio en GitHub: https://github.com/PaxTech-1807
-Compilacion de primera ronda de Entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fLXfTL
+
+URL de la Organizacion del repositorio en GitHub: 
+[Organización de Github PaxTech-1807](https://github.com/PaxTech-1807)
+
+URL del Repositorio del Reporte Final: [Final Proyect](https://github.com/PaxTech-1807/Final-Report)
+
+URL del Repositorio de la Landing Page: [Landing Page](https://github.com/PaxTech-1807/Landing-Page)
+
+URL del Repositorio del Backend: [Web Services](https://github.com/PaxTech-1807/Web-Services)
+
+URL del Repositorio del Mobile App: [Mobile App](https://github.com/PaxTech-1807/Mobile-App)
+
+URL Compilacion de primera ronda de Entrevistas: [Lista de Entrevistas Completa](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fLXfTL)
