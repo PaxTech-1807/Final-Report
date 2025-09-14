@@ -2493,7 +2493,7 @@ Accede a la persistencia de los turnos (Shift), siguiendo el patrón de reposito
 #### 2.6.4.5. Bounded Context Software Architecture Component Level Diagrams
 
 <div align="center">
-   <img src="img/workers-component-diagram.png" alt="workers-component-diagram"/>
+   <img src="img/component-diagram-workers.png" alt="workers-component-diagram"/>
 </div>
 
 #### 2.6.4.6. Bounded Context Software Architecture Code Level Diagrams
@@ -2646,7 +2646,7 @@ Accede a la persistencia de los servicios.
 
 #### 2.6.5.5. Bounded Context Software Architecture Component Level Diagrams
 
-<img src="img/services-bounded.png" alt="services">
+<img src="img/component-diagram-services.png" alt="services">
 
 #### 2.6.5.6. Bounded Context Software Architecture Code Level Diagrams
 ##### 2.6.5.6.1. Bounded Context Domain Layer Class Diagrams
@@ -2791,7 +2791,7 @@ Accede a la persistencia de los perfiles de proveedores, implementando la interf
 
 #### 2.6.6.5. Bounded Context Software Architecture Component Level Diagrams
 
-<img src="img/review-bounded.png" alt="reviews">
+<img src="img/component-diagram-reviews.png" alt="reviews">
 
 #### 2.6.6.6. Bounded Context Software Architecture Code Level Diagrams
 ##### 2.6.6.6.1. Bounded Context Domain Layer Class Diagrams
