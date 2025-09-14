@@ -2853,6 +2853,8 @@ URL del Repositorio del Reporte Final: [Final Proyect](https://github.com/PaxTec
 
 URL del Repositorio de la Landing Page: [Landing Page](https://github.com/PaxTech-1807/Landing-Page)
 
+URL del Deployment de la Landing Page: [Landing Page Deployment](https://paxtech-1807.github.io/Landing-Page/)
+
 URL del Repositorio del Backend: [Web Services](https://github.com/PaxTech-1807/Web-Services)
 
 URL del Repositorio del Mobile App: [Mobile App](https://github.com/PaxTech-1807/Mobile-App)
