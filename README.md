@@ -1738,7 +1738,7 @@ El diagrama de contexto presenta una visión de alto nivel del sistema uTime, mo
 El diagrama de contenedores descompone el sistema uTime en sus principales componentes tecnológicos y aplicaciones. Este diagrama muestra la arquitectura interna del sistema, incluyendo la lanfing page,  aplicaciones móviles, bases de datos y APIs, así como la forma en que estos contenedores se comunican entre sí para proporcionar la funcionalidad completa.
 
 <div align="center">
-   <img src="img/container-diagram.png" alt="container-diagram"/>
+   <img src="img/new-container-diagram.png" alt="container-diagram"/>
 </div>
 
 #### 2.5.3.3. Software Architecture Deployment Diagrams
