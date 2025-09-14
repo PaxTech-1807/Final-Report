@@ -249,15 +249,15 @@ Se explican las ramas más prominentes:
 2.6.5.6. [Bounded Context Software Architecture Code Level Diagrams](#2656-bounded-context-software-architecture-code-level-diagrams)<br>
 2.6.5.6.1. [Bounded Context Domain Layer Class Diagrams](#26561-bounded-context-domain-layer-class-diagrams)<br>
 2.6.5.6.2. [Bounded Context Database Design Diagram](#26562-bounded-context-database-design-diagram)<br>
-2.6.6 [Bounded Context: Reviews]()<br>
-2.6.6.1. [Domain Layer]()<br>
-2.6.6.2. [Interface Layer]()<br>
-2.6.6.3. [Application Layer]()<br>
-2.6.6.4. [Infrastructure Layer]()<br>
-2.6.6.5. [Bounded Context Software Architecture Component Level Diagrams]()<br>
-2.6.6.6. [Bounded Context Software Architecture Code Level Diagrams]()<br>
-2.6.6.6.1. [Bounded Context Domain Layer Class Diagrams]()<br>
-2.6.6.6.2. [Bounded Context Database Design Diagram]()<br>
+2.6.6 [Bounded Context: Reviews](#266-bounded-context-reviews)<br>
+2.6.6.1. [Domain Layer](#2661-domain-layer)<br>
+2.6.6.2. [Interface Layer](#2662-interface-layer)<br>
+2.6.6.3. [Application Layer](#2663-application-layer)<br>
+2.6.6.4. [Infrastructure Layer](#2664-infrastructure-layer)<br>
+2.6.6.5. [Bounded Context Software Architecture Component Level Diagrams](#2665-bounded-context-software-architecture-component-level-diagrams)<br>
+2.6.6.6. [Bounded Context Software Architecture Code Level Diagrams](#2666-bounded-context-software-architecture-code-level-diagrams)<br>
+2.6.6.6.1. [Bounded Context Domain Layer Class Diagrams](#26661-bounded-context-domain-layer-class-diagrams)<br>
+2.6.6.6.2. [Bounded Context Database Design Diagram](#26662-bounded-context-database-design-diagram)<br>
 3. [Capítulo III: Solution UI/UX Design](#3-capítulo-iii-solution-uiux-design)<br>
 3.1. [Product design](#31-product-design)<br>
 3.1.1. [Style Guidelines](#311-style-guidelines)<br>
