@@ -118,7 +118,7 @@ Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió l
 | Integrantes     | Tareas Asignadas                                                                                                                                                                  |
 |-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Luciana Choquehuanca  |    Lean ux canvas, lean ux process,hypothesis statements, Tactical-Level Domain-Driven Design-reviews and services, Bounded Context Canvases-all contexts, Event storming         |
-| Britney Qqueso        |              |
+| Britney Qqueso        |    Competidores, análisis competitivo, diseño, registro y análisis de entrevistas, Context Mapping, Bounded Context Workers          |
 | Gael Rivera           |    Entrevistas, User Stories, Technical Stories, Spike Stories, Impact Mapping, Product Backlog, Software Architecture Context, Container and Deployment Diagrams, Bounded Context IAM.  |
 | Natalia Roman         |      Entrevistas, Eventstorming, Candidate Context Discovery, Bounded Context Reservations        |
 | Jorge Yum             |      Entrevistas, Needfinding, Eventstorming, Domain Message Flow Modelling, Bounded context Profiles        |
@@ -135,7 +135,7 @@ de versiones.
 Los integrantes son:
 
 - Luciana Choquehuanca (lucianxaaa) 
-- Britney Qqueso ()
+- Britney Qqueso (brit2801)
 - Gael Rivera (gael-rs)
 - Natalia Roman (natRC2005)
 - Jorge Yum (jsyumg, myussu)
@@ -306,7 +306,10 @@ Se explican las ramas más prominentes:
       </td>
     </tr>
     <tr>
-      <td></td>
+      <td>
+      <strong>Britney Delhy Qqueso Rodriguez</strong> <br>  
+         <b>TB1:</b> En esta entrega actualicé y apliqué conocimientos clave para el proyecto, realicé la identificación de competidores y el análisis competitivo, diseñé, registré y analicé entrevistas con usuarios, y trasladé esos hallazgos a artefactos de Domain-Driven Design como el Context Mapping y el Bounded Context Workers. Con estas actividades, pude usar lo que aprendí en el curso para tomar decisiones sobre la arquitectura del proyecto.
+      </td>
     </tr>
     <tr>
       <td></td>
@@ -315,7 +318,8 @@ Se explican las ramas más prominentes:
       <td rowspan="5">7.c2. Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de tecnologías de ingeniería de software</td>
       <td>
          <strong>Eduardo Gael Rivera Sosa</strong> <br>  
-        <b>TB1:</b> Durante el proyecto uTime, reconocí la importancia del aprendizaje continuo al enfrentar desafíos técnicos como el diseño de arquitecturas y la implementación de patrones DDD. La necesidad de mantenerme actualizado se evidenció al plantear como se trabajará con tecnologías emergentes en desarrollo móvil y al adaptarlas a las metodologías ágiles. <br> <strong>Jorge Suin Yum Gonzales:</strong> <br> <strong>TB1:</strong>A lo largo de este avance reconocí la necesidad del aprendizaje permanente para sostener el ritmo del proyecto. Al abordar retos como modelar flujos de dominio, definir un Lenguaje Ubicuo compartido y diseñar el Bounded Context Profiles, identifiqué brechas que estoy cerrando mediante estudio autónomo, revisión de referencias y retroalimentación del equipo. Asimismo, me comprometí a mantenerme actualizado en prácticas de ingeniería de software y desarrollo móvil para aportar con mayor calidad en las siguientes iteraciones. 
+        <b>TB1:</b> Durante el proyecto uTime, reconocí la importancia del aprendizaje continuo al enfrentar desafíos técnicos como el diseño de arquitecturas y la implementación de patrones DDD. La necesidad de mantenerme actualizado se evidenció al plantear como se trabajará con tecnologías emergentes en desarrollo móvil y al adaptarlas a las metodologías ágiles. <br> 
+         <strong>Jorge Suin Yum Gonzales:</strong> <br> <strong>TB1:</strong>A lo largo de este avance reconocí la necesidad del aprendizaje permanente para sostener el ritmo del proyecto. Al abordar retos como modelar flujos de dominio, definir un Lenguaje Ubicuo compartido y diseñar el Bounded Context Profiles, identifiqué brechas que estoy cerrando mediante estudio autónomo, revisión de referencias y retroalimentación del equipo. Asimismo, me comprometí a mantenerme actualizado en prácticas de ingeniería de software y desarrollo móvil para aportar con mayor calidad en las siguientes iteraciones. 
       </td>
       <td rowspan="5">
          <b>TB1:</b> La experiencia del TB1 demostró al equipo que el aprendizaje permanente es esencial en la ingeniería de software. Al trabajar con metodologías emergentes como Lean UX, Domain-Driven Design y arquitecturas, el equipo comprendió que las tecnologías evolucionan constantemente y requieren actualización continua. La investigación de competidores, el análisis de usuarios mediante entrevistas y la implementación de patrones de integración entre bounded contexts enseñaron al equipo la importancia de mantenerse al día con las mejores prácticas de la industria. Además, la colaboración en equipo y la retroalimentación de usuarios mostraron que el aprendizaje no se limita solo a aspectos técnicos, sino también al desarrollo de habilidades de comunicación, análisis de mercado y gestión de proyectos, fundamentales para el crecimiento profesional en el desarrollo de software.
@@ -334,7 +338,10 @@ Se explican las ramas más prominentes:
       </td>
     </tr>
     <tr>
-      <td></td>
+      <td>
+         <strong>Britney Delhy Qqueso Rodriguez</strong> <br>  
+         <b>TB1:</b> En este avance reconocí la necesidad del aprendizaje continuo para continuar con el ritmo del proyecto. Al completar los puntos de competidores, entrevistas, context mapping y el modelado del Bounded Context Workers, identifiqué brechas (priorización de insights y patrones de integración) que estoy cerrando mediante estudio autónomo, revisión de referencias y retroalimentación del equipo. Me comprometo a mantenerme actualizada en DDD, investigación de la experiencia de usuarios y desarrollo móvil para elevar la calidad en las siguientes entregas.
+      </td>
     </tr>
     <tr>
       <td></td>
@@ -403,6 +410,17 @@ Se explican las ramas más prominentes:
       <td> Sí, ya que el objetivo trasciende funciones básicas al combinar diseño, investigación de usuarios, psicología aplicada y testing avanzado. Me permitirá desarrollar habilidades en research, design thinking, accesibilidad web, y liderazgo de experiencia de usuario, posicionándome como especialista en UX/UI para proyectos tecnológicos complejos. </td>
       <td> Sí, está completamente alineado con la estrategia de PaxTech, donde la experiencia de usuario diferencial y la calidad del producto son elementos clave para el éxito comercial y la adopción masiva de nuestras soluciones en el sector belleza y citas. </td>
       <td> El objetivo se cumplirá al entregar las interfaces finales implementadas, documentación UX completa, plan de testing ejecutado exitosamente, y métricas de usuario que demuestren la excelencia en experiencia de usuario de las aplicaciones PaxTech. </td>
+   </tr>
+   <tr>
+      <td> Britney Delhy Qqueso Rodriguez </td>
+      <td> Fortalecer mis competencias en gestión de proyectos móviles y comunicación efectiva dentro del equipo, aplicando metodologías ágiles y herramientas de colaboración para garantizar un avance ordenado, eficiente y con entregables de calidad en nuestro proyecto. </td>
+      <td> 10/09/2025 </td>
+      <td> 20/12/2025 </td>
+      <td> Desarrollar habilidades de gestión aplicando Scrum, organizar sprints y retrospectivas efectivas, coordinar al equipo para cumplir con los hitos establecidos, y documentar adecuadamente los avances del proyecto para lograr que PaxTech llegue a una versión beta lista para pruebas con usuarios finales. </td>
+      <td> La métrica estará definida por el cumplimiento del cronograma de sprints, la entrega oportuna de funcionalidades planificadas, la retroalimentación positiva del equipo en retrospectivas, y el nivel de organización percibido en el flujo de trabajo del proyecto. </td>
+      <td> Sí, ya que no solo implica el desarrollo técnico, sino también asumir un rol de liderazgo organizativo y de comunicación, lo que va más allá de mis funciones iniciales y contribuirá a mi crecimiento como profesional integral en proyectos tecnológicos. </td>
+      <td> Sí, porque la estrategia de PaxTech requiere un desarrollo ágil, ordenado y con comunicación clara, asegurando que la aplicación avance de manera eficiente y logre un producto competitivo en el mercado. </td>
+      <td> El objetivo se cumplirá al finalizar el ciclo de desarrollo con todos los entregables planificados en la versión beta del proyecto, cumpliendo hitos establecidos y con un equipo cohesionado y satisfecho con la dinámica de trabajo. </td>
    </tr>
    </tbody>
 </Table>
@@ -2436,11 +2454,20 @@ Accede a la persistencia de los turnos (Shift), siguiendo el patrón de reposito
 
 #### 2.6.4.5. Bounded Context Software Architecture Component Level Diagrams
 
+<div align="center">
+   <img src="img/workers-component-diagram.png" alt="workers-component-diagram"/>
+</div>
+
 #### 2.6.4.6. Bounded Context Software Architecture Code Level Diagrams
 
 ##### 2.6.4.6.1. Bounded Context Domain Layer Class Diagrams
 
+![Workers class diagram](img/workers-class-diagram.png)
+
 ##### 2.6.4.6.2. Bounded Context Database Design Diagram
+
+
+
 
 ### 2.6.5. Bounded Context: Services
 
