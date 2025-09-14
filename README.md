@@ -2021,7 +2021,7 @@ Accede a la persistencia de los perfiles de proveedores, implementando la interf
 
 ##### 2.6.1.6.2. Bounded Context Database Design Diagram
 
-![provider and client database diagram](img/provider-client-diagram.png)
+![provider and client database diagram](img/BD-Diagram-Profiles.png)
 
 ### 2.6.2. Bounded Context: Reservations
 #### 2.6.2.1. Domain Layer
