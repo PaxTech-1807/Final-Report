@@ -117,8 +117,8 @@ Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió l
 
 | Integrantes     | Tareas Asignadas                                                                                                                                                                  |
 |-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Luciana Choquehuanca  |              |
-| Britney Qqueso        |              |
+| Luciana Choquehuanca  |    Lean ux canvas, lean ux process,hypothesis statements, Tactical-Level Domain-Driven Design-reviews and services, Bounded Context Canvases-all contexts, Event storming         |
+| Britney Qqueso        |    Competidores, análisis competitivo, diseño, registro y análisis de entrevistas, Context Mapping, Bounded Context Workers          |
 | Gael Rivera           |    Entrevistas, User Stories, Technical Stories, Spike Stories, Impact Mapping, Product Backlog, Software Architecture Context, Container and Deployment Diagrams, Bounded Context IAM.  |
 | Natalia Roman         |      Entrevistas, Eventstorming, Candidate Context Discovery, Bounded Context Reservations        |
 | Jorge Yum             |      Entrevistas, Needfinding, Eventstorming, Domain Message Flow Modelling, Bounded context Profiles        |
@@ -134,8 +134,8 @@ de versiones.
 
 Los integrantes son:
 
-- Luciana Choquehuanca () 
-- Britney Qqueso ()
+- Luciana Choquehuanca (lucianxaaa) 
+- Britney Qqueso (brit2801)
 - Gael Rivera (gael-rs)
 - Natalia Roman (natRC2005)
 - Jorge Yum (jsyumg, myussu)
@@ -213,6 +213,15 @@ Se explican las ramas más prominentes:
 2.6.1.6. [Bounded Context Software Architecture Code Level Diagrams]()<br>
 2.6.1.6.1. [Bounded Context Domain Layer Class Diagrams]()<br>
 2.6.1.6.2. [Bounded Context Database Design Diagram]()<br>
+2.6.2 [Bounded Context: Reservations](#262-bounded-context-reservations)<br>
+2.6.2.1. [Domain Layer](#2621-domain-layer)<br>
+2.6.2.2. [Interface Layer](#2622-interface-layer)<br>
+2.6.2.3. [Application Layer](#2623-application-layer)<br>
+2.6.2.4. [Infrastructure Layer](#2624-infrastructure-layer)<br>
+2.6.2.5. [Bounded Context Software Architecture Component Level Diagrams](#2625-bounded-context-software-architecture-component-level-diagrams)<br>
+2.6.2.6. [Bounded Context Software Architecture Code Level Diagrams](#2626-bounded-context-software-architecture-code-level-diagrams)<br>
+2.6.2.6.1. [Bounded Context Domain Layer Class Diagrams](#26261-bounded-context-domain-layer-class-diagrams)<br>
+2.6.2.6.2. [Bounded Context Database Design Diagram](#26262-bounded-context-database-design-diagram)<br>
 3. [Capítulo III: Solution UI/UX Design](#3-capítulo-iii-solution-uiux-design)<br>
 3.1. [Product design](#31-product-design)<br>
 3.1.1. [Style Guidelines](#311-style-guidelines)<br>
@@ -260,16 +269,85 @@ Se explican las ramas más prominentes:
 7. [Bibliografía](#bibliografía)<br>
 8. [Anexos](#anexos)<br>
 
-
 <br>
 
 # Student Outcomes
    **Student Outcome ABET 7**
 
-| Criterio específico                                                  | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-|----------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
-| 7.c1. Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de ingeniería de software  |  **Eduardo Gael Rivera Sosa** <br>**TB1:** Durante el proyecto uTime, actualicé mis conocimientos en Domain-Driven Design (DDD), arquitectura de software con modelo C4, y patrones de integración. Profundicé en el diseño del Bounded Context IAM con conceptos de autenticación y autorización, y en la creación de diagramas de arquitectura (Context, Container y Deployment). También actualicé mis habilidades en especificación de requisitos mediante User Stories, Technical Stories y Spike Stories, y en técnicas ágiles como Impact Mapping y Product Backlog. | **TB1:** El desarrollo completo de los capítulos 1 y 2 del proyecto uTime permitió al equipo consolidar conocimientos fundamentales en ingeniería de software. A través del análisis competitivo, entrevistas con usuarios y técnicas de needfinding, el equipo desarrolló competencias en investigación de mercado y análisis de requisitos. La implementación de metodologías Lean UX y Domain-Driven Design proporcionó una base sólida en diseño de software centrado en el usuario y arquitecturas escalables. La elaboración de diagramas C4, EventStorming y Context Mapping permitió al equipo dominar técnicas avanzadas de modelado de sistemas complejos, mientras que la especificación de requisitos mediante User Stories y Product Backlog consolidó las habilidades del equipo en metodologías ágiles.
-| 7.c2. Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de tecnologías de ingeniería de software. |              **Eduardo Gael Rivera Sosa** <br>**TB1:** Durante el proyecto uTime, reconocí la importancia del aprendizaje continuo al enfrentar desafíos técnicos como el diseño de arquitecturas y la implementación de patrones DDD. La necesidad de mantenerme actualizado se evidenció al plantear como se trabajará con tecnologías emergentes en desarrollo móvil y al adaptarlas a las metodologías ágiles.|  **TB1:** La experiencia del TB1 demostró al equipo que el aprendizaje permanente es esencial en la ingeniería de software. Al trabajar con metodologías emergentes como Lean UX, Domain-Driven Design y arquitecturas, el equipo comprendió que las tecnologías evolucionan constantemente y requieren actualización continua. La investigación de competidores, el análisis de usuarios mediante entrevistas y la implementación de patrones de integración entre bounded contexts enseñaron al equipo la importancia de mantenerse al día con las mejores prácticas de la industria. Además, la colaboración en equipo y la retroalimentación de usuarios mostraron que el aprendizaje no se limita solo a aspectos técnicos, sino también al desarrollo de habilidades de comunicación, análisis de mercado y gestión de proyectos, fundamentales para el crecimiento profesional en el desarrollo de software. 
+<table>
+  <thead>
+    <tr>
+      <th>Criterio específico</th>
+      <th>Acciones realizadas</th>
+      <th>Conclusiones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="5">7.c1. Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de ingeniería de software</td>
+      <td>
+         <strong>Eduardo Gael Rivera Sosa</strong> <br>  
+         <b>TB1:</b> Durante el proyecto uTime, actualicé mis conocimientos en Domain-Driven Design (DDD), arquitectura de software con modelo C4, y patrones de integración. Profundicé en el diseño del Bounded Context IAM con conceptos de autenticación y autorización, y en la creación de diagramas de arquitectura (Context, Container y Deployment). También actualicé mis habilidades en especificación de requisitos mediante User Stories, Technical Stories y Spike Stories, y en técnicas ágiles como Impact Mapping y Product Backlog. <br> <strong>Jorge Suin Yum Gonzales:</strong> <br> <strong>TB1:</strong> Durante este primer avance, actualicé y profundicé en conceptos clave como Needfinding, Ubiquitous Language y Domain Message Flow Modeling. Además, realicé entrevistas y trabajé el EventStorming para identificar eventos, comandos y políticas del dominio. Diseñé la estructura del Bounded Context Profiles y definí su rol e interacciones dentro de los distintos procesos de la aplicación móvil a desarrollar.
+      </td>
+      <td rowspan="5">
+         <b>TB1:</b> El desarrollo completo de los capítulos 1 y 2 del proyecto uTime permitió al equipo consolidar conocimientos fundamentales en ingeniería de software. A través del análisis competitivo, entrevistas con usuarios y técnicas de needfinding, el equipo desarrolló competencias en investigación de mercado y análisis de requisitos. La implementación de metodologías Lean UX y Domain-Driven Design proporcionó una base sólida en diseño de software centrado en el usuario y arquitecturas escalables. La elaboración de diagramas C4, EventStorming y Context Mapping permitió al equipo dominar técnicas avanzadas de modelado de sistemas complejos, mientras que la especificación de requisitos mediante User Stories y Product Backlog consolidó las habilidades del equipo en metodologías ágiles. 
+      </td>
+    </tr>
+    <tr>
+      <td>
+         <strong>Natalia Bertha Roman Cruz</strong> <br>  
+         <b>TB1:</b> Durante el desarrollo del proyecto, pude recordar los conceptos aprendidos en cursos anteriores, los cuales incluyen patrones de softwares, modelamiento siguiendo Domain Driven Design y aplicación de Lean UX para identificación de requisitos. Al investigar más sobre las técnicas mencionadas y consultar en cuanto a conceptos en clase, pude expandir mis concomientos y comprender mejor lo que implica cada caso, de forma que ahora puedo aplicar estos conceptos de forma más eficiente.
+      </td>
+    </tr>
+    <tr>
+      <td>
+         <strong>Luciana Carolina Choquehuanca Nuñez</strong> <br>  
+         <b>TB1:</b> Durante el desarrollo del proyecto uTime, actualicé mis conocimientos en metodologías de diseño UX/UI centradas en el usuario, profundizando en técnicas de research como análisis competitivo y entrevistas con usuarios objetivo del sector belleza. Consolidé conceptos de arquitectura de información y wireframing, aplicando principios de usabilidad y accesibilidad web. También actualicé mis habilidades en herramientas de prototipado y testing de aplicaciones móviles, integrando conceptos de psicología del usuario y design thinking para crear experiencias digitales optimizadas que complementen la arquitectura técnica desarrollada por el equipo.
+      </td>
+    </tr>
+    <tr>
+      <td>
+      <strong>Britney Delhy Qqueso Rodriguez</strong> <br>  
+         <b>TB1:</b> En esta entrega actualicé y apliqué conocimientos clave para el proyecto, realicé la identificación de competidores y el análisis competitivo, diseñé, registré y analicé entrevistas con usuarios, y trasladé esos hallazgos a artefactos de Domain-Driven Design como el Context Mapping y el Bounded Context Workers. Con estas actividades, pude usar lo que aprendí en el curso para tomar decisiones sobre la arquitectura del proyecto.
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+    </tr>
+    <tr>
+      <td rowspan="5">7.c2. Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de tecnologías de ingeniería de software</td>
+      <td>
+         <strong>Eduardo Gael Rivera Sosa</strong> <br>  
+        <b>TB1:</b> Durante el proyecto uTime, reconocí la importancia del aprendizaje continuo al enfrentar desafíos técnicos como el diseño de arquitecturas y la implementación de patrones DDD. La necesidad de mantenerme actualizado se evidenció al plantear como se trabajará con tecnologías emergentes en desarrollo móvil y al adaptarlas a las metodologías ágiles. <br> 
+         <strong>Jorge Suin Yum Gonzales:</strong> <br> <strong>TB1:</strong>A lo largo de este avance reconocí la necesidad del aprendizaje permanente para sostener el ritmo del proyecto. Al abordar retos como modelar flujos de dominio, definir un Lenguaje Ubicuo compartido y diseñar el Bounded Context Profiles, identifiqué brechas que estoy cerrando mediante estudio autónomo, revisión de referencias y retroalimentación del equipo. Asimismo, me comprometí a mantenerme actualizado en prácticas de ingeniería de software y desarrollo móvil para aportar con mayor calidad en las siguientes iteraciones. 
+      </td>
+      <td rowspan="5">
+         <b>TB1:</b> La experiencia del TB1 demostró al equipo que el aprendizaje permanente es esencial en la ingeniería de software. Al trabajar con metodologías emergentes como Lean UX, Domain-Driven Design y arquitecturas, el equipo comprendió que las tecnologías evolucionan constantemente y requieren actualización continua. La investigación de competidores, el análisis de usuarios mediante entrevistas y la implementación de patrones de integración entre bounded contexts enseñaron al equipo la importancia de mantenerse al día con las mejores prácticas de la industria. Además, la colaboración en equipo y la retroalimentación de usuarios mostraron que el aprendizaje no se limita solo a aspectos técnicos, sino también al desarrollo de habilidades de comunicación, análisis de mercado y gestión de proyectos, fundamentales para el crecimiento profesional en el desarrollo de software.
+      </td>
+    </tr>
+    <tr>
+      <td>
+         <strong>Natalia Bertha Roman Cruz</strong> <br>  
+         <b>TB1:</b> Al desarrollar la primera entrga del presente proyecto, pude notar la importancia de continuar con el aprendizaje contínuo tanto dentro de las sesiones de clases y con el material adjunto, como de forma autónoma de forma que el enfrentar nuevos retos o plasmar ideas innovadoras se vuelva más sencillo con la práctica y la base adecuada.
+      </td>
+    </tr>
+    <tr>
+      <td>
+         <strong>Luciana Carolina Choquehuanca Nuñez</strong> <br>  
+         <b>TB1:</b> A lo largo de este avance reconocí la necesidad del aprendizaje permanente al enfrentar el desafío de crear experiencias de usuario que evolucionen con las tendencias del mercado de belleza y las expectativas cambiantes de los usuarios. La investigación continua sobre nuevas metodologías de UX research, herramientas de prototipado emergentes y técnicas de testing de usabilidad me demostró que el campo del diseño digital requiere actualización constante. Me comprometí a mantenerme al día con las mejores prácticas de diseño móvil, accesibilidad y métricas de experiencia de usuario para garantizar que las interfaces que diseñe cumplan con los más altos estándares de calidad y satisfacción del usuario final.
+      </td>
+    </tr>
+    <tr>
+      <td>
+         <strong>Britney Delhy Qqueso Rodriguez</strong> <br>  
+         <b>TB1:</b> En este avance reconocí la necesidad del aprendizaje continuo para continuar con el ritmo del proyecto. Al completar los puntos de competidores, entrevistas, context mapping y el modelado del Bounded Context Workers, identifiqué brechas (priorización de insights y patrones de integración) que estoy cerrando mediante estudio autónomo, revisión de referencias y retroalimentación del equipo. Me comprometo a mantenerme actualizada en DDD, investigación de la experiencia de usuarios y desarrollo móvil para elevar la calidad en las siguientes entregas.
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 <br>
 
@@ -322,7 +400,31 @@ Se explican las ramas más prominentes:
       <td> Si, ya que el objetivo está completamente alineado a la estrategia del proyecto PaxTech, donde la arquitectura robusta y el diseño centrado en el usuario son fundamentales para el éxito de uTime en el mercado. </td>
       <td> El objetivo se cumplirá al finalizar el desarrollo completo de la aplicación móvil con una arquitectura sólida y funcionalidades implementadas exitosamente. </td>
    </tr>
-</table>
+   <tr>
+      <td> Luciana Carolina Choquehuanca Nuñez </td>
+      <td> Desarrollar y especializar mis competencias en diseño UX/UI y testing de aplicaciones móviles, enfocándome en crear experiencias de usuario excepcionales e implementar estrategias de calidad integral que garanticen la usabilidad, accesibilidad y satisfacción del usuario final en el ecosistema PaxTech. </td>
+      <td> 10/09/2025 </td>
+      <td> 20/12/2025 </td>
+      <td> Diseñar interfaces intuitivas y atractivas para las aplicaciones móviles del proyecto, implementar prototipos interactivos de alta fidelidad, desarrollar un plan integral de testing (unitario, integración y usabilidad), crear guidelines de UX para el equipo, y establecer métricas de experiencia de usuario que aseguren la calidad y aceptación del producto final. </td>
+      <td> La métrica estará definida por la opinión de los usuarios durante las entrevistas de validación del producto, la facilidad de uso reportada por los usuarios finales, y la evaluación positiva del equipo de desarrollo sobre la calidad e implementabilidad de los diseños creados. </td>
+      <td> Sí, ya que el objetivo trasciende funciones básicas al combinar diseño, investigación de usuarios, psicología aplicada y testing avanzado. Me permitirá desarrollar habilidades en research, design thinking, accesibilidad web, y liderazgo de experiencia de usuario, posicionándome como especialista en UX/UI para proyectos tecnológicos complejos. </td>
+      <td> Sí, está completamente alineado con la estrategia de PaxTech, donde la experiencia de usuario diferencial y la calidad del producto son elementos clave para el éxito comercial y la adopción masiva de nuestras soluciones en el sector belleza y citas. </td>
+      <td> El objetivo se cumplirá al entregar las interfaces finales implementadas, documentación UX completa, plan de testing ejecutado exitosamente, y métricas de usuario que demuestren la excelencia en experiencia de usuario de las aplicaciones PaxTech. </td>
+   </tr>
+   <tr>
+      <td> Britney Delhy Qqueso Rodriguez </td>
+      <td> Fortalecer mis competencias en gestión de proyectos móviles y comunicación efectiva dentro del equipo, aplicando metodologías ágiles y herramientas de colaboración para garantizar un avance ordenado, eficiente y con entregables de calidad en nuestro proyecto. </td>
+      <td> 10/09/2025 </td>
+      <td> 20/12/2025 </td>
+      <td> Desarrollar habilidades de gestión aplicando Scrum, organizar sprints y retrospectivas efectivas, coordinar al equipo para cumplir con los hitos establecidos, y documentar adecuadamente los avances del proyecto para lograr que PaxTech llegue a una versión beta lista para pruebas con usuarios finales. </td>
+      <td> La métrica estará definida por el cumplimiento del cronograma de sprints, la entrega oportuna de funcionalidades planificadas, la retroalimentación positiva del equipo en retrospectivas, y el nivel de organización percibido en el flujo de trabajo del proyecto. </td>
+      <td> Sí, ya que no solo implica el desarrollo técnico, sino también asumir un rol de liderazgo organizativo y de comunicación, lo que va más allá de mis funciones iniciales y contribuirá a mi crecimiento como profesional integral en proyectos tecnológicos. </td>
+      <td> Sí, porque la estrategia de PaxTech requiere un desarrollo ágil, ordenado y con comunicación clara, asegurando que la aplicación avance de manera eficiente y logre un producto competitivo en el mercado. </td>
+      <td> El objetivo se cumplirá al finalizar el ciclo de desarrollo con todos los entregables planificados en la versión beta del proyecto, cumpliendo hitos establecidos y con un equipo cohesionado y satisfecho con la dinámica de trabajo. </td>
+   </tr>
+   </tbody>
+</Table>
+
 
 # Capítulo I: Presentación
 
@@ -1683,6 +1785,23 @@ Contiene el aggregate Services
 
 #### 2.5.1.3. Bounded Context Canvases
 
+#### IAM Bounded Context 
+<img src="img/IAM-boundedcanvas.png" alt="IAM-boundedcanvas">
+
+#### Reservations Bounded Context
+<img src="img/reservations-boundedcanvas.png" alt="reservations-boundedcanvas">
+
+#### Profiles Bounded Context
+<img src="img/profiles-boundedcanvas.png" alt="profiles-boundedcanva">
+
+#### Workers Bounded Context
+<img src="img/workers-boundedcanvas.png" alt="workers-boundedcanvas">
+
+#### Services Bounded Context
+<img src="img/services-boundedcanvass.png" alt="services-boundedcanvass">
+
+#### Reviews Bounded Context
+<img src="img/reviews-boundedcanvas.png" alt="reviews-boundedcanvas">
 
 ### 2.5.2. Context Mapping
 
@@ -2335,24 +2454,183 @@ Accede a la persistencia de los turnos (Shift), siguiendo el patrón de reposito
 
 #### 2.6.4.5. Bounded Context Software Architecture Component Level Diagrams
 
+<div align="center">
+   <img src="img/workers-component-diagram.png" alt="workers-component-diagram"/>
+</div>
+
 #### 2.6.4.6. Bounded Context Software Architecture Code Level Diagrams
 
 ##### 2.6.4.6.1. Bounded Context Domain Layer Class Diagrams
 
+![Workers class diagram](img/workers-class-diagram.png)
+
 ##### 2.6.4.6.2. Bounded Context Database Design Diagram
 
-### 2.6.5. Bounded Context: Reviews
 
-### 2.6.5.1. Domain Layer
 
-#### Aggregates  
+
+### 2.6.5. Bounded Context: Services
+
+#### 2.6.5.1. Domain Layer
+
+##### Aggregates
+
+**Service**  
+Representa un servicio ofrecido por un proveedor dentro de la plataforma.  
+- **Atributos**  
+  - `id: Long`  
+  - `providerId: ProviderId`  
+  - `serviceDetails: ServiceDetails`  
+  - `serviceName: ServiceName`  
+  - `duration: Duration`  
+  - `price: Money`  
+  - `status: Status`  
+- **Funciones**  
+  - `Service(CreateServiceCommand command)`  
+  - `update(UpdateServiceCommand command)`  
+  - `getProviderId(): ProviderId`  
+  - `getServiceName(): String`  
+  - `getDuration(): Int`  
+  - `getPrice(): Money`  
+  - `getStatus(): Boolean`  
+
+##### Value Objects
+
+**ServiceName**  
+Encapsula el nombre de un servicio.  
+- **Atributos**: `serviceName: String`  
+- **Funciones**: `ServiceName(serviceName: String)`, `getValue(): String`  
+
+**Duration**  
+Representa la duración de un servicio en minutos.  
+- **Atributos**: `duration: Int`  
+- **Funciones**: `Duration(value: Int)`, `getValue(): Int`  
+
+**Status**  
+Define si un servicio está activo o inactivo.  
+- **Atributos**: `status: Boolean`  
+- **Funciones**: `Status(value: Boolean)`, `isActive(): Boolean`  
+
+**ServiceDetails**  
+Contiene la descripción general del servicio.  
+- **Atributos**: `details: String`  
+- **Funciones**: `ServiceDetails(value: String)`, `getValue(): String`  
+
+**ProviderId**  
+Identificador único del proveedor que ofrece el servicio.  
+- **Atributos**: `id: Long`  
+- **Funciones**: `ProviderId(value: Long)`, `getValue(): Long`  
+
+---
+
+#### 2.6.5.2. Interface Layer
+
+##### Controllers
+
+**ServiceController**  
+Expone operaciones HTTP para gestionar los servicios en la plataforma.  
+- **Funciones**  
+  - `createService(CreateServiceCommand)`  
+  - `updateService(UpdateServiceCommand)`  
+  - `getAllServices()`  
+  - `getServiceById(Long)`  
+  - `getServicesByProviderId(Long)`  
+
+##### Assemblers
+
+**ServiceResourceFromEntityAssembler**  
+Convierte entidades de dominio en recursos expuestos por la API.  
+- **Funciones**: `toResource(Service)`  
+
+**CreateServiceCommandFromResourceAssembler**  
+Convierte recursos HTTP en comandos de creación.  
+- **Funciones**: `toCommandFromResource(CreateServiceResource)`  
+
+**UpdateServiceCommandFromResourceAssembler**  
+Convierte recursos HTTP en comandos de actualización.  
+- **Funciones**: `toCommandFromResource(UpdateServiceResource)`  
+
+##### Resources
+
+- `CreateServiceResource`  
+- `UpdateServiceResource`  
+- `ServiceResource`  
+
+---
+
+#### 2.6.5.3. Application Layer
+
+##### Commands
+
+**CreateServiceCommand**  
+Ordena la creación de un nuevo servicio.  
+- **Atributos**: `serviceName: String`, `duration: Int`, `providerId: Long`, `status: Boolean`  
+
+**UpdateServiceCommand**  
+Permite modificar los datos de un servicio existente.  
+- **Atributos**: `serviceId: Long`, `serviceName: String?`, `duration: Int?`, `status: Boolean?`  
+
+##### Queries
+
+**GetAllServicesQuery**  
+Permite obtener todos los servicios.  
+
+**GetServiceByIdQuery**  
+Permite obtener un servicio específico por ID.  
+
+**GetServicesByProviderIdQuery**  
+Permite obtener todos los servicios de un proveedor determinado.  
+
+
+##### Services
+
+**ServiceCommandService**  
+Define operaciones de creación y actualización.  
+- **Funciones**: `createService(CreateServiceCommand)`, `updateService(UpdateServiceCommand)`  
+
+**ServiceQueryService**  
+Define operaciones de consulta.  
+- **Funciones**: `getAllServices()`, `getServiceById(Long)`, `getServicesByProviderId(Long)`  
+
+---
+
+#### 2.6.5.4. Infrastructure Layer
+
+##### Repositories
+
+**ServiceRepository**  
+Accede a la persistencia de los servicios.  
+- **Funciones**  
+  - `findById(Long): Optional<Service>`  
+  - `findByProviderId(Long): List<Service>`  
+  - `findAll(): List<Service>`  
+  - `save(Service): Service`  
+  - `delete(Service): void`  
+
+#### 2.6.5.5. Bounded Context Software Architecture Component Level Diagrams
+
+<img src="img/services-bounded.png" alt="services">
+
+#### 2.6.5.6. Bounded Context Software Architecture Code Level Diagrams
+##### 2.6.5.6.1. Bounded Context Domain Layer Class Diagrams
+
+<img src="img/services-context-diagram.png" alt="services">
+
+##### 2.6.5.6.2. Bounded Context Database Design Diagram
+
+
+### 2.6.1. Bounded Context: Reviews
+
+#### 2.6.1.1. Domain Layer
+
+##### Aggregates
 
 **Review**  
 Representa una reseña/review de un cliente sobre un proveedor de servicios. Está vinculada a un usuario de IAM y almacena su contenido completo.  
 - **Atributos**  
   - `id: UUID`  
-  - `fullname: String` *(referencia a IAM)*  
-  - `user: User` *(referencia a IAM)*  
+  - `fullname: String` (referencia a IAM)  
+  - `user: User` (referencia a IAM)  
   - `createdAt: LocalDateTime`  
   - `updatedAt: LocalDateTime`  
 - **Funciones**  
@@ -2367,14 +2645,14 @@ Representa el perfil de un proveedor que ofrece servicios en la plataforma. Est�
 - **Atributos**  
   - `id: UUID`  
   - `companyName: CompanyName`  
-  - `user: User` *(referencia a IAM)*  
+  - `user: User` (referencia a IAM)  
   - `createdAt: LocalDateTime`  
   - `updatedAt: LocalDateTime`  
 - **Funciones**  
   - `Provider(CreateProviderCommand command, User user)`  
   - `getCompanyName(): String`  
 
-#### Value Objects  
+##### Value Objects
 
 **FullName**  
 Encapsula el nombre y apellido de un cliente, garantizando consistencia y reglas de validación.  
@@ -2397,55 +2675,57 @@ Representa el nombre de la empresa de un proveedor, asegurando que no sea vacío
 
 ---
 
-### 2.6.5.2. Interface Layer
+#### 2.6.1.2. Interface Layer
 
-**ReviewsController**  
-Expone operaciones HTTP para gestionar reseñas de clientes en la plataforma.  
+##### Controllers
+
+**ClientController**  
+Expone operaciones HTTP para gestionar perfiles de clientes en la plataforma.  
 - **Funciones**  
-  - `createReview(CreateReviewCommand)`  
-  - `getReviewById(UUID)`  
-  - `updateReview(UpdateReviewCommand)`  
-  - `deleteReview(UUID)`  
+  - `createClient(CreateClientCommand)`  
+  - `getClientById(UUID)`  
+  - `updateClient(...)`  
+  - `deleteClient(UUID)`  
 
-**ProvidersController**  
+**ProviderController**  
 Expone operaciones HTTP para gestionar perfiles de proveedores.  
 - **Funciones**  
   - `createProvider(CreateProviderCommand)`  
   - `getProviderById(UUID)`  
   - `updateProvider(UpdateProviderCommand)`  
-  - `deleteProvider(UUID)`
+  - `deleteProvider(UUID)`  
 
 ---
 
-### 2.6.5.3. Application Layer
+#### 2.6.1.3. Application Layer
 
-**CreateReviewCommand**  
-Ordena la creación de una reseña asociada a un cliente y un proveedor.  
-- **Atributos:** `firstName: String`, `lastName: String`, `userId: UUID`, `content: String`  
+##### Commands
 
-**UpdateReviewCommand**  
-Permite modificar el contenido de una reseña existente.  
-- **Atributos:** `reviewId: UUID`, `content: String?`  
-
-**DeleteReviewCommand**  
-Ordena la eliminación lógica de una reseña.  
-- **Atributos:** `reviewId: UUID`  
+**CreateClientCommand**  
+Ordena la creación de un perfil de cliente a partir de un usuario de IAM.  
+- **Atributos**: `firstName: String`, `lastName: String`, `userId: UUID`  
 
 **CreateProviderCommand**  
 Ordena la creación de un perfil de proveedor asociado a un usuario de IAM.  
-- **Atributos:** `companyName: String`, `userId: UUID`  
+- **Atributos**: `companyName: String`, `userId: UUID`  
 
 **UpdateProviderCommand**  
 Permite modificar datos del perfil de un proveedor existente.  
-- **Atributos:** `providerId: UUID`, `companyName: String?`  
+- **Atributos**: `providerId: UUID`, `companyName: String?`  
+
+**DeleteClientCommand**  
+Ordena la eliminación lógica de un perfil de cliente.  
+- **Atributos**: `clientId: UUID`  
 
 **DeleteProviderCommand**  
 Ordena la eliminación lógica de un perfil de proveedor.  
-- **Atributos:** `providerId: UUID`
+- **Atributos**: `providerId: UUID`  
 
 ---
 
-### 2.6.5.4. Infrastructure Layer
+#### 2.6.1.4. Infrastructure Layer
+
+##### Repositories
 
 **ReviewRepository**  
 Accede a la persistencia de las reseñas/reviews, implementando la interfaz de repositorio del dominio.  
@@ -2455,145 +2735,32 @@ Accede a la persistencia de las reseñas/reviews, implementando la interfaz de r
   - `save(Review): Review`  
   - `delete(Review): void`  
 
+**ClientRepository**  
+Accede a la persistencia de los perfiles de clientes, implementando la interfaz de repositorio del dominio.  
+- **Funciones**  
+  - `findById(UUID): Optional<Client>`  
+  - `findByUserId(UUID): Optional<Client>`  
+  - `save(Client): Client`  
+  - `delete(Client): void`  
+
 **ProviderRepository**  
 Accede a la persistencia de los perfiles de proveedores, implementando la interfaz de repositorio del dominio.  
 - **Funciones**  
   - `findById(UUID): Optional<Provider>`  
   - `findByUserId(UUID): Optional<Provider>`  
   - `save(Provider): Provider`  
-  - `delete(Provider): void`
+  - `delete(Provider): void`  
 
-#### 2.6.5.5. Bounded Context Software Architecture Component Level Diagrams
+#### 2.6.1.5. Bounded Context Software Architecture Component Level Diagrams
 
-#### 2.6.5.6. Bounded Context Software Architecture Code Level Diagrams
+<img src="img/review-bounded.png" alt="reviews">
 
-##### 2.6.5.6.1. Bounded Context Domain Layer Class Diagrams
+#### 2.6.1.6. Bounded Context Software Architecture Code Level Diagrams
+##### 2.6.1.6.1. Bounded Context Domain Layer Class Diagrams
 
-##### 2.6.5.6.2. Bounded Context Database Design Diagram
+<img src="img/reviews-context-diagram.png" alt="reviews">
 
-
-### 4.2.6. Reviews Context
-
-#### 4.2.6.1. Domain Layer - Reviews
-
-**Aggregates**  
-**Review**  
-Representa una reseña hecha por un cliente hacia un servicio.  
-**Atributos:**  
-- id: Long  
-- serviceId: ServiceId  
-- clientId: ClientId  
-- rating: Rating  
-- comment: Comment  
-- createdAt: Date  
-
-**Funciones:**  
-- Review(CreateReviewCommand command)  
-- update(UpdateReviewCommand command)  
-- getServiceId(): ServiceId  
-- getClientId(): ClientId  
-- getRating(): Rating  
-- getComment(): Comment  
-- getCreatedAt(): Date  
-
-**Value Objects**  
-- **Rating**  
-  Representa la calificación del servicio (escala del 1 al 5).  
-  - Atributos: value: Int  
-  - Funciones: Rating(value: Int), getValue(): Int  
-
-- **Comment**  
-  Contiene el texto de la reseña del cliente.  
-  - Atributos: value: String  
-  - Funciones: Comment(value: String), getValue(): String  
-
-- **ServiceId**  
-  Identificador único del servicio al que pertenece la reseña.  
-  - Atributos: id: Long  
-  - Funciones: ServiceId(value: Long), getValue(): Long  
-
-- **ClientId**  
-  Identificador único del cliente que emite la reseña.  
-  - Atributos: id: Long  
-  - Funciones: ClientId(value: Long), getValue(): Long
-
----
-
-#### 4.2.6.2. Interface Layer
-
-**Controllers**  
-**ReviewController**  
-Expone operaciones HTTP para gestionar las reseñas de los servicios.  
-**Funciones:**  
-- createReview(CreateReviewCommand)  
-- updateReview(UpdateReviewCommand)  
-- getReviewsByServiceId(Long)  
-- getReviewsByClientId(Long)  
-- getReviewById(Long)  
-
-**Assemblers**  
-- **ReviewResourceFromEntityAssembler**  
-  Convierte entidades de dominio en recursos expuestos por la API.  
-  - Funciones: toResource(Review)  
-
-- **CreateReviewCommandFromResourceAssembler**  
-  Convierte recursos HTTP en comandos de creación.  
-  - Funciones: toCommandFromResource(CreateReviewResource)  
-
-- **UpdateReviewCommandFromResourceAssembler**  
-  Convierte recursos HTTP en comandos de actualización.  
-  - Funciones: toCommandFromResource(UpdateReviewResource)  
-
-**Resources**  
-- CreateReviewResource  
-- UpdateReviewResource  
-- ReviewResource
-
----
-
-#### 4.2.6.3. Application Layer
-
-**Commands**  
-- **CreateReviewCommand**  
-  Ordena la creación de una nueva reseña.  
-  - Atributos: serviceId: Long, clientId: Long, rating: Int, comment: String  
-
-- **UpdateReviewCommand**  
-  Permite modificar los datos de una reseña existente.  
-  - Atributos: reviewId: Long, rating: Int?, comment: String?  
-
-**Queries**  
-- **GetReviewsByServiceIdQuery**  
-  Permite obtener todas las reseñas asociadas a un servicio.  
-
-- **GetReviewsByClientIdQuery**  
-  Permite obtener todas las reseñas hechas por un cliente.  
-
-- **GetReviewByIdQuery**  
-  Permite obtener una reseña específica por ID.  
-
-**Services**  
-- **ReviewCommandService**  
-  Define operaciones de creación y actualización.  
-  - Funciones: createReview(CreateReviewCommand), updateReview(UpdateReviewCommand)  
-
-- **ReviewQueryService**  
-  Define operaciones de consulta.  
-  - Funciones: getReviewsByServiceId(Long), getReviewsByClientId(Long), getReviewById(Long)
- 
----
-
-#### 4.2.6.4. Infrastructure Layer
-
-**Repositories**  
-**ReviewRepository**  
-Accede a la persistencia de las reseñas.  
-**Funciones:**  
-- findById(Long): Optional<Review>  
-- findByServiceId(Long): List<Review>  
-- findByClientId(Long): List<Review>  
-- save(Review): Review  
-- delete(Review): void  
+##### 2.6.1.6.2. Bounded Context Database Design Diagram
 
 # Capítulo II: Solution UI/UX Design
 ## 3.1. Product design
@@ -2639,6 +2806,13 @@ Accede a la persistencia de las reseñas.
 
 # Conclusiones
 ## Conclusiones y recomendaciones
+
+### Conclusiones
+
+1. Al haber finalizado la primera entrega del proyecto, hemos llegado a la conclusión de que es importante identificar correctamente aquello que el cliente necesita o lo que tiene más valor para este utilizando las técnicas adecuadas, como las son las entrevsitas y la investigación realizada en nuestro 5W2H. De esta manero, tenemos más claridad en cuanto a en qué aspecto debemos enfocarnos.
+2. Podemos concluir que el realizar un event storming e identificar correctamente los Bounded Contexts que serán necesarios en la solución es primordial dado que es así que se forma la base para comenzar a definir el espacio y orden en que se implementará la solución mediante una aplicación. Así, sabemos para que secuencias se cruzan los Bounded Contexts, repartimos las responsabilidades adecuadamente y evitamos llamar ciertos sectores innecesariamente.
+3. Concluimos que el planteamiento que hemos realizado corresponde congruentemente con la idea de aplicación que deseamos implementar como solución. Esto, dado que considera todos los aspectos que deben ser tratados dados los deseos de nustros segmentos objetivos, así como representa una división justa que nos permitirá desarrollar el producto mínimo viable en poco tiempo.
+
 ## Video App Validation
 ## Video About the Product
 ## Video About the Team
