@@ -2621,9 +2621,9 @@ Accede a la persistencia de los servicios.
 
 ![services database diagram](img/BD-Diagram-Services.png)
 
-### 2.6.1. Bounded Context: Reviews
+### 2.6.6. Bounded Context: Reviews
 
-#### 2.6.1.1. Domain Layer
+#### 2.6.6.1. Domain Layer
 
 ##### Aggregates
 
@@ -2677,7 +2677,7 @@ Representa el nombre de la empresa de un proveedor, asegurando que no sea vacío
 
 ---
 
-#### 2.6.1.2. Interface Layer
+#### 2.6.6.2. Interface Layer
 
 ##### Controllers
 
@@ -2699,7 +2699,7 @@ Expone operaciones HTTP para gestionar perfiles de proveedores.
 
 ---
 
-#### 2.6.1.3. Application Layer
+#### 2.6.6.3. Application Layer
 
 ##### Commands
 
@@ -2725,7 +2725,7 @@ Ordena la eliminación lógica de un perfil de proveedor.
 
 ---
 
-#### 2.6.1.4. Infrastructure Layer
+#### 2.6.6.4. Infrastructure Layer
 
 ##### Repositories
 
@@ -2753,16 +2753,16 @@ Accede a la persistencia de los perfiles de proveedores, implementando la interf
   - `save(Provider): Provider`  
   - `delete(Provider): void`  
 
-#### 2.6.1.5. Bounded Context Software Architecture Component Level Diagrams
+#### 2.6.6.5. Bounded Context Software Architecture Component Level Diagrams
 
 <img src="img/review-bounded.png" alt="reviews">
 
-#### 2.6.1.6. Bounded Context Software Architecture Code Level Diagrams
-##### 2.6.1.6.1. Bounded Context Domain Layer Class Diagrams
+#### 2.6.6.6. Bounded Context Software Architecture Code Level Diagrams
+##### 2.6.6.6.1. Bounded Context Domain Layer Class Diagrams
 
 <img src="img/reviews-context-diagram.png" alt="reviews">
 
-##### 2.6.1.6.2. Bounded Context Database Design Diagram
+##### 2.6.6.6.2. Bounded Context Database Design Diagram
 
 ![reviews database diagram](img/BD-Diagram-Reviews.png)
 # Capítulo II: Solution UI/UX Design
