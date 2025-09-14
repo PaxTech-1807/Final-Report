@@ -2466,8 +2466,7 @@ Accede a la persistencia de los turnos (Shift), siguiendo el patrón de reposito
 
 ##### 2.6.4.6.2. Bounded Context Database Design Diagram
 
-
-
+![Workers database diagram](img/BD-Diagram-Workers.png)
 
 ### 2.6.5. Bounded Context: Services
 
@@ -2618,6 +2617,7 @@ Accede a la persistencia de los servicios.
 
 ##### 2.6.5.6.2. Bounded Context Database Design Diagram
 
+![services database diagram](img/BD-Diagram-Services.png)
 
 ### 2.6.1. Bounded Context: Reviews
 
@@ -2762,6 +2762,7 @@ Accede a la persistencia de los perfiles de proveedores, implementando la interf
 
 ##### 2.6.1.6.2. Bounded Context Database Design Diagram
 
+![reviews database diagram](img/BD-Diagram-Reviews.png)
 # Capítulo II: Solution UI/UX Design
 ## 3.1. Product design
 ### 3.1.1. Style Guidelines
@@ -2817,7 +2818,6 @@ Accede a la persistencia de los perfiles de proveedores, implementando la interf
 ## Video About the Product
 ## Video About the Team
 
-# Glosario
 # Bibliografía
 Araya, F., Balestrini, M., Blandón, C., Henriquez P. & Torrico, B. (2025). El poder de los datos: Impulsando la transformación digital de las pymes de América Latina. https://blogs.iadb.org/innovacion/es/el-poder-de-los-datos-impulsando-la-transformacion-digital-de-las-pymes-de-america-latina/
 
