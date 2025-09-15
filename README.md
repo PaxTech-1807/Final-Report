@@ -148,15 +148,8 @@ Se explican las ramas más prominentes:
 
 **Capturas de la participación en el informe:**
 
-- Choquehuanca Nuñez, Luciana Carolina
-
-- Qqueso Rodriguez, Britney Delhy
-
-- Rivera Sosa, Eduardo Gael
-
-- Roman Cruz, Natalia Bertha
-
-- Yum Gonzales, Jorge Suin
+![alt text](image.png)
+![alt text](image-1.png)
 
 <br>
 
