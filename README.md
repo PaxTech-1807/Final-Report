@@ -2857,6 +2857,17 @@ Accede a la persistencia de los perfiles de proveedores, implementando la interf
 2. Podemos concluir que el realizar un event storming e identificar correctamente los Bounded Contexts que serán necesarios en la solución es primordial dado que es así que se forma la base para comenzar a definir el espacio y orden en que se implementará la solución mediante una aplicación. Así, sabemos para que secuencias se cruzan los Bounded Contexts, repartimos las responsabilidades adecuadamente y evitamos llamar ciertos sectores innecesariamente.
 3. Concluimos que el planteamiento que hemos realizado corresponde congruentemente con la idea de aplicación que deseamos implementar como solución. Esto, dado que considera todos los aspectos que deben ser tratados dados los deseos de nustros segmentos objetivos, así como representa una división justa que nos permitirá desarrollar el producto mínimo viable en poco tiempo.
 
+### Recomendaciones
+
+1. **Profundizar en la validación de los Bounded Contexts identificados**: Aunque se logró una buena identificación inicial de los contextos (IAM, Services, Profiles, Reservations, Workers, Reviews, Shared), se recomienda realizar sesiones adicionales de EventStorming con usuarios reales del sector belleza para validar que los eventos, comandos y políticas identificados realmente reflejen los procesos de negocio actuales. Esto permitirá refinar la arquitectura antes de la implementación.
+
+2. **Expandir el análisis competitivo con métricas cuantitativas**: El análisis de competidores realizado fue valioso, pero se sugiere complementarlo con métricas específicas como tiempo de respuesta de las aplicaciones, tasas de adopción por región, y análisis de reviews de usuarios en tiendas de aplicaciones. Esta información será crucial para posicionar uTime de manera diferenciada en el mercado.
+
+3. **Validar las User Stories con prototipos de baja fidelidad**: Las User Stories y Technical Stories definidas son un buen punto de partida, pero se recomienda crear wireframes o prototipos básicos para validar con usuarios reales que las funcionalidades propuestas realmente resuelven sus problemas. Esto ayudará a priorizar mejor el Product Backlog para las siguientes iteraciones.
+
+4. **Documentar patrones de integración entre Bounded Contexts**: Aunque se identificaron los contextos y sus responsabilidades, se sugiere crear documentación detallada sobre cómo se comunicarán entre sí, incluyendo APIs, eventos de dominio y contratos de integración. Esto facilitará la implementación y evitará problemas de acoplamiento en fases posteriores del desarrollo.
+
+
 ## Video App Validation
 ## Video About the Product
 ## Video About the Team
