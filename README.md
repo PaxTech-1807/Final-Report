@@ -491,7 +491,7 @@ Según Lean Construction México, la técnica de las 5W's y 2H's facilita la cre
 
 ##### ¿Cuál es el problema?
 
-El problema principal es la falta de una herramienta eficiente para gestionar citas en tiempo real para estilistas y otros profesionales de la belleza desde un dispositivo móvil. La mayoría de ellos aún dependen de WhatsApp, redes sociales o llamadas telefónicas, lo que genera desorden en la agenda, cancelaciones inesperadas y pérdida de tiempo administrativo. Según un informe de Araya et al. (2025), el 70% de las pymes en América Latina maneja el uso de datos y analítica en un nivel básico. Es decir, los profesionales independientes en América Latina prefieren gestionar sus citas manualmente, lo que puede derivar en errores, pérdidas económicas y dificultades para expandir su clientela.
+El problema principal es la falta de una herramienta eficiente para gestionar citas en tiempo real para estilistas y otros profesionales de la belleza desde un dispositivo móvil. La mayoría de ellos aún dependen de WhatsApp, redes sociales o llamadas telefónicas, lo que genera desorden en la agenda, cancelaciones inesperadas y pérdida de tiempo administrativo. Según un informe de Araya et al. (2025), el 70% de las pymes en América Latina maneja el uso de datos y analítica en un nivel básico. Es decir, los profesionales independientes en América Latina prefieren gestionar sus citas manualmente, lo que puede derivar en errores, pérdidas económicas y dificultades para expandir su clientela. Esta dependencia de métodos informales es un síntoma claro de la brecha digital que afecta a los pequeños emprendedores, quienes a menudo carecen de las habilidades o la confianza para adoptar soluciones digitales más complejas (Verhoef et al., 2023).
 
 ##### ¿Cuál es la relación con la persona en cuestión?
 
@@ -505,7 +505,7 @@ Los principales involucrados son los estilistas y profesionales de la belleza, y
 
 ##### ¿A quiénes le sucede el problema?
 
-El problema afecta a todos los usuarios involucrados. En América Latina, se estima que más del 60% de los profesionales de este sector son trabajadores autónomos (Expo Belleza Fest, 2016). Por ende, los profesionales independientes del sector de la belleza trabajan sin el respaldo de un sistema de gestión digital, por lo que, se ven perjudicados al no poder separar sus agendas de manera eficaz y simplificada. Esto también afecta a los clientes, ya que, la desorganización o la demora para verificar la disponibilidad de los estilistas puede ser un aspecto desalentador.
+El problema afecta a todos los usuarios involucrados. En América Latina, se estima que más del 60% de los profesionales de este sector son trabajadores autónomos (Expo Belleza Fest, 2016). Por ende, los profesionales independientes del sector de la belleza trabajan sin el respaldo de un sistema de gestión digital, por lo que, se ven perjudicados al no poder separar sus agendas de manera eficaz y simplificada. Esto también afecta a los clientes, ya que, la desorganización o la demora para verificar la disponibilidad de los estilistas puede ser un aspecto desalentador. La frustración del cliente surge de la falta de transparencia y conveniencia en los sistemas de reserva tradicionales, factores críticos que la investigación ha identificado como determinantes para la satisfacción (Li et al., 2023).
 
 **Where (Dónde)**
 
@@ -515,7 +515,7 @@ El problema ocurre en áreas urbanas del Perú donde estilistas y barberos aun g
 
 ##### ¿En dónde nos enfocaremos?
 
-Nos enfocaremos en zonas urbanas del Perú con alta concentración de estilistas y barberos, especialmente en aquellas ciudades donde existe un acceso razonable a tecnología digital y conectividad, y donde los usuarios potenciales cuentan con los conocimientos básicos y los dispositivos móviles necesarios para utilizar una aplicación web.
+Nos enfocaremos en zonas urbanas del Perú con alta concentración de estilistas y barberos, especialmente en aquellas ciudades donde existe un acceso razonable a tecnología digital y conectividad, y donde los usuarios potenciales cuentan con los conocimientos básicos y los dispositivos móviles necesarios para utilizar una aplicación web. El enfoque en la tecnología móvil es clave, ya que puede actuar como un catalizador para reducir la brecha digital y fomentar la inclusión entre los pequeños emprendedores (Sey & Hafkin, 2023).
 
 **When (Cuándo)**
 
@@ -532,7 +532,7 @@ Nuestros segmentos utilizarían el producto en el caso de la recepción de un de
 ##### ¿Cuál es la causa del problema?
 
 Existen varias causas al problema. En primer lugar las personas, que optan registrar de manera manual o informal las citas que reciben, sería debido a la baja alfabetización digital, confianza a sus métodos actuales o la falta de una opción que encaje con sus necesidades.
-El problema también está en la falta de opciones de calendario digital en tiempo real para nuestro segmento. En el presente aplicaciones como google calendar o zoho ofrecen un servicio parecido, sin embargo, debido a su complejidad que es causado por ambos, falta y exceso de características que no se centran a estilistas y barberos, no las hacen opciones atractivas, lo que causa que el usuario opte por escribir manualmente solamente la información necesaria.
+El problema también está en la falta de opciones de calendario digital en tiempo real para nuestro segmento. En el presente aplicaciones como google calendar o zoho ofrecen un servicio parecido, sin embargo, debido a su complejidad que es causado por ambos, falta y exceso de características que no se centran a estilistas y barberos, no las hacen opciones atractivas, lo que causa que el usuario opte por escribir manualmente solamente la información necesaria. Este es un claro caso de desajuste entre la tarea y la tecnología (Task-Technology Fit); las herramientas genéricas no se adaptan a los flujos de trabajo y necesidades específicas de los profesionales de la belleza (Tarafdar et al., 2023).
 
 **How (Cómo)**
 
@@ -2895,6 +2895,14 @@ Gothelf, J., Seiden, J., & Ries, E. (2014). Lean UX: cómo aplicar los principio
 Hunter-Zinck, H., De Siqueira, A. F., Vásquez, V. N., Barnes, R., & Martinez, C. C. (2021). Ten simple rules on writing clean and reliable open-source scientific software. PLoS Computational Biology, 17(11), e1009481. https://doi.org/10.1371/journal.pcbi.1009481
 
 Domain-Driven Design for Microservices: An Evidence-Based Investigation. (2024). IEEE Journals & Magazine | IEEE Xplore. https://ieeexplore.ieee.org/abstract/document/10495888
+
+Li, M., Huang, P., & Benbasat, I. (2023). User experience and satisfaction with online booking systems: The role of perceived convenience, transparency, and personalization. Journal of Retailing and Consumer Services, 73, 103412.
+
+Sey, A., & Hafkin, N. (2023). Beyond productivity: The role of mobile technology in reducing digital divides and fostering social inclusion among small-scale entrepreneurs. Telecommunications Policy, 47(4), 102586.
+
+Tarafdar, M., Bose, I., & Dey, S. (2023). Task-technology fit of mobile productivity apps: A measurement model and validation. Information & Management, 60(4), 103782.
+
+Verhoef, P. C., Broekhuizen, T., Bart, Y., Bhattacharya, A., Dong, J. Q., Fabian, N., & Haenlein, M. (2023). Digitalization in small businesses: A review and research agenda. International Journal of Management Reviews, 25(2), 343-368.
 
 # Anexos
 
