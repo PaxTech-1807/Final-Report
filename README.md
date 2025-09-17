@@ -2896,13 +2896,13 @@ Hunter-Zinck, H., De Siqueira, A. F., Vásquez, V. N., Barnes, R., & Martinez, C
 
 Domain-Driven Design for Microservices: An Evidence-Based Investigation. (2024). IEEE Journals & Magazine | IEEE Xplore. https://ieeexplore.ieee.org/abstract/document/10495888
 
-Li, M., Huang, P., & Benbasat, I. (2023). User experience and satisfaction with online booking systems: The role of perceived convenience, transparency, and personalization. Journal of Retailing and Consumer Services, 73, 103412.
+Li, M., Huang, P., & Benbasat, I. (2023). User experience and satisfaction with online booking systems: The role of perceived convenience, transparency, and personalization. Journal of Retailing and Consumer Services, 73, 103412. https://doi.org/10.1016/j.jretconser.2023.103412
 
-Sey, A., & Hafkin, N. (2023). Beyond productivity: The role of mobile technology in reducing digital divides and fostering social inclusion among small-scale entrepreneurs. Telecommunications Policy, 47(4), 102586.
+Sey, A., & Hafkin, N. (2023). Beyond productivity: The role of mobile technology in reducing digital divides and fostering social inclusion among small-scale entrepreneurs. Telecommunications Policy, 47(4), 102586. https://www.sciencedirect.com/journal/telecommunications-policy/vol/47/issue/4
 
-Tarafdar, M., Bose, I., & Dey, S. (2023). Task-technology fit of mobile productivity apps: A measurement model and validation. Information & Management, 60(4), 103782.
+Tarafdar, M., Bose, I., & Dey, S. (2023). Task-technology fit of mobile productivity apps: A measurement model and validation. Information & Management, 60(4), 103782. https://www.sciencedirect.com/journal/information-and-management/vol/60/issue/4
 
-Verhoef, P. C., Broekhuizen, T., Bart, Y., Bhattacharya, A., Dong, J. Q., Fabian, N., & Haenlein, M. (2023). Digitalization in small businesses: A review and research agenda. International Journal of Management Reviews, 25(2), 343-368.
+Verhoef, P. C., Broekhuizen, T., Bart, Y., Bhattacharya, A., Dong, J. Q., Fabian, N., & Haenlein, M. (2023). Digitalization in small businesses: A review and research agenda. International Journal of Management Reviews, 25(2), 343-368. https://onlinelibrary.wiley.com/toc/14682370/25/2
 
 # Anexos
 
