@@ -2828,7 +2828,62 @@ Accede a la persistencia de los perfiles de proveedores, implementando la interf
 
 # Capítulo IV: Product Implementation, Validation
 ## 4.1. Software Configuration Management
+
+El equipo ha establecido el siguiente conjunto de herramientas para asegurar una configuración de entorno de desarrollo unificada, que permita una colaboración efectiva y el cumplimiento de los objetivos del proyecto. Estas herramientas cubren diferentes actividades del ciclo de vida del producto digital.
+
 ### 4.1.1. Software Development Environment Configuration
+
+#### Project Management
+
+**Pivotal Tracker** es la herramienta principal utilizada por el equipo para la gestión ágil del proyecto. Permite planificar, organizar y hacer seguimiento del avance de las historias de usuario, tareas y bugs mediante un enfoque basado en historias y priorización colaborativa.
+Ruta de referencia: https://www.pivotaltracker.com
+
+**Discord** es la plataforma empleada para la comunicación en tiempo real entre los miembros del equipo. A través de canales organizados por temas y funciones, se realizan reuniones de equipo, coordinación diaria y soporte instantáneo durante todo el desarrollo.  
+Ruta de referencia: https://discord.com
+
+#### Product UX/UI Design
+
+**Figma** es utilizada como herramienta principal para el diseño de interfaces gráficas (UI) y la experiencia de usuario (UX). Permite que varios miembros colaboren simultáneamente en prototipos interactivos, estructuras visuales y pruebas de diseño.  
+Ruta de referencia: https://www.figma.com
+
+**UXPressia** complementa el trabajo de UX al permitir la creación y documentación de User Personas, Customer Journey Maps y Empathy Maps. Esto ayuda al equipo a entender mejor a los usuarios finales y alinear las decisiones de diseño con sus necesidades.  
+Ruta de referencia: https://uxpressia.com
+
+**Trello** complementa el trabajo de UX al facilitar la organización visual de tareas, ideas y flujos de trabajo mediante tableros, listas y tarjetas. Esto permite a los equipos de diseño y desarrollo colaborar de forma ágil, priorizar funcionalidades centradas en el usuario y dar seguimiento al progreso de proyectos UX.
+Ruta de referencia: https://trello.com
+
+#### Software Development
+
+**Android Studio** es un emulador que provee un entorno unificado para desarrollar proyectos para dispositivos Android y ofrece herramientas para diseño, programación, depuración y pruebas. Este es el entorno que hemos utilizado para el desarrollo del frontend de nuestras aplicaciones móviles.
+Ruta de referencia: https://developer.android.com
+
+#### Software Deployment
+
+**Git** es el sistema de control de versiones utilizado para gestionar el historial de cambios en el código fuente. Permite que varios desarrolladores colaboren en paralelo, con control total sobre ramas, merges y versiones del proyecto.  
+Ruta de referencia: https://git-scm.com
+
+**GitKraken** es un cliente Git con interfaz gráfica que el equipo usa para facilitar la gestión visual de ramas, commits, conflictos y flujos de trabajo. Su interfaz amigable permite trabajar con Git de forma intuitiva y estructurada.  
+Ruta de referencia: https://www.gitkraken.com
+
+**Render** es la plataforma de despliegue que el equipo utiliza para alojar y ejecutar APIs simuladas (fake APIs) durante las etapas de desarrollo y pruebas. Su facilidad de configuración y despliegue continuo lo convierten en una herramienta eficiente para ambientes de testing.
+Ruta de referencia: https://render.com
+
+**GitHub Pages** es la plataforma de hosting utilizada por el equipo para desplegar la interfaz frontend de la aplicación. Al integrarse directamente con repositorios de GitHub, permite publicar sitios web estáticos de manera rápida, automatizada y gratuita.
+Ruta de referencia: https://pages.github.com
+
+**Azure** es la plataforma en la nube utilizada por el equipo para desplegar y escalar el backend de la aplicación. Gracias a sus servicios gestionados, como App Services y Azure SQL, permite una implementación robusta, segura y de alto rendimiento para aplicaciones en producción.
+Ruta de referencia: https://azure.microsoft.com
+
+#### Software Documentation and Project Management
+
+**GitHub** se utiliza como repositorio remoto centralizado para almacenar y sincronizar el código del proyecto. También se usa para revisar código (pull requests), registrar incidencias, documentar el proyecto y automatizar tareas de despliegue.  
+Ruta de referencia: https://github.com
+
+#### Software Testing
+
+**Gherkin** es un sistema de etiquetado utilizado para describir los criterios de aceptación de estructura de una user story.  
+Ruta de referencia: https://cucumber.io/docs/gherkin/
+
 ### 4.1.2. Source Code Management
 ### 4.1.3. Source Code Style Guide & Conventions
 ### 4.1.4. Software Deployment Configuration
