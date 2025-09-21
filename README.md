@@ -2916,6 +2916,21 @@ El proyecto seguirá las convenciones de flujo de trabajo establecidas por el mo
 `git commit -m "<type>[optional scope]: <description">`
 
 ### 4.1.3. Source Code Style Guide & Conventions
+
+**Kotlin/Java (Android):** Para mantener un código limpio y coherente en Android Studio, se recomienda:
+
+1. Usar camelCase para nombres de variables y métodos, y PascalCase para clases.
+
+2. Mantener la indentación en 4 espacios y evitar líneas demasiado largas (>100 caracteres).
+
+3. Escribir comentarios claros solo cuando el código no sea autoexplicativo.
+
+4. Nombrar recursos XML (layouts, strings, drawables, ids) en minúsculas y separados por guiones bajos.
+
+5. Seguir la arquitectura definida y separar responsabilidades en paquetes organizados.
+
+**Gherkin:** Es un lenguaje de dominio específico, el cual busca solucionar un problema concreto, la comunicación entre los negocios y la parte técnica al trabajar con Behavior Driven Development, abreviado por sus siglas en ingles como BBD. En busca de una buena práctica, se ocuparon los saltos de línea para mejorar el orden de los diversos tipos de escenarios y diferenciarlos de forma más óptima. Adicionalmente, se utilizaron las palabras clave "Given", "When", "Then" y "And" para estructurar los escenarios.
+
 ### 4.1.4. Software Deployment Configuration
 ## 4.2. Landing Page & Mobile Application Implementation
 ### 4.2.X. Sprint n
