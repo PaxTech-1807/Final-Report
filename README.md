@@ -2949,6 +2949,8 @@ Para poder desplegar la landing page resulta necesario contar con una serie de r
 
 6. Esperar a que GitHub realice las comprobaciones necesarias. Una vez culminado el proceso, se obtendrá un enlace que llevará al Landing Page Desplegado.  
 
+![GitHubPages](img/GitHub-Pages.png)
+
 ## 4.2. Landing Page & Mobile Application Implementation
 ### 4.2.X. Sprint n
 #### 4.2.X.1. Sprint Planning n
