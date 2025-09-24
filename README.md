@@ -72,6 +72,7 @@
 
    <br>
 
+   <center><b>Septiembre 2025</b></center>
    <center><b>Ciclo 2025-20</b></center>
 
    <br>
@@ -2806,6 +2807,7 @@ Accede a la persistencia de los perfiles de proveedores, implementando la interf
 ##### 2.6.6.6.2. Bounded Context Database Design Diagram
 
 ![reviews database diagram](img/BD-Diagram-Reviews.png)
+
 # Capítulo II: Solution UI/UX Design
 ## 3.1. Product design
 ### 3.1.1. Style Guidelines
