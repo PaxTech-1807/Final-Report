@@ -2809,7 +2809,9 @@ Accede a la persistencia de los perfiles de proveedores, implementando la interf
 ![reviews database diagram](img/BD-Diagram-Reviews.png)
 
 # Capítulo II: Solution UI/UX Design
+
 ## 3.1. Product design
+
 ### 3.1.1. Style Guidelines
 #### 3.1.1.1. General Style Guidelines
 ### 3.1.2. Information Architecture
@@ -2818,9 +2820,101 @@ Accede a la persistencia de los perfiles de proveedores, implementando la interf
 #### 3.1.2.3. SEO Tags and Meta Tags
 #### 3.1.2.4. Searching Systems
 #### 3.1.2.5. Navigation Systems
+
 ### 3.1.3. Landing Page UI Design
+
+Para el desarrollo de los wireframes y mockups de uTime, utilizaremos **Figma** como herramienta principal de diseño. Los wireframes definirán la estructura básica y navegación, mientras que los mockups mostrarán el diseño final con la identidad visual de la aplicación.
+
 #### 3.1.3.1. Landing Page Wireframe
+
+**Wireframe 1 - Hero Section:** Estructura del hero con frase principal y call to action para captar la atención del usuario.
+
+<img src="img/wireframe1.png" alt="Wireframe 1">
+
+**Wireframe 2 - Features (Funcionalidad 1):** Layout para mostrar la primera funcionalidad principal de la aplicación móvil.
+
+<img src="img/wireframe2.png" alt="Wireframe 2">
+
+**Wireframe 3 - Features (Funcionalidad 2):** Estructura para presentar la segunda funcionalidad clave de uTime.
+
+<img src="img/wireframe3.png" alt="Wireframe 3">
+
+**Wireframe 4 - Features (Funcionalidad 3):** Layout para mostrar la tercera funcionalidad destacada de la aplicación.
+
+<img src="img/wireframe4.png" alt="Wireframe 4">
+
+**Wireframe 5 - Flujo Salón (Paso 1):** Estructura del primer paso del flujo de interacción del salón de belleza con la aplicación.
+
+<img src="img/wireframe5.png" alt="Wireframe 5">
+
+**Wireframe 6 - Flujo Salón (Paso 2):** Layout del segundo paso del proceso de interacción del salón con uTime.
+
+<img src="img/wireframe6.png" alt="Wireframe 6">
+
+**Wireframe 7 - Precios y Planes:** Estructura para mostrar los diferentes planes de precios disponibles en uTime.
+
+<img src="img/wireframe7.png" alt="Wireframe 7">
+
+**Wireframe 8 - Testimonios:** Layout para mostrar testimonios de diferentes usuarios destacando los beneficios de uTime.
+
+<img src="img/wireframe8.png" alt="Wireframe 8">
+
+**Wireframe 9 - Video About the Product:** Estructura de la sección del video promocional sobre el producto.
+
+<img src="img/wireframe9.png" alt="Wireframe 9">
+
+**Wireframe 10 - FAQ (Preguntas Frecuentes):** Layout de la sección de preguntas frecuentes para resolver dudas de usuarios.
+
+<img src="img/wireframe10.png" alt="Wireframe 10">
+
+**Wireframe 11 - Call to Action Final + Footer:** Estructura del último call to action junto con el footer de la landing page.
+
+<img src="img/wireframe11.png" alt="Wireframe 11">
+
+
 #### 3.1.3.2. Landing Page Mock-up
+
+**Mockup 1 - Hero Section:** Diseño final del hero con tipografías atractivas, colores corporativos y call to action visualmente impactante.
+
+<img src="img/mockup1.png" alt="Mockup 1">
+
+**Mockup 2 - Features (Funcionalidad 1):** Presentación visual de la primera funcionalidad con iconos, colores y tipografías de la marca.
+
+<img src="img/mockup2.png" alt="Mockup 2">
+
+**Mockup 3 - Features (Funcionalidad 2):** Diseño final de la segunda funcionalidad con elementos gráficos y paleta de colores de uTime.
+
+<img src="img/mockup3.png" alt="Mockup 3">
+
+**Mockup 4 - Features (Funcionalidad 3):** Interfaz visual de la tercera funcionalidad con iconografía y diseño corporativo.
+
+<img src="img/mockup4.png" alt="Mockup 4">
+
+**Mockup 5 - Flujo Salón (Paso 1):** Diseño visual del primer paso del flujo con imágenes, iconos y colores atractivos.
+
+<img src="img/mockup5.png" alt="Mockup 5">
+
+**Mockup 6 - Flujo Salón (Paso 2):** Presentación visual del segundo paso con elementos gráficos y tipografías corporativas.
+
+<img src="img/mockup6.png" alt="Mockup 6">
+
+**Mockup 7 - Precios y Planes:** Diseño final de los planes con colores, tipografías y elementos visuales que destaquen cada opción.
+
+<img src="img/mockup7.png" alt="Mockup 7">
+
+**Mockup 8 - Testimonios:** Interfaz visual de testimonios con fotos de usuarios, tipografías y colores que generen confianza.
+
+<img src="img/mockup8.png" alt="Mockup 8">
+
+**Mockup 9 - FAQ (Preguntas Frecuentes):** Diseño final de la sección FAQ con iconos, colores y tipografías que faciliten la lectura.
+
+<img src="img/mockup9.png" alt="Mockup 9">
+
+**Mockup 10 - Call to Action Final + Footer:** Diseño visual del último CTA y footer con elementos gráficos y colores corporativos.
+
+<img src="img/mockup10.png" alt="Mockup 10">
+
+
 ###  3.1.4. Mobile Applications UX/UI Design
 #### 3.1.4.1. Mobile Applications Wireframes
 #### 3.1.4.2. Mobile Applications Wireflow Diagrams
