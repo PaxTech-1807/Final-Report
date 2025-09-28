@@ -2995,7 +2995,9 @@ Pantalla móvil Services. Encabezado con título y botón + New Service alineado
 
 Sección de planes y precios. Cada plan se presenta en una vista vertical con título grande, breve resumen y una imagen de muestra. Abajo aparece FEATURES con lista de beneficios. El precio se destaca en tipografía gruesa. Deluxe Studio muestra s/.129.9 x month. ProStyle muestra s/.69.9 x month. Essential se indica Free. Al final de cada pantalla hay dos llamadas a la acción: Schedule a demo y I want it!. Diseño simple, lectura rápida y foco en conversión.
 
-<img src="img/Mobile-18.png" alt="Mobile-18">
+<p align="center">
+  <img src="img/Mobile-18.png" alt="Mobile-18" width="320">
+</p>
 
 Pantalla de Settings. Encabezado con opción Back y título con icono de edición. La sección Personal information incluye campos de Name, Address, Phone number e Identity document, además de switches para Notifications y Location. Más abajo, Change password aparece en una tarjeta con el email, la contraseña actual con botón Change, campos New password y Confirm new password, y el botón Save changes. Diseño simple y enfocado en edición rápida.
 
