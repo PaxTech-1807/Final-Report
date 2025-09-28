@@ -2813,14 +2813,122 @@ Accede a la persistencia de los perfiles de proveedores, implementando la interf
 ## 3.1. Product design
 
 ### 3.1.1. Style Guidelines
+uTime es una plataforma digital diseñada para transformar la manera en que los salones de belleza gestionan su tiempo, sus citas y su relación con los clientes. Con un enfoque profesional, moderno y accesible, uTime conecta a salones con sus clientes de forma inteligente, permitiendo reservas fluidas, recordatorios automáticos, gestión centralizada de citas, perfiles personalizados y mucho más.<br>
+La plataforma está pensada para brindar una experiencia visual sofisticada y funcional, adaptable tanto para usuarios del sector belleza como para sus clientes. Para asegurar una presentación coherente y unificada en todo el ecosistema digital de uTime, este documento establece una guía centralizada de estilo que cubre desde elementos visuales hasta principios de diseño para landing page y aplicación móvil.
+
+Las Style Guidelines de uTime están divididas en tres secciones: General Style Guidelines, Web Style Guidelines y Mobile Style Guidelines, asegurando que el diseño sea intuitivo, atractivo y accesible en cada entorno.
 #### 3.1.1.1. General Style Guidelines
+El branding de uTime es el núcleo de su identidad visual, diseñado para transmitir profesionalismo, modernidad y accesibilidad. La marca representa la fusión entre tecnología y bienestar, ofreciendo una experiencia elegante tanto para salones de belleza como para sus clientes. A través de una estética limpia, neutra y equilibrada, uTime busca establecer una conexión de confianza y eficiencia.
+
+Los elementos visuales —logo, tipografía y paleta de colores— reflejan organización, claridad y cuidado, capturando la esencia de un servicio puntual, estilizado y personalizado. El sistema visual está cuidadosamente alineado con el mundo de la belleza, sin perder su enfoque en la simplicidad y funcionalidad, generando una experiencia coherente y agradable.
+
+Tipografía
+<div align="center"> <img src="img/tipografia.png" alt="tipografia" width="600" /> </div> Se utilizan dos tipografías principales:
+
+Logo: Roboto SemiBold, que proyecta firmeza, modernidad y confianza.
+
+Texto regular: Poppins en sus variaciones Light, Regular, Medium, SemiBold y Bold para asegurar jerarquía y legibilidad en pantallas de todos los tamaños.
+
+**Colores**
+<div align="center"> <img src="img/paleta%20colores.png" alt="paleta_colores" width="600" /> </div> La paleta está compuesta por tonos principales en violeta y oscuros (#B497F3, #513A84, #2D3142) que transmiten modernidad y lujo, complementados con colores secundarios suaves (#E8C7EF, #BFAFAF) que añaden calidez y cercanía.
+
+**Iconografía**
+<div align="center"> <img src="img/iconografia.png" alt="iconografia" width="600" /> </div> Íconos lineales (outline) con trazos uniformes y redondeados, diseñados en tres tamaños estándar (grandes, medianos y pequeños). La librería incluye funciones clave como agendamiento, pagos, perfil, servicios y notificaciones.
+
 ### 3.1.2. Information Architecture
 #### 3.1.2.1. Organization Systems
-#### 3.1.2.2. Labelling Systems
-#### 3.1.2.3. SEO Tags and Meta Tags
-#### 3.1.2.4. Searching Systems
-#### 3.1.2.5. Navigation Systems
+-Landing Page Diagram:
+<div align="center">
+   <img src="img/diagram_1_fix.png" alt="diagram-1"/>
+</div>
+-Home System Diagram:
+<div align="center">
+   <img src="img/Homepage_system.png" alt="diagram-1-sign-in"/>
+</div>
+-Dashboard Diagram:
+<div align="center">
+   <img src="img/dashboard_1.png" alt="dash_1"/>
+   <img src="img/dashboard_2.png" alt="dash_2"/>
+</div>
+Los diagramas del sistema han sido divididos y organizados mediante el uso de colores distintivos, con el propósito de representar claramente la funcionalidad específica de cada sección: landing page, home system y dashboard. Esta diferenciación visual permite identificar rápidamente el propósito de cada componente y entender su rol dentro de la estructura general del sistema. La jerarquía de elementos se mantiene mediante una distribución ordenada, donde cada bloque se relaciona con funciones concretas, lo que facilita tanto el análisis como futuras modificaciones.
 
+#### 3.1.2.2. Labelling Systems
+**Landing Page (web):**
+Incluye etiquetas principales como:
+
+- HOME: visión general de uTime.
+
+- PRICING: detalle de planes de suscripción.
+
+- ABOUT US: presentación del equipo.
+
+- CONTACT US: información de contacto.
+
+**App Móvil – Salones (Segmento objetivo #1):**
+
+- Home: información general del negocio.
+
+- Appointments: lista y control de citas.
+
+- Reviews: reseñas de clientes.
+
+- Services: gestión de servicios ofrecidos.
+
+- Subscription: panel de plan activo.
+
+- Settings: configuraciones generales.
+
+- Notifications: centro de alertas.
+
+**App Móvil – Clientes (Segmento objetivo #2):**
+
+- Appointments: ver, agendar o modificar citas.
+
+- My favorites: acceso rápido a salones o estilistas favoritos.
+
+- My profile: datos de cuenta y preferencias.
+  
+#### 3.1.2.3. SEO Tags and Meta Tags
+Aplican únicamente a la landing page para su posicionamiento en buscadores:
+
+<title>uTime - Servicio de agenda para barberos o estilistas</title>  
+<meta name="description" content="uTime es una plataforma que permite a los barberos y estilistas gestionar sus citas y horarios de manera eficiente.">  
+<meta http-equiv="Content-Language" content="es-ES">  
+<meta name="robots" content="index, follow">  
+<meta name="author" content="uTime Team">  
+<meta name="viewport" content="width=device-width, initial-scale=1.0">  
+<link rel="canonical" href="https://www.uTime.com/">  
+
+#### 3.1.2.4. Searching Systems
+El sistema de búsqueda de uTime está diseñado para ofrecer una experiencia rápida, intuitiva y precisa tanto para los clientes como para los administradores de salones. A través de una barra de búsqueda ubicada en la parte superior de la interfaz, los usuarios pueden filtrar y encontrar fácilmente servicios, estilistas o salones según sus necesidades. El sistema admite búsquedas por palabras clave, como el tipo de servicio (ej. "corte de cabello", "alisado", "manicure"), nombre del estilista o incluso fechas disponibles. Además, puede complementarse con filtros avanzados, como ubicación, rango de precios, calificaciones o disponibilidad horaria, lo que permite a los usuarios personalizar su experiencia y encontrar rápidamente la mejor opción disponible. Esta funcionalidad mejora la eficiencia de la plataforma y contribuye a una mejor experiencia del cliente al reducir el tiempo de búsqueda y facilitar la toma de decisiones.
+
+
+#### 3.1.2.5. Navigation Systems
+<p>En uTime, los sistemas de navegación han sido diseñados para ofrecer una experiencia intuitiva y fluida, guiando a los usuarios a través de la plataforma de forma clara y eficiente. Desde la landing page hasta las diferentes áreas internas de la aplicación, cada elemento de navegación ha sido pensado para facilitar la interacción y ayudar a los usuarios a alcanzar sus objetivos sin fricciones.</p>
+<p>Uno de los principales componentes de navegación en uTime es el menú lateral, ubicado en la parte izquierda de la interfaz. Este menú actúa como eje central de navegación, brindando accesos directos a las secciones clave de la plataforma. Para los clientes, estas secciones incluyen citas, favoritos y perfil, mientras que para los salones se extienden a servicios, suscripciones, reseñas, configuraciones y más. Esta estructura lateral asegura que los usuarios puedan explorar rápidamente las funcionalidades que necesitan, manteniendo la coherencia visual y la facilidad de uso en todo momento.</p>
+
+**Menú de Clientes**
+
+Para los clientes, la navegación se estructura en un menú lateral simple y directo que incluye tres accesos principales: "Appointments", "My favorites" y "My profile". Estas etiquetas, acompañadas por íconos fácilmente reconocibles, permiten que el usuario navegue por su historial de citas, acceda a sus salones o servicios favoritos, y gestione la información de su cuenta personal. Este menú está diseñado con una jerarquía visual clara y un lenguaje sencillo para reducir la fricción y fomentar el uso frecuente.
+**Appointments (Citas)**
+- Permite al usuario ver sus citas pasadas y futuras.
+- Incluye detalles como fecha, hora, servicio y profesional asignado.
+- Posibilidad de cancelar o reprogramar citas desde esta sección.
+
+**My Favorites (Mis favoritos)**
+- Muestra una lista de salones que el cliente ha marcado como favoritos.
+- Facilita el acceso rápido para volver a agendar con salones frecuentes.
+- Incluye botones para ver el perfil del salón y agendar directamente.
+
+**My Profile (Mi perfil)**
+- Permite al usuario actualizar su información personal (nombre, número, correo, foto de perfil).
+- Acceso a la configuración de privacidad y notificaciones.
+
+<p>Una de las herramientas centrales en los sistemas de navegación de uTime es la barra de búsqueda ubicada en la parte superior de la interfaz. Esta funcionalidad permite a los usuarios acceder de forma rápida y directa a salones, sin tener que explorar múltiples menús. Gracias a esta búsqueda inteligente, el proceso de agendamiento se vuelve mucho más fluido y eficiente. </p>
+<p>Asimismo, se implementan acciones contextuales en elementos clave —como botones de agendamiento rápido o marcación de favoritos— que permiten a los usuarios interactuar con el contenido sin abandonar la pantalla actual. Todo esto contribuye a una navegación intuitiva y sin fricciones, asegurando que los clientes puedan cumplir sus objetivos de manera ágil y placentera dentro de la plataforma.</p>
+<p>Finalmente, para facilitar el desplazamiento dentro de secciones más profundas, como los detalles de un salón o profesional, se han incorporado rutas de navegación ("breadcrumbs") que permiten al usuario regresar fácilmente al punto anterior. También se incluyen botones de retroceso para mantener el contexto sin necesidad de recargar pantallas.</p>
+
+De la misma manera en la aplicación web los usuarios podrán acceder a sus funcionalidades a través de un menú de navgación en la parte superior de la pantalla. 
 ### 3.1.3. Landing Page UI Design
 
 Para el desarrollo de los wireframes y mockups de uTime, utilizaremos **Figma** como herramienta principal de diseño. Los wireframes definirán la estructura básica y navegación, mientras que los mockups mostrarán el diseño final con la identidad visual de la aplicación.
