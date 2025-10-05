@@ -1546,7 +1546,7 @@ A continuación, se detalla el proceso y evolución de nuestro event storming.
 Para comenzar, realizamos una lluvia de ideas para proponer e identificar en equipo los eventos que ocurrirían en nuestras aplicaciones, de forma de que no olvidemos ninguna de las opciones disponibles a utilizar para nuestros usuarios.
 Ahora, presentamos los eventos que consideramos al realizar nuestra exploración inicial.
 
-<img src="img/event_stoming_1.png" alt="event storming image">
+<img src="img/new_event_stoming_1.png" alt="event storming image">
 
 Aquí, se evidencia el mural con todos los eventos considerados después de evaluar las propuestas de la lluvia de ideas. Con estos será que seguiremos con los pasos siguientes.
 
@@ -1555,67 +1555,67 @@ Aquí, se evidencia el mural con todos los eventos considerados después de eval
 Siguiendo con el segundo paso, organizamos los eventos en secuencias según el orden en el que deben ocurrir y considerando el resultado positivo o negativo de los mismos.
 Así, a continuación se presentan las líneas temporales que logramos organizar.
 
-<img src="img/event_stoming_2.png" alt="event storming image">
+<img src="img/new_event_stoming_2.png" alt="event storming image">
 
 En esta secuencia, podemos ver el camino que debe recorrer un nuevo usuario para registrarse como cliente. Para ello, debe comenzar por seleccionar la casilla cliente en el sign up, colocar su correo y una contraseña válida. Si los datos ingresados son válidos, se creará la cuenta del cliente, caso contrario, se mostrará un mensaje diciendo que las credenciales son inválidas.
 
-<img src="img/event_stoming_3.png" alt="event storming image">
+<img src="img/new_event_stoming_3.png" alt="event storming image">
 
 En la siguiente secuencia, se muestra el camino que debe seguir un usuario para eliminar su cuenta. Para ello, debe comenzar por dirigirse a la pantalla cuenta, en donde deberá seleccionar la opción de eliminar cuenta para que su cuenta sea borrada definitivamente.
 
-<img src="img/event_stoming_4.png" alt="event storming image">
+<img src="img/new_event_stoming_4.png" alt="event storming image">
 
 En esta secuencia, se muestra cómo el usuario de tipo cliente puede editar sus datos y configuración de notificaciones en su cuenta. Para ello, primero deberá dirigirse a la pantalla cuenta, en donde al ingresar un nuevo nombre, número de teléfono y/o activar o desactivar la opción de recibir notificaciones se editará su perfil. De ser todos los datos nuevos válidos, estos se mostrarán cambiados en pantalla y en la base de datos. Si existe algún error, se mostrará un mensaje de información inválida.
 
-<img src="img/event_stoming_5.png" alt="event storming image">
+<img src="img/new_event_stoming_5.png" alt="event storming image">
 
 En la siguiente secuencia, se puede ver como un nuevo usuario puede crear una cuenta como usuario de tipo provider. Para ello, primero debe seleccionar la casilla provider en el sign up. Posteriormente, se pedirá que ingresen su correo y contraseña. De ser estos datos válidos, la cuenta provider será creada, caso contrario se mostrará un mensaje indicando que las credenciales son inválidas.
 
-<img src="img/event_stoming_6.png" alt="event storming image">
+<img src="img/new_event_stoming_6.png" alt="event storming image">
 
 En esta secuencia, se puede ver el camino de un usuario de tipo provider para editar su cuenta. Para ello, puede ingresar una nueva foto de perfil y/o una nueva foto de banner. De ser estos archivos válidos, los datos serán cambiados en pantalla y en la base de datos, mientras que si hay algún error se mostrará un mensaje de información inválida.
 
-<img src="img/event_stoming_7.png" alt="event storming image">
+<img src="img/new_event_stoming_7.png" alt="event storming image">
 
 En esta secuencia, se muestra el proceso de sign in que debe seguir un cliente. Para ingresar a su cuenta, debe ingresar correctamente su correo y contraseña registrados. Si se equivoca con alguno, se mostrará un mensaje de información inválida.
 
-<img src="img/event_stoming_8.png" alt="event storming image">
+<img src="img/new_event_stoming_8.png" alt="event storming image">
 
 En la siguiente secuencia, se puede ver como un usuario puede cerrar su cuenta. Para ello, debe ingresar a la pantalla cuenta y seleccionar la opción de “Logout”. Después de ello, su sesión se encontrará cerrada y podrá volver a ingresar posteriormente.
 
-<img src="img/event_stoming_9.png" alt="event storming image">
+<img src="img/new_event_stoming_9.png" alt="event storming image">
 
 En esta secuencia, se muestra el proceso que debe seguir un cliente para realizar una reserva. Primero, el cliente deberá ingresar a la pantalla de reservaciones. Luego, debe escoger el servicio que desea reservar y al trabajador que desea que se lo realice. Después, debe seleccionar un horario que esté disponible e ingresar la información de la tarjeta con la que pagará el servicio. Una vez procesado el pago satisfactoriamente, la reserva quedará guardada. Si el usuario selecciona un usuario no disponible para el trabajador que eligió, se mostrará un mensaje de error para que tome otro que sí esté disponible.
 
-<img src="img/event_stoming_10.png" alt="event storming image">
+<img src="img/new_event_stoming_10.png" alt="event storming image">
 
 En esta secuencia, se muestra como un usuario del tipo provider puede registrar un nuevo usuario de su negocio. Para ello, primero debe dirigirse a la sección de trabajadores, y seleccionar la opción nuevo trabajador. Allí, se le pedirá que ingrese los datos de su trabajador y confirme su registro. Si todos los datos son válidos, el trabajador será guardado, caso contrario, se mostrará un mensaje indicando que la información no es válida.
 
-<img src="img/event_stoming_11.png" alt="event storming image">
+<img src="img/new_event_stoming_11.png" alt="event storming image">
 
 Para la siguiente secuencia, se muestran los pasos a seguir para que un usuario de tipo provider elimine uno de sus trabajadores registrados. Para ello, solo deberá ingresar a la pantalla de trabajadores y seleccionar la opción eliminar junto al trabajador que desea quitar. Al hacer eso, también se borrará de la base de datos.
 
-<img src="img/event_stoming_12.png" alt="event storming image">
+<img src="img/new_event_stoming_12.png" alt="event storming image">
 
 En la siguiente secuencia, se muestra como un provider puede actualizar la información de uno de sus trabajadores ya registrados. Para ello, deberá dirigirse a la pantalla de trabajadores y seleccionar la opción actualizar en un trabajador en específico. A continuación, debe ingresar los nuevos datos del trabajador. Si estos son válidos entonces serán guardados, caso contrario se mostrará un mensaje indicando que la información no es válida.
 
-<img src="img/event_stoming_13.png" alt="event storming image">
+<img src="img/new_event_stoming_13.png" alt="event storming image">
 
 En esta secuencia, se muestra como un usuario de tipo cliente puede dejar una reseña en el perfil de un salón de belleza. Para esto, debe dirigirse al perfil del salón que ha seleccionado y escoger la opción nueva reseña. Aquí, ingresa su reseña. Si esta no incumple con los requisitos será registrada y mostrada, caso contrario se mostrará un mensaje de información no válida detectada.
 
-<img src="img/event_stoming_14.png" alt="event storming image">
+<img src="img/new_event_stoming_14.png" alt="event storming image">
 
 En la siguiente secuencia, se puede observar el camino que debe seguir un usuario de tipo cliente para eliminar una de sus reseñas realizadas a un salón de belleza. Para lograrlo, debe dirigirse al perfil del salón en el que realizó la reseña y seleccionar la opción eliminar en su reseña.
 
-<img src="img/event_stoming_15.png" alt="event storming image">
+<img src="img/new_event_stoming_15.png" alt="event storming image">
 
 En la secuencia siguiente, se puede observar como un usuario de tipo provider puede registrar un nuevo servicio para sí mismo. Para ello, debe dirigirse a la pantalla de servicios y seleccionar la opción nuevo servicio. Allí, se le pedirá que ingrese los datos del nuevo servicio a ofrecer. Si estos son válidos, entonces el servicio quedará creado y se guardará en la base de datos. Caso contrario, se mostrará un mensaje de información no válida detectada.
 
-<img src="img/event_stoming_16.png" alt="event storming image">
+<img src="img/new_event_stoming_16.png" alt="event storming image">
 
 En esta secuencia, se muestra como un usuario de tipo provider puede eliminar uno de sus servicios ingresados. Para ello, solo necesita dirigirse a la sección de servicios y seleccionar la opción eliminar aquel que ya no desea ofrecer. Así, el servicio quedará eliminado y ya no se encontrará en la base de datos.
 
-<img src="img/event_stoming_17.png" alt="event storming image">
+<img src="img/new_event_stoming_17.png" alt="event storming image">
 
 En la siguiente secuencia, podemos ver como un usuario de tipo provider edita los datos de uno de los servicios que ofrece. Para ello, debe ingresar a la pantalla de servicios y seleccionar la opción actualizar en el servicios que desea editar. Así, podrá ingresar los nuevos datos y al hacerlo correctamente los datos se actualizarán, caso contrario se mostrará un mensaje indicando que la información es inválida.
 
@@ -1624,11 +1624,11 @@ En la siguiente secuencia, podemos ver como un usuario de tipo provider edita lo
 Para el siguiente paso, hemos identificado los puntos críticos en los que aún podríamos trabajar para mejorarlos dado que poseen cierto riesgo y/o complejidad. Para darle a estos puntos la atención que merecen y tenerlos en cuenta para futuras versiones los resaltamos con rombos rosados.
 A continuación, mostramos las secuencias en las que hemos empleado pain points junto a la explicación de porqué decidimos incluirlos en dicho espacio.
 
-<img src="img/event_stoming_18.png" alt="event storming image">
+<img src="img/new_event_stoming_18.png" alt="event storming image">
 
 Hemos incluido un pain point en la secuencia de creación de cliente dado que dentro de nuestra planeación primero se crea un usuario y posteriormente se crea el cliente en sí con sus atributos propios. Si bien estamos contemplando casos de error para evitar que se cree un usuario sin su respectivo cliente, este aún es un punto que se puede mejorar.
 
-<img src="img/event_stoming_19.png" alt="event storming image">
+<img src="img/new_event_stoming_19.png" alt="event storming image">
 
 Como en el caso anterior, se crea un usuario antes de crear el provider en sí y relacionarlos, por lo que existe el mismo temor de que se cree un usuario sin su respectivo provider. Dado ello, incluimos el pain point para buscar mejorar este aspecto en una futura versión.
 
@@ -1636,11 +1636,11 @@ Como en el caso anterior, se crea un usuario antes de crear el provider en sí y
 
 En el cuarto paso, marcamos los pasos en los que suceden eventos significativos que marcan un cambio de estado dentro de nuestro sistema establecido. Para ello, a continuación mostramos las secuencias en las que incluímos pivotal points y la justificación de su uso.
 
-<img src="img/event_stoming_20.png" alt="event storming image">
+<img src="img/new_event_stoming_20.png" alt="event storming image">
 
 Dentro de la secuencia de registro de provider se utiliza un pivotal point, dado que el crear una cuenta de provider habilita al usuario a usar ciertas funciones dirigidas únicamente para este segmento.
 
-<img src="img/event_stoming_21.png" alt="event storming image">
+<img src="img/new_event_stoming_21.png" alt="event storming image">
 
 Así como en la secuencia anterior, al crear un usuario se le dan los permisos que abren las acciones que le corresponden dentro de la aplicación. En este, se crea un usuario de tipo cliente que podrá ingresar a las secciones que le corresponden.
 
@@ -1648,75 +1648,75 @@ Así como en la secuencia anterior, al crear un usuario se le dan los permisos q
 
 En el quinto paso, mostraremos los comandos que se están utilizando para representar cada acción que los usuarios podrán realizar dentro de las aplicaciones. Estos comandos se relacionan con los endpoints que se implementarán en el código y se alinean directamente con la secuencia que poseen. A continuación, se nombrarán los comandos utilizados para cada secuencia.
 
-<img src="img/event_stoming_22.png" alt="event storming image">
+<img src="img/new_event_stoming_22.png" alt="event storming image">
 
 El comando sign up permite registrar a cualquier de los tipos de usuarios a la aplicación respectiva.
 
-<img src="img/event_stoming_23.png" alt="event storming image">
+<img src="img/new_event_stoming_23.png" alt="event storming image">
 
 El comando sign in permite a ambos tipos de usuarios entrar a sus cuentas.
 
-<img src="img/event_stoming_24.png" alt="event storming image">
+<img src="img/new_event_stoming_24.png" alt="event storming image">
 
 El comando logout permite a ambos tipos de usuarios cerrar sus sesiones en sus cuentas.
 
-<img src="img/event_stoming_25.png" alt="event storming image">
+<img src="img/new_event_stoming_25.png" alt="event storming image">
 
 El comando create client permite a un usuario que desea ser de tipo cliente crear su perfil como tal.
 
-<img src="img/event_stoming_26.png" alt="event storming image">
+<img src="img/new_event_stoming_26.png" alt="event storming image">
 
 El comando delete client permite a un usuario cliente eliminar su cuenta.
 
-<img src="img/event_stoming_27.png" alt="event storming image">
+<img src="img/new_event_stoming_27.png" alt="event storming image">
 
 El comando update client permite a un usuario cliente editar la información de su perfil.
 
-<img src="img/event_stoming_28.png" alt="event storming image">
+<img src="img/new_event_stoming_28.png" alt="event storming image">
 
 El comando create provider permite a un usuario que desea registrarse como provider crear su cuenta como tal.
 
-<img src="img/event_stoming_29.png" alt="event storming image">
+<img src="img/new_event_stoming_29.png" alt="event storming image">
 
 El comando delete provider permite a un usuario provider eliminar su cuenta dentro de la aplicación.
 
-<img src="img/event_stoming_30.png" alt="event storming image">
+<img src="img/new_event_stoming_30.png" alt="event storming image">
 
 El comando update provider permite a un provider editar la información de su perfil.
 
-<img src="img/event_stoming_31.png" alt="event storming image">
+<img src="img/new_event_stoming_31.png" alt="event storming image">
 
 El comando create reservation permite a un cliente crear y guardar su reservación.
 
-<img src="img/event_stoming_32.png" alt="event storming image">
+<img src="img/new_event_stoming_32.png" alt="event storming image">
 
 El comando create review permite a los clientes crear reseñas sobre los salones que visitan.
 
-<img src="img/event_stoming_33.png" alt="event storming image">
+<img src="img/new_event_stoming_33.png" alt="event storming image">
 
 El comando delete review permite a los clientes borrar una review previamente ingresada sobre un salón.
 
-<img src="img/event_stoming_34.png" alt="event storming image">
+<img src="img/new_event_stoming_34.png" alt="event storming image">
 
 El comando create service permite que los providers agreguen los servicios que ofrecen.
 
-<img src="img/event_stoming_35.png" alt="event storming image">
+<img src="img/new_event_stoming_35.png" alt="event storming image">
 
 El comando erase service permite eliminar uno de los servicios ingresados por un provider.
 
-<img src="img/event_stoming_36.png" alt="event storming image">
+<img src="img/new_event_stoming_36.png" alt="event storming image">
 
 El comando update service permite que un provider actualice la información sobre uno de sus servicios registrados.
 
-<img src="img/event_stoming_37.png" alt="event storming image">
+<img src="img/new_event_stoming_37.png" alt="event storming image">
 
 El comando create worker permite que los providers registren a sus trabajadores.
 
-<img src="img/event_stoming_38.png" alt="event storming image">
+<img src="img/new_event_stoming_38.png" alt="event storming image">
 
 El comando delete worker permite que los providers eliminen a algún trabajador que ingresaron previamente.
 
-<img src="img/event_stoming_39.png" alt="event storming image">
+<img src="img/new_event_stoming_39.png" alt="event storming image">
 
 El comando delete worker permite que los providers actualicen la información de alguno de sus trabajadores registrados.
 
@@ -1725,21 +1725,21 @@ El comando delete worker permite que los providers actualicen la información de
 En el sexto paso, se incluirán las políticas que estamos considerando dentro de nuestras aplicaciones. Estas describen las reglas de nuestro negocio, así como aclaran la necesidad de cierta información o validación previo un paso o acción.
 A continuación, mostramos los policies que hemos considerado así como su respectiva explicación al ser incluídos.
 
-<img src="img/event_stoming_40.png" alt="event storming image">
+<img src="img/new_event_stoming_40.png" alt="event storming image">
 
 Estas policies aclaran que no puede crearse una cuenta de usuario sin importar el tipo si es que ya existe un correo registrado como aquel que colocan al hacer sign up. En otras palabras, todo correo ingresado debe ser único.
 
-<img src="img/event_stoming_41.png" alt="event storming image">
+<img src="img/new_event_stoming_41.png" alt="event storming image">
 
 Estos policies aclaran que para que se pueda registrar una reserva, el horario reservado del estilista debe estar libre en ese momento, así como se debe verificar que el pago haya sido realizado con éxito antes de guardar la reserva.
 
-<img src="img/event_stoming_42.png" alt="event storming image">
-<img src="img/event_stoming_43.png" alt="event storming image">
+<img src="img/new_event_stoming_42.png" alt="event storming image">
+<img src="img/new_event_stoming_43.png" alt="event storming image">
 
 Este policy aclara que no pueden registrarse dos trabajadores con el mismo nombre dado que este debe ser algo único al momento de presentarlos de forma que se eviten confusiones para los usuarios.
 
-<img src="img/event_stoming_44.png" alt="event storming image">
-<img src="img/event_stoming_45.png" alt="event storming image">
+<img src="img/new_event_stoming_44.png" alt="event storming image">
+<img src="img/new_event_stoming_45.png" alt="event storming image">
 
 Este policy menciona que dos servicios no pueden ser registrados con el mismo nombre exactamente. Esto, dado que causaría confusiones al momento en que el cliente escoge uno para realizar su reserva.
 
@@ -1747,11 +1747,11 @@ Este policy menciona que dos servicios no pueden ser registrados con el mismo no
 
 Para el séptimo paso, mostramos los read models que se están incluyendo. Estos representan aquellos momentos en que cierta información de la base de datos debe ser consultada o visitada.
 
-<img src="img/event_stoming_46.png" alt="event storming image">
+<img src="img/new_event_stoming_46.png" alt="event storming image">
 
 Aquí, se debe verificar que los datos ingresados por el usuario son válidos para permitirle ingresar a la aplicación.
 
-<img src="img/event_stoming_47.png" alt="event storming image">
+<img src="img/new_event_stoming_47.png" alt="event storming image">
 
 En esta parte, es necesario consultar los horarios en que el trabajador seleccionado ya se encuentra ocupado con una reserva para evitar que se reserve el mismo espacio de tiempo dos veces.
 
@@ -1759,11 +1759,11 @@ En esta parte, es necesario consultar los horarios en que el trabajador seleccio
 
 Ahora, se mostrarán los servicios externos que estamos utilizando dentro de la aplicación para asegurar un mejor funcionamiento de la misma.
 
-<img src="img/event_stoming_48.png" alt="event storming image">
+<img src="img/new_event_stoming_48.png" alt="event storming image">
 
 Este servicio se utiliza para ayudarnos a almacenar las imágenes que los providers ingresen para mostrar en su perfil.
 
-<img src="img/event_stoming_49.png" alt="event storming image">
+<img src="img/new_event_stoming_49.png" alt="event storming image">
 
 Aquí, utilizamos la API de Stripe para que el pago de los servicios sea realizado con tarjeta o aplicativo a través de este servicio.
 
@@ -1775,36 +1775,36 @@ Para los dos últimos pasos, hemos agregado los aggregates y terminado de defini
 **Bounded Context Iam**
 Contiene el aggregate Users
 
-<img src="img/event_stoming_50.png" alt="event storming image">
+<img src="img/new_event_stoming_50.png" alt="event storming image">
 
 **Bounded Context Profiles**
 Contiene los aggregates Clients y Providers
 
-<img src="img/event_stoming_51.png" alt="event storming image">
+<img src="img/new_event_stoming_51.png" alt="event storming image">
 
 **Bounded Context Reservations**
 Contiene el aggregate Reservations
 
-<img src="img/event_stoming_52.png" alt="event storming image">
+<img src="img/new_event_stoming_52.png" alt="event storming image">
 
 **Bounded Context Reviews**
 Contiene el aggregate Reviews
 
-<img src="img/event_stoming_53.png" alt="event storming image">
+<img src="img/new_event_stoming_53.png" alt="event storming image">
 
 **Bounded Context Workers**
 Contiene el aggregate Workers
 
-<img src="img/event_stoming_54.png" alt="event storming image">
+<img src="img/new_event_stoming_54.png" alt="event storming image">
 
 **Bounded Context Services**
 Contiene el aggregate Services
 
-<img src="img/event_stoming_55.png" alt="event storming image">
+<img src="img/new_event_stoming_55.png" alt="event storming image">
 
 **Vista general de los Bounded Contexts resultantes conectados**
 
-<img src="img/event_stoming_56.png" alt="event storming image">
+<img src="img/new_event_stoming_56.png" alt="event storming image">
 
 ---
 
