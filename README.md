@@ -278,8 +278,8 @@ Se explican las ramas más prominentes:
 4.1.3. [Source Code Style Guide & Conventions](#413-source-code-style-guide--conventions)<br>
 4.1.4. [Software Deployment Configuration](#414-software-deployment-configuration)<br>
 4.2. [Landing Page & Mobile Application Implementation](#42-landing-page--mobile-application-implementation)<br>
-4.2.X. [Sprint n](#42x-sprint-n)<br>
-4.2.X.1. [Sprint Planning n](#42x1-sprint-planning-n)<br>
+4.2.X. [Sprint 1](#42x-sprint-1)<br>
+4.2.X.1. [ing 1](#42x1-sprint-planning-1)<br>
 4.2.X.2. [Sprint Backlog n](#42x2-sprint-backlog-n)<br>
 4.2.X.3. [Development Evidence for Sprint Review](#42x3-development-evidence-for-sprint-review)<br>
 4.2.X.4. [Testing Suite Evidence for Sprint Review](#42x4-testing-suite-evidence-for-sprint-review)<br>
@@ -3133,8 +3133,67 @@ Pantalla móvil Your profile. Encabezado con acción Log out. Bloque de perfil c
 ### 4.1.3. Source Code Style Guide & Conventions
 ### 4.1.4. Software Deployment Configuration
 ## 4.2. Landing Page & Mobile Application Implementation
-### 4.2.X. Sprint n
-#### 4.2.X.1. Sprint Planning n
+
+### 4.2.X. Sprint 1
+
+#### 4.2.X.1. Sprint Planning 1
+
+Dentro del marco de trabajo Scrum, cada Sprint constituye un periodo de tiempo fijo y breve en el que el equipo de desarrollo trabaja de manera enfocada para alcanzar un objetivo específico que contribuya al cumplimiento del Product Goal (Schwaber, K. & Sutherland, J., 2020). En el contexto del desarrollo de la plataforma uTime, el Sprint #1 dio inicio el 25/09/2025, y su meta consiste en implementar las primeras pantallas necesarias para que el usuario de tipo cliente puede comenzar a visualizar información dentro de la aplicación. Si bien no estamos conectando la totalidad de funciones con nuestro backend ya diseñado, si mostramos la secuencia real que el cliente seguirá dentro de la aplicación para acceder a los servicios. Nuestra funcionalidad principal viene a ser el poder reservar una cita considerando tanto el tipo de servicio, profesional, hora y pago a realizarse.
+
+<table>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint #</b></td>
+      <td colspan="1" align="center">Sprint 1</td>
+   </tr>
+   <tr>
+      <td colspan="2" align="center"><b>Sprint Planning Background</b></td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Date</b></td>
+      <td colspan="1">2025-09-25</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Time</b></td>
+      <td colspan="1">07:00 PM</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Location</b></td>
+      <td colspan="1">Reunión virtual mediante la aplicación Discord</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Prepare By</b></td>
+      <td colspan="1">Jorge Yum</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Attendees (to planning meeting)</b></td>
+      <td colspan="1">Natalia Roman, Gael Rivera, Britney Qqueso, Luciana Choquehuanca y Jorge Yum</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint n - 1 Review Summary</b></td>
+      <td colspan="1">Al ser este el primer sprint, aún no se posee una revisión de un sprint previo</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint n - 1 Retrospective Summary</b></td>
+      <td colspan="1">Al ser este el primer sprint, no podemos contar con una retroaliemtación previa. Puede mensionarse que se han tomado en cuenta los comentarios del profesor para mejorar el informe presentado anteriormente</td>
+   </tr>
+   <tr>
+      <td colspan="2" align="center"><b>Sprint Goal & User Stories</b></td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 1 Goal</b></td>
+      <td colspan="1"><b>Our focus in on</b> developing some of our main application screen and functionalities using Android Studio and focussing on the clients<br><b>We believe it delivers</b>a functional and responsive interface that supports key actions such as visualiting the available services and booking a reservation considering the proffesional, service, schedule time and payment.<br><b>This will be confirmed when</b> customers can successfully see the registered salons and services, and interact with the application in a way in which they can understand the process of booking a spa service.</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 1 Velocity</b></td>
+      <td colspan="1">20</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sum of Story Points</b></td>
+      <td colspan="1">20</td>
+   </tr>
+</tr>
+</table>
+
 #### 4.2.X.2. Sprint Backlog n
 #### 4.2.X.3. Development Evidence for Sprint Review
 #### 4.2.X.4. Testing Suite Evidence for Sprint Review
