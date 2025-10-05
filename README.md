@@ -3201,6 +3201,16 @@ Dentro del marco de trabajo Scrum, cada Sprint constituye un periodo de tiempo f
 #### 4.2.X.6. Services Documentation Evidence for Sprint Review
 #### 4.2.X.7. Software Deployment Evidence for Sprint Review
 #### 4.2.X.8. Team Collaboration Insights during Sprint
+
+| **Alumno**                           | **Actividad**                                                       |
+|--------------------------------------|---------------------------------------------------------------------|
+| Roman Cruz, Natalia Riman            | Implementación de pantalla categorias, busqueda de servicios y conección con backend |
+| Rivera Sosa, Eduardo Gael            | Implementación de pantallas de sign up, registro y sign in |
+| Choquehuanca Nuñez, Luciana Carolina | Implementación de pantallas de reserva de servicio |
+| Qqueso Rodriguez, Britney Delhy      | Implementación de pantallas de visualizacion de perfil, favoritos, idiomas y ajustes  |
+| Yum Gonzales, Jorge Suin             | Implementación de pantallas de reserva de servicio |
+
+
 #### 4.3. Validation Interviews
 #### 4.3.1. Diseño de Entrevistas
 #### 4.3.2. Registro de Entrevistas
