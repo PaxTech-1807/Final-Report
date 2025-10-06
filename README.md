@@ -325,7 +325,10 @@ Se explican las ramas más prominentes:
       <td rowspan="5">7.c1. Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de ingeniería de software</td>
       <td>
          <strong>Eduardo Gael Rivera Sosa</strong> <br>  
-         <b>TB1:</b> Durante el proyecto uTime, actualicé mis conocimientos en Domain-Driven Design (DDD), arquitectura de software con modelo C4, y patrones de integración. Profundicé en el diseño del Bounded Context IAM con conceptos de autenticación y autorización, y en la creación de diagramas de arquitectura (Context, Container y Deployment). También actualicé mis habilidades en especificación de requisitos mediante User Stories, Technical Stories y Spike Stories, y en técnicas ágiles como Impact Mapping y Product Backlog. <br> <strong>Jorge Suin Yum Gonzales:</strong> <br> <strong>TB1:</strong> Durante este primer avance, actualicé y profundicé en conceptos clave como Needfinding, Ubiquitous Language y Domain Message Flow Modeling. Además, realicé entrevistas y trabajé el EventStorming para identificar eventos, comandos y políticas del dominio. Diseñé la estructura del Bounded Context Profiles y definí su rol e interacciones dentro de los distintos procesos de la aplicación móvil a desarrollar.
+         <b>TB1:</b> Durante el proyecto uTime, actualicé mis conocimientos en Domain-Driven Design (DDD), arquitectura de software con modelo C4, y patrones de integración. Profundicé en el diseño del Bounded Context IAM con conceptos de autenticación y autorización, y en la creación de diagramas de arquitectura (Context, Container y Deployment). También actualicé mis habilidades en especificación de requisitos mediante User Stories, Technical Stories y Spike Stories, y en técnicas ágiles como Impact Mapping y Product Backlog. <br> 
+         <strong>Jorge Suin Yum Gonzales:</strong> <br> 
+         <b>TB1:</b> Durante este primer avance, actualicé y profundicé en conceptos clave como Needfinding, Ubiquitous Language y Domain Message Flow Modeling. Además, realicé entrevistas y trabajé el EventStorming para identificar eventos, comandos y políticas del dominio. Diseñé la estructura del Bounded Context Profiles y definí su rol e interacciones dentro de los distintos procesos de la aplicación móvil a desarrollar. <br>
+         <b>TP:</b> Durante el desarrollo del proyecto uTime, actualicé y profundicé mis conocimientos en diseño de interfaces y despliegue de software, abordando tareas relacionadas con el Dashboard, las vistas de detalle de salones y la preparación del Sprint Review. En el ámbito de UI/UX Design, apliqué principios de arquitectura de información, navegación y sistemas de etiquetado, asegurando la coherencia visual y funcional entre las distintas pantallas. Asimismo, reforcé mis habilidades en integración continua y despliegue mediante entornos controlados, lo que me permitió validar funcionalidades de forma iterativa. Este proceso fortaleció mi comprensión del ciclo de vida del software y la importancia de la comunicación entre diseño y desarrollo para lograr productos usables, escalables y centrados en el usuario.
       </td>
       <td rowspan="5">
          <b>TB1:</b> El desarrollo completo de los capítulos 1 y 2 del proyecto uTime permitió al equipo consolidar conocimientos fundamentales en ingeniería de software. A través del análisis competitivo, entrevistas con usuarios y técnicas de needfinding, el equipo desarrolló competencias en investigación de mercado y análisis de requisitos. La implementación de metodologías Lean UX y Domain-Driven Design proporcionó una base sólida en diseño de software centrado en el usuario y arquitecturas escalables. La elaboración de diagramas C4, EventStorming y Context Mapping permitió al equipo dominar técnicas avanzadas de modelado de sistemas complejos, mientras que la especificación de requisitos mediante User Stories y Product Backlog consolidó las habilidades del equipo en metodologías ágiles. 
@@ -357,7 +360,9 @@ Se explican las ramas más prominentes:
       <td>
          <strong>Eduardo Gael Rivera Sosa</strong> <br>  
         <b>TB1:</b> Durante el proyecto uTime, reconocí la importancia del aprendizaje continuo al enfrentar desafíos técnicos como el diseño de arquitecturas y la implementación de patrones DDD. La necesidad de mantenerme actualizado se evidenció al plantear como se trabajará con tecnologías emergentes en desarrollo móvil y al adaptarlas a las metodologías ágiles. <br> 
-         <strong>Jorge Suin Yum Gonzales:</strong> <br> <strong>TB1:</strong>A lo largo de este avance reconocí la necesidad del aprendizaje permanente para sostener el ritmo del proyecto. Al abordar retos como modelar flujos de dominio, definir un Lenguaje Ubicuo compartido y diseñar el Bounded Context Profiles, identifiqué brechas que estoy cerrando mediante estudio autónomo, revisión de referencias y retroalimentación del equipo. Asimismo, me comprometí a mantenerme actualizado en prácticas de ingeniería de software y desarrollo móvil para aportar con mayor calidad en las siguientes iteraciones. 
+         <strong>Jorge Suin Yum Gonzales:</strong> <br> 
+         <b>TB1:</b>A lo largo de este avance reconocí la necesidad del aprendizaje permanente para sostener el ritmo del proyecto. Al abordar retos como modelar flujos de dominio, definir un Lenguaje Ubicuo compartido y diseñar el Bounded Context Profiles, identifiqué brechas que estoy cerrando mediante estudio autónomo, revisión de referencias y retroalimentación del equipo. Asimismo, me comprometí a mantenerme actualizado en prácticas de ingeniería de software y desarrollo móvil para aportar con mayor calidad en las siguientes iteraciones. <br>
+         <b>TP:</b> Durante esta etapa reconocí la necesidad de mantener un aprendizaje constante para afrontar los retos del desarrollo móvil y del diseño de experiencias digitales. Al implementar las evidencias de despliegue y las vistas del Dashboard y Salon Details, identifiqué la importancia de seguir explorando buenas prácticas en integración de UI con backend, testing de interfaces y optimización de la experiencia del usuario. Además, comprendí que las herramientas y metodologías evolucionan rápidamente, por lo que resulta esencial actualizarse en frameworks, librerías y patrones de diseño. Este proceso reforzó mi compromiso con la mejora continua, entendiendo que el aprendizaje permanente es clave para adaptarse a las exigencias técnicas y de calidad que demanda la ingeniería de software moderna.
       </td>
       <td rowspan="5">
          <b>TB1:</b> La experiencia del TB1 demostró al equipo que el aprendizaje permanente es esencial en la ingeniería de software. Al trabajar con metodologías emergentes como Lean UX, Domain-Driven Design y arquitecturas, el equipo comprendió que las tecnologías evolucionan constantemente y requieren actualización continua. La investigación de competidores, el análisis de usuarios mediante entrevistas y la implementación de patrones de integración entre bounded contexts enseñaron al equipo la importancia de mantenerse al día con las mejores prácticas de la industria. Además, la colaboración en equipo y la retroalimentación de usuarios mostraron que el aprendizaje no se limita solo a aspectos técnicos, sino también al desarrollo de habilidades de comunicación, análisis de mercado y gestión de proyectos, fundamentales para el crecimiento profesional en el desarrollo de software.
@@ -386,6 +391,7 @@ Se explican las ramas más prominentes:
     </tr>
   </tbody>
 </table>
+
 
 <br>
 
@@ -3688,6 +3694,100 @@ Esta API REST completa proporciona todas las funcionalidades necesarias para el 
 #### 4.3.2. Registro de Entrevistas
 #### 4.3.3. Evaluaciones según heurísticas
 ## 4.4. Video About-the-Product
+
+### 4.2.1. Sprint 1
+#### 4.2.1.1. Sprint Planning 1
+En el marco metodológico de Scrum, cada Sprint corresponde a un lapso breve y constante en el que el equipo de desarrollo se dedica a cumplir una meta concreta que impulse el avance hacia el objetivo general del producto (Schwaber, K. & Sutherland, J., 2020). En el desarrollo de la plataforma uTime, el Sprint número 2 se inició el 27 de abril de 2025, y tuvo como propósito central la construcción del frontend de la aplicación web, empleando Angular junto con Angular Material. Durante esta etapa, se implementaron funcionalidades fundamentales tanto para los usuarios clientes como para los proveedores. Por un lado, los clientes ahora pueden buscar y explorar diversos salones de belleza y realizar reservas de forma sencilla e intuitiva. Por otro lado, los proveedores disponen de herramientas administrativas que les permiten configurar los precios de sus servicios, gestionar su oferta y visualizar las citas asignadas a cada miembro de su personal, facilitando así la organización y atención a sus clientes.
+
+<table>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint #</b></td>
+      <td colspan="1" align="center">Sprint 1</td>
+   </tr>
+   <tr>
+      <td colspan="2" align="center"><b>Sprint Planning Background</b></td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Date</b></td>
+      <td colspan="1">2025-09-27</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Time</b></td>
+      <td colspan="1">09:00 PM</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Location</b></td>
+      <td colspan="1">Reunión virtual mediante la aplicación Discord</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Prepare By</b></td>
+      <td colspan="1">Gael Rivera</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Attendees (to planning meeting)</b></td>
+      <td colspan="1">Jorge Yum, Natalia Roman, Britney Qqueso, Luciana Choquehuanca y Gael Rivera</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 1 Review Summary</b></td>
+      <td colspan="1">
+     
+   </td>
+   </tr>
+   <tr>
+   <td colspan="1" align="center"><b>Sprint 2 Retrospective Summary</b></td>
+   <td colspan="1">
+      
+   </td>
+</tr>
+   <tr>
+      <td colspan="2" align="center"><b>Sprint Goal & User Stories</b></td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 3 Goal</b></td>
+   <td colspan="1">
+      
+   </td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 3 Velocity</b></td>
+      <td colspan="1">35</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sum of Story Points</b></td>
+      <td colspan="1"> 35</td>
+   </tr>
+</table>
+
+#### 4.2.1.2. Sprint Backlog 1
+
+#### 4.2.1.3. Development Evidence for Sprint Review
+#### 4.2.1.4. Testing Suite Evidence for Sprint Review
+#### 4.2.1.5. Execution Evidence for Sprint Review
+#### 4.2.1.6. Services Documentation Evidence for Sprint Review
+#### 4.2.1.7. Software Deployment Evidence for Sprint Review
+
+Para realizar el deployment del backend de la aplicación, se empleó la plataforma Render temporalmente mientras se configura el FrontEnd de la aplicacion movil. Mas adelante se optara por hacer despliegue en un servicio de maquina virtual en la nube.
+
+En primer lugar, se compilo el spring boot usando maven y usando docker se construyó la imagen del proyecto.
+Esta imagen se subio al repositorio de Docker Hub. De esta manera desde el servicio de Render se puede acceder a la imagen y desplegarla con las variables de entorno necesarias.
+
+![Dockerfile](img/dockerhub.png)
+
+![Render Service](img/render.png)
+
+Se utiliza swagger para acceder a las endpoints:
+
+![Swagger](img/swagger.png)
+
+Finalmente, usando el servicio de Aiven, se desplego una base de datos MySql y se configuraron las variables de entorno en Render para que el backend pueda conectarse a la base de datos.
+
+![MySql on Aiven](img/aiven.png)
+
+URL del BackEnd Deployado: https://utime-web-service.onrender.com/swagger-ui/index.html
+
+Cabe mencionar que debido a que Render al ser un servicio gratuito , al acceder al URL del backend deployado, este puede demorar un aproximado de "50 segundos" en iniciar el servicio. Este problema no se presentara cuando se haga el despliegue en un servicio de maquina virtual en la nube.
+
+#### 4.2.1.8. Team Collaboration Insights during Sprint
 
 # Conclusiones
 
