@@ -3807,6 +3807,15 @@ En el marco metodológico de Scrum, cada Sprint corresponde a un lapso breve y c
 #### 4.2.1.6. Services Documentation Evidence for Sprint Review
 #### 4.2.1.7. Software Deployment Evidence for Sprint Review
 
+**Landing Page:**
+
+Para la entrega del Sprint número 1, se desplegó la landing page completa en GitPage. Donde configuramos que la rama que tomará sera main que se encuentra en la carpeta docs, ya que seguimos una estructura de carpetas y archivos.
+
+![GitPage](img/GitHub-Pages.png)
+
+Enlace para acceder a la landing page: https://paxtech-1807.github.io/Landing-Page/
+
+**Backend:**
 Para realizar el deployment del backend de la aplicación, se empleó la plataforma Render temporalmente mientras se configura el FrontEnd de la aplicacion movil. Mas adelante se optara por hacer despliegue en un servicio de maquina virtual en la nube.
 
 En primer lugar, se compilo el spring boot usando maven y usando docker se construyó la imagen del proyecto.
