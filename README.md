@@ -3526,8 +3526,139 @@ El footer incluye:
 Esta estructura completa guía al usuario a través de un journey optimizado que educa, persuade y convierte, presentando uTime como la solución integral para la gestión de salones de belleza y barberías.
 
 
-
 **Backend**
+
+La siguiente sección presenta la evidencia de ejecución del backend de uTime, mostrando la documentación completa de la API REST que soporta todas las funcionalidades de la plataforma. Cada imagen representa un conjunto de endpoints específicos que permiten la gestión integral de salones de belleza y barberías.
+
+**1. Workers Management - Gestión de Trabajadores**
+
+![Workers API](img/execution_backend_1.png)
+
+Endpoints para la gestión completa de trabajadores del salón:
+- **GET /api/v1/workers**: Obtener todos los trabajadores
+- **POST /api/v1/workers**: Crear nuevo trabajador
+- **GET /api/v1/workers/{workerId}**: Obtener trabajador por ID
+- **PUT /api/v1/workers/{workerId}**: Actualizar trabajador
+- **DELETE /api/v1/workers/{workerId}**: Eliminar trabajador
+
+**2. Provider Profiles - Perfiles de Proveedores**
+
+![Provider Profiles API](img/execution_backend_2.png)
+
+Endpoints para gestión de perfiles de proveedores y sus relaciones:
+- **GET /api/v1/provider-profiles**: Obtener todos los perfiles
+- **POST /api/v1/provider-profiles**: Crear nuevo perfil
+- **GET /api/v1/provider-profiles/{id}**: Obtener perfil por ID
+- **PUT /api/v1/provider-profiles/{id}**: Actualizar imagen y portada
+- **DELETE /api/v1/provider-profiles/{id}**: Eliminar perfil
+
+**3. Clients Management - Gestión de Clientes**
+
+![Clients API](img/execution_backend_3.png)
+
+Endpoints para la gestión de clientes:
+- **GET /api/v1/clients**: Obtener todos los clientes
+- **POST /api/v1/clients**: Crear nuevo cliente
+- **GET /api/v1/clients/{id}**: Obtener cliente por ID
+- **GET /api/v1/clients/user/{userId}**: Obtener cliente por userId
+
+**4. Time Slots - Gestión de Horarios**
+
+![Time Slots API](img/execution_backend_4.png)
+
+Endpoints para gestión de horarios disponibles:
+- **GET /api/v1/time-slots**: Obtener todos los horarios
+- **POST /api/v1/time-slots**: Crear nuevo horario
+- **GET /api/v1/time-slots/{id}**: Obtener horario por ID
+
+**5. Reservations - Gestión de Reservas**
+
+![Reservations API](img/execution_backend_5.png)
+
+Endpoints para gestión completa de reservas:
+- **GET /api/v1/reservationsDetails**: Obtener todas las reservas
+- **POST /api/v1/reservationsDetails**: Crear nueva reserva
+- **GET /api/v1/reservationsDetails/{reservationId}**: Obtener reserva por ID
+- **GET /api/v1/reservationsDetails/details**: Obtener información detallada de reservas
+- **GET /api/v1/reservationsDetails/details/{reservationId}**: Obtener información detallada de reserva específica
+
+**6. Social Networks - Redes Sociales**
+
+![Socials API](img/execution_backend_6.png)
+
+Endpoints para gestión de redes sociales y sus relaciones con perfiles:
+- **GET /api/v1/providerProfiles/{providerProfileId}/socials**: Obtener redes sociales del perfil
+- **POST /api/v1/providerProfiles/{providerProfileId}/socials**: Crear nueva red social
+- **PUT /api/v1/providerProfiles/{providerProfileId}/socials/{id}**: Actualizar red social
+- **DELETE /api/v1/providerProfiles/{providerProfileId}/socials/{id}**: Eliminar red social
+
+**7. Services Management - Gestión de Servicios**
+
+![Services API](img/execution_backend_7.png)
+
+Endpoints para gestión de servicios ofrecidos:
+- **GET /api/v1/services**: Obtener todos los servicios
+- **POST /api/v1/services**: Crear nuevo servicio
+- **PUT /api/v1/services/{id}**: Actualizar servicio
+- **DELETE /api/v1/services/{serviceId}**: Eliminar servicio
+
+**8. Users Management - Gestión de Usuarios**
+
+![Users API](img/execution_backend_8.png)
+
+Endpoints para gestión de usuarios del sistema:
+- **GET /api/v1/users**: Obtener todos los usuarios
+- **GET /api/v1/users/{userId}**: Obtener usuario por ID
+
+**9. Providers Management - Gestión de Proveedores**
+
+![Providers API](img/execution_backend_9.png)
+
+Endpoints para gestión de proveedores:
+- **GET /api/v1/providers**: Obtener todos los proveedores
+- **POST /api/v1/providers**: Crear nuevo proveedor
+- **GET /api/v1/providers/{id}**: Obtener proveedor por ID
+- **GET /api/v1/providers/user/{userId}**: Obtener proveedor por userId
+
+**10. Reviews Management - Gestión de Reseñas**
+
+![Reviews API](img/execution_backend_10.png)
+
+Endpoints para gestión de reseñas y calificaciones:
+- **GET /api/v1/reviews**: Obtener todas las reseñas
+- **POST /api/v1/reviews**: Crear nueva reseña
+- **GET /api/v1/reviews/{reviewId}**: Obtener reseña por ID
+- **DELETE /api/v1/reviews/{reviewId}**: Eliminar reseña
+
+**11. Payments Management - Gestión de Pagos**
+
+![Payments API](img/execution_backend_11.png)
+
+Endpoints para gestión de pagos:
+- **GET /api/v1/payments**: Obtener todos los pagos
+- **POST /api/v1/payments**: Crear nuevo pago
+- **GET /api/v1/payments/{paymentId}**: Obtener pago por ID
+
+**12. Authentication - Autenticación**
+
+![Authentication API](img/execution_backend_12.png)
+
+Endpoints para autenticación de usuarios:
+- **POST /api/v1/authentication/sign-up**: Registro de usuarios
+- **POST /api/v1/authentication/sign-in**: Inicio de sesión
+
+**13. Portfolio Images - Imágenes de Portafolio**
+
+![Portfolio Images API](img/execution_backend_13.png)
+
+Endpoints para gestión de imágenes de portafolio y sus relaciones con perfiles:
+- **GET /api/v1/providerProfiles/{providerProfileId}/portfolio**: Obtener todas las imágenes del portafolio
+- **POST /api/v1/providerProfiles/{providerProfileId}/portfolio**: Crear nueva imagen de portafolio
+- **PUT /api/v1/providerProfiles/{providerProfileId}/portfolio/{id}**: Actualizar imagen del portafolio
+- **DELETE /api/v1/providerProfiles/{providerProfileId}/portfolio/{id}**: Eliminar imagen del portafolio
+
+Esta API REST completa proporciona todas las funcionalidades necesarias para el funcionamiento integral de uTime, permitiendo la gestión de usuarios, servicios, reservas, pagos y todos los aspectos operativos de salones de belleza y barberías.
+
 
 
 
