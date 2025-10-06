@@ -3194,170 +3194,189 @@ URL del Link de Figma: [Figma](https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2E
 
 **Mockup 1 - Bienvenida:** Pantalla hero de inicio.
 
-<img src="img/mockup_1.png" alt="Mockup 1">
-
+<p align="center">
+   <img src="img/mockup_1.png" alt="Mockup 1" width="320">
+</p>
 
 **Mockup 2 - Inicio de sesión:** Formulario de login con enlace a registro.
 
-<img src="img/mockup_2.png" alt="Mockup 2">
-
+<p align="center">
+<img src="img/mockup_2.png" alt="Mockup 2" width="320">
+</p>
 
 **Mockup 3 - Registro** Formulario de registro.
 
-<img src="img/mockup_3.png" alt="Mockup 3">
+<p align="center">
+<img src="img/mockup_3.png" alt="Mockup 3" width="320">
+</p>
 
-
-<img src="img/mockup_3_1.png" alt="Mockup 3">
+<p align="center">
+<img src="img/mockup_3_1.png" alt="Mockup 3" width="320">
+</p>
 
 
 **Mockup 4 - Home:** Vista principal con tarjetas de negocios.
-
-<img src="img/mockup_4.png" alt="Mockup 4">
-
+<p align="center">
+<img src="img/mockup_4.png" alt="Mockup 4" width="320">
+</p>
 
 **Mockup 5 - Perfil de negocio(Servicios)** Información de servicios, reseñas y acerca de.
+<p align="center">
+<img src="img/mockup_5.png" alt="Mockup 5" width="320">
+</p>
 
-<img src="img/mockup_5.png" alt="Mockup 5">
+<p align="center">
+<img src="img/mockup_5_1.png" alt="Mockup 5" width="320">
+</p>
 
-<img src="img/mockup_5_1.png" alt="Mockup 5">
+<p align="center">
+<img src="img/mockup_5_2.png" alt="Mockup 5" width="320">
+</p>
 
-<img src="img/mockup_5_2.png" alt="Mockup 5">
-
-<img src="img/mockup_5_3.png" alt="Mockup 5">
-
+<p align="center">
+<img src="img/mockup_5_3.png" alt="Mockup 5" width="320">
+</p>
 
 **Mockup 6 - Selección de profesional** Listado de profesionales por servicio con rating.
-
-<img src="img/mockup_6.png" alt="Mockup 6">
-
+<p align="center">
+<img src="img/mockup_6.png" alt="Mockup 6" width="320">
+</p>
 
 **Mockup 7 - Selección de fecha y hora** Calendario con horarios disponibles.
-
-<img src="img/mockup_7.png" alt="Mockup 7">
-
+<p align="center">
+<img src="img/mockup_7.png" alt="Mockup 7" width="320">
+</p>
 
 **Mockup 8 - Checkout / Revisar y confirmar** Resumen de cita, método de pago y confirmación de cita.
-
-<img src="img/mockup_8.png" alt="Mockup 8">
-
+<p align="center">
+<img src="img/mockup_8.png" alt="Mockup 8" width="320">
+</p>
 
 **Mockup 9 - Mis citas (lista)** Sin citas, próximas e histórico con acciones rápidas.
+<p align="center">
+<img src="img/mockup_9.png" alt="Mockup 9" width="320">
+</p>
 
-<img src="img/mockup_9.png" alt="Mockup 9">
-
-<img src="img/mockup_9_1.png" alt="Mockup 9">
-
+<p align="center">
+<img src="img/mockup_9_1.png" alt="Mockup 9" width="320">
+</p>
 
 **Mockup 10 - Detalle de cita** Información completa y gestión (cambiar/cancelar).
+<p align="center">
+<img src="img/mockup_10.png" alt="Mockup 10" width="320">
+</p>
 
-<img src="img/mockup_10.png" alt="Mockup 10">
-
-<img src="img/mockup_10_1.png" alt="Mockup 10">
-
+<p align="center">
+<img src="img/mockup_10_1.png" alt="Mockup 10" width="320">
+</p>
 
 **Mockup 11 - Perfil de usuario** Información del usuario.
+<p align="center">
+<img src="img/mockup_11.png" alt="Mockup 11" width="320">
+</p>
 
-<img src="img/mockup_11.png" alt="Mockup 11">
-
-<img src="img/mockup_11_1.png" alt="Mockup 11">
-
+<p align="center">
+<img src="img/mockup_11_1.png" alt="Mockup 11" width="320">
+</p>
 
 **Mockup 12 - Seccion de favoritos** Lista de favoritos.
-
-<img src="img/mockup_12.png" alt="Mockup 12">
-
+<p align="center">
+<img src="img/mockup_12.png" alt="Mockup 12" width="320">
+</p>
 
 **Mockup 13 - Sección de idioma** Selección de idioma.
-
-<img src="img/mockup_13.png" alt="Mockup 13">
-
+<p align="center">
+<img src="img/mockup_13.png" alt="Mockup 13" width="320">
+</p>
 
 **Mockup 14 - Seccion de ajustes** Selección de preferencias de los ajustes.
-
-<img src="img/mockup_14.png" alt="Mockup 14">
-
+<p align="center">
+<img src="img/mockup_14.png" alt="Mockup 14" width="320">
+</p>
 
 **Mockup 15 - Sección de busqueda** Busqueda de salones de belleza.
-
-<img src="img/mockup_15.png" alt="Mockup 15">
-
+<p align="center">
+<img src="img/mockup_15.png" alt="Mockup 15" width="320">
+</p>
 
 
 
 **Vista de salones de belleza**
 
 **Mockup 1 - Bienvenida:** Pantalla hero de inicio.
-
-<img src="img/mockup-1.png" alt="Mockup 1">
-
+<p align="center">
+<img src="img/mockup-1.png" alt="Mockup 1" width="320">
+</p>
 
 **Mockup 2 - Inicio de sesión:** Formulario de login con enlace a registro.
-
-<img src="img/mockup-2.png" alt="Mockup 2">
-
+<p align="center">
+<img src="img/mockup-2.png" alt="Mockup 2" width="320">
+</p>
 
 **Mockup 3 - Registro** Formulario de registro.
-
-<img src="img/mockup-3.png" alt="Mockup 3">
-
+<p align="center">
+<img src="img/mockup-3.png" alt="Mockup 3" width="320">
+</p>
 
 **Mockup 4 - Menú principal de cuenta:** Accesos al calendario general, perfil del negocio, servicios, equipo.
-
-<img src="img/mockup-4.png" alt="Mockup 4">
-
+<p align="center">
+<img src="img/mockup-4.png" alt="Mockup 4" width="320">
+</p>
 
 **Mockup 5 - Calendario (Mes):** Vista mensual para planificación.
-
-<img src="img/mockup-5.png" alt="Mockup 5">
-
+<p align="center">
+<img src="img/mockup-5.png" alt="Mockup 5" width="320">
+</p>
 
 **Mockup 6 - Calendario (Semana):** Agenda por estilista con bloques de tiempo y estados.
-
-<img src="img/mockup-6.png" alt="Mockup 6">
-
+<p align="center">
+<img src="img/mockup-6.png" alt="Mockup 6" width="320">
+</p>
 
 **Mockup 7 - Calendario (Día):** Detalle de la agenda diaria para reprogramación rápida.
-
-<img src="img/mockup-7.png" alt="Mockup 7">
-
+<p align="center">
+<img src="img/mockup-7.png" alt="Mockup 7" width="320">
+</p>
 
 **Mockup 8 - Servicios (lista):** Tabla de servicios con nombre, duración, precio y estado.
-
-<img src="img/mockup-8.png" alt="Mockup 8">
-
+<p align="center">
+<img src="img/mockup-8.png" alt="Mockup 8" width="320">
+</p>
 
 **Mockup 9 - Nuevo servicio:** Formulario para crear un servicio con validaciones.
-
-<img src="img/mockup-9.png" alt="Mockup 9">
-
+<p align="center">
+<img src="img/mockup-9.png" alt="Mockup 9" width="320">
+</p>
 
 **Mockup 10 - Equipo (Agregar miembro):** Formulario para agregar un nuevo miembro
+<p align="center">
+<img src="img/mockup-10.png" alt="Mockup 10" width="320">
+</p>
 
-<img src="img/mockup-10.png" alt="Mockup 10">
-
-<img src="img/mockup-10-1.png" alt="Mockup 10">
-
+<p align="center">
+<img src="img/mockup-10-1.png" alt="Mockup 10" width="320">
+</p>
 
 
 **Mockup 11 - Equipo (Lista):** Tarjetas de miembros con acciones de editar/eliminar.
-
-<img src="img/mockup-11.png" alt="Mockup 11">
-
+<p align="center">
+<img src="img/mockup-11.png" alt="Mockup 11" width="320">
+</p>
 
 **Mockup 12 - Sección de perfil del negocio:** Accesos a información, notificaciones, ajustes y preferencias de la empresa
-
-<img src="img/mockup-12.png" alt="Mockup 12">
-
+<p align="center">
+<img src="img/mockup-12.png" alt="Mockup 12" width="320">
+</p>
 
 **Mockup 13 - Perfil del negocio:** Datos comerciales, horarios, dirección y "Sobre nosotros".
-
-<img src="img/mockup-13.png" alt="Mockup 13">
-
+<p align="center">
+<img src="img/mockup-13.png" alt="Mockup 13" width="320">
+</p>
 
 **Mockup 14 - Notificaciones:** Alertas de citas, reprogramaciones y avisos del plan.
-
-<img src="img/mockup-14.png" alt="Mockup 14">
-
+<p align="center">
+<img src="img/mockup-14.png" alt="Mockup 14" width="320">
+</p>
 
 #### 3.1.4.4. Mobile Applications User Flow Diagrams
 Los diagramas de flujo de usuario (user flow) mapean el camino completo que sigue una persona dentro de la aplicación, desde el principio hasta que alcanza su meta. Esto permite visualizar y entender las interacciones, pasos y decisiones cruciales en cada momento.
@@ -3368,50 +3387,58 @@ URL del Link de Figma: [Figma](https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2E
 **Vista de clientes de servicios de belleza**
 
 **User flow 1 - Registro y login para clientes** 
-
+<p align="center">
 <img src="img/user_flow_1.png" alt="User Flow 1">
+</p>
 
 **User flow 2 - Sección para descubrir → seleccionar servicio → reservar** 
-
+<p align="center">
 <img src="img/user_flow_2.png" alt="User Flow 2">
+</p>
 
 **User flow 3 - Sección de gestión de citas** 
-
+<p align="center">
 <img src="img/user_flow_3.png" alt="User Flow 3">
+</p>
 
 **User flow 4 - Sección de busqueda** 
-
+<p align="center">
 <img src="img/user_flow_4.png" alt="User Flow 4">
+</p>
 
 **User flow 5 - Sección de información del perfil** 
-
+<p align="center">
 <img src="img/user_flow_5.png" alt="User Flow 5">
-
+</p>
 
 
 
 **Vista de salones de belleza**
 
 **User flow 1 - Registro y login para salones de belleza** 
-
+<p align="center">
 <img src="img/user-flow-1.png" alt="User Flow 1">
+</p>
 
 **User flow 2 - Sección de vista principal(Calendario)** 
-
+<p align="center">
 <img src="img/user-flow-2.png" alt="User Flow 2">
+</p>
 
 **User flow 3 - Sección de servicios** 
-
+<p align="center">
 <img src="img/user-flow-3.png" alt="User Flow 3">
+</p>
 
 **User flow 4 - Sección de equipo** 
-
+<p align="center">
 <img src="img/user-flow-4.png" alt="User Flow 4">
+</p>
 
 **User flow 5 - Sección de información del perfil** 
-
+<p align="center">
 <img src="img/user_flow_5.png" alt="User Flow 5">
-
+</p>
 
 #### 3.1.4.5. Mobile Applications Prototyping
 Creamos un prototipo de interacción real para que se pueda experimentar la aplicación en un entorno simulado antes de codificarla. Esta herramienta interactiva muestra el flujo exacto entre las pantallas y cómo reacciona cada elemento, lo que nos permite validar y optimizar la usabilidad.
