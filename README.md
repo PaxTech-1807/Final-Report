@@ -3196,57 +3196,91 @@ URL del Link de Figma: [Figma](https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2E
 
 <img src="img/mockup_1.png" alt="Mockup 1">
 
+
 **Mockup 2 - Inicio de sesión:** Formulario de login con enlace a registro.
 
 <img src="img/mockup_2.png" alt="Mockup 2">
+
 
 **Mockup 3 - Registro** Formulario de registro.
 
 <img src="img/mockup_3.png" alt="Mockup 3">
 
+
+<img src="img/mockup_3_1.png" alt="Mockup 3">
+
+
 **Mockup 4 - Home:** Vista principal con tarjetas de negocios.
 
 <img src="img/mockup_4.png" alt="Mockup 4">
+
 
 **Mockup 5 - Perfil de negocio(Servicios)** Información de servicios, reseñas y acerca de.
 
 <img src="img/mockup_5.png" alt="Mockup 5">
 
+<img src="img/mockup_5_1.png" alt="Mockup 5">
+
+<img src="img/mockup_5_2.png" alt="Mockup 5">
+
+<img src="img/mockup_5_3.png" alt="Mockup 5">
+
+
 **Mockup 6 - Selección de profesional** Listado de profesionales por servicio con rating.
 
 <img src="img/mockup_6.png" alt="Mockup 6">
+
 
 **Mockup 7 - Selección de fecha y hora** Calendario con horarios disponibles.
 
 <img src="img/mockup_7.png" alt="Mockup 7">
 
+
 **Mockup 8 - Checkout / Revisar y confirmar** Resumen de cita, método de pago y confirmación de cita.
 
 <img src="img/mockup_8.png" alt="Mockup 8">
+
 
 **Mockup 9 - Mis citas (lista)** Sin citas, próximas e histórico con acciones rápidas.
 
 <img src="img/mockup_9.png" alt="Mockup 9">
 
+<img src="img/mockup_9_1.png" alt="Mockup 9">
+
+
 **Mockup 10 - Detalle de cita** Información completa y gestión (cambiar/cancelar).
 
 <img src="img/mockup_10.png" alt="Mockup 10">
+
+<img src="img/mockup_10_1.png" alt="Mockup 10">
+
 
 **Mockup 11 - Perfil de usuario** Información del usuario.
 
 <img src="img/mockup_11.png" alt="Mockup 11">
 
+<img src="img/mockup_11_1.png" alt="Mockup 11">
+
+
 **Mockup 12 - Seccion de favoritos** Lista de favoritos.
 
 <img src="img/mockup_12.png" alt="Mockup 12">
+
 
 **Mockup 13 - Sección de idioma** Selección de idioma.
 
 <img src="img/mockup_13.png" alt="Mockup 13">
 
+
 **Mockup 14 - Seccion de ajustes** Selección de preferencias de los ajustes.
 
 <img src="img/mockup_14.png" alt="Mockup 14">
+
+
+**Mockup 15 - Sección de busqueda** Busqueda de salones de belleza.
+
+<img src="img/mockup_15.png" alt="Mockup 15">
+
 
 
 
@@ -3256,57 +3290,74 @@ URL del Link de Figma: [Figma](https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2E
 
 <img src="img/mockup-1.png" alt="Mockup 1">
 
+
 **Mockup 2 - Inicio de sesión:** Formulario de login con enlace a registro.
 
 <img src="img/mockup-2.png" alt="Mockup 2">
+
 
 **Mockup 3 - Registro** Formulario de registro.
 
 <img src="img/mockup-3.png" alt="Mockup 3">
 
+
 **Mockup 4 - Menú principal de cuenta:** Accesos al calendario general, perfil del negocio, servicios, equipo.
 
 <img src="img/mockup-4.png" alt="Mockup 4">
+
 
 **Mockup 5 - Calendario (Mes):** Vista mensual para planificación.
 
 <img src="img/mockup-5.png" alt="Mockup 5">
 
+
 **Mockup 6 - Calendario (Semana):** Agenda por estilista con bloques de tiempo y estados.
 
 <img src="img/mockup-6.png" alt="Mockup 6">
+
 
 **Mockup 7 - Calendario (Día):** Detalle de la agenda diaria para reprogramación rápida.
 
 <img src="img/mockup-7.png" alt="Mockup 7">
 
+
 **Mockup 8 - Servicios (lista):** Tabla de servicios con nombre, duración, precio y estado.
 
 <img src="img/mockup-8.png" alt="Mockup 8">
+
 
 **Mockup 9 - Nuevo servicio:** Formulario para crear un servicio con validaciones.
 
 <img src="img/mockup-9.png" alt="Mockup 9">
 
+
 **Mockup 10 - Equipo (Agregar miembro):** Formulario para agregar un nuevo miembro
 
 <img src="img/mockup-10.png" alt="Mockup 10">
+
+<img src="img/mockup-10-1.png" alt="Mockup 10">
+
+
 
 **Mockup 11 - Equipo (Lista):** Tarjetas de miembros con acciones de editar/eliminar.
 
 <img src="img/mockup-11.png" alt="Mockup 11">
 
+
 **Mockup 12 - Sección de perfil del negocio:** Accesos a información, notificaciones, ajustes y preferencias de la empresa
 
 <img src="img/mockup-12.png" alt="Mockup 12">
+
 
 **Mockup 13 - Perfil del negocio:** Datos comerciales, horarios, dirección y "Sobre nosotros".
 
 <img src="img/mockup-13.png" alt="Mockup 13">
 
+
 **Mockup 14 - Notificaciones:** Alertas de citas, reprogramaciones y avisos del plan.
 
 <img src="img/mockup-14.png" alt="Mockup 14">
+
 
 #### 3.1.4.4. Mobile Applications User Flow Diagrams
 Los diagramas de flujo de usuario (user flow) mapean el camino completo que sigue una persona dentro de la aplicación, desde el principio hasta que alcanza su meta. Esto permite visualizar y entender las interacciones, pasos y decisiones cruciales en cada momento.
