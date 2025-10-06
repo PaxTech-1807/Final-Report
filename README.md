@@ -3741,13 +3741,43 @@ Dentro del marco de trabajo Scrum, cada Sprint constituye un periodo de tiempo f
 #### 4.2.1.3. Development Evidence for Sprint Review
 A continuación, se presenta un detalle de los commits realizados, los cuales corresponden a las tareas asignadas a cada miembro del equipo, según lo establecido en el Sprint Backlog 1.
 
-Repositorio en github:[Repositorio]()
+Repositorio en github:[Repositorio](https://github.com/PaxTech-1807/Mobile-App)
+
+| Repository              | Branch  | Commit Id | Commit Message                       | Commited on (Date) |
+| ----------------------- | ------- | --------- | ------------------------------------ | ------------------ |
+| PaxTech-1807/Mobile-App | develop | 9f3a1c2   | chore: base android project          | 01/10/2025         |
+| PaxTech-1807/Mobile-App | develop | a12b4d8   | docs: add readme                     | 01/10/2025         |
+| PaxTech-1807/Mobile-App | develop | b7c9e21   | feat: US29 services layout           | 01/10/2025         |
+| PaxTech-1807/Mobile-App | develop | c34af90   | style: US29 services styles          | 01/10/2025         |
+| PaxTech-1807/Mobile-App | develop | d1e5ab3   | feat: US30 benefits copy + icons     | 02/10/2025         |
+| PaxTech-1807/Mobile-App | develop | e93bf12   | feat: US31 pricing content           | 02/10/2025         |
+| PaxTech-1807/Mobile-App | develop | f7a1cde   | feat: US31 pricing UI                | 02/10/2025         |
+| PaxTech-1807/Mobile-App | develop | 2fa93b0   | feat: TS06 responsive + a11y         | 03/10/2025         |
+| PaxTech-1807/Mobile-App | develop | 4a8c1e9   | feat: US32 testimonials component    | 03/10/2025         |
+| PaxTech-1807/Mobile-App | develop | 6c2e8bd   | feat: US33 CTAs + wiring             | 04/10/2025         |
+| PaxTech-1807/Mobile-App | develop | 9a4d7f2   | feat: US34 contact form + validation | 05/10/2025         |
+| PaxTech-1807/Mobile-App | main    | dfe1029   | merge: develop → main (sprint 1)     | 06/10/2025         |
+
 
 
 #### 4.2.1.4. Testing Suite Evidence for Sprint Review
 Se implementaron las pruebas de aceptación para las historias de usuario desarrolladas. Estas pruebas se definieron utilizando el lenguaje Gherkin.
 
-Repositorio de Acceptance Tests:[Repositorio]()
+Repositorio de Acceptance Tests:[Repositorio](https://github.com/PaxTech-1807/Acceptance-Tests)
+
+
+| Repository                    | Branch | Commit Id   | Commit Message                                                                                                                             | Commited on (Date) |
+| ----------------------------- | ------ | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| PaxTech-1807/Acceptance-Tests | main   | **a91c2f3** | feat(tech-stories): add Gherkin features for **TS01–TS06** (security, realtime, validation, user registration/login)                       | 04/10/2025         |
+| PaxTech-1807/Acceptance-Tests | main   | **4fa7d9b** | feat(tech-stories): add Gherkin features for **TS07–TS12** (bookings, schedules, payments, subscriptions, notifications, providers)        | 04/10/2025         |
+| PaxTech-1807/Acceptance-Tests | main   | **c73e1a0** | feat(tech-stories): add Gherkin features for **TS13–TS18** (provider profile, workers, clients, reviews, services, users)                  | 05/10/2025         |
+| PaxTech-1807/Acceptance-Tests | main   | **d5b4e22** | feat(user-stories): add Gherkin features for **US01–US05** (sign-up, business register, login, recovery, customer profile)                 | 05/10/2025         |
+| PaxTech-1807/Acceptance-Tests | main   | **e8c6a1f** | feat(user-stories): add Gherkin features for **US06–US10** (business profile, logout, account deletion, schedule view/config)              | 05/10/2025         |
+| PaxTech-1807/Acceptance-Tests | main   | **79d2bb8** | feat(user-stories): add Gherkin features for **US11–US15** (subscription benefits/pricing/status, plan purchase, payment confirmation)     | 06/10/2025         |
+| PaxTech-1807/Acceptance-Tests | main   | **1abf7c4** | feat(user-stories): add Gherkin features for **US16–US20** (auto-renewal, booking create/list/modify/cancel)                               | 06/10/2025         |
+| PaxTech-1807/Acceptance-Tests | main   | **f0c934a** | feat(user-stories): add Gherkin features for **US21–US25** (booking history, services CRUD, workers, bank accounts, booking notifications) | 06/10/2025         |
+| PaxTech-1807/Acceptance-Tests | main   | **6d8e5a1** | feat(user-stories): add Gherkin features for **US26–US30** (renewal/payment alerts, channels, promos, landing: services/benefits)          | 06/10/2025         |
+| PaxTech-1807/Acceptance-Tests | main   | **b3f1c9d** | feat(user-stories): add Gherkin features for **US31–US35** (landing: pricing, testimonials, CTAs, contact/support, about us)               | 06/10/2025         |
 
 
 
