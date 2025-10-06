@@ -3431,7 +3431,99 @@ Dentro del marco de trabajo Scrum, cada Sprint constituye un periodo de tiempo f
 
 #### 4.2.1.5. Execution Evidence for Sprint Review
 
+La siguiente sección presenta la evidencia de ejecución de la landing page, backend y algunas pantallas de la aplicación mobil de uTime, mostrando la experiencia completa del usuario desde su primera interacción hasta la conversión final. Cada imagen representa una sección específica de la página que guía al usuario a través de un journey diseñado para presentar las funcionalidades, beneficios y valor de la plataforma para salones de belleza y barberías.
+
 **Landing Page**
+
+**1. Hero Section - Primera Impresión del Usuario**
+
+![Hero Section](img/execution_landing_1.png)
+
+La landing page comienza con una sección hero impactante que captura inmediatamente la atención del usuario. Esta sección presenta una frase llamativa "Skip the Calls, Book in Real Time" que comunica directamente el valor principal de la plataforma. El usuario encuentra un call-to-action prominente "Start for Free →" que lo invita a comenzar su experiencia con uTime. Esta sección está diseñada para generar interés inmediato y motivar al usuario a explorar más la plataforma.
+
+**2-4. Features Section - Funcionalidades de la Aplicación**
+
+![Features 1](img/execution_landing_2.png)
+![Features 2](img/execution_landing_3.png)
+![Features 3](img/execution_landing_4.png)
+
+Las secciones de características presentan las funcionalidades principales que uTime ofrece a los salones de belleza. Los usuarios pueden explorar:
+
+- **Gestión de Citas Inteligente**: Un calendario visual que se actualiza en tiempo real, permitiendo a los usuarios ver todas las reservas de su equipo de forma centralizada.
+- **Pagos y Gestión Completa de Servicios**: Control total del salón desde un solo dashboard, incluyendo servicios, reservas, pagos e interacciones con clientes.
+- **Perfiles Personalizables**: Control completo con perfiles personalizados que permiten a cada salón o barbería mostrar sus servicios, gestionar su equipo y controlar cómo los clientes los ven.
+
+Cada feature incluye iconos descriptivos y capturas de pantalla de la aplicación real, permitiendo al usuario visualizar cómo funcionaría la plataforma en su negocio.
+
+**5-6. Roadmap - Proceso de Interacción del Usuario**
+
+![Roadmap 1](img/execution_landing_5.png)
+![Roadmap 2](img/execution_landing_6.png)
+
+Esta sección presenta un roadmap claro de cómo los salones de belleza interactuarán con la aplicación:
+
+- **Crear Cuenta**: El usuario se registra fácilmente proporcionando información básica y accede a su dashboard personalizado.
+- **Agregar y Gestionar Trabajadores**: Los usuarios registran su equipo, asignan horarios y controlan las agendas desde un solo lugar.
+- **Definir Servicios**: Los usuarios configuran sus servicios, precios y duraciones de manera sencilla.
+
+El roadmap incluye capturas de pantalla reales de la aplicación, mostrando la interfaz de gestión de personal y calendario, lo que permite al usuario visualizar el flujo de trabajo completo.
+
+**7. Pricing Section - Planes de Suscripción**
+
+![Pricing](img/execution_landing_7.png)
+
+La sección de precios presenta tres planes flexibles diseñados para diferentes etapas del negocio:
+
+- **Essential (Gratis)**: Plan básico con calendario inteligente, página de reservas de clientes, reseñas y calificaciones, perfiles de estilistas y hasta 2 cuentas de estilistas.
+- **ProStyle (S/69.9/mes)**: Plan intermedio con sincronización avanzada de calendario, recordatorios por WhatsApp, hasta 5 estilistas, seguimiento de rendimiento y soporte prioritario.
+- **Deluxe Studio (S/129.9/mes)**: Plan premium con control total del calendario, recordatorios ilimitados, estilistas ilimitados, análisis avanzados y soporte VIP.
+
+Los usuarios pueden comparar las características de cada plan y elegir el que mejor se adapte a las necesidades de su negocio.
+
+**8. Testimonials Section - Experiencias de Usuarios**
+
+![Testimonials](img/execution_landing_8.png)
+
+Esta sección presenta testimonios reales de más de 100+ negocios de belleza que confían en uTime. Los testimonios incluyen:
+
+- Experiencias de ahorro de tiempo en la gestión del salón
+- Mejoras en la organización de citas
+- Satisfacción del cliente y del equipo
+- Control de productividad y estadísticas
+
+Cada testimonio incluye una calificación de 5 estrellas, una cita del usuario, su foto de perfil, nombre y rol en su negocio, proporcionando credibilidad y confianza a los nuevos usuarios.
+
+**9. FAQ Section - Preguntas Frecuentes**
+
+![FAQ](img/execution_landing_9.png)
+
+La sección de preguntas frecuentes aborda las dudas más comunes sobre la plataforma:
+
+- ¿Es uTime adecuado para barberías pequeñas o solo para grandes empresas?
+- ¿Necesito conexión a internet para usar uTime?
+- ¿uTime ayuda a gestionar horarios y turnos del personal?
+- ¿Hay una prueba gratuita para probar uTime?
+- ¿uTime me ayuda a gestionar las citas de clientes?
+
+Los usuarios pueden hacer clic en cualquier pregunta para expandir la respuesta, permitiendo una navegación rápida y eficiente para resolver sus dudas específicas.
+
+**10. Call to Action Final y Footer**
+
+![Final CTA and Footer](img/execution_landing_10.png)
+
+La landing page culmina con una sección de llamada a la acción final que refuerza el valor de la plataforma:
+
+- **Mensaje Principal**: "¿Listo para transformar tus operaciones diarias?"
+- **Descripción**: Explica cómo uTime ayuda a gestionar citas, turnos y clientes con facilidad.
+- **Call to Action**: Botón prominente "Start for Free →" para la conversión final.
+
+El footer incluye:
+- Enlaces rápidos de navegación
+- Información de soporte y ayuda
+- Datos de contacto (email, teléfono, dirección)
+- Enlaces a redes sociales
+
+Esta estructura completa guía al usuario a través de un journey optimizado que educa, persuade y convierte, presentando uTime como la solución integral para la gestión de salones de belleza y barberías.
 
 
 
