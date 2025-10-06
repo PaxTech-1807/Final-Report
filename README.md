@@ -602,20 +602,27 @@ A través de cualquier dispositivo móvil con conexión a internet y con la tecn
 
 Según Ochoa (2021), en una encuesta realizada en un salón de belleza llamado “Mónica Garcés”, el 80% de encuestados argumenta que no recibe una atención adecuada respecto a la reservación de citas a un salón de belleza. Asimismo, el 20% desconoce dicho proceso. Por lo general, se suelen comunicar mediante vía telefónica con la dueña del local, y no se logra llevar un control o manejo adecuado de horarios.
 
+*Figura 1: Eficacia del proceso de agendamiento de turnos*
 <div align="center">
 <img src="img/img.png" alt="dato_estadistico_1" />
 </div>
 
 De acuerdo a los salones de belleza que operan en Tegucigalpa, el 53,3% de las mujeres esperan ser atendidas por orden de llegada en salones de belleza. Sin embargo, en su mayoría estos servicios no cuentan con un servicio via web que les permita administrar sus servicios de forma eficiente.
 
+*Figura 2: Reservación de citas*
 <div align="center">
 <img src="img/img_1.png" alt="dato_estadistico_2" />
 </div>
 
 Según el salón de belleza "Giselle Spa" de La Molina (2021), se realizo una encuesta a 205 cliente respecto a la calidad de servicio que ofrece el salon de belleza se identifico que el 53,4% admiten que dicha calidad se manifiesta de forma regular, debido al poco interés que se percibe respecto a los cronogramas, comunicación activa y organización laboral.
 
+*Figura 3: Análisis descriptivo de la variable calidad de servicio*
 <div align="center">
 <img src="img/img_2.png" alt="dato_estadistico_3" />
+</div>
+
+*Figura 4: Análisis porcentual de la variable calidad de servicio*
+<div align="center">
 <img src="img/img_3.png" alt="dato_estadistico_4" />
 </div>
 
@@ -3178,6 +3185,128 @@ Pantalla móvil Your profile. Encabezado con acción Log out. Bloque de perfil c
 
 #### 3.1.4.2. Mobile Applications Wireflow Diagrams
 #### 3.1.4.3. Mobile Applications Mock-ups
+
+Los mockups definen el aspecto visual final de la aplicación, detallando los colores, tipografías y elementos gráficos para asegurar una experiencia de usuario atractiva y coherente con la identidad de la app.
+
+URL del Link de Figma: [Figma](https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME?node-id=160-7176&t=E1kC09GYRQ6JJkTE-1)
+
+**Vista de clientes de servicios de belleza**
+
+**Mockup 1 - Bienvenida:** Pantalla hero de inicio.
+
+<img src="img/mockup_1.png" alt="Mockup 1">
+
+**Mockup 2 - Inicio de sesión:** Formulario de login con enlace a registro.
+
+<img src="img/mockup_2.png" alt="Mockup 2">
+
+**Mockup 3 - Registro** Formulario de registro.
+
+<img src="img/mockup_3.png" alt="Mockup 3">
+
+**Mockup 4 - Home:** Vista principal con tarjetas de negocios.
+
+<img src="img/mockup_4.png" alt="Mockup 4">
+
+**Mockup 5 - Perfil de negocio(Servicios)** Información de servicios, reseñas y acerca de.
+
+<img src="img/mockup_5.png" alt="Mockup 5">
+
+**Mockup 6 - Selección de profesional** Listado de profesionales por servicio con rating.
+
+<img src="img/mockup_6.png" alt="Mockup 6">
+
+**Mockup 7 - Selección de fecha y hora** Calendario con horarios disponibles.
+
+<img src="img/mockup_7.png" alt="Mockup 7">
+
+**Mockup 8 - Checkout / Revisar y confirmar** Resumen de cita, método de pago y confirmación de cita.
+
+<img src="img/mockup_8.png" alt="Mockup 8">
+
+**Mockup 9 - Mis citas (lista)** Sin citas, próximas e histórico con acciones rápidas.
+
+<img src="img/mockup_9.png" alt="Mockup 9">
+
+**Mockup 10 - Detalle de cita** Información completa y gestión (cambiar/cancelar).
+
+<img src="img/mockup_10.png" alt="Mockup 10">
+
+**Mockup 11 - Perfil de usuario** Información del usuario.
+
+<img src="img/mockup_11.png" alt="Mockup 11">
+
+**Mockup 12 - Seccion de favoritos** Lista de favoritos.
+
+<img src="img/mockup_12.png" alt="Mockup 12">
+
+**Mockup 13 - Sección de idioma** Selección de idioma.
+
+<img src="img/mockup_13.png" alt="Mockup 13">
+
+**Mockup 14 - Seccion de ajustes** Selección de preferencias de los ajustes.
+
+<img src="img/mockup_14.png" alt="Mockup 14">
+
+
+**Vista de salones de belleza**
+
+**Mockup 1 - Bienvenida:** Pantalla hero de inicio.
+
+<img src="img/mockup-1.png" alt="Mockup 1">
+
+**Mockup 2 - Inicio de sesión:** Formulario de login con enlace a registro.
+
+<img src="img/mockup-2.png" alt="Mockup 2">
+
+**Mockup 3 - Registro** Formulario de registro.
+
+<img src="img/mockup-3.png" alt="Mockup 3">
+
+**Mockup 4 - Menú principal de cuenta:** Accesos al calendario general, perfil del negocio, servicios, equipo.
+
+<img src="img/mockup-4.png" alt="Mockup 4">
+
+**Mockup 5 - Calendario (Mes):** Vista mensual para planificación.
+
+<img src="img/mockup-5.png" alt="Mockup 5">
+
+**Mockup 6 - Calendario (Semana):** Agenda por estilista con bloques de tiempo y estados.
+
+<img src="img/mockup-6.png" alt="Mockup 6">
+
+**Mockup 7 - Calendario (Día):** Detalle de la agenda diaria para reprogramación rápida.
+
+<img src="img/mockup-7.png" alt="Mockup 7">
+
+**Mockup 8 - Servicios (lista):** Tabla de servicios con nombre, duración, precio y estado.
+
+<img src="img/mockup-8.png" alt="Mockup 8">
+
+**Mockup 9 - Nuevo servicio:** Formulario para crear un servicio con validaciones.
+
+<img src="img/mockup-9.png" alt="Mockup 9">
+
+**Mockup 10 - Equipo (Agregar miembro):** Formulario para agregar un nuevo miembro
+
+<img src="img/mockup-10.png" alt="Mockup 10">
+
+**Mockup 11 - Equipo (Lista):** Tarjetas de miembros con acciones de editar/eliminar.
+
+<img src="img/mockup-11.png" alt="Mockup 11">
+
+**Mockup 12 - Sección de perfil del negocio:** Accesos a información, notificaciones, ajustes y preferencias de la empresa
+
+<img src="img/mockup-12.png" alt="Mockup 12">
+
+**Mockup 13 - Perfil del negocio:** Datos comerciales, horarios, dirección y "Sobre nosotros".
+
+<img src="img/mockup-13.png" alt="Mockup 13">
+
+**Mockup 14 - Notificaciones:** Alertas de citas, reprogramaciones y avisos del plan.
+
+<img src="img/mockup-14.png" alt="Mockup 14">
+
 #### 3.1.4.4. Mobile Applications User Flow Diagrams
 #### 3.1.4.5. Mobile Applications Prototyping
 
