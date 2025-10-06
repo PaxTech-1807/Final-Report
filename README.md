@@ -3632,8 +3632,7 @@ En el marco metodológico de Scrum, cada Sprint corresponde a un lapso breve y c
 Para realizar el deployment del backend de la aplicación, se empleó la plataforma Render temporalmente mientras se configura el FrontEnd de la aplicacion movil. Mas adelante se optara por hacer despliegue en un servicio de maquina virtual en la nube.
 
 En primer lugar, se compilo el spring boot usando maven y usando docker se construyó la imagen del proyecto.
-
-Luego, esta imagen se subio al repositorio de Docker Hub. De esta manera desde el servicio de Render se puede acceder a la imagen y desplegarla con las variables de entorno necesarias.
+Esta imagen se subio al repositorio de Docker Hub. De esta manera desde el servicio de Render se puede acceder a la imagen y desplegarla con las variables de entorno necesarias.
 
 ![Dockerfile](img/dockerhub.png)
 
@@ -3649,6 +3648,7 @@ Finalmente, usando el servicio de Aiven, se desplego una base de datos MySql y s
 
 URL del BackEnd Deployado: https://utime-web-service.onrender.com/swagger-ui/index.html
 
+Cabe mencionar que debido a que Render al ser un servicio gratuito , al acceder al URL del backend deployado, este puede demorar un aproximado de "50 segundos" en iniciar el servicio. Este problema no se presentara cuando se haga el despliegue en un servicio de maquina virtual en la nube.
 
 #### 4.2.1.8. Team Collaboration Insights during Sprint
 
