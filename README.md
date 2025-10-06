@@ -3249,6 +3249,7 @@ URL del Link de Figma: [Figma](https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2E
 <img src="img/mockup_14.png" alt="Mockup 14">
 
 
+
 **Vista de salones de belleza**
 
 **Mockup 1 - Bienvenida:** Pantalla hero de inicio.
@@ -3308,7 +3309,68 @@ URL del Link de Figma: [Figma](https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2E
 <img src="img/mockup-14.png" alt="Mockup 14">
 
 #### 3.1.4.4. Mobile Applications User Flow Diagrams
+Los diagramas de flujo de usuario (user flow) mapean el camino completo que sigue una persona dentro de la aplicación, desde el principio hasta que alcanza su meta. Esto permite visualizar y entender las interacciones, pasos y decisiones cruciales en cada momento.
+
+URL del Link de Figma: [Figma](https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME?node-id=160-7176&t=E1kC09GYRQ6JJkTE-1)
+
+
+**Vista de clientes de servicios de belleza**
+
+**User flow 1 - Registro y login para clientes** 
+
+<img src="img/user_flow_1.png" alt="User Flow 1">
+
+**User flow 2 - Sección para descubrir → seleccionar servicio → reservar** 
+
+<img src="img/user_flow_2.png" alt="User Flow 2">
+
+**User flow 3 - Sección de gestión de citas** 
+
+<img src="img/user_flow_3.png" alt="User Flow 3">
+
+**User flow 4 - Sección de busqueda** 
+
+<img src="img/user_flow_4.png" alt="User Flow 4">
+
+**User flow 5 - Sección de información del perfil** 
+
+<img src="img/user_flow_5.png" alt="User Flow 5">
+
+
+
+
+**Vista de salones de belleza**
+
+**User flow 1 - Registro y login para salones de belleza** 
+
+<img src="img/user-flow-1.png" alt="User Flow 1">
+
+**User flow 2 - Sección de vista principal(Calendario)** 
+
+<img src="img/user-flow-2.png" alt="User Flow 2">
+
+**User flow 3 - Sección de servicios** 
+
+<img src="img/user-flow-3.png" alt="User Flow 3">
+
+**User flow 4 - Sección de equipo** 
+
+<img src="img/user-flow-4.png" alt="User Flow 4">
+
+**User flow 5 - Sección de información del perfil** 
+
+<img src="img/user_flow_5.png" alt="User Flow 5">
+
+
 #### 3.1.4.5. Mobile Applications Prototyping
+Creamos un prototipo de interacción real para que se pueda experimentar la aplicación en un entorno simulado antes de codificarla. Esta herramienta interactiva muestra el flujo exacto entre las pantallas y cómo reacciona cada elemento, lo que nos permite validar y optimizar la usabilidad.
+
+
+URL del prototipo en figma: [Prototipo en Figma]()
+
+URL del video: [Video del prototipo]()
+
+<img src="img/prototipo.png" alt="Prototipo">
 
 # Capítulo IV: Product Implementation, Validation
 ## 4.1. Software Configuration Management
@@ -3599,10 +3661,16 @@ Dentro del marco de trabajo Scrum, cada Sprint constituye un periodo de tiempo f
 
 
 #### 4.2.1.3. Development Evidence for Sprint Review
+A continuación, se presenta un detalle de los commits realizados, los cuales corresponden a las tareas asignadas a cada miembro del equipo, según lo establecido en el Sprint Backlog 1.
 
+Repositorio en github:[Repositorio]()
 
 
 #### 4.2.1.4. Testing Suite Evidence for Sprint Review
+Se implementaron las pruebas de aceptación para las historias de usuario desarrolladas. Estas pruebas se definieron utilizando el lenguaje Gherkin.
+
+Repositorio de Acceptance Tests:[Repositorio]()
+
 
 
 #### 4.2.1.5. Execution Evidence for Sprint Review
