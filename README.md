@@ -3536,6 +3536,28 @@ En el marco metodológico de Scrum, cada Sprint corresponde a un lapso breve y c
 #### 4.2.1.5. Execution Evidence for Sprint Review
 #### 4.2.1.6. Services Documentation Evidence for Sprint Review
 #### 4.2.1.7. Software Deployment Evidence for Sprint Review
+
+Para realizar el deployment del backend de la aplicación, se empleó la plataforma Render temporalmente mientras se configura el FrontEnd de la aplicacion movil. Mas adelante se optara por hacer despliegue en un servicio de maquina virtual en la nube.
+
+En primer lugar, se compilo el spring boot usando maven y usando docker se construyó la imagen del proyecto.
+
+Luego, esta imagen se subio al repositorio de Docker Hub. De esta manera desde el servicio de Render se puede acceder a la imagen y desplegarla con las variables de entorno necesarias.
+
+![Dockerfile](img/dockerhub.png)
+
+![Render Service](img/render.png)
+
+Se utiliza swagger para acceder a las endpoints:
+
+![Swagger](img/swagger.png)
+
+Finalmente, usando el servicio de Aiven, se desplego una base de datos MySql y se configuraron las variables de entorno en Render para que el backend pueda conectarse a la base de datos.
+
+![MySql on Aiven](img/aiven.png)
+
+URL del BackEnd Deployado: https://utime-web-service.onrender.com/swagger-ui/index.html
+
+
 #### 4.2.1.8. Team Collaboration Insights during Sprint
 
 # Conclusiones
