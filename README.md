@@ -3437,7 +3437,7 @@ URL del Link de Figma: [Figma](https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2E
 
 **User flow 5 - Sección de información del perfil** 
 <p align="center">
-<img src="img/user_flow_5.png" alt="User Flow 5">
+<img src="img/user-flow-5.png" alt="User Flow 5">
 </p>
 
 #### 3.1.4.5. Mobile Applications Prototyping
