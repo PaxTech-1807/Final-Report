@@ -157,8 +157,45 @@ Se explican las ramas más prominentes:
 
 **Capturas de la participación en el informe:**
 
-![alt text](image.png)
-![alt text](image-1.png)
+![alt text](/img/image.png)
+![alt text](/img/image-1.png)
+
+**TB2**
+
+Para el desarrollo del informe perteneciente a la entrega del TB2, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+
+
+| Integrantes     | Tareas Asignadas                                                                                                                                                                  |
+|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Luciana Choquehuanca  |            |
+| Britney Qqueso        |            |
+| Gael Rivera           |    Execution Evidence for Sprint Review de la Landing Page, Backend y Aplicación Mobil, Landing Page Wireframe y Landing Page Mock-up.        |
+| Natalia Roman         |            |
+| Jorge Yum             |            |
+
+
+El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización PaxTech.
+
+**Github Collaboration Insights**
+
+Github también presenta un timeline de las ramas principales y los procesos de merge a los que se han sometido. Todas las
+ramas se crearon tomando en cuenta el diseño de GitFlow para una buena organización cuando se usa un software de control
+de versiones.
+
+Los integrantes son:
+
+- Luciana Choquehuanca (lucianxaaa) 
+- Britney Qqueso (brit2801)
+- Gael Rivera (gael-rs)
+- Natalia Roman (natRC2005)
+- Jorge Yum (jsyumg, myussu)
+
+
+**Capturas de la participación en el informe:**
+
+![alt text]()
+![alt text]()
+
 
 <br>
 
@@ -287,8 +324,8 @@ Se explican las ramas más prominentes:
 4.1.4. [Software Deployment Configuration](#414-software-deployment-configuration)<br>
 4.2. [Landing Page & Mobile Application Implementation](#42-landing-page--mobile-application-implementation)<br>
 4.2.1. [Sprint 1](#42x-sprint-1)<br>
-4.2.1.1. [ing 1](#42x1-sprint-planning-1)<br>
-4.2.1.2. [Sprint Backlog n](#42x2-sprint-backlog-n)<br>
+4.2.1.1. [Sprint Planning 1](#42x1-sprint-planning-1)<br>
+4.2.1.2. [Sprint Backlog 1](#42x2-sprint-backlog-n)<br>
 4.2.1.3. [Development Evidence for Sprint Review](#4213-development-evidence-for-sprint-review)<br>
 4.2.1.4. [Testing Suite Evidence for Sprint Review](#4214-testing-suite-evidence-for-sprint-review)<br>
 4.2.1.5. [Execution Evidence for Sprint Review](#42x5-execution-evidence-for-sprint-review)<br>
@@ -326,12 +363,14 @@ Se explican las ramas más prominentes:
       <td>
          <strong>Eduardo Gael Rivera Sosa</strong> <br>  
          <b>TB1:</b> Durante el proyecto uTime, actualicé mis conocimientos en Domain-Driven Design (DDD), arquitectura de software con modelo C4, y patrones de integración. Profundicé en el diseño del Bounded Context IAM con conceptos de autenticación y autorización, y en la creación de diagramas de arquitectura (Context, Container y Deployment). También actualicé mis habilidades en especificación de requisitos mediante User Stories, Technical Stories y Spike Stories, y en técnicas ágiles como Impact Mapping y Product Backlog. <br> 
+         <b>TB2:</b> Durante esta entrega, actualicé mis conocimientos en documentación técnica y presentación de evidencias de ejecución. Trabajé en la elaboración de la sección "Execution Evidence for Sprint Review" que incluye la documentación completa de la Landing Page, Backend y Aplicación Móvil, así como en el desarrollo de Landing Page Wireframes y Mock-ups. Esta experiencia me permitió consolidar habilidades en documentación de proyectos de software y presentación de resultados técnicos de manera profesional y estructurada.
          <strong>Jorge Suin Yum Gonzales:</strong> <br> 
          <b>TB1:</b> Durante este primer avance, actualicé y profundicé en conceptos clave como Needfinding, Ubiquitous Language y Domain Message Flow Modeling. Además, realicé entrevistas y trabajé el EventStorming para identificar eventos, comandos y políticas del dominio. Diseñé la estructura del Bounded Context Profiles y definí su rol e interacciones dentro de los distintos procesos de la aplicación móvil a desarrollar. <br>
          <b>TP:</b> Durante el desarrollo del proyecto uTime, actualicé y profundicé mis conocimientos en diseño de interfaces y despliegue de software, abordando tareas relacionadas con el Dashboard, las vistas de detalle de salones y la preparación del Sprint Review. En el ámbito de UI/UX Design, apliqué principios de arquitectura de información, navegación y sistemas de etiquetado, asegurando la coherencia visual y funcional entre las distintas pantallas. Asimismo, reforcé mis habilidades en integración continua y despliegue mediante entornos controlados, lo que me permitió validar funcionalidades de forma iterativa. Este proceso fortaleció mi comprensión del ciclo de vida del software y la importancia de la comunicación entre diseño y desarrollo para lograr productos usables, escalables y centrados en el usuario.
       </td>
       <td rowspan="5">
          <b>TB1:</b> El desarrollo completo de los capítulos 1 y 2 del proyecto uTime permitió al equipo consolidar conocimientos fundamentales en ingeniería de software. A través del análisis competitivo, entrevistas con usuarios y técnicas de needfinding, el equipo desarrolló competencias en investigación de mercado y análisis de requisitos. La implementación de metodologías Lean UX y Domain-Driven Design proporcionó una base sólida en diseño de software centrado en el usuario y arquitecturas escalables. La elaboración de diagramas C4, EventStorming y Context Mapping permitió al equipo dominar técnicas avanzadas de modelado de sistemas complejos, mientras que la especificación de requisitos mediante User Stories y Product Backlog consolidó las habilidades del equipo en metodologías ágiles. 
+         <br><b>TB2:</b> El desarrollo de los capítulos 3 y 4 del proyecto uTime permitió al equipo consolidar conocimientos avanzados en diseño de interfaces de usuario y implementación de software. A través del Capítulo 3 (Solution UI/UX Design), el equipo desarrolló competencias en Style Guidelines, Information Architecture, Landing Page UI Design y Mobile Applications Design, aplicando principios de usabilidad, accesibilidad y experiencia de usuario. El Capítulo 4 (Product Implementation, Validation) consolidó las habilidades del equipo en Software Configuration Management, implementación de Sprints con metodología Scrum, desarrollo de evidencia de ejecución, testing y deployment. La integración de wireframes, mockups, prototipos y la documentación técnica completa permitió al equipo dominar el ciclo completo de desarrollo de software, desde el diseño conceptual hasta la implementación y validación del producto final.
       </td>
     </tr>
     <tr>
@@ -359,13 +398,15 @@ Se explican las ramas más prominentes:
       <td rowspan="5">7.c2. Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de tecnologías de ingeniería de software</td>
       <td>
          <strong>Eduardo Gael Rivera Sosa</strong> <br>  
-        <b>TB1:</b> Durante el proyecto uTime, reconocí la importancia del aprendizaje continuo al enfrentar desafíos técnicos como el diseño de arquitecturas y la implementación de patrones DDD. La necesidad de mantenerme actualizado se evidenció al plantear como se trabajará con tecnologías emergentes en desarrollo móvil y al adaptarlas a las metodologías ágiles. <br> 
+        <b>TB1:</b> Durante el proyecto uTime, reconocí la importancia del aprendizaje continuo al enfrentar desafíos técnicos como el diseño de arquitecturas y la implementación de patrones DDD. La necesidad de mantenerme actualizado se evidenció al plantear como se trabajará con tecnologías emergentes en desarrollo móvil y al adaptarlas a las metodologías ágiles. <br>
+        <b>TB2:</b> Durante esta entrega, reconocí la necesidad del aprendizaje permanente al trabajar en la documentación técnica y presentación de evidencias de ejecución. Al desarrollar la sección "Execution Evidence for Sprint Review" que incluye Landing Page, Backend y Aplicación Móvil, así como Landing Page Wireframes y Mock-ups, identifiqué la importancia de mantenerme actualizado en técnicas de documentación de software y presentación de resultados técnicos para comunicar efectivamente el progreso del proyecto. 
          <strong>Jorge Suin Yum Gonzales:</strong> <br> 
          <b>TB1:</b>A lo largo de este avance reconocí la necesidad del aprendizaje permanente para sostener el ritmo del proyecto. Al abordar retos como modelar flujos de dominio, definir un Lenguaje Ubicuo compartido y diseñar el Bounded Context Profiles, identifiqué brechas que estoy cerrando mediante estudio autónomo, revisión de referencias y retroalimentación del equipo. Asimismo, me comprometí a mantenerme actualizado en prácticas de ingeniería de software y desarrollo móvil para aportar con mayor calidad en las siguientes iteraciones. <br>
          <b>TP:</b> Durante esta etapa reconocí la necesidad de mantener un aprendizaje constante para afrontar los retos del desarrollo móvil y del diseño de experiencias digitales. Al implementar las evidencias de despliegue y las vistas del Dashboard y Salon Details, identifiqué la importancia de seguir explorando buenas prácticas en integración de UI con backend, testing de interfaces y optimización de la experiencia del usuario. Además, comprendí que las herramientas y metodologías evolucionan rápidamente, por lo que resulta esencial actualizarse en frameworks, librerías y patrones de diseño. Este proceso reforzó mi compromiso con la mejora continua, entendiendo que el aprendizaje permanente es clave para adaptarse a las exigencias técnicas y de calidad que demanda la ingeniería de software moderna.
       </td>
       <td rowspan="5">
          <b>TB1:</b> La experiencia del TB1 demostró al equipo que el aprendizaje permanente es esencial en la ingeniería de software. Al trabajar con metodologías emergentes como Lean UX, Domain-Driven Design y arquitecturas, el equipo comprendió que las tecnologías evolucionan constantemente y requieren actualización continua. La investigación de competidores, el análisis de usuarios mediante entrevistas y la implementación de patrones de integración entre bounded contexts enseñaron al equipo la importancia de mantenerse al día con las mejores prácticas de la industria. Además, la colaboración en equipo y la retroalimentación de usuarios mostraron que el aprendizaje no se limita solo a aspectos técnicos, sino también al desarrollo de habilidades de comunicación, análisis de mercado y gestión de proyectos, fundamentales para el crecimiento profesional en el desarrollo de software.
+         <br><b>TB2:</b> La experiencia del TB2 reforzó la importancia del aprendizaje permanente en el desarrollo de software, especialmente en las áreas de diseño de interfaces y implementación de productos. Al trabajar en los capítulos 3 y 4, el equipo comprendió que el diseño de software requiere actualización constante en herramientas de prototipado, principios de UX/UI, metodologías ágiles como Scrum, y tecnologías de deployment. La implementación de wireframes, mockups, y la documentación técnica completa enseñaron al equipo que el aprendizaje continuo es crucial para mantenerse actualizado con las mejores prácticas de la industria en diseño centrado en el usuario, testing de software y gestión de configuración. Además, la colaboración en la implementación de Sprints y la validación de productos demostraron que el aprendizaje permanente abarca tanto aspectos técnicos como habilidades de documentación, presentación de evidencias y comunicación efectiva de resultados técnicos.
       </td>
     </tr>
     <tr>
@@ -3183,11 +3224,11 @@ Dentro del marco de trabajo Scrum, cada Sprint constituye un periodo de tiempo f
       <td colspan="1">Natalia Roman, Gael Rivera, Britney Qqueso, Luciana Choquehuanca y Jorge Yum</td>
    </tr>
    <tr>
-      <td colspan="1" align="center"><b>Sprint n - 1 Review Summary</b></td>
+      <td colspan="1" align="center"><b>Sprint 0 Review Summary</b></td>
       <td colspan="1">Al ser este el primer sprint, aún no se posee una revisión de un sprint previo</td>
    </tr>
    <tr>
-      <td colspan="1" align="center"><b>Sprint n - 1 Retrospective Summary</b></td>
+      <td colspan="1" align="center"><b>Sprint 0 Retrospective Summary</b></td>
       <td colspan="1">Al ser este el primer sprint, no podemos contar con una retroaliemtación previa. Puede mensionarse que se han tomado en cuenta los comentarios del profesor para mejorar el informe presentado anteriormente</td>
    </tr>
    <tr>
@@ -3199,11 +3240,11 @@ Dentro del marco de trabajo Scrum, cada Sprint constituye un periodo de tiempo f
    </tr>
    <tr>
       <td colspan="1" align="center"><b>Sprint 1 Velocity</b></td>
-      <td colspan="1">20</td>
+      <td colspan="1">50</td>
    </tr>
    <tr>
       <td colspan="1" align="center"><b>Sum of Story Points</b></td>
-      <td colspan="1">20</td>
+      <td colspan="1">50</td>
    </tr>
 </tr>
 </table>
