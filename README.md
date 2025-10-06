@@ -3391,7 +3391,7 @@ URL del Link de Figma: [Figma](https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2E
 <img src="img/user_flow_1.png" alt="User Flow 1">
 </p>
 
-**User flow 2 - Sección para descubrir → seleccionar servicio → reservar** 
+**User flow 2 - Sección de busqueda** 
 <p align="center">
 <img src="img/user_flow_2.png" alt="User Flow 2">
 </p>
@@ -3401,7 +3401,7 @@ URL del Link de Figma: [Figma](https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2E
 <img src="img/user_flow_3.png" alt="User Flow 3">
 </p>
 
-**User flow 4 - Sección de busqueda** 
+**User flow 4 - Sección de descubrir → seleccionar servicio → reservar** 
 <p align="center">
 <img src="img/user_flow_4.png" alt="User Flow 4">
 </p>
