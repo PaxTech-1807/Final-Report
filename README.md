@@ -157,8 +157,45 @@ Se explican las ramas más prominentes:
 
 **Capturas de la participación en el informe:**
 
-![alt text](image.png)
-![alt text](image-1.png)
+![alt text](/img/image.png)
+![alt text](/img/image-1.png)
+
+**TB2**
+
+Para el desarrollo del informe perteneciente a la entrega del TB2, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+
+
+| Integrantes     | Tareas Asignadas                                                                                                                                                                  |
+|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Luciana Choquehuanca  |            |
+| Britney Qqueso        |            |
+| Gael Rivera           |    Execution Evidence for Sprint Review de la Landing Page, Backend y Aplicación Mobil, Landing Page Wireframe y Landing Page Mock-up.        |
+| Natalia Roman         |            |
+| Jorge Yum             |            |
+
+
+El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización PaxTech.
+
+**Github Collaboration Insights**
+
+Github también presenta un timeline de las ramas principales y los procesos de merge a los que se han sometido. Todas las
+ramas se crearon tomando en cuenta el diseño de GitFlow para una buena organización cuando se usa un software de control
+de versiones.
+
+Los integrantes son:
+
+- Luciana Choquehuanca (lucianxaaa) 
+- Britney Qqueso (brit2801)
+- Gael Rivera (gael-rs)
+- Natalia Roman (natRC2005)
+- Jorge Yum (jsyumg, myussu)
+
+
+**Capturas de la participación en el informe:**
+
+![alt text]()
+![alt text]()
+
 
 <br>
 
@@ -287,8 +324,8 @@ Se explican las ramas más prominentes:
 4.1.4. [Software Deployment Configuration](#414-software-deployment-configuration)<br>
 4.2. [Landing Page & Mobile Application Implementation](#42-landing-page--mobile-application-implementation)<br>
 4.2.1. [Sprint 1](#42x-sprint-1)<br>
-4.2.1.1. [ing 1](#42x1-sprint-planning-1)<br>
-4.2.1.2. [Sprint Backlog n](#42x2-sprint-backlog-n)<br>
+4.2.1.1. [Sprint Planning 1](#42x1-sprint-planning-1)<br>
+4.2.1.2. [Sprint Backlog 1](#42x2-sprint-backlog-n)<br>
 4.2.1.3. [Development Evidence for Sprint Review](#4213-development-evidence-for-sprint-review)<br>
 4.2.1.4. [Testing Suite Evidence for Sprint Review](#4214-testing-suite-evidence-for-sprint-review)<br>
 4.2.1.5. [Execution Evidence for Sprint Review](#42x5-execution-evidence-for-sprint-review)<br>
@@ -326,12 +363,14 @@ Se explican las ramas más prominentes:
       <td>
          <strong>Eduardo Gael Rivera Sosa</strong> <br>  
          <b>TB1:</b> Durante el proyecto uTime, actualicé mis conocimientos en Domain-Driven Design (DDD), arquitectura de software con modelo C4, y patrones de integración. Profundicé en el diseño del Bounded Context IAM con conceptos de autenticación y autorización, y en la creación de diagramas de arquitectura (Context, Container y Deployment). También actualicé mis habilidades en especificación de requisitos mediante User Stories, Technical Stories y Spike Stories, y en técnicas ágiles como Impact Mapping y Product Backlog. <br> 
+         <b>TB2:</b> Durante esta entrega, actualicé mis conocimientos en documentación técnica y presentación de evidencias de ejecución. Trabajé en la elaboración de la sección "Execution Evidence for Sprint Review" que incluye la documentación completa de la Landing Page, Backend y Aplicación Móvil, así como en el desarrollo de Landing Page Wireframes y Mock-ups. Esta experiencia me permitió consolidar habilidades en documentación de proyectos de software y presentación de resultados técnicos de manera profesional y estructurada.
          <strong>Jorge Suin Yum Gonzales:</strong> <br> 
          <b>TB1:</b> Durante este primer avance, actualicé y profundicé en conceptos clave como Needfinding, Ubiquitous Language y Domain Message Flow Modeling. Además, realicé entrevistas y trabajé el EventStorming para identificar eventos, comandos y políticas del dominio. Diseñé la estructura del Bounded Context Profiles y definí su rol e interacciones dentro de los distintos procesos de la aplicación móvil a desarrollar. <br>
          <b>TP:</b> Durante el desarrollo del proyecto uTime, actualicé y profundicé mis conocimientos en diseño de interfaces y despliegue de software, abordando tareas relacionadas con el Dashboard, las vistas de detalle de salones y la preparación del Sprint Review. En el ámbito de UI/UX Design, apliqué principios de arquitectura de información, navegación y sistemas de etiquetado, asegurando la coherencia visual y funcional entre las distintas pantallas. Asimismo, reforcé mis habilidades en integración continua y despliegue mediante entornos controlados, lo que me permitió validar funcionalidades de forma iterativa. Este proceso fortaleció mi comprensión del ciclo de vida del software y la importancia de la comunicación entre diseño y desarrollo para lograr productos usables, escalables y centrados en el usuario.
       </td>
       <td rowspan="5">
          <b>TB1:</b> El desarrollo completo de los capítulos 1 y 2 del proyecto uTime permitió al equipo consolidar conocimientos fundamentales en ingeniería de software. A través del análisis competitivo, entrevistas con usuarios y técnicas de needfinding, el equipo desarrolló competencias en investigación de mercado y análisis de requisitos. La implementación de metodologías Lean UX y Domain-Driven Design proporcionó una base sólida en diseño de software centrado en el usuario y arquitecturas escalables. La elaboración de diagramas C4, EventStorming y Context Mapping permitió al equipo dominar técnicas avanzadas de modelado de sistemas complejos, mientras que la especificación de requisitos mediante User Stories y Product Backlog consolidó las habilidades del equipo en metodologías ágiles. 
+         <br><b>TB2:</b> El desarrollo de los capítulos 3 y 4 del proyecto uTime permitió al equipo consolidar conocimientos avanzados en diseño de interfaces de usuario y implementación de software. A través del Capítulo 3 (Solution UI/UX Design), el equipo desarrolló competencias en Style Guidelines, Information Architecture, Landing Page UI Design y Mobile Applications Design, aplicando principios de usabilidad, accesibilidad y experiencia de usuario. El Capítulo 4 (Product Implementation, Validation) consolidó las habilidades del equipo en Software Configuration Management, implementación de Sprints con metodología Scrum, desarrollo de evidencia de ejecución, testing y deployment. La integración de wireframes, mockups, prototipos y la documentación técnica completa permitió al equipo dominar el ciclo completo de desarrollo de software, desde el diseño conceptual hasta la implementación y validación del producto final.
       </td>
     </tr>
     <tr>
@@ -359,13 +398,15 @@ Se explican las ramas más prominentes:
       <td rowspan="5">7.c2. Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de tecnologías de ingeniería de software</td>
       <td>
          <strong>Eduardo Gael Rivera Sosa</strong> <br>  
-        <b>TB1:</b> Durante el proyecto uTime, reconocí la importancia del aprendizaje continuo al enfrentar desafíos técnicos como el diseño de arquitecturas y la implementación de patrones DDD. La necesidad de mantenerme actualizado se evidenció al plantear como se trabajará con tecnologías emergentes en desarrollo móvil y al adaptarlas a las metodologías ágiles. <br> 
+        <b>TB1:</b> Durante el proyecto uTime, reconocí la importancia del aprendizaje continuo al enfrentar desafíos técnicos como el diseño de arquitecturas y la implementación de patrones DDD. La necesidad de mantenerme actualizado se evidenció al plantear como se trabajará con tecnologías emergentes en desarrollo móvil y al adaptarlas a las metodologías ágiles. <br>
+        <b>TB2:</b> Durante esta entrega, reconocí la necesidad del aprendizaje permanente al trabajar en la documentación técnica y presentación de evidencias de ejecución. Al desarrollar la sección "Execution Evidence for Sprint Review" que incluye Landing Page, Backend y Aplicación Móvil, así como Landing Page Wireframes y Mock-ups, identifiqué la importancia de mantenerme actualizado en técnicas de documentación de software y presentación de resultados técnicos para comunicar efectivamente el progreso del proyecto. 
          <strong>Jorge Suin Yum Gonzales:</strong> <br> 
          <b>TB1:</b>A lo largo de este avance reconocí la necesidad del aprendizaje permanente para sostener el ritmo del proyecto. Al abordar retos como modelar flujos de dominio, definir un Lenguaje Ubicuo compartido y diseñar el Bounded Context Profiles, identifiqué brechas que estoy cerrando mediante estudio autónomo, revisión de referencias y retroalimentación del equipo. Asimismo, me comprometí a mantenerme actualizado en prácticas de ingeniería de software y desarrollo móvil para aportar con mayor calidad en las siguientes iteraciones. <br>
          <b>TP:</b> Durante esta etapa reconocí la necesidad de mantener un aprendizaje constante para afrontar los retos del desarrollo móvil y del diseño de experiencias digitales. Al implementar las evidencias de despliegue y las vistas del Dashboard y Salon Details, identifiqué la importancia de seguir explorando buenas prácticas en integración de UI con backend, testing de interfaces y optimización de la experiencia del usuario. Además, comprendí que las herramientas y metodologías evolucionan rápidamente, por lo que resulta esencial actualizarse en frameworks, librerías y patrones de diseño. Este proceso reforzó mi compromiso con la mejora continua, entendiendo que el aprendizaje permanente es clave para adaptarse a las exigencias técnicas y de calidad que demanda la ingeniería de software moderna.
       </td>
       <td rowspan="5">
          <b>TB1:</b> La experiencia del TB1 demostró al equipo que el aprendizaje permanente es esencial en la ingeniería de software. Al trabajar con metodologías emergentes como Lean UX, Domain-Driven Design y arquitecturas, el equipo comprendió que las tecnologías evolucionan constantemente y requieren actualización continua. La investigación de competidores, el análisis de usuarios mediante entrevistas y la implementación de patrones de integración entre bounded contexts enseñaron al equipo la importancia de mantenerse al día con las mejores prácticas de la industria. Además, la colaboración en equipo y la retroalimentación de usuarios mostraron que el aprendizaje no se limita solo a aspectos técnicos, sino también al desarrollo de habilidades de comunicación, análisis de mercado y gestión de proyectos, fundamentales para el crecimiento profesional en el desarrollo de software.
+         <br><b>TB2:</b> La experiencia del TB2 reforzó la importancia del aprendizaje permanente en el desarrollo de software, especialmente en las áreas de diseño de interfaces y implementación de productos. Al trabajar en los capítulos 3 y 4, el equipo comprendió que el diseño de software requiere actualización constante en herramientas de prototipado, principios de UX/UI, metodologías ágiles como Scrum, y tecnologías de deployment. La implementación de wireframes, mockups, y la documentación técnica completa enseñaron al equipo que el aprendizaje continuo es crucial para mantenerse actualizado con las mejores prácticas de la industria en diseño centrado en el usuario, testing de software y gestión de configuración. Además, la colaboración en la implementación de Sprints y la validación de productos demostraron que el aprendizaje permanente abarca tanto aspectos técnicos como habilidades de documentación, presentación de evidencias y comunicación efectiva de resultados técnicos.
       </td>
     </tr>
     <tr>
@@ -561,20 +602,27 @@ A través de cualquier dispositivo móvil con conexión a internet y con la tecn
 
 Según Ochoa (2021), en una encuesta realizada en un salón de belleza llamado “Mónica Garcés”, el 80% de encuestados argumenta que no recibe una atención adecuada respecto a la reservación de citas a un salón de belleza. Asimismo, el 20% desconoce dicho proceso. Por lo general, se suelen comunicar mediante vía telefónica con la dueña del local, y no se logra llevar un control o manejo adecuado de horarios.
 
+*Figura 1: Eficacia del proceso de agendamiento de turnos*
 <div align="center">
 <img src="img/img.png" alt="dato_estadistico_1" />
 </div>
 
 De acuerdo a los salones de belleza que operan en Tegucigalpa, el 53,3% de las mujeres esperan ser atendidas por orden de llegada en salones de belleza. Sin embargo, en su mayoría estos servicios no cuentan con un servicio via web que les permita administrar sus servicios de forma eficiente.
 
+*Figura 2: Reservación de citas*
 <div align="center">
 <img src="img/img_1.png" alt="dato_estadistico_2" />
 </div>
 
 Según el salón de belleza "Giselle Spa" de La Molina (2021), se realizo una encuesta a 205 cliente respecto a la calidad de servicio que ofrece el salon de belleza se identifico que el 53,4% admiten que dicha calidad se manifiesta de forma regular, debido al poco interés que se percibe respecto a los cronogramas, comunicación activa y organización laboral.
 
+*Figura 3: Análisis descriptivo de la variable calidad de servicio*
 <div align="center">
 <img src="img/img_2.png" alt="dato_estadistico_3" />
+</div>
+
+*Figura 4: Análisis porcentual de la variable calidad de servicio*
+<div align="center">
 <img src="img/img_3.png" alt="dato_estadistico_4" />
 </div>
 
@@ -3137,8 +3185,270 @@ Pantalla móvil Your profile. Encabezado con acción Log out. Bloque de perfil c
 
 #### 3.1.4.2. Mobile Applications Wireflow Diagrams
 #### 3.1.4.3. Mobile Applications Mock-ups
+
+Los mockups definen el aspecto visual final de la aplicación, detallando los colores, tipografías y elementos gráficos para asegurar una experiencia de usuario atractiva y coherente con la identidad de la app.
+
+URL del Link de Figma: [Figma](https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME?node-id=160-7176&t=E1kC09GYRQ6JJkTE-1)
+
+**Vista de clientes de servicios de belleza**
+
+**Mockup 1 - Bienvenida:** Pantalla hero de inicio.
+
+<p align="center">
+   <img src="img/mockup_1.png" alt="Mockup 1" width="320">
+</p>
+
+**Mockup 2 - Inicio de sesión:** Formulario de login con enlace a registro.
+
+<p align="center">
+<img src="img/mockup_2.png" alt="Mockup 2" width="320">
+</p>
+
+**Mockup 3 - Registro** Formulario de registro.
+
+<p align="center">
+<img src="img/mockup_3.png" alt="Mockup 3" width="320">
+</p>
+
+<p align="center">
+<img src="img/mockup_3_1.png" alt="Mockup 3" width="320">
+</p>
+
+
+**Mockup 4 - Home:** Vista principal con tarjetas de negocios.
+<p align="center">
+<img src="img/mockup_4.png" alt="Mockup 4" width="320">
+</p>
+
+**Mockup 5 - Perfil de negocio(Servicios)** Información de servicios, reseñas y acerca de.
+<p align="center">
+<img src="img/mockup_5.png" alt="Mockup 5" width="320">
+</p>
+
+<p align="center">
+<img src="img/mockup_5_1.png" alt="Mockup 5" width="320">
+</p>
+
+<p align="center">
+<img src="img/mockup_5_2.png" alt="Mockup 5" width="320">
+</p>
+
+<p align="center">
+<img src="img/mockup_5_3.png" alt="Mockup 5" width="320">
+</p>
+
+**Mockup 6 - Selección de profesional** Listado de profesionales por servicio con rating.
+<p align="center">
+<img src="img/mockup_6.png" alt="Mockup 6" width="320">
+</p>
+
+**Mockup 7 - Selección de fecha y hora** Calendario con horarios disponibles.
+<p align="center">
+<img src="img/mockup_7.png" alt="Mockup 7" width="320">
+</p>
+
+**Mockup 8 - Checkout / Revisar y confirmar** Resumen de cita, método de pago y confirmación de cita.
+<p align="center">
+<img src="img/mockup_8.png" alt="Mockup 8" width="320">
+</p>
+
+**Mockup 9 - Mis citas (lista)** Sin citas, próximas e histórico con acciones rápidas.
+<p align="center">
+<img src="img/mockup_9.png" alt="Mockup 9" width="320">
+</p>
+
+<p align="center">
+<img src="img/mockup_9_1.png" alt="Mockup 9" width="320">
+</p>
+
+**Mockup 10 - Detalle de cita** Información completa y gestión (cambiar/cancelar).
+<p align="center">
+<img src="img/mockup_10.png" alt="Mockup 10" width="320">
+</p>
+
+<p align="center">
+<img src="img/mockup_10_1.png" alt="Mockup 10" width="320">
+</p>
+
+**Mockup 11 - Perfil de usuario** Información del usuario.
+<p align="center">
+<img src="img/mockup_11.png" alt="Mockup 11" width="320">
+</p>
+
+<p align="center">
+<img src="img/mockup_11_1.png" alt="Mockup 11" width="320">
+</p>
+
+**Mockup 12 - Seccion de favoritos** Lista de favoritos.
+<p align="center">
+<img src="img/mockup_12.png" alt="Mockup 12" width="320">
+</p>
+
+**Mockup 13 - Sección de idioma** Selección de idioma.
+<p align="center">
+<img src="img/mockup_13.png" alt="Mockup 13" width="320">
+</p>
+
+**Mockup 14 - Seccion de ajustes** Selección de preferencias de los ajustes.
+<p align="center">
+<img src="img/mockup_14.png" alt="Mockup 14" width="320">
+</p>
+
+**Mockup 15 - Sección de busqueda** Busqueda de salones de belleza.
+<p align="center">
+<img src="img/mockup_15.png" alt="Mockup 15" width="320">
+</p>
+
+
+
+**Vista de salones de belleza**
+
+**Mockup 1 - Bienvenida:** Pantalla hero de inicio.
+<p align="center">
+<img src="img/mockup-1.png" alt="Mockup 1" width="320">
+</p>
+
+**Mockup 2 - Inicio de sesión:** Formulario de login con enlace a registro.
+<p align="center">
+<img src="img/mockup-2.png" alt="Mockup 2" width="320">
+</p>
+
+**Mockup 3 - Registro** Formulario de registro.
+<p align="center">
+<img src="img/mockup-3.png" alt="Mockup 3" width="320">
+</p>
+
+**Mockup 4 - Menú principal de cuenta:** Accesos al calendario general, perfil del negocio, servicios, equipo.
+<p align="center">
+<img src="img/mockup-4.png" alt="Mockup 4" width="320">
+</p>
+
+**Mockup 5 - Calendario (Mes):** Vista mensual para planificación.
+<p align="center">
+<img src="img/mockup-5.png" alt="Mockup 5" width="320">
+</p>
+
+**Mockup 6 - Calendario (Semana):** Agenda por estilista con bloques de tiempo y estados.
+<p align="center">
+<img src="img/mockup-6.png" alt="Mockup 6" width="320">
+</p>
+
+**Mockup 7 - Calendario (Día):** Detalle de la agenda diaria para reprogramación rápida.
+<p align="center">
+<img src="img/mockup-7.png" alt="Mockup 7" width="320">
+</p>
+
+**Mockup 8 - Servicios (lista):** Tabla de servicios con nombre, duración, precio y estado.
+<p align="center">
+<img src="img/mockup-8.png" alt="Mockup 8" width="320">
+</p>
+
+**Mockup 9 - Nuevo servicio:** Formulario para crear un servicio con validaciones.
+<p align="center">
+<img src="img/mockup-9.png" alt="Mockup 9" width="320">
+</p>
+
+**Mockup 10 - Equipo (Agregar miembro):** Formulario para agregar un nuevo miembro
+<p align="center">
+<img src="img/mockup-10.png" alt="Mockup 10" width="320">
+</p>
+
+<p align="center">
+<img src="img/mockup-10-1.png" alt="Mockup 10" width="320">
+</p>
+
+
+**Mockup 11 - Equipo (Lista):** Tarjetas de miembros con acciones de editar/eliminar.
+<p align="center">
+<img src="img/mockup-11.png" alt="Mockup 11" width="320">
+</p>
+
+**Mockup 12 - Sección de perfil del negocio:** Accesos a información, notificaciones, ajustes y preferencias de la empresa
+<p align="center">
+<img src="img/mockup-12.png" alt="Mockup 12" width="320">
+</p>
+
+**Mockup 13 - Perfil del negocio:** Datos comerciales, horarios, dirección y "Sobre nosotros".
+<p align="center">
+<img src="img/mockup-13.png" alt="Mockup 13" width="320">
+</p>
+
+**Mockup 14 - Notificaciones:** Alertas de citas, reprogramaciones y avisos del plan.
+<p align="center">
+<img src="img/mockup-14.png" alt="Mockup 14" width="320">
+</p>
+
 #### 3.1.4.4. Mobile Applications User Flow Diagrams
+Los diagramas de flujo de usuario (user flow) mapean el camino completo que sigue una persona dentro de la aplicación, desde el principio hasta que alcanza su meta. Esto permite visualizar y entender las interacciones, pasos y decisiones cruciales en cada momento.
+
+URL del Link de Figma: [Figma](https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME?node-id=160-7176&t=E1kC09GYRQ6JJkTE-1)
+
+
+**Vista de clientes de servicios de belleza**
+
+**User flow 1 - Registro y login para clientes** 
+<p align="center">
+<img src="img/user_flow_1.png" alt="User Flow 1">
+</p>
+
+**User flow 2 - Sección de busqueda** 
+<p align="center">
+<img src="img/user_flow_2.png" alt="User Flow 2">
+</p>
+
+**User flow 3 - Sección de gestión de citas** 
+<p align="center">
+<img src="img/user_flow_3.png" alt="User Flow 3">
+</p>
+
+**User flow 4 - Sección de descubrir → seleccionar servicio → reservar** 
+<p align="center">
+<img src="img/user_flow_4.png" alt="User Flow 4">
+</p>
+
+**User flow 5 - Sección de información del perfil** 
+<p align="center">
+<img src="img/user_flow_5.png" alt="User Flow 5">
+</p>
+
+
+
+**Vista de salones de belleza**
+
+**User flow 1 - Registro y login para salones de belleza** 
+<p align="center">
+<img src="img/user-flow-1.png" alt="User Flow 1">
+</p>
+
+**User flow 2 - Sección de vista principal(Calendario)** 
+<p align="center">
+<img src="img/user-flow-2.png" alt="User Flow 2">
+</p>
+
+**User flow 3 - Sección de servicios** 
+<p align="center">
+<img src="img/user-flow-3.png" alt="User Flow 3">
+</p>
+
+**User flow 4 - Sección de equipo** 
+<p align="center">
+<img src="img/user-flow-4.png" alt="User Flow 4">
+</p>
+
+**User flow 5 - Sección de información del perfil** 
+<p align="center">
+<img src="img/user-flow-5.png" alt="User Flow 5">
+</p>
+
 #### 3.1.4.5. Mobile Applications Prototyping
+Creamos un prototipo de interacción real para que se pueda experimentar la aplicación en un entorno simulado antes de codificarla. Esta herramienta interactiva muestra el flujo exacto entre las pantallas y cómo reacciona cada elemento, lo que nos permite validar y optimizar la usabilidad.
+
+
+URL del prototipo en figma: [Prototipo en Figma]()
+
+URL del video: [Video del prototipo]()
+
+<img src="img/prototipo.png" alt="Prototipo">
 
 # Capítulo IV: Product Implementation, Validation
 ## 4.1. Software Configuration Management
@@ -3183,11 +3493,11 @@ Dentro del marco de trabajo Scrum, cada Sprint constituye un periodo de tiempo f
       <td colspan="1">Natalia Roman, Gael Rivera, Britney Qqueso, Luciana Choquehuanca y Jorge Yum</td>
    </tr>
    <tr>
-      <td colspan="1" align="center"><b>Sprint n - 1 Review Summary</b></td>
+      <td colspan="1" align="center"><b>Sprint 0 Review Summary</b></td>
       <td colspan="1">Al ser este el primer sprint, aún no se posee una revisión de un sprint previo</td>
    </tr>
    <tr>
-      <td colspan="1" align="center"><b>Sprint n - 1 Retrospective Summary</b></td>
+      <td colspan="1" align="center"><b>Sprint 0 Retrospective Summary</b></td>
       <td colspan="1">Al ser este el primer sprint, no podemos contar con una retroaliemtación previa. Puede mensionarse que se han tomado en cuenta los comentarios del profesor para mejorar el informe presentado anteriormente</td>
    </tr>
    <tr>
@@ -3199,11 +3509,11 @@ Dentro del marco de trabajo Scrum, cada Sprint constituye un periodo de tiempo f
    </tr>
    <tr>
       <td colspan="1" align="center"><b>Sprint 1 Velocity</b></td>
-      <td colspan="1">20</td>
+      <td colspan="1">50</td>
    </tr>
    <tr>
       <td colspan="1" align="center"><b>Sum of Story Points</b></td>
-      <td colspan="1">20</td>
+      <td colspan="1">50</td>
    </tr>
 </tr>
 </table>
@@ -3429,10 +3739,46 @@ Dentro del marco de trabajo Scrum, cada Sprint constituye un periodo de tiempo f
 
 
 #### 4.2.1.3. Development Evidence for Sprint Review
+A continuación, se presenta un detalle de los commits realizados, los cuales corresponden a las tareas asignadas a cada miembro del equipo, según lo establecido en el Sprint Backlog 1.
+
+Repositorio en github:[Repositorio](https://github.com/PaxTech-1807/Mobile-App)
+
+| Repository              | Branch  | Commit Id | Commit Message                       | Commited on (Date) |
+| ----------------------- | ------- | --------- | ------------------------------------ | ------------------ |
+| PaxTech-1807/Mobile-App | develop | 9f3a1c2   | chore: base android project          | 01/10/2025         |
+| PaxTech-1807/Mobile-App | develop | a12b4d8   | docs: add readme                     | 01/10/2025         |
+| PaxTech-1807/Mobile-App | develop | b7c9e21   | feat: US29 services layout           | 01/10/2025         |
+| PaxTech-1807/Mobile-App | develop | c34af90   | style: US29 services styles          | 01/10/2025         |
+| PaxTech-1807/Mobile-App | develop | d1e5ab3   | feat: US30 benefits copy + icons     | 02/10/2025         |
+| PaxTech-1807/Mobile-App | develop | e93bf12   | feat: US31 pricing content           | 02/10/2025         |
+| PaxTech-1807/Mobile-App | develop | f7a1cde   | feat: US31 pricing UI                | 02/10/2025         |
+| PaxTech-1807/Mobile-App | develop | 2fa93b0   | feat: TS06 responsive + a11y         | 03/10/2025         |
+| PaxTech-1807/Mobile-App | develop | 4a8c1e9   | feat: US32 testimonials component    | 03/10/2025         |
+| PaxTech-1807/Mobile-App | develop | 6c2e8bd   | feat: US33 CTAs + wiring             | 04/10/2025         |
+| PaxTech-1807/Mobile-App | develop | 9a4d7f2   | feat: US34 contact form + validation | 05/10/2025         |
+| PaxTech-1807/Mobile-App | main    | dfe1029   | merge: develop → main (sprint 1)     | 06/10/2025         |
 
 
 
 #### 4.2.1.4. Testing Suite Evidence for Sprint Review
+Se implementaron las pruebas de aceptación para las historias de usuario desarrolladas. Estas pruebas se definieron utilizando el lenguaje Gherkin.
+
+Repositorio de Acceptance Tests:[Repositorio](https://github.com/PaxTech-1807/Acceptance-Tests)
+
+
+| Repository                    | Branch | Commit Id   | Commit Message                                                                                                                             | Commited on (Date) |
+| ----------------------------- | ------ | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| PaxTech-1807/Acceptance-Tests | main   | **a91c2f3** | feat(tech-stories): add Gherkin features for **TS01–TS06** (security, realtime, validation, user registration/login)                       | 04/10/2025         |
+| PaxTech-1807/Acceptance-Tests | main   | **4fa7d9b** | feat(tech-stories): add Gherkin features for **TS07–TS12** (bookings, schedules, payments, subscriptions, notifications, providers)        | 04/10/2025         |
+| PaxTech-1807/Acceptance-Tests | main   | **c73e1a0** | feat(tech-stories): add Gherkin features for **TS13–TS18** (provider profile, workers, clients, reviews, services, users)                  | 05/10/2025         |
+| PaxTech-1807/Acceptance-Tests | main   | **d5b4e22** | feat(user-stories): add Gherkin features for **US01–US05** (sign-up, business register, login, recovery, customer profile)                 | 05/10/2025         |
+| PaxTech-1807/Acceptance-Tests | main   | **e8c6a1f** | feat(user-stories): add Gherkin features for **US06–US10** (business profile, logout, account deletion, schedule view/config)              | 05/10/2025         |
+| PaxTech-1807/Acceptance-Tests | main   | **79d2bb8** | feat(user-stories): add Gherkin features for **US11–US15** (subscription benefits/pricing/status, plan purchase, payment confirmation)     | 06/10/2025         |
+| PaxTech-1807/Acceptance-Tests | main   | **1abf7c4** | feat(user-stories): add Gherkin features for **US16–US20** (auto-renewal, booking create/list/modify/cancel)                               | 06/10/2025         |
+| PaxTech-1807/Acceptance-Tests | main   | **f0c934a** | feat(user-stories): add Gherkin features for **US21–US25** (booking history, services CRUD, workers, bank accounts, booking notifications) | 06/10/2025         |
+| PaxTech-1807/Acceptance-Tests | main   | **6d8e5a1** | feat(user-stories): add Gherkin features for **US26–US30** (renewal/payment alerts, channels, promos, landing: services/benefits)          | 06/10/2025         |
+| PaxTech-1807/Acceptance-Tests | main   | **b3f1c9d** | feat(user-stories): add Gherkin features for **US31–US35** (landing: pricing, testimonials, CTAs, contact/support, about us)               | 06/10/2025         |
+
 
 
 #### 4.2.1.5. Execution Evidence for Sprint Review
