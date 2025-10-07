@@ -1837,7 +1837,7 @@ Para los dos últimos pasos, hemos agregado los aggregates y terminado de defini
 **Bounded Context Iam**
 Contiene el aggregate Users
 
-<img src="img/new_event_stoming_50.png" alt="event storming image">
+<img src="img/IAM-CORRECION.png" alt="event storming image">
 
 **Bounded Context Profiles**
 Contiene los aggregates Clients y Providers
