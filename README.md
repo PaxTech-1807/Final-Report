@@ -130,7 +130,7 @@ Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió l
 | Britney Qqueso        |    Competidores, análisis competitivo, diseño, registro y análisis de entrevistas, Context Mapping, Bounded Context Workers          |
 | Gael Rivera           |    Entrevistas, User Stories, Technical Stories, Spike Stories, Impact Mapping, Product Backlog, Software Architecture Context, Container and Deployment Diagrams, Bounded Context IAM.  |
 | Natalia Roman         |      Entrevistas, Eventstorming, Candidate Context Discovery, Bounded Context Reservations        |
-| Jorge Yum             |      Entrevistas, Needfinding, Eventstorming, Domain Message Flow Modelling, Bounded context Profiles, Software deployment evidence for sprint review, desarrollo de client dashboard de aplicacion movil, Product Design        |
+| Jorge Yum             |      Entrevistas, Needfinding, Eventstorming, Domain Message Flow Modelling, Bounded context Profiles     |
 
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización PaxTech.
@@ -160,7 +160,7 @@ Se explican las ramas más prominentes:
 ![alt text](/img/image.png)
 ![alt text](/img/image-1.png)
 
-**TB2**
+**TP**
 
 Para el desarrollo del informe perteneciente a la entrega del TB2, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
 
@@ -171,7 +171,7 @@ Para el desarrollo del informe perteneciente a la entrega del TB2, se dividió l
 | Britney Qqueso        |            |
 | Gael Rivera           |    Execution Evidence for Sprint Review de la Landing Page, Backend y Aplicación Mobil, Landing Page Wireframe y Landing Page Mock-up.        |
 | Natalia Roman         |            |
-| Jorge Yum             |            |
+| Jorge Yum             |    Software deployment evidence for sprint review, desarrollo de client dashboard de aplicacion movil, Product Design           |
 
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización PaxTech.
