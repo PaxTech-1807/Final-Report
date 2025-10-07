@@ -3444,9 +3444,9 @@ URL del Link de Figma: [Figma](https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2E
 Creamos un prototipo de interacción real para que se pueda experimentar la aplicación en un entorno simulado antes de codificarla. Esta herramienta interactiva muestra el flujo exacto entre las pantallas y cómo reacciona cada elemento, lo que nos permite validar y optimizar la usabilidad.
 
 
-URL del prototipo en figma: [Prototipo en Figma]()
+URL del prototipo en figma: [Prototipo en Figma](https://www.figma.com/proto/2RXg2e7OWrAbqYfNcw2EVP/UTIME?node-id=1518-2275&p=f&t=w5uIq7OCFb3diwCL-1&scaling=min-zoom&content-scaling=fixed&page-id=160%3A7176&starting-point-node-id=1518%3A1475&show-proto-sidebar=1)
 
-URL del video: [Video del prototipo]()
+URL del video: [Video del prototipo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EcFArbpjlvpJtMeZDwlNHlgBLht6-cTXRJU5eH4hmwU8Jw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=AhQH5r)
 
 <img src="img/prototipo.png" alt="Prototipo">
 
