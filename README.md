@@ -4023,13 +4023,12 @@ Endpoints para gestión de imágenes de portafolio y sus relaciones con perfiles
 Esta API REST completa proporciona todas las funcionalidades necesarias para el funcionamiento integral de uTime, permitiendo la gestión de usuarios, servicios, reservas, pagos y todos los aspectos operativos de salones de belleza y barberías.
 
 
-
-
 **Mobile App**
 
 
 
 #### 4.2.1.6. Services Documentation Evidence for Sprint Review
+
 
 
 #### 4.2.1.7. Software Deployment Evidence for Sprint Review
@@ -4075,52 +4074,6 @@ Cabe mencionar que debido a que Render al ser un servicio gratuito , al acceder 
 | Yum Gonzales, Jorge Suin             | Implementación de pantallas de reserva de servicio |
 
 
-#### 4.3. Validation Interviews
-#### 4.3.1. Diseño de Entrevistas
-#### 4.3.2. Registro de Entrevistas
-#### 4.3.3. Evaluaciones según heurísticas
-## 4.4. Video About-the-Product
-#### 4.2.1.2. Sprint Backlog 1
-
-#### 4.2.1.3. Development Evidence for Sprint Review
-#### 4.2.1.4. Testing Suite Evidence for Sprint Review
-#### 4.2.1.5. Execution Evidence for Sprint Review
-#### 4.2.1.6. Services Documentation Evidence for Sprint Review
-#### 4.2.1.7. Software Deployment Evidence for Sprint Review
-
-**Landing Page:**
-
-Para la entrega del Sprint número 1, se desplegó la landing page completa en GitPage. Donde configuramos que la rama que tomará sera main que se encuentra en la carpeta docs, ya que seguimos una estructura de carpetas y archivos.
-
-![GitPage](img/GitHub-Pages.png)
-
-Enlace para acceder a la landing page: https://paxtech-1807.github.io/Landing-Page/
-
-**Backend:**
-Para realizar el deployment del backend de la aplicación, se empleó la plataforma Render temporalmente mientras se configura el FrontEnd de la aplicacion movil. Mas adelante se optara por hacer despliegue en un servicio de maquina virtual en la nube.
-
-En primer lugar, se compilo el spring boot usando maven y usando docker se construyó la imagen del proyecto.
-Esta imagen se subio al repositorio de Docker Hub. De esta manera desde el servicio de Render se puede acceder a la imagen y desplegarla con las variables de entorno necesarias.
-
-![Dockerfile](img/dockerhub.png)
-
-![Render Service](img/render.png)
-
-Se utiliza swagger para acceder a las endpoints:
-
-![Swagger](img/swagger.png)
-
-Finalmente, usando el servicio de Aiven, se desplego una base de datos MySql y se configuraron las variables de entorno en Render para que el backend pueda conectarse a la base de datos.
-
-![MySql on Aiven](img/aiven.png)
-
-URL del BackEnd Deployado: https://utime-web-service.onrender.com/swagger-ui/index.html
-
-Cabe mencionar que debido a que Render al ser un servicio gratuito , al acceder al URL del backend deployado, este puede demorar un aproximado de "50 segundos" en iniciar el servicio. Este problema no se presentara cuando se haga el despliegue en un servicio de maquina virtual en la nube.
-
-#### 4.2.1.8. Team Collaboration Insights during Sprint
-
-# Conclusiones
 
 ## Conclusiones y recomendaciones
 
