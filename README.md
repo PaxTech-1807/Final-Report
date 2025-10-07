@@ -4115,11 +4115,15 @@ Cabe mencionar que debido a que Render al ser un servicio gratuito , al acceder 
 
 ### Conclusiones
 
-1. Al haber finalizado la primera entrega del proyecto, hemos llegado a la conclusión de que es importante identificar correctamente aquello que el cliente necesita o lo que tiene más valor para este utilizando las técnicas adecuadas, como las son las entrevsitas y la investigación realizada en nuestro 5W2H. De esta manero, tenemos más claridad en cuanto a en qué aspecto debemos enfocarnos.
+1. Es importante identificar correctamente aquello que el cliente necesita o lo que tiene más valor para este utilizando las técnicas adecuadas, como las entrevistas y la investigación realizada en nuestro 5W2H. De esta manera, tenemos más claridad en cuanto a en qué aspecto debemos enfocarnos.
 
 2. Podemos concluir que el realizar un event storming e identificar correctamente los Bounded Contexts que serán necesarios en la solución es primordial dado que es así que se forma la base para comenzar a definir el espacio y orden en que se implementará la solución mediante una aplicación. Así, sabemos para que secuencias se cruzan los Bounded Contexts, repartimos las responsabilidades adecuadamente y evitamos llamar ciertos sectores innecesariamente.
 
 3. Concluimos que el planteamiento que hemos realizado corresponde congruentemente con la idea de aplicación que deseamos implementar como solución. Esto, dado que considera todos los aspectos que deben ser tratados dados los deseos de nustros segmentos objetivos, así como representa una división justa que nos permitirá desarrollar el producto mínimo viable en poco tiempo.
+
+4. A través del desarrollo del proyecto, concluimos que la implementación de Style Guidelines, Information Architecture y el diseño de wireframes y mockups es fundamental para crear una experiencia de usuario coherente y profesional. La definición clara de la identidad visual, sistemas de navegación y prototipos interactivos permitió validar la usabilidad antes de la implementación, reduciendo significativamente los riesgos de desarrollo.
+
+5. El desarrollo del proyecto demostró la importancia de seguir metodologías ágiles como Scrum para la implementación exitosa del software. La evidencia de ejecución, testing automatizado con Gherkin, y el deployment continuo validaron que la arquitectura diseñada es funcional y escalable, cumpliendo con los requisitos establecidos en las User Stories.
 
 ### Recomendaciones
 
@@ -4131,10 +4135,10 @@ Cabe mencionar que debido a que Render al ser un servicio gratuito , al acceder 
 
 4. **Documentar patrones de integración entre Bounded Contexts**: Aunque se identificaron los contextos y sus responsabilidades, se sugiere crear documentación detallada sobre cómo se comunicarán entre sí, incluyendo APIs, eventos de dominio y contratos de integración. Esto facilitará la implementación y evitará problemas de acoplamiento en fases posteriores del desarrollo.
 
+5. **Implementar testing de usabilidad con usuarios reales**: Aunque se desarrollaron wireframes, mockups y prototipos interactivos, se recomienda realizar sesiones de testing de usabilidad con usuarios reales del sector belleza para validar que la experiencia de usuario diseñada realmente cumple con sus expectativas y necesidades. Esto permitirá identificar oportunidades de mejora antes del lanzamiento final.
 
-## Video App Validation
-## Video About the Product
-## Video About the Team
+6. **Mejorar la conectividad entre la aplicación móvil y el backend**: Aunque se implementó un backend completo con API REST y se desarrollaron las pantallas móviles, se recomienda optimizar la integración real entre ambos componentes para que las funcionalidades de reserva, gestión de favoritos y perfil de usuario funcionen completamente en tiempo real. Esto incluye mejorar la sincronización de datos y la experiencia de usuario durante las operaciones de red.
+
 
 # Bibliografía
 
@@ -4170,17 +4174,18 @@ Verhoef, P. C., Broekhuizen, T., Bart, Y., Bhattacharya, A., Dong, J. Q., Fabian
 
 # Anexos
 
-URL de la Organizacion del repositorio en GitHub: 
-[Organización de Github PaxTech-1807](https://github.com/PaxTech-1807)
+URL de la Organizacion del repositorio en GitHub: https://github.com/PaxTech-1807
 
-URL del Repositorio del Reporte Final: [Final Proyect](https://github.com/PaxTech-1807/Final-Report)
+URL del Repositorio del Reporte Final: https://github.com/PaxTech-1807/Final-Report
 
-URL del Repositorio de la Landing Page: [Landing Page](https://github.com/PaxTech-1807/Landing-Page)
+URL del Repositorio de la Landing Page: https://github.com/PaxTech-1807/Landing-Page
 
-URL del Deployment de la Landing Page: [Landing Page Deployment](https://paxtech-1807.github.io/Landing-Page/)
+URL del Deployment de la Landing Page: https://paxtech-1807.github.io/Landing-Page/
 
-URL del Repositorio del Backend: [Web Services](https://github.com/PaxTech-1807/Web-Services)
+URL del Repositorio del Backend: https://github.com/PaxTech-1807/Web-Services
 
-URL del Repositorio del Mobile App: [Mobile App](https://github.com/PaxTech-1807/Mobile-App)
+URL del Repositorio del Mobile App: https://github.com/PaxTech-1807/Mobile-App
 
-URL Compilacion de primera ronda de Entrevistas: [Lista de Entrevistas Completa](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fLXfTL)
+URL Compilacion de primera ronda de Entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fLXfTL)
+
+URL del Figma con los Mockups y Wireframes de la Aplicación: https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME?node-id=160-7176&t=E17fyI5FpJlRybJg-1
