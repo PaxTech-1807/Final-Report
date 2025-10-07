@@ -3735,6 +3735,17 @@ Dentro del marco de trabajo Scrum, cada Sprint constituye un periodo de tiempo f
       <td>Luciana Choquehuanca</td>
       <td>Done</td>
    </tr>
+   <tr>
+      <td rowspan="3">US17</td>
+      <td rowspan="3">Selección de salón</td>
+      <td>T24</td>
+      <td>Diseño de interfaz de búsqueda</td>
+      <td>Crear la interfaz para buscar salones con filtros básicos</td>
+      <td>3</td>
+      <td>Jorge Suin Yum Gonzales</td>
+      <td>To-do</td>
+   </tr>
+   
 </table>
 
 
