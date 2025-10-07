@@ -1882,7 +1882,7 @@ Contiene el aggregate Services
 #### 2.5.1.3. Bounded Context Canvases
 
 #### IAM Bounded Context 
-<img src="img/IAM-boundedcanvas.png" alt="IAM-boundedcanvas">
+<img src="img/IAM-CORRECION.png" alt="IAM-boundedcanvas">
 
 #### Reservations Bounded Context
 <img src="img/reservations-boundedcanvas.png" alt="reservations-boundedcanvas">
