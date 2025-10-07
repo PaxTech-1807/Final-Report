@@ -168,7 +168,7 @@ Para el desarrollo del informe perteneciente a la entrega del TB2, se dividió l
 | Integrantes     | Tareas Asignadas                                                                                                                                                                  |
 |-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Luciana Choquehuanca  |            |
-| Britney Qqueso        |            |
+| Britney Qqueso        |    Diseño de la app en Figma, Mobile Applications Mock-ups, Mobile Applications User Flow Diagrams, Mobile Applications Prototyping, Testing Suite Evidence for Sprint Review y desarrollo de profile de la app.        |
 | Gael Rivera           |    Execution Evidence for Sprint Review de la Landing Page, Backend y Aplicación Mobil, Landing Page Wireframe y Landing Page Mock-up.        |
 | Natalia Roman         |            |
 | Jorge Yum             |    Software deployment evidence for sprint review, desarrollo de client dashboard de aplicacion movil, Product Design           |
@@ -389,6 +389,7 @@ Los integrantes son:
       <td>
       <strong>Britney Delhy Qqueso Rodriguez</strong> <br>  
          <b>TB1:</b> En esta entrega actualicé y apliqué conocimientos clave para el proyecto, realicé la identificación de competidores y el análisis competitivo, diseñé, registré y analicé entrevistas con usuarios, y trasladé esos hallazgos a artefactos de Domain-Driven Design como el Context Mapping y el Bounded Context Workers. Con estas actividades, pude usar lo que aprendí en el curso para tomar decisiones sobre la arquitectura del proyecto.
+         <b>TP:</b> En esta entrega actualicé y apliqué conocimientos relacionados con el diseño y desarrollo de aplicaciones móviles. Elaboré el diseño de la app en Figma, incluyendo los Mobile Applications Mock-ups, User Flow Diagrams y el prototipado interactivo, aplicando principios de usabilidad y experiencia de usuario (UX/UI). Además, integré prácticas de testing y validación mediante la sección Testing Suite Evidence for Sprint Review. Finalmente, desarrollé el módulo de perfil (Profile) de la aplicación.
       </td>
     </tr>
     <tr>
@@ -425,6 +426,7 @@ Los integrantes son:
       <td>
          <strong>Britney Delhy Qqueso Rodriguez</strong> <br>  
          <b>TB1:</b> En este avance reconocí la necesidad del aprendizaje continuo para continuar con el ritmo del proyecto. Al completar los puntos de competidores, entrevistas, context mapping y el modelado del Bounded Context Workers, identifiqué brechas (priorización de insights y patrones de integración) que estoy cerrando mediante estudio autónomo, revisión de referencias y retroalimentación del equipo. Me comprometo a mantenerme actualizada en DDD, investigación de la experiencia de usuarios y desarrollo móvil para elevar la calidad en las siguientes entregas.
+         <b>TP:</b> Durante esta entrega reafirmé la importancia del aprendizaje continuo al enfrentar nuevos retos en diseño de interfaces, prototipado funcional y desarrollo en Android Studio con Kotlin. Investigué sobre buenas prácticas en diseño responsivo, navegación con Jetpack Compose y pruebas de usabilidad, complementando el trabajo del equipo con soluciones actualizadas. Este proceso me permitió fortalecer mis competencias en desarrollo móvil y diseño centrado en el usuario, comprometiéndome a seguir perfeccionando mis habilidades técnicas y de diseño para lograr productos más completos e intuitivos.
       </td>
     </tr>
     <tr>
