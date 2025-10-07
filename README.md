@@ -3446,7 +3446,7 @@ Creamos un prototipo de interacción real para que se pueda experimentar la apli
 
 URL del prototipo en figma: [Prototipo en Figma](https://www.figma.com/proto/2RXg2e7OWrAbqYfNcw2EVP/UTIME?node-id=1518-2275&p=f&t=w5uIq7OCFb3diwCL-1&scaling=min-zoom&content-scaling=fixed&page-id=160%3A7176&starting-point-node-id=1518%3A1475&show-proto-sidebar=1)
 
-URL del video: [Video del prototipo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EcFArbpjlvpJtMeZDwlNHlgBLht6-cTXRJU5eH4hmwU8Jw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=AhQH5r)
+URL del video: [Video del prototipo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EUCzj5c18VdGvJxPX_m0NzcB_UOw9M2pYyfzjp6ukzwg8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Uqn5eM)
 
 <img src="img/prototipo.png" alt="Prototipo">
 
