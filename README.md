@@ -3761,6 +3761,42 @@ Dentro del marco de trabajo Scrum, cada Sprint constituye un periodo de tiempo f
       <td>Yum Gonzales, Jorge Suin</td>
       <td>In-Process</td>
    </tr>
+   <tr>
+      <td>T2</td>
+      <td>Desarrollo del método para registro de usuarios (POST /authentication/sign-up)</td>
+      <td>Implementar la funcionalidad para registrar nuevos usuarios en el sistema.</td>
+      <td>2</td>
+      <td>Yum Gonzales, Jorge Suin</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="2">TS18</td>
+      <td rowspan="2">Implementación de endpoints para gestión de perfiles de proveedores</td>
+      <td>T1</td>
+      <td>Desarrollo del método para visualizar perfil de proveedor (GET /providerProfile/{id})</td>
+      <td>Implementar la funcionalidad para consultar los datos de un perfil de proveedor específico mediante su identificador único.</td>
+      <td>1</td>
+      <td>Yum Gonzales, Jorge Suin</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T2</td>
+      <td>Desarrollo del método para registrar perfil de proveedor (POST /providerProfile)</td>
+      <td>Crear la funcionalidad que permita registrar un nuevo perfil de proveedor, validando los datos y almacenándolos en la base de datos.</td>
+      <td>2</td>
+      <td>Yum Gonzales, Jorge Suin</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="1">TS19</td>
+      <td rowspan="1">Conexión de endpoints con frontend móvil</td>
+      <td>T1</td>
+      <td>Integración de endpoints de Profiles con aplicación móvil</td>
+      <td>Conectar frontend móvil con `ClientsController`, `ProviderProfileController`, `ProvidersController` para mostrar perfiles e imágenes en la aplicación móvil</td>
+      <td>2</td>
+      <td>Yum Gonzales, Jorge Suin</td>
+      <td>Done</td>
+   </tr>
    
 </table>
 
