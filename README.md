@@ -162,8 +162,8 @@ Se explican las ramas más prominentes:
 
 **Capturas de la participación en el informe:**
 
-![tb1_imagen1](/img/image-1.png)
-![tb1_imagen2](/img/image.png)
+![tb1_imagen1](img/image-1.png)
+![tb1_imagen2](img/image.png)
 
 **TP**
 
@@ -198,8 +198,8 @@ Los integrantes son:
 
 **Capturas de la participación en el informe:**
 
-![tp1_imagen2](/img/insight_tp1_2.png)
-![tp1_image1](/img/insight_tp1_1.png)
+![tp1_imagen2](img/insight_tp1_2.png)
+![tp1_image1](img/insight_tp1_1.png)
 
 <br>
 
