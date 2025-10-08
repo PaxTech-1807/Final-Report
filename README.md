@@ -4071,7 +4071,7 @@ Este apartado presenta evidencias del módulo Frontend de UTime que demuestran c
 <img src="img/front-img2.png" alt="front img" />
 </div>
 
-) Módulo de “services” (Clean Architecture)
+3) Módulo de “services” (Clean Architecture)
 **Carpeta `data.service/`**
 - `ServiceDto`: DTO para intercambio con API.
 - `ServiceRemoteModule`: configuración de DI para servicios remotos (Retrofit/BaseApiService).
