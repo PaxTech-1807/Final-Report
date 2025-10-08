@@ -4041,9 +4041,98 @@ Esta API REST completa proporciona todas las funcionalidades necesarias para el 
 **Mobile App**
 
 
-
 #### 4.2.1.6. Services Documentation Evidence for Sprint Review
 
+Este apartado presenta evidencias del módulo Frontend de UTime que demuestran cómo se consumen y orquestan los servicios desde la capa de presentación.
+
+1) Módulo de autenticación y bienvenida
+- **login/**
+  - `LoginScreen.kt`: pantalla de inicio de sesión para usuarios existentes.
+- **register/**
+  - `RegisterScreen.kt`: registro de nuevos usuarios.
+  - `SuccessBusinessScreen.kt`: confirmación de registro para proveedor.
+  - `SuccessClientScreen.kt`: confirmación de registro para cliente.
+- **splash/**
+  - `SplashScreen.kt`: pantalla inicial; valida sesión/estado de la app.
+- **welcome/**
+  - `WelcomeScreen.kt`: bienvenida y rutas para iniciar sesión o registrarse.
+
+<div align="center">
+<img src="img/front-img.png" alt="front img" />
+</div>
+
+2) Módulo “home” (Jetpack Compose + MVVM)
+- `Home.kt`: pantalla principal tras el login; muestra salones, citas o accesos según rol.
+- `HomeViewModel`: maneja estado/datos de Home (salones, promos, etc.).
+- `SalonCard.kt`: composable reutilizable para tarjetas de salón (nombre, rating, acción “Book”).
+- `SalonDebugScreen.kt`: pantalla auxiliar para pruebas/render de componentes.
+  
+<div align="center">
+<img src="img/front-img2.png" alt="front img" />
+</div>
+
+) Módulo de “services” (Clean Architecture)
+**Carpeta `data.service/`**
+- `ServiceDto`: DTO para intercambio con API.
+- `ServiceRemoteModule`: configuración de DI para servicios remotos (Retrofit/BaseApiService).
+- `ServiceRepositoryImpl`: implementación del repositorio; orquesta fuentes de datos.
+- `ServiceService`: capa de red/cliente HTTP con operaciones de servicios.
+
+**Carpeta `domain/`**
+- `Provider`: entidad de proveedor.
+- `ProviderRepository`: contrato de acceso a datos de proveedor.
+- `Service`: entidad de servicio ofrecido (corte, manicure, etc.).
+- `ServiceRepository`: contrato de acceso a datos de servicios.
+- `ServicesRepositoryModule`: módulo DI que enlaza interfaces de `domain` con `data.service`.
+
+<div align="center">
+<img src="img/front-img3.png" alt="front img" />
+</div>
+
+
+A continuación, se presentan tres fragmentos de código que evidencian el uso e implementación de los servicios dentro del sistema Backend, abarcando desde la configuración de los endpoints, asi como la lógica de la estructura para los bounded context del negocio:
+
+### 1. Shared Bounded Context:
+
+<div align="center">
+<img src="img/Sharedboundedtb3.png" alt="Shared Bounded Context" />
+</div>
+
+### 2. IAM Bounded Context:
+
+<div align="center">
+<img src="img/IAMboundedtb3.png" alt="Shared Bounded Context" />
+</div>
+
+### 3. Workers Bounded Context:
+
+<div align="center">
+<img src="img/Workersboundedtb3.png" alt="Shared Bounded Context" />
+</div>
+
+### 4. Services Bounded Context:
+
+<div align="center">
+<img src="img/Servicesboundedtb3.png" alt="Shared Bounded Context" />
+</div>
+
+### 5. Reviews Bounded Context:
+
+<div align="center">
+<img src="img/Reviewsboundedtb3.png" alt="Shared Bounded Context" />
+</div>
+
+### 6. Rservation Bounded Context:
+
+<div align="center">
+<img src="img/Reservationboundedtb3.png" alt="Shared Bounded Context" />
+</div>
+
+### 7. Profile Bounded Context:
+
+<div align="center">
+<img src="img/Profileboundedtb3.png" alt="Shared Bounded Context" />
+</div>
 
 
 #### 4.2.1.7. Software Deployment Evidence for Sprint Review
