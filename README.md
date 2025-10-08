@@ -167,7 +167,7 @@ Para el desarrollo del informe perteneciente a la entrega del TB2, se dividió l
 
 | Integrantes     | Tareas Asignadas                                                                                                                                                                  |
 |-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Luciana Choquehuanca  |            |
+| Luciana Choquehuanca  |    Elaboración de la aplicacion movil fidelidad baja/wireframe, correción de bounded canvas, flujos de la aplicaciòn movil bassado en user goeals | 
 | Britney Qqueso        |    Diseño de la app en Figma, Mobile Applications Mock-ups, Mobile Applications User Flow Diagrams, Mobile Applications Prototyping, Testing Suite Evidence for Sprint Review y desarrollo de profile de la app.        |
 | Gael Rivera           |    Execution Evidence for Sprint Review de la Landing Page, Backend y Aplicación Mobil, Landing Page Wireframe y Landing Page Mock-up.        |
 | Natalia Roman         |    Diseño de la ventana de categorias y deb búsqueda de servicios, conexión con backend, Sprint Planning 1 y Software Configuration Management |
@@ -384,7 +384,7 @@ Los integrantes son:
       <td>
          <strong>Luciana Carolina Choquehuanca Nuñez</strong> <br>  
          <b>TB1:</b> Durante el desarrollo del proyecto uTime, actualicé mis conocimientos en metodologías de diseño UX/UI centradas en el usuario, profundizando en técnicas de research como análisis competitivo y entrevistas con usuarios objetivo del sector belleza. Consolidé conceptos de arquitectura de información y wireframing, aplicando principios de usabilidad y accesibilidad web. También actualicé mis habilidades en herramientas de prototipado y testing de aplicaciones móviles, integrando conceptos de psicología del usuario y design thinking para crear experiencias digitales optimizadas que complementen la arquitectura técnica desarrollada por el equipo. <br>
-         <b>TB2:</b> Durante esta entrega, actualicé mis conocimientos en documentación técnica y diseño de interfaces móviles. Elaboré el diseño base de la aplicación, incluyendo wireframes y la pantalla de reserva de servicios. Además, realicé mejoras en el Bounded Context Canvas, fortaleciendo la definición de límites del sistema. Esta experiencia me permitió consolidar conocimientos en usabilidad, accesibilidad, testing y presentación estructurada de evidencias técnicas, reforzando mis competencias en el desarrollo de soluciones centradas en el usuario.
+         <b>TP1:</b> Durante esta entrega, actualicé mis conocimientos en documentación técnica y diseño de interfaces móviles. Elaboré el diseño base de la aplicación, incluyendo wireframes y la pantalla de reserva de servicios. Además, realicé mejoras en el Bounded Context Canvas, fortaleciendo la definición de límites del sistema. Esta experiencia me permitió consolidar conocimientos en usabilidad, accesibilidad, testing y presentación estructurada de evidencias técnicas, reforzando mis competencias en el desarrollo de soluciones centradas en el usuario.
       </td>
     </tr>
     <tr>
@@ -421,7 +421,7 @@ Los integrantes son:
       <td>
          <strong>Luciana Carolina Choquehuanca Nuñez</strong> <br>  
          <b>TB1:</b> A lo largo de este avance reconocí la necesidad del aprendizaje permanente al enfrentar el desafío de crear experiencias de usuario que evolucionen con las tendencias del mercado de belleza y las expectativas cambiantes de los usuarios. La investigación continua sobre nuevas metodologías de UX research, herramientas de prototipado emergentes y técnicas de testing de usabilidad me demostró que el campo del diseño digital requiere actualización constante. Me comprometí a mantenerme al día con las mejores prácticas de diseño móvil, accesibilidad y métricas de experiencia de usuario para garantizar que las interfaces que diseñe cumplan con los más altos estándares de calidad y satisfacción del usuario final. <br>
-         <b>TB2:</b> Durante esta entrega reafirmé la importancia del aprendizaje permanente al enfrentar retos en documentación técnica, diseño móvil y testing de interfaces. Este proceso me impulsó a investigar continuamente sobre buenas prácticas de presentación de evidencias, accesibilidad, integración de herramientas y validación de la experiencia de usuario. Reconocí que el aprendizaje continuo es clave para adaptarme a nuevas tecnologías y mantener un enfoque profesional en el desarrollo de soluciones de software efectivas y actualizadas.
+         <b>TP1:</b> Durante esta entrega reafirmé la importancia del aprendizaje permanente al enfrentar retos en documentación técnica, diseño móvil y testing de interfaces. Este proceso me impulsó a investigar continuamente sobre buenas prácticas de presentación de evidencias, accesibilidad, integración de herramientas y validación de la experiencia de usuario. Reconocí que el aprendizaje continuo es clave para adaptarme a nuevas tecnologías y mantener un enfoque profesional en el desarrollo de soluciones de software efectivas y actualizadas.
       </td>
     </tr>
     <tr>
