@@ -3675,14 +3675,76 @@ Dentro del marco de trabajo Scrum, cada Sprint constituye un periodo de tiempo f
       <td>Done</td>
    </tr>
    <tr>
-      <td rowspan="3">US17</td>
-      <td rowspan="3">Selección de salón</td>
+      <td rowspan="1">US17</td>
+      <td rowspan="1">Selección de salón</td>
       <td>T24</td>
       <td>Diseño de interfaz de búsqueda</td>
       <td>Crear la interfaz para buscar salones con filtros básicos</td>
       <td>3</td>
       <td>Jorge Suin Yum Gonzales</td>
       <td>To-do</td>
+   </tr>
+   <tr>
+      <td rowspan="2">TS15</td>
+      <td rowspan="2">Implementación de endpoints para consulta de usuarios</td>
+      <td>T1</td>
+      <td>Desarrollo del método para listar todos los usuarios (GET /users)</td>
+      <td>Implementar la lógica en el controlador y servicio para recuperar la lista completa de usuarios registrados.</td>
+      <td>1</td>
+      <td>Yum Gonzales, Jorge Suin</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T2</td>
+      <td>Desarrollo del método para obtener usuario por ID (GET /users/{id})</td>
+      <td>Obtener usuario por ID.</td>
+      <td>1</td>
+      <td>Yum Gonzales, Jorge Suin</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="2">TS11</td>
+      <td rowspan="2">Implementación de endpoints para autenticación de usuarios</td>
+      <td>T1</td>
+      <td>Desarrollo del método para inicio de sesión (POST /authentication/sign-in)</td>
+      <td>Implementar la lógica necesaria para autenticar usuarios registrados mediante sus credenciales y retornar un token JWT válido.</td>
+      <td>2</td>
+      <td>Yum Gonzales, Jorge Suin</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T2</td>
+      <td>Desarrollo del método para registro de usuarios (POST /authentication/sign-up)</td>
+      <td>Implementar la funcionalidad para registrar nuevos usuarios en el sistema.</td>
+      <td>2</td>
+      <td>Yum Gonzales, Jorge Suin</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="3">TS16</td>
+      <td rowspan="3">Implementación de endpoints para gestión de reviews</td>
+      <td>T1</td>
+      <td>Desarrollo del método para listar todas las reviews (GET /reviews)</td>
+      <td>Implementar la lógica en el controlador y servicio para recuperar la lista completa de reseñas registradas.</td>
+      <td>1</td>
+      <td>Yum Gonzales, Jorge Suin</td>
+      <td>In-Process</td>
+   </tr>
+   <tr>
+      <td>T2</td>
+      <td>Desarrollo del método para registrar una nueva review (POST /reviews)</td>
+      <td>Crear la funcionalidad que permita registrar una nueva reseña, validando los datos y almacenándolos en la base de datos.</td>
+      <td>1</td>
+      <td>Yum Gonzales, Jorge Suin</td>
+      <td>In-Process</td>
+   </tr>
+   <tr>
+      <td>T3</td>
+      <td>Desarrollo del método para obtener review por ID (GET /reviews/{id})</td>
+      <td>Desarrollar la funcionalidad para consultar los datos de una reseña específica mediante su identificador único.</td>
+      <td>1</td>
+      <td>Yum Gonzales, Jorge Suin</td>
+      <td>In-Process</td>
    </tr>
    
 </table>
