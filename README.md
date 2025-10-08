@@ -3094,31 +3094,31 @@ Para el desarrollo de los wireframes y mockups de uTime, utilizaremos **Figma** 
 En esta sección se presentan los wireframes iniciales de la aplicación móvil. Estos bocetos permiten visualizar la estructura básica de las interfaces, con un diseño preliminar sencillo cuyo propósito es identificar los componentes clave de cada pantalla. Esta aproximación facilita la validación temprana del flujo de navegación y sienta las bases para desarrollar un diseño más detallado, coherente y centrado en el usuario.
 
 <p align="center">
-  <img src="img/img-1.png" alt="Mobile-1" width="320">
+  <img src="img/img-1.png" alt="Mobile-1" width="480">
 </p>
 <p align="center">
-  <img src="img/img-2.png" alt="Mobile-2" width="320">
+  <img src="img/img-2.png" alt="Mobile-2" width="480">
 </p>
 <p align="center">
-  <img src="img/IMG-3.png" alt="Mobile-3" width="320">
+  <img src="img/img-3.png" alt="Mobile-3" width="480">
 </p>
 <p align="center">
-  <img src="img/img-4.png" alt="Mobile-4" width="320">
+  <img src="img/img-4.png" alt="Mobile-4" width="480">
 </p>
 <p align="center">
-  <img src="img/img-5.png" alt="Mobile-5" width="320">
+  <img src="img/img-5.png" alt="Mobile-5" width="480">
 </p>
 <p align="center">
-  <img src="img/img-6.png" alt="Mobile-6" width="320">
+  <img src="img/img-6.png" alt="Mobile-6" width="480">
 </p>
 <p align="center">
-  <img src="img/img-7.png" alt="Mobile-7" width="320">
+  <img src="img/img-7.png" alt="Mobile-7" width="480">
 </p>
 <p align="center">
-  <img src="img/img-8.png" alt="Mobile-8" width="320">
+  <img src="img/img-8.png" alt="Mobile-8" width="480">
 </p>
 <p align="center">
-  <img src="img/img-9.png" alt="Mobile-9" width="320">
+  <img src="img/img-9.png" alt="Mobile-9" width="480">
 </p>
 
 
