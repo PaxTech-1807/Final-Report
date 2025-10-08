@@ -4040,6 +4040,115 @@ Esta API REST completa proporciona todas las funcionalidades necesarias para el 
 
 **Mobile App**
 
+### Flujo de Ejecución de la Aplicación Móvil
+
+La aplicación móvil uTime presenta un flujo de usuario intuitivo y bien estructurado que guía al usuario desde el primer contacto hasta la confirmación de su reserva:
+
+#### 1. **Pantalla de Bienvenida**
+- Presentación inicial con el logo "utime" en color púrpura característico
+- Mensaje de bienvenida y descripción de la funcionalidad de la app
+- Botón "Empezar" para iniciar la experiencia de usuario
+
+<div align="center">
+<img src="img/execution_movil_1.jpg" alt="Pantalla de Bienvenida" width="300"/>
+</div>
+
+#### 2. **Pantalla de Inicio de Sesión**
+- Formulario de login con campos de usuario y contraseña
+- Opciones de inicio de sesión con redes sociales (Apple, Google, Facebook)
+- Enlace para registro de nuevos usuarios
+
+<div align="center">
+<img src="img/execution_movil_2.jpg" alt="Pantalla de Inicio de Sesión" width="300"/>
+</div>
+
+#### 3. **Pantalla Principal (Home)**
+- Saludo personalizado al usuario
+- Secciones de "Recomendado" y "Tendencia" con servicios destacados
+- Sección "Visto recientemente" para facilitar reservas repetidas
+- Navegación inferior con Home, Services, Cart y Profile
+
+<div align="center">
+<img src="img/execution_movil_3.jpg" alt="Pantalla Principal Home" width="300"/>
+</div>
+
+#### 4. **Perfil del Salón - Servicios**
+- Información detallada del salón seleccionado
+- Imagen del profesional y datos de contacto
+- Lista de servicios disponibles con precios y duración
+- Botones "Reservar" para cada servicio
+
+<div align="center">
+<img src="img/execution_movil_4.jpg" alt="Perfil del Salón - Servicios" width="300"/>
+</div>
+
+#### 5. **Perfil del Salón - Reseñas**
+- Sistema de reseñas y calificaciones de clientes
+- Comentarios con sistema de estrellas
+- Información de confianza para el usuario
+
+<div align="center">
+<img src="img/execution_movil_5.jpg" alt="Perfil del Salón - Reseñas" width="300"/>
+</div>
+
+#### 6. **Perfil del Salón - Acerca de**
+- Información detallada del salón
+- Horarios de atención
+- Ubicación y datos de contacto
+
+<div align="center">
+<img src="img/execution_movil_6.jpg" alt="Perfil del Salón - Acerca de" width="300"/>
+</div>
+
+#### 7. **Selección de Profesional**
+- Lista de profesionales disponibles
+- Opción "Cualquier profesional" para flexibilidad
+- Resumen del servicio seleccionado (precio y duración)
+
+<div align="center">
+<img src="img/execution_movil_7.jpg" alt="Selección de Profesional" width="300"/>
+</div>
+
+#### 8. **Selección de Fecha y Hora**
+- Calendario interactivo para elegir fecha
+- Lista de horarios disponibles
+- Información del profesional seleccionado
+- Validación antes de continuar
+
+<div align="center">
+<img src="img/execution_movil_8.jpg" alt="Selección de Fecha y Hora" width="300"/>
+</div>
+
+#### 9. **Confirmación de Reserva**
+- Resumen completo de la reserva
+- Detalles del servicio, profesional, fecha y hora
+- Resumen de pago con total
+- Botón final de confirmación
+
+<div align="center">
+<img src="img/execution_movil_9.jpg" alt="Confirmación de Reserva" width="300"/>
+</div>
+
+#### 10. **Confirmación Exitosa**
+- Mensaje de confirmación con ícono de éxito
+- Detalles de la reserva confirmada
+- Opciones para volver al inicio o compartir la reserva
+
+<div align="center">
+<img src="img/execution_movil_10.jpg" alt="Confirmación Exitosa" width="300"/>
+</div>
+
+#### 11. **Categorías de Servicios**
+- Grid de categorías de servicios de belleza
+- Incluye: Maquillaje, Manicure, Barbería, Cuidado Facial, Masajes, etc.
+- Barra de búsqueda para facilitar la navegación
+
+<div align="center">
+<img src="img/execution_movil_11.jpg" alt="Categorías de Servicios" width="300"/>
+</div>
+
+Este flujo demuestra una experiencia de usuario fluida y completa, desde el descubrimiento hasta la confirmación de reservas, con una interfaz intuitiva y funcionalidades bien integradas.
+
 
 #### 4.2.1.6. Services Documentation Evidence for Sprint Review
 
