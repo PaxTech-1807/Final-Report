@@ -157,8 +157,8 @@ Se explican las ramas más prominentes:
 
 **Capturas de la participación en el informe:**
 
-![alt text](/img/image.png)
-![alt text](/img/image-1.png)
+![tb1_imagen1](/img/image.png)
+![tb1_imagen2](/img/image-1.png)
 
 **TP**
 
@@ -193,8 +193,8 @@ Los integrantes son:
 
 **Capturas de la participación en el informe:**
 
-![alt text](/img/insight_tp1_1.png)
-![alt text](/img/insight_tp1_2.png)
+![tp1_image1](/img/insight_tp1_1.png)
+![tp1_imagen2](/img/insight_tp1_2.png)
 
 <br>
 
@@ -1181,7 +1181,7 @@ Preguntas para el segmento objetivo 02
 - **Duración:** 20:43 minutos
 - **Screenshot del cuadro de video:** ![Entrevista Luis Fernando](img/Entrevista-1.png)
 
-- **URL del video (Microsoft Stream):** [Video Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ)
+- **URL del video (Microsoft Stream):** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ
 
 
 **Resumen:**
@@ -1198,7 +1198,7 @@ Luis Fernando Farfán es un barbero de Chiclayo que tiene 8 años de experiencia
 - **Duración:** 20:43 minutos
 - **Screenshot del cuadro de video:** ![Entrevista Maria Ysabel Sosa](img/Entrevista-2.png)
 
-- **URL del video (Microsoft Stream):** [Video Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ)
+- **URL del video (Microsoft Stream):** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ
 
 
 **Resumen:**
@@ -1213,7 +1213,7 @@ María Ysabel Sosa Rodríguez, de 45 años, es dueña de un salón de belleza y 
 - **Edad:** 20 años
 - **Distrito:** San Isidro
 - **Screenshot del cuadro de video:** *![interview_1.jpeg](img/Entrevista-3.png)*
-- **URL del video (Microsoft Stream):** [Video Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ)
+- **URL del video (Microsoft Stream):** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ
 - **Inicio de la entrevista:** 12:20 minutos
 - **Duración:** 20:43 minutos
 
@@ -1227,7 +1227,7 @@ María Ysabel Sosa Rodríguez, de 45 años, es dueña de un salón de belleza y 
 - **Edad:** 20
 - **Distrito:** Chorrillos
 - **Screenshot del cuadro de video:** *![interview_2.jpeg](img/Entrevista-4.png)*
-- **URL del video (Microsoft Stream):** [Video Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ)
+- **URL del video (Microsoft Stream):** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ
 - **Inicio de la entrevista:** 16:53 minutos
 - **Duración:** 20:43 minutos
 
@@ -1834,7 +1834,7 @@ Aquí, utilizamos la API de Stripe para que el pago de los servicios sea realiza
 ##### Step 9 & 10: Aggregates & Bounded Contexts
 
 Para los dos últimos pasos, hemos agregado los aggregates y terminado de definir los bounded contexts. A continuación, se mostrará cada Bounded context y se finalizará mostrando el resultado total. Para una mejor vista, se puede ingresar al siguiente enlace: 
-[Lucid Bounded Context Canvas](https://lucid.app/lucidspark/c6b278dc-6a8f-45dd-9c1b-f0455160b1f2/edit)
+https://lucid.app/lucidspark/c6b278dc-6a8f-45dd-9c1b-f0455160b1f2/edit
 
 **Bounded Context Iam**
 Contiene el aggregate Users
@@ -2955,6 +2955,7 @@ Incluye etiquetas principales como:
 #### 3.1.2.3. SEO Tags and Meta Tags
 Aplican únicamente a la landing page para su posicionamiento en buscadores:
 
+```
 <title>uTime - Servicio de agenda para barberos o estilistas</title>  
 <meta name="description" content="uTime es una plataforma que permite a los barberos y estilistas gestionar sus citas y horarios de manera eficiente.">  
 <meta http-equiv="Content-Language" content="es-ES">  
@@ -2962,6 +2963,7 @@ Aplican únicamente a la landing page para su posicionamiento en buscadores:
 <meta name="author" content="uTime Team">  
 <meta name="viewport" content="width=device-width, initial-scale=1.0">  
 <link rel="canonical" href="https://www.uTime.com/">  
+```
 
 #### 3.1.2.4. Searching Systems
 El sistema de búsqueda de uTime está diseñado para ofrecer una experiencia rápida, intuitiva y precisa tanto para los clientes como para los administradores de salones. A través de una barra de búsqueda ubicada en la parte superior de la interfaz, los usuarios pueden filtrar y encontrar fácilmente servicios, estilistas o salones según sus necesidades. El sistema admite búsquedas por palabras clave, como el tipo de servicio (ej. "corte de cabello", "alisado", "manicure"), nombre del estilista o incluso fechas disponibles. Además, puede complementarse con filtros avanzados, como ubicación, rango de precios, calificaciones o disponibilidad horaria, lo que permite a los usuarios personalizar su experiencia y encontrar rápidamente la mejor opción disponible. Esta funcionalidad mejora la eficiencia de la plataforma y contribuye a una mejor experiencia del cliente al reducir el tiempo de búsqueda y facilitar la toma de decisiones.
@@ -3141,7 +3143,7 @@ En esta sección se presentan los wireframes iniciales de la aplicación móvil.
 
 Los mockups definen el aspecto visual final de la aplicación, detallando los colores, tipografías y elementos gráficos para asegurar una experiencia de usuario atractiva y coherente con la identidad de la app.
 
-URL del Link de Figma: [Figma](https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME)
+URL del Link de Figma: https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME
 
 **Vista de clientes de servicios de belleza**
 
@@ -3334,7 +3336,7 @@ URL del Link de Figma: [Figma](https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2E
 #### 3.1.4.4. Mobile Applications User Flow Diagrams
 Los diagramas de flujo de usuario (user flow) mapean el camino completo que sigue una persona dentro de la aplicación, desde el principio hasta que alcanza su meta. Esto permite visualizar y entender las interacciones, pasos y decisiones cruciales en cada momento.
 
-URL del Link de Figma: [Diseño Figma](https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME)
+URL del Link de Figma: https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME
 
 
 **Vista de clientes de servicios de belleza**
@@ -3397,9 +3399,9 @@ URL del Link de Figma: [Diseño Figma](https://www.figma.com/design/2RXg2e7OWrAb
 Creamos un prototipo de interacción real para que se pueda experimentar la aplicación en un entorno simulado antes de codificarla. Esta herramienta interactiva muestra el flujo exacto entre las pantallas y cómo reacciona cada elemento, lo que nos permite validar y optimizar la usabilidad.
 
 
-URL del prototipo en figma: [Prototipo Figma](https://www.figma.com/proto/2RXg2e7OWrAbqYfNcw2EVP/UTIME)
+URL del prototipo en figma: https://www.figma.com/proto/2RXg2e7OWrAbqYfNcw2EVP/UTIME
 
-URL del video: [Video Prototipo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EUCzj5c18VdGvJxPX_m0NzcB_UOw9M2pYyfzjp6ukzwg8g)
+URL del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EUCzj5c18VdGvJxPX_m0NzcB_UOw9M2pYyfzjp6ukzwg8g
 
 <img src="img/prototipo.png" alt="Prototipo">
 
@@ -3883,9 +3885,11 @@ Dentro del marco de trabajo Scrum, cada Sprint constituye un periodo de tiempo f
 </table>
 
 #### 4.2.1.3. Development Evidence for Sprint Review
+
 A continuación, se presenta un detalle de los commits realizados, los cuales corresponden a las tareas asignadas a cada miembro del equipo, según lo establecido en el Sprint Backlog 1.
 
-Repositorio en github:[https://github.com/PaxTech-1807/Mobile-App](https://github.com/PaxTech-1807/Mobile-App)
+Repositorio en github: https://github.com/PaxTech-1807/Mobile-App
+
 
 | Repository              | Branch  | Commit Id | Commit Message                       | Commited on (Date) |
 | ----------------------- | ------- | --------- | ------------------------------------ | ------------------ |
@@ -3907,7 +3911,7 @@ Repositorio en github:[https://github.com/PaxTech-1807/Mobile-App](https://githu
 #### 4.2.1.4. Testing Suite Evidence for Sprint Review
 Se implementaron las pruebas de aceptación para las historias de usuario desarrolladas. Estas pruebas se definieron utilizando el lenguaje Gherkin.
 
-Repositorio de Acceptance Tests:[https://github.com/PaxTech-1807/Acceptance-Tests](https://github.com/PaxTech-1807/Acceptance-Tests)
+Repositorio de Acceptance Tests: https://github.com/PaxTech-1807/Acceptance-Tests
 
 
 | Repository                    | Branch | Commit Id   | Commit Message                                                                                                                             | Commited on (Date) |
@@ -4472,22 +4476,22 @@ Verhoef, P. C., Broekhuizen, T., Bart, Y., Bhattacharya, A., Dong, J. Q., Fabian
 
 # Anexos
 
-URL de la Organizacion del repositorio en GitHub: [https://github.com/PaxTech-1807](https://github.com/PaxTech-1807)
+URL de la Organizacion del repositorio en GitHub: https://github.com/PaxTech-1807
 
-URL del Repositorio del Reporte Final: [https://github.com/PaxTech-1807/Final-Report](https://github.com/PaxTech-1807/Final-Report)
+URL del Repositorio del Reporte Final: https://github.com/PaxTech-1807/Final-Report
 
-URL del Repositorio de la Landing Page: [https://github.com/PaxTech-1807/Landing-Page](https://github.com/PaxTech-1807/Landing-Page)
+URL del Repositorio de la Landing Page: https://github.com/PaxTech-1807/Landing-Page
 
-URL del Deployment de la Landing Page: [https://paxtech-1807.github.io/Landing-Page/](https://paxtech-1807.github.io/Landing-Page/)
+URL del Deployment de la Landing Page: https://paxtech-1807.github.io/Landing-Page/
 
-URL del Repositorio del Backend: [https://github.com/PaxTech-1807/Web-Services](https://github.com/PaxTech-1807/Web-Services)
+URL del Repositorio del Backend: https://github.com/PaxTech-1807/Web-Services
 
-URL del Deployment Deployado: [https://utime-web-service.onrender.com/swagger-ui/index.html](https://utime-web-service.onrender.com/swagger-ui/index.html)
+URL del Deployment Deployado: https://utime-web-service.onrender.com/swagger-ui/index.html
 
-Bounded Context Canavas: [https://lucid.app/lucidspark/b49d697e-a5a0-4eca-bcee-a9be27954927/edit](https://lucid.app/lucidspark/b49d697e-a5a0-4eca-bcee-a9be27954927/edit)
+Bounded Context Canavas: https://lucid.app/lucidspark/b49d697e-a5a0-4eca-bcee-a9be27954927/edit
 
-URL del Repositorio del Mobile App: [https://github.com/PaxTech-1807/Mobile-App](https://github.com/PaxTech-1807/Mobile-App)
+URL del Repositorio del Mobile App: https://github.com/PaxTech-1807/Mobile-App
 
-URL Compilacion de primera ronda de Entrevistas: [Video Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ)
+URL Compilacion de primera ronda de Entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ
 
-URL del Figma con los Mockups y Wireframes de la Aplicación: [Figma Mockups](https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME)
+URL del Figma con los Mockups y Wireframes de la Aplicación: https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME
