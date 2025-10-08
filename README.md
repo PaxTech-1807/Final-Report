@@ -3123,6 +3123,21 @@ En esta sección se presentan los wireframes iniciales de la aplicación móvil.
 
 
 #### 3.1.4.2. Mobile Applications Wireflow Diagrams
+
+**Segmento objetivo #1: Salones de belleza y barberías**
+* **User Goal:** Como propietario de un salón, quiero gestionar las reservas de clientes de manera eficiente para optimizar mi tiempo y brindar un buen servicio.
+* Task flow:
+<div align="center">
+<img src="img/wireflow1.jpeg" alt="wireflow_salones" width="450" />
+</div>
+
+**Segmento objetivo #1: Clientes de servicios de belleza**
+* **User Goal:** Como cliente de un salón, quiero agendar mi cita rápidamente con mi estilista de confianza para asegurarme de ser atendido a tiempo.
+* Task flow:
+<div align="center">
+<img src="img/wireflow2.jpeg" alt="wireflow_clientes" width="450" />
+</div>
+
 #### 3.1.4.3. Mobile Applications Mock-ups
 
 Los mockups definen el aspecto visual final de la aplicación, detallando los colores, tipografías y elementos gráficos para asegurar una experiencia de usuario atractiva y coherente con la identidad de la app.
