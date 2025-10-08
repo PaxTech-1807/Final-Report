@@ -363,21 +363,21 @@ Los integrantes son:
       <td>
          <strong>Eduardo Gael Rivera Sosa</strong> <br>  
          <b>TB1:</b> Durante el proyecto uTime, actualicé mis conocimientos en Domain-Driven Design (DDD), arquitectura de software con modelo C4, y patrones de integración. Profundicé en el diseño del Bounded Context IAM con conceptos de autenticación y autorización, y en la creación de diagramas de arquitectura (Context, Container y Deployment). También actualicé mis habilidades en especificación de requisitos mediante User Stories, Technical Stories y Spike Stories, y en técnicas ágiles como Impact Mapping y Product Backlog. <br> 
-         <b>TB2:</b> Durante esta entrega, actualicé mis conocimientos en documentación técnica y presentación de evidencias de ejecución. Trabajé en la elaboración de la sección "Execution Evidence for Sprint Review" que incluye la documentación completa de la Landing Page, Backend y Aplicación Móvil, así como en el desarrollo de Landing Page Wireframes y Mock-ups. Esta experiencia me permitió consolidar habilidades en documentación de proyectos de software y presentación de resultados técnicos de manera profesional y estructurada. <br>
+         <b>TP1:</b> Durante esta entrega, actualicé mis conocimientos en documentación técnica y presentación de evidencias de ejecución. Trabajé en la elaboración de la sección "Execution Evidence for Sprint Review" que incluye la documentación completa de la Landing Page, Backend y Aplicación Móvil, así como en el desarrollo de Landing Page Wireframes y Mock-ups. Esta experiencia me permitió consolidar habilidades en documentación de proyectos de software y presentación de resultados técnicos de manera profesional y estructurada. <br>
          <strong>Jorge Suin Yum Gonzales:</strong> <br> 
          <b>TB1:</b> Durante este primer avance, actualicé y profundicé en conceptos clave como Needfinding, Ubiquitous Language y Domain Message Flow Modeling. Además, realicé entrevistas y trabajé el EventStorming para identificar eventos, comandos y políticas del dominio. Diseñé la estructura del Bounded Context Profiles y definí su rol e interacciones dentro de los distintos procesos de la aplicación móvil a desarrollar. <br>
          <b>TP:</b> Durante el desarrollo del proyecto uTime, actualicé y profundicé mis conocimientos en diseño de interfaces y despliegue de software, abordando tareas relacionadas con el Dashboard, las vistas de detalle de salones y la preparación del Sprint Review. En el ámbito de UI/UX Design, apliqué principios de arquitectura de información, navegación y sistemas de etiquetado, asegurando la coherencia visual y funcional entre las distintas pantallas. Asimismo, reforcé mis habilidades en integración continua y despliegue mediante entornos controlados, lo que me permitió validar funcionalidades de forma iterativa. Este proceso fortaleció mi comprensión del ciclo de vida del software y la importancia de la comunicación entre diseño y desarrollo para lograr productos usables, escalables y centrados en el usuario.
       </td>
       <td rowspan="5">
          <b>TB1:</b> El desarrollo completo de los capítulos 1 y 2 del proyecto uTime permitió al equipo consolidar conocimientos fundamentales en ingeniería de software. A través del análisis competitivo, entrevistas con usuarios y técnicas de needfinding, el equipo desarrolló competencias en investigación de mercado y análisis de requisitos. La implementación de metodologías Lean UX y Domain-Driven Design proporcionó una base sólida en diseño de software centrado en el usuario y arquitecturas escalables. La elaboración de diagramas C4, EventStorming y Context Mapping permitió al equipo dominar técnicas avanzadas de modelado de sistemas complejos, mientras que la especificación de requisitos mediante User Stories y Product Backlog consolidó las habilidades del equipo en metodologías ágiles. 
-         <br><b>TB2:</b> El desarrollo de los capítulos 3 y 4 del proyecto uTime permitió al equipo consolidar conocimientos avanzados en diseño de interfaces de usuario y implementación de software. A través del Capítulo 3 (Solution UI/UX Design), el equipo desarrolló competencias en Style Guidelines, Information Architecture, Landing Page UI Design y Mobile Applications Design, aplicando principios de usabilidad, accesibilidad y experiencia de usuario. El Capítulo 4 (Product Implementation, Validation) consolidó las habilidades del equipo en Software Configuration Management, implementación de Sprints con metodología Scrum, desarrollo de evidencia de ejecución, testing y deployment. La integración de wireframes, mockups, prototipos y la documentación técnica completa permitió al equipo dominar el ciclo completo de desarrollo de software, desde el diseño conceptual hasta la implementación y validación del producto final.
+         <br><b>TP1:</b> El desarrollo de los capítulos 3 y 4 del proyecto uTime permitió al equipo consolidar conocimientos avanzados en diseño de interfaces de usuario y implementación de software. A través del Capítulo 3 (Solution UI/UX Design), el equipo desarrolló competencias en Style Guidelines, Information Architecture, Landing Page UI Design y Mobile Applications Design, aplicando principios de usabilidad, accesibilidad y experiencia de usuario. El Capítulo 4 (Product Implementation, Validation) consolidó las habilidades del equipo en Software Configuration Management, implementación de Sprints con metodología Scrum, desarrollo de evidencia de ejecución, testing y deployment. La integración de wireframes, mockups, prototipos y la documentación técnica completa permitió al equipo dominar el ciclo completo de desarrollo de software, desde el diseño conceptual hasta la implementación y validación del producto final.
       </td>
     </tr>
     <tr>
       <td>
          <strong>Natalia Bertha Roman Cruz</strong> <br>  
          <b>TB1:</b> Durante el desarrollo del proyecto, pude recordar los conceptos aprendidos en cursos anteriores, los cuales incluyen patrones de softwares, modelamiento siguiendo Domain Driven Design y aplicación de Lean UX para identificación de requisitos. Al investigar más sobre las técnicas mencionadas y consultar en cuanto a conceptos en clase, pude expandir mis concomientos y comprender mejor lo que implica cada caso, de forma que ahora puedo aplicar estos conceptos de forma más eficiente.
-         <br><b>TP:</b> Para el desarrollo de la segunda parte del proyecto, se recordaron los conocimientos adquiridos desde la primera semana del curso para comenzar a trabajar en la implementación de nuestra primera aplicación móvil. En ese sentido, buscamos más información en cuanto Android Studio para ampliar nuestros conocimientos y conseguir un mejor resultado. De la misma manera, acudimos a lectura y ejemplos de arquitectura limpia para mantener el orden en el front a desarrollar, pero también al modificar nuestro backend.
+         <br><b>TP1:</b> Para el desarrollo de la segunda parte del proyecto, se recordaron los conocimientos adquiridos desde la primera semana del curso para comenzar a trabajar en la implementación de nuestra primera aplicación móvil. En ese sentido, buscamos más información en cuanto Android Studio para ampliar nuestros conocimientos y conseguir un mejor resultado. De la misma manera, acudimos a lectura y ejemplos de arquitectura limpia para mantener el orden en el front a desarrollar, pero también al modificar nuestro backend.
       </td>
     </tr>
     <tr>
@@ -391,7 +391,7 @@ Los integrantes son:
       <td>
         <strong>Britney Delhy Qqueso Rodriguez</strong> <br>  
          <b>TB1:</b> En esta entrega actualicé y apliqué conocimientos clave para el proyecto, realicé la identificación de competidores y el análisis competitivo, diseñé, registré y analicé entrevistas con usuarios, y trasladé esos hallazgos a artefactos de Domain-Driven Design como el Context Mapping y el Bounded Context Workers. Con estas actividades, pude usar lo que aprendí en el curso para tomar decisiones sobre la arquitectura del proyecto. <br>
-         <b>TP:</b> En esta entrega actualicé y apliqué conocimientos relacionados con el diseño y desarrollo de aplicaciones móviles. Elaboré el diseño de la app en Figma, incluyendo los Mobile Applications Mock-ups, User Flow Diagrams y el prototipado interactivo, aplicando principios de usabilidad y experiencia de usuario (UX/UI). Además, integré prácticas de testing y validación mediante la sección Testing Suite Evidence for Sprint Review. Finalmente, desarrollé el módulo de perfil (Profile) de la aplicación.
+         <b>TP1:</b> En esta entrega actualicé y apliqué conocimientos relacionados con el diseño y desarrollo de aplicaciones móviles. Elaboré el diseño de la app en Figma, incluyendo los Mobile Applications Mock-ups, User Flow Diagrams y el prototipado interactivo, aplicando principios de usabilidad y experiencia de usuario (UX/UI). Además, integré prácticas de testing y validación mediante la sección Testing Suite Evidence for Sprint Review. Finalmente, desarrollé el módulo de perfil (Profile) de la aplicación.
       </td>
     </tr>
     <tr><td></td></tr>
@@ -400,21 +400,21 @@ Los integrantes son:
       <td>
          <strong>Eduardo Gael Rivera Sosa</strong> <br>  
          <b>TB1:</b> Durante el proyecto uTime, reconocí la importancia del aprendizaje continuo al enfrentar desafíos técnicos como el diseño de arquitecturas y la implementación de patrones DDD. La necesidad de mantenerme actualizado se evidenció al plantear como se trabajará con tecnologías emergentes en desarrollo móvil y al adaptarlas a las metodologías ágiles. <br>
-         <b>TB2:</b> Durante esta entrega, reconocí la necesidad del aprendizaje permanente al trabajar en la documentación técnica y presentación de evidencias de ejecución. Al desarrollar la sección "Execution Evidence for Sprint Review" que incluye Landing Page, Backend y Aplicación Móvil, así como Landing Page Wireframes y Mock-ups, identifiqué la importancia de mantenerme actualizado en técnicas de documentación de software y presentación de resultados técnicos para comunicar efectivamente el progreso del proyecto. <br>
+         <b>TP1:</b> Durante esta entrega, reconocí la necesidad del aprendizaje permanente al trabajar en la documentación técnica y presentación de evidencias de ejecución. Al desarrollar la sección "Execution Evidence for Sprint Review" que incluye Landing Page, Backend y Aplicación Móvil, así como Landing Page Wireframes y Mock-ups, identifiqué la importancia de mantenerme actualizado en técnicas de documentación de software y presentación de resultados técnicos para comunicar efectivamente el progreso del proyecto. <br>
          <strong>Jorge Suin Yum Gonzales:</strong> <br> 
          <b>TB1:</b> A lo largo de este avance reconocí la necesidad del aprendizaje permanente para sostener el ritmo del proyecto. Al abordar retos como modelar flujos de dominio, definir un Lenguaje Ubicuo compartido y diseñar el Bounded Context Profiles, identifiqué brechas que estoy cerrando mediante estudio autónomo, revisión de referencias y retroalimentación del equipo. Asimismo, me comprometí a mantenerme actualizado en prácticas de ingeniería de software y desarrollo móvil para aportar con mayor calidad en las siguientes iteraciones. <br>
-         <b>TP:</b> Durante esta etapa reconocí la necesidad de mantener un aprendizaje constante para afrontar los retos del desarrollo móvil y del diseño de experiencias digitales. Al implementar las evidencias de despliegue y las vistas del Dashboard y Salon Details, identifiqué la importancia de seguir explorando buenas prácticas en integración de UI con backend, testing de interfaces y optimización de la experiencia del usuario. Además, comprendí que las herramientas y metodologías evolucionan rápidamente, por lo que resulta esencial actualizarse en frameworks, librerías y patrones de diseño. Este proceso reforzó mi compromiso con la mejora continua, entendiendo que el aprendizaje permanente es clave para adaptarse a las exigencias técnicas y de calidad que demanda la ingeniería de software moderna.
+         <b>TP1:</b> Durante esta etapa reconocí la necesidad de mantener un aprendizaje constante para afrontar los retos del desarrollo móvil y del diseño de experiencias digitales. Al implementar las evidencias de despliegue y las vistas del Dashboard y Salon Details, identifiqué la importancia de seguir explorando buenas prácticas en integración de UI con backend, testing de interfaces y optimización de la experiencia del usuario. Además, comprendí que las herramientas y metodologías evolucionan rápidamente, por lo que resulta esencial actualizarse en frameworks, librerías y patrones de diseño. Este proceso reforzó mi compromiso con la mejora continua, entendiendo que el aprendizaje permanente es clave para adaptarse a las exigencias técnicas y de calidad que demanda la ingeniería de software moderna.
       </td>
       <td rowspan="5">
          <b>TB1:</b> La experiencia del TB1 demostró al equipo que el aprendizaje permanente es esencial en la ingeniería de software. Al trabajar con metodologías emergentes como Lean UX, Domain-Driven Design y arquitecturas, el equipo comprendió que las tecnologías evolucionan constantemente y requieren actualización continua. La investigación de competidores, el análisis de usuarios mediante entrevistas y la implementación de patrones de integración entre bounded contexts enseñaron al equipo la importancia de mantenerse al día con las mejores prácticas de la industria. Además, la colaboración en equipo y la retroalimentación de usuarios mostraron que el aprendizaje no se limita solo a aspectos técnicos, sino también al desarrollo de habilidades de comunicación, análisis de mercado y gestión de proyectos, fundamentales para el crecimiento profesional en el desarrollo de software.
-         <br><b>TB2:</b> La experiencia del TB2 reforzó la importancia del aprendizaje permanente en el desarrollo de software, especialmente en las áreas de diseño de interfaces y implementación de productos. Al trabajar en los capítulos 3 y 4, el equipo comprendió que el diseño de software requiere actualización constante en herramientas de prototipado, principios de UX/UI, metodologías ágiles como Scrum, y tecnologías de deployment. La implementación de wireframes, mockups, y la documentación técnica completa enseñaron al equipo que el aprendizaje continuo es crucial para mantenerse actualizado con las mejores prácticas de la industria en diseño centrado en el usuario, testing de software y gestión de configuración. Además, la colaboración en la implementación de Sprints y la validación de productos demostraron que el aprendizaje permanente abarca tanto aspectos técnicos como habilidades de documentación, presentación de evidencias y comunicación efectiva de resultados técnicos.
+         <br><b>TP1:</b> La experiencia del TB2 reforzó la importancia del aprendizaje permanente en el desarrollo de software, especialmente en las áreas de diseño de interfaces y implementación de productos. Al trabajar en los capítulos 3 y 4, el equipo comprendió que el diseño de software requiere actualización constante en herramientas de prototipado, principios de UX/UI, metodologías ágiles como Scrum, y tecnologías de deployment. La implementación de wireframes, mockups, y la documentación técnica completa enseñaron al equipo que el aprendizaje continuo es crucial para mantenerse actualizado con las mejores prácticas de la industria en diseño centrado en el usuario, testing de software y gestión de configuración. Además, la colaboración en la implementación de Sprints y la validación de productos demostraron que el aprendizaje permanente abarca tanto aspectos técnicos como habilidades de documentación, presentación de evidencias y comunicación efectiva de resultados técnicos.
       </td>
     </tr>
     <tr>
       <td>
          <strong>Natalia Bertha Roman Cruz</strong> <br>  
          <b>TB1:</b> Al desarrollar la primera entrega del presente proyecto, pude notar la importancia de continuar con el aprendizaje contínuo tanto dentro de las sesiones de clases y con el material adjunto, como de forma autónoma de forma que el enfrentar nuevos retos o plasmar ideas innovadoras se vuelva más sencillo con la práctica y la base adecuada.
-         <br><b>TP:</b> Al concluir con el segundo avance del proyecto se puede notar que es necesairo continuar investigando en cuanto a las nuevas herramientas a utilizar para poder hacer un desarrollo más rápido y dinámico. Asimismo, se deben revisar las metodologías a aplicar, de forma que estás no sean un retraso en la implementación, sino un apoyo para mantener el código limpio, ordenado y comprensible para cualquier miembre del equipo.
+         <br><b>TP1:</b> Al concluir con el segundo avance del proyecto se puede notar que es necesairo continuar investigando en cuanto a las nuevas herramientas a utilizar para poder hacer un desarrollo más rápido y dinámico. Asimismo, se deben revisar las metodologías a aplicar, de forma que estás no sean un retraso en la implementación, sino un apoyo para mantener el código limpio, ordenado y comprensible para cualquier miembre del equipo.
       </td>
     </tr>
     <tr>
@@ -428,7 +428,7 @@ Los integrantes son:
       <td>
          <strong>Britney Delhy Qqueso Rodriguez</strong> <br>  
          <b>TB1:</b> En este avance reconocí la necesidad del aprendizaje continuo para continuar con el ritmo del proyecto. Al completar los puntos de competidores, entrevistas, context mapping y el modelado del Bounded Context Workers, identifiqué brechas (priorización de insights y patrones de integración) que estoy cerrando mediante estudio autónomo, revisión de referencias y retroalimentación del equipo. Me comprometo a mantenerme actualizada en DDD, investigación de la experiencia de usuarios y desarrollo móvil para elevar la calidad en las siguientes entregas. <br>
-         <b>TP:</b> Durante esta entrega reafirmé la importancia del aprendizaje continuo al enfrentar nuevos retos en diseño de interfaces, prototipado funcional y desarrollo en Android Studio con Kotlin. Investigué sobre buenas prácticas en diseño responsivo, navegación con Jetpack Compose y pruebas de usabilidad, complementando el trabajo del equipo con soluciones actualizadas. Este proceso me permitió fortalecer mis competencias en desarrollo móvil y diseño centrado en el usuario, comprometiéndome a seguir perfeccionando mis habilidades técnicas y de diseño para lograr productos más completos e intuitivos.
+         <b>TP1:</b> Durante esta entrega reafirmé la importancia del aprendizaje continuo al enfrentar nuevos retos en diseño de interfaces, prototipado funcional y desarrollo en Android Studio con Kotlin. Investigué sobre buenas prácticas en diseño responsivo, navegación con Jetpack Compose y pruebas de usabilidad, complementando el trabajo del equipo con soluciones actualizadas. Este proceso me permitió fortalecer mis competencias en desarrollo móvil y diseño centrado en el usuario, comprometiéndome a seguir perfeccionando mis habilidades técnicas y de diseño para lograr productos más completos e intuitivos.
       </td>
     </tr>
     <tr><td></td></tr>
@@ -747,7 +747,7 @@ El análisis competitivo es una herramienta clave para la toma de decisiones est
     <th colspan="2" align="center">Nombre y logo</th>
     <td colspan="1" align="center">
     <p><b>uTime</b></p>
-    <img src="https://i.imgur.com/imQZJ60.png" alt="uTime Logo" width="80">
+    <img src="./img/uTime.png" alt="uTime Logo" width="80">
     </td>
     <td colspan="1" align="center">
     <p><b>Salon Pro</b></p>
@@ -1182,7 +1182,7 @@ Preguntas para el segmento objetivo 02
 - **Duración:** 20:43 minutos
 - **Screenshot del cuadro de video:** ![Entrevista Luis Fernando](img/Entrevista-1.png)
 
-- **URL del video (Microsoft Stream):** *[Entrevista 01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fLXfTL)*
+- **URL del video (Microsoft Stream):** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fLXfTL
 
 
 **Resumen:**
@@ -1199,7 +1199,7 @@ Luis Fernando Farfán es un barbero de Chiclayo que tiene 8 años de experiencia
 - **Duración:** 20:43 minutos
 - **Screenshot del cuadro de video:** ![Entrevista Maria Ysabel Sosa](img/Entrevista-2.png)
 
-- **URL del video (Microsoft Stream):** *[Entrevista 02](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fLXfTL)*
+- **URL del video (Microsoft Stream):** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fLXfTL
 
 
 **Resumen:**
@@ -1214,7 +1214,7 @@ María Ysabel Sosa Rodríguez, de 45 años, es dueña de un salón de belleza y 
 - **Edad:** 20 años
 - **Distrito:** San Isidro
 - **Screenshot del cuadro de video:** *![interview_1.jpeg](img/Entrevista-3.png)*
-- **URL del video (Microsoft Stream):** *[Entrevista 01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fLXfTL)*
+- **URL del video (Microsoft Stream):** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fLXfTL
 - **Inicio de la entrevista:** 12:20 minutos
 - **Duración:** 20:43 minutos
 
@@ -1228,7 +1228,7 @@ María Ysabel Sosa Rodríguez, de 45 años, es dueña de un salón de belleza y 
 - **Edad:** 20
 - **Distrito:** Chorrillos
 - **Screenshot del cuadro de video:** *![interview_2.jpeg](img/Entrevista-4.png)*
-- **URL del video (Microsoft Stream):** *[Entrevista 02](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fLXfTL)*
+- **URL del video (Microsoft Stream):** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fLXfTL
 - **Inicio de la entrevista:** 16:53 minutos
 - **Duración:** 20:43 minutos
 
@@ -3335,7 +3335,7 @@ URL del Link de Figma: [Figma](https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2E
 #### 3.1.4.4. Mobile Applications User Flow Diagrams
 Los diagramas de flujo de usuario (user flow) mapean el camino completo que sigue una persona dentro de la aplicación, desde el principio hasta que alcanza su meta. Esto permite visualizar y entender las interacciones, pasos y decisiones cruciales en cada momento.
 
-URL del Link de Figma: [Figma](https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME?node-id=160-7176&t=E1kC09GYRQ6JJkTE-1)
+URL del Link de Figma: [https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME?node-id=160-7176&t=E1kC09GYRQ6JJkTE-1](https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME?node-id=160-7176&t=E1kC09GYRQ6JJkTE-1)
 
 
 **Vista de clientes de servicios de belleza**
@@ -3398,9 +3398,9 @@ URL del Link de Figma: [Figma](https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2E
 Creamos un prototipo de interacción real para que se pueda experimentar la aplicación en un entorno simulado antes de codificarla. Esta herramienta interactiva muestra el flujo exacto entre las pantallas y cómo reacciona cada elemento, lo que nos permite validar y optimizar la usabilidad.
 
 
-URL del prototipo en figma: [Prototipo en Figma](https://www.figma.com/proto/2RXg2e7OWrAbqYfNcw2EVP/UTIME?node-id=1518-2275&p=f&t=w5uIq7OCFb3diwCL-1&scaling=min-zoom&content-scaling=fixed&page-id=160%3A7176&starting-point-node-id=1518%3A1475&show-proto-sidebar=1)
+URL del prototipo en figma: [https://www.figma.com/proto/2RXg2e7OWrAbqYfNcw2EVP/UTIME?node-id=1518-2275&p=f&t=w5uIq7OCFb3diwCL-1&scaling=min-zoom&content-scaling=fixed&page-id=160%3A7176&starting-point-node-id=1518%3A1475&show-proto-sidebar=1](https://www.figma.com/proto/2RXg2e7OWrAbqYfNcw2EVP/UTIME?node-id=1518-2275&p=f&t=w5uIq7OCFb3diwCL-1&scaling=min-zoom&content-scaling=fixed&page-id=160%3A7176&starting-point-node-id=1518%3A1475&show-proto-sidebar=1)
 
-URL del video: [Video del prototipo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EUCzj5c18VdGvJxPX_m0NzcB_UOw9M2pYyfzjp6ukzwg8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Uqn5eM)
+URL del video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EUCzj5c18VdGvJxPX_m0NzcB_UOw9M2pYyfzjp6ukzwg8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Uqn5eM](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EUCzj5c18VdGvJxPX_m0NzcB_UOw9M2pYyfzjp6ukzwg8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Uqn5eM)
 
 <img src="img/prototipo.png" alt="Prototipo">
 
@@ -3767,7 +3767,7 @@ Dentro del marco de trabajo Scrum, cada Sprint constituye un periodo de tiempo f
 #### 4.2.1.3. Development Evidence for Sprint Review
 A continuación, se presenta un detalle de los commits realizados, los cuales corresponden a las tareas asignadas a cada miembro del equipo, según lo establecido en el Sprint Backlog 1.
 
-Repositorio en github:[Repositorio](https://github.com/PaxTech-1807/Mobile-App)
+Repositorio en github:[https://github.com/PaxTech-1807/Mobile-App](https://github.com/PaxTech-1807/Mobile-App)
 
 | Repository              | Branch  | Commit Id | Commit Message                       | Commited on (Date) |
 | ----------------------- | ------- | --------- | ------------------------------------ | ------------------ |
@@ -3789,7 +3789,7 @@ Repositorio en github:[Repositorio](https://github.com/PaxTech-1807/Mobile-App)
 #### 4.2.1.4. Testing Suite Evidence for Sprint Review
 Se implementaron las pruebas de aceptación para las historias de usuario desarrolladas. Estas pruebas se definieron utilizando el lenguaje Gherkin.
 
-Repositorio de Acceptance Tests:[Repositorio](https://github.com/PaxTech-1807/Acceptance-Tests)
+Repositorio de Acceptance Tests:[https://github.com/PaxTech-1807/Acceptance-Tests](https://github.com/PaxTech-1807/Acceptance-Tests)
 
 
 | Repository                    | Branch | Commit Id   | Commit Message                                                                                                                             | Commited on (Date) |
@@ -4153,18 +4153,22 @@ Verhoef, P. C., Broekhuizen, T., Bart, Y., Bhattacharya, A., Dong, J. Q., Fabian
 
 # Anexos
 
-URL de la Organizacion del repositorio en GitHub: https://github.com/PaxTech-1807
+URL de la Organizacion del repositorio en GitHub: [https://github.com/PaxTech-1807](https://github.com/PaxTech-1807)
 
-URL del Repositorio del Reporte Final: https://github.com/PaxTech-1807/Final-Report
+URL del Repositorio del Reporte Final: [https://github.com/PaxTech-1807/Final-Report](https://github.com/PaxTech-1807/Final-Report)
 
-URL del Repositorio de la Landing Page: https://github.com/PaxTech-1807/Landing-Page
+URL del Repositorio de la Landing Page: [https://github.com/PaxTech-1807/Landing-Page](https://github.com/PaxTech-1807/Landing-Page)
 
-URL del Deployment de la Landing Page: https://paxtech-1807.github.io/Landing-Page/
+URL del Deployment de la Landing Page: [https://paxtech-1807.github.io/Landing-Page/](https://paxtech-1807.github.io/Landing-Page/)
 
-URL del Repositorio del Backend: https://github.com/PaxTech-1807/Web-Services
+URL del Repositorio del Backend: [https://github.com/PaxTech-1807/Web-Services](https://github.com/PaxTech-1807/Web-Services)
 
-URL del Repositorio del Mobile App: https://github.com/PaxTech-1807/Mobile-App
+URL del Deployment Deployado: [https://utime-web-service.onrender.com/swagger-ui/index.html](https://utime-web-service.onrender.com/swagger-ui/index.html)
 
-URL Compilacion de primera ronda de Entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fLXfTL)
+Bounded Context Canavas: [https://lucid.app/lucidspark/b49d697e-a5a0-4eca-bcee-a9be27954927/edit?invitationId=inv_bfecb053-e59d-41d8-aac5-7a1275a78017&page=0_0#](https://lucid.app/lucidspark/b49d697e-a5a0-4eca-bcee-a9be27954927/edit?invitationId=inv_bfecb053-e59d-41d8-aac5-7a1275a78017&page=0_0#)
 
-URL del Figma con los Mockups y Wireframes de la Aplicación: https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME?node-id=160-7176&t=E17fyI5FpJlRybJg-1
+URL del Repositorio del Mobile App: [https://github.com/PaxTech-1807/Mobile-App](https://github.com/PaxTech-1807/Mobile-App)
+
+URL Compilacion de primera ronda de Entrevistas: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fLXfTL](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fLXfTL)
+
+URL del Figma con los Mockups y Wireframes de la Aplicación: [https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME?node-id=160-7176&t=E17fyI5FpJlRybJg-1](https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME?node-id=160-7176&t=E17fyI5FpJlRybJg-1)
