@@ -162,8 +162,8 @@ Se explican las ramas más prominentes:
 
 **Capturas de la participación en el informe:**
 
-![tb1_imagen1](/img/image.png)
-![tb1_imagen2](/img/image-1.png)
+![tb1_imagen1](/img/image-1.png)
+![tb1_imagen2](/img/image.png)
 
 **TP**
 
@@ -198,8 +198,8 @@ Los integrantes son:
 
 **Capturas de la participación en el informe:**
 
-![tp1_image1](/img/insight_tp1_1.png)
 ![tp1_imagen2](/img/insight_tp1_2.png)
+![tp1_image1](/img/insight_tp1_1.png)
 
 <br>
 
@@ -735,6 +735,51 @@ Para los profesionales de la belleza:
 
 ## 1.3. Segmentos objetivo
 
+
+Los segmentos objetivos son las personas o entidades a las cuales está destinada nuestra solución. A continuación se nombraran los que abarca nuestra propuesta.
+
+## Segmento objetivo #1: Salones de belleza y barberías
+
+###  Aspectos Demográficos
+
+- Rango de edad: Mayores de 20 años
+- Sexo: Masculino y femenino
+- Nivel socioeconómico: clases A, B (alta y media-alta)
+
+### Aspectos geográficos:
+
+- Nacionalidad: Peruana o extranjera
+- Zona geográfica de residencia: urbana
+- Departamento: Lima Metropolitana
+
+### Aspectos psicográficos:
+
+- Uso frecuente de medios de comunicación, tales como WhatsApp y llamadas telefónicas, para interactuar con los clientes.
+- Un día a día con la agenda apretada por las reservas de los clientes y poca flexibilidad.
+
+
+## Segmento objetivo #2: Clientes de servicios de belleza
+
+### Aspectos Demográficos
+
+- Rango de edad: Mayores de 18 años
+- Sexo: Masculino y femenino
+- Nivel socioeconómico: clases A, B y C (alta, media-alta y media)
+
+### Aspectos geográficos:
+
+- Nacionalidad: Peruana o extranjera
+- Zona geográfica de residencia: urbana
+- Departamento: Lima Metropolitana
+
+### Aspectos psicográficos:
+
+- Van frecuentemente a salones de belleza para estar a la moda o estar presentable para un evento importante.
+- Tienden a preferir tratarse con el mismo estilista o barbero debido a experiencias anteriores o por la técnica del especialista.
+
+<div style="page-break-before: always;"></div>
+
+
 # Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1. Competidores
@@ -1193,7 +1238,9 @@ Preguntas para el segmento objetivo 02
 - **Duración:** 20:43 minutos
 - **Screenshot del cuadro de video:** ![Entrevista Luis Fernando](img/Entrevista-1.png)
 
-- **URL del video (Microsoft Stream):** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ
+- **URL del video (Microsoft Stream):** 
+
+`https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ`
 
 
 **Resumen:**
@@ -1210,7 +1257,9 @@ Luis Fernando Farfán es un barbero de Chiclayo que tiene 8 años de experiencia
 - **Duración:** 20:43 minutos
 - **Screenshot del cuadro de video:** ![Entrevista Maria Ysabel Sosa](img/Entrevista-2.png)
 
-- **URL del video (Microsoft Stream):** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ
+- **URL del video (Microsoft Stream):** 
+
+`https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ`
 
 
 **Resumen:**
@@ -1225,9 +1274,12 @@ María Ysabel Sosa Rodríguez, de 45 años, es dueña de un salón de belleza y 
 - **Edad:** 20 años
 - **Distrito:** San Isidro
 - **Screenshot del cuadro de video:** *![interview_1.jpeg](img/Entrevista-3.png)*
-- **URL del video (Microsoft Stream):** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ
 - **Inicio de la entrevista:** 12:20 minutos
 - **Duración:** 20:43 minutos
+
+- **URL del video (Microsoft Stream):** 
+
+`https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ`
 
 **Resumen:** En esta entrevista con Anedyib, comentó que visita el salón dos veces al mes (manicure al inicio y recorte de puntas a fin de mes). Valora especialmente el buen trato con su estilista y la facilidad para agendar por WhatsApp, y suele atenderse siempre con la misma persona por la confianza construida. La puntualidad es crítica; relató una mala experiencia que le arruinó planes. Cancelar le resulta fácil, pero reprogramar es complicado por choques de horarios. Prefiere pagos digitales (tarjeta o Yape) y recordatorios tipo calendario. Ha intentado reservar en webs pero no pudo y terminó llamando, algo que le disgustó. Sugiere mejorar la comunicación proactiva desde la reserva hasta la llegada y ofrecer pagos anticipados y digitales.
 
@@ -1239,13 +1291,16 @@ María Ysabel Sosa Rodríguez, de 45 años, es dueña de un salón de belleza y 
 - **Edad:** 20
 - **Distrito:** Chorrillos
 - **Screenshot del cuadro de video:** *![interview_2.jpeg](img/Entrevista-4.png)*
-- **URL del video (Microsoft Stream):** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ
 - **Inicio de la entrevista:** 16:53 minutos
 - **Duración:** 20:43 minutos
+- **URL del video (Microsoft Stream):** 
+
+`https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ`
 
 **Resumen:** En esta entrevista con Emily, indicó que acude por corte de cabello, a veces limpieza facial y manicure. Sus criterios clave son ubicación cercana, reputación, comentarios y calidad; está dispuesta a pagar más por un buen servicio. Generalmente se atiende con el mismo estilista porque conoce sus gustos. Prefiere agendar por WhatsApp por mayor comodidad; la puntualidad es muy importante, aunque tolera una breve espera. Cancelar y reprogramar le resulta fácil vía WhatsApp. Paga con Yape o tarjeta y prefiere recordatorios por WhatsApp. Propone mejorar la atención (amabilidad y escuchar lo solicitado). Considera importante la presencia en redes para ver trabajos, opiniones y promociones, y valora los pagos digitales por seguridad, comodidad y ahorro de tiempo. 
 
 ### 2.2.3. Análisis de entrevistas
+
 **Análisis del Segmento Objetivo 01**
 
    - Características Objetivas:
@@ -1309,11 +1364,14 @@ María Ysabel Sosa Rodríguez, de 45 años, es dueña de un salón de belleza y 
          + Respuestas rápidas al agendar citas vía WhatsApp.
          + Mejora en la puntualidad y la atención al cliente.
          + Facilitar el uso de herramientas digitales.
+
+<div style="page-break-before: always;"></div>
+
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
 
-Segmento objetivo #1: Salones de belleza y barberías
+**Segmento objetivo #1: Salones de belleza y barberías**
 
 <div align="center">
 
@@ -1321,13 +1379,17 @@ Segmento objetivo #1: Salones de belleza y barberías
 
 </div>
 
-Segmento objetivo #2: Clientes de servicios de belleza
+<div style="page-break-before: always;"></div>
+
+**Segmento objetivo #2: Clientes de servicios de belleza**
 
 <div align="center">
 
 <img src="img/Camila_Cortez_user_persona.png" alt="user_persona_2" />
 
 </div>
+
+<div style="page-break-before: always;"></div>
 
 ### 2.3.2. User Task Matrix
 
@@ -1352,17 +1414,24 @@ Segmento objetivo #2: Clientes de servicios de belleza
 | Realizar el pago por el servicio                      | Alta                     | Alta                       | Alta                | Alta                 |
 | Pagar por medios electrónicos                         | Baja                     | Baja                       | Alta                | Alta                 |
 
+<div style="page-break-before: always;"></div>
+
 ### 2.3.3. User Journey Mapping
 
 Para el segmento de los salones estilistas o barberos se consideró el momento desde que el cliente se contacta con la recepcionista hasta que el cliente haya terminado su cita y haya salido de salón. En la otra mano, para el segmento de los clientes de los salones se consideró desde que descubren el salón de manera online o por otra persona hasta que haya atendido la cita deseada.
 
 ![Journey mapping | Segmento objetivo #1](img/journeymapping1.png)
 
+<div style="page-break-before: always;"></div>
+
 ![Journey mapping | Segmento objetivo #2](img/journeymapping2.png)
+
+<div style="page-break-before: always;"></div>
+
 
 ### 2.3.4. Empathy Mapping
 
-Segmento objetivo #1: Salones de belleza y barberías
+**Segmento objetivo #1: Salones de belleza y barberías**
 
 <div align="center">
 
@@ -1370,13 +1439,18 @@ Segmento objetivo #1: Salones de belleza y barberías
 
 </div>
 
-Segmento objetivo #2: Clientes de servicios de belleza
+<div style="page-break-before: always;"></div>
+
+**Segmento objetivo #2: Clientes de servicios de belleza**
 
 <div align="center">
 
 <img src="img/Camila_Cortez_empathy_mapping.png" alt="empathy_mapping_2" />
 
 </div>
+
+<div style="page-break-before: always;"></div>
+
 
 ### 2.3.5. Ubiquitous Language
 
@@ -1552,9 +1626,15 @@ Las Spike Stories de uTime son investigaciones técnicas que el equipo realiza a
 </tbody>
 </table>
 
+<div style="page-break-before: always;"></div>
+
+
 ### 2.4.2. Impact Mapping
 
 ![Impact Mapping](img/impact-mapping.png)
+
+<div style="page-break-before: always;"></div>
+
 
 ### 2.4.3. Product Backlog
    
@@ -1851,7 +1931,7 @@ https://lucid.app/lucidspark/c6b278dc-6a8f-45dd-9c1b-f0455160b1f2/edit
 **Bounded Context Iam**
 Contiene el aggregate Users
 
-<img src="img/IAM-CORRECION.png" alt="event storming image">
+<img src="img/new_event_stoming_50.png" alt="event storming image">
 
 **Bounded Context Profiles**
 Contiene los aggregates Clients y Providers
@@ -1882,7 +1962,9 @@ Contiene el aggregate Services
 
 <img src="img/new_event_stoming_56.png" alt="event storming image">
 
----
+
+
+<div style="page-break-before: always;"></div>
 
 #### 2.5.1.2. Domain Message Flows Modeling
 
@@ -1892,6 +1974,8 @@ Contiene el aggregate Services
 ![DomainMessageFlowsModeling4](img/scenario-modeling4.png)
 ![DomainMessageFlowsModeling5](img/scenario-modeling5.png)
 ![DomainMessageFlowsModeling6](img/scenario-modeling6.png)
+
+<div style="page-break-before: always;"></div>
 
 #### 2.5.1.3. Bounded Context Canvases
 
@@ -2129,7 +2213,9 @@ Accede a la persistencia de los perfiles de proveedores, implementando la interf
 
 ![profiles-class-diagram](img/profile-context.svg)
 
-*Para visualizar mejor ingresar a este Link:* [Class Diagram Profiles](https://img.plantuml.biz/plantuml/svg/nLl1Sjiu4hsdAl_0ocMTIbc-kxAUaHLDLbEofP7ix375oB3C34LgI2fRhgcvpWVCp7s-Oy_x9_C5ymaBYW09W0sm0OAA3x53elirNpSQ3R3vRLw4MN7OnS7XBjgHu3hS_4YIXvSlyX-ZP1zcuIxOqqlXbgoBvvW46TaKORADoSiNBr-mEy6hPPO-HZ79NmK_ltmHq9_wphjq5qP9VLswTvC-a5Yw9TqURxSPsOQ5e5RysSHXdWUJE299aKC3of_pJr5MF7rye5eksTZhyiexUa4ZyNY8uzjmHyT_n_xI33pa99izN0Rtnz_jGR-K5C5MKxw-H0yaqzkzPoCuioNGidLD8npjA87tMTo8pDWLZK2SRi8YIfD6OCwkM3rMoKGUl7rRUswLfiNLbUuX2GqDQkEq_0MFs5Ej_qcpyjdPNrRshDDD5CPwalFZVHeBuIKRM_uDGi00dAsFt2KcVvO3Pg9dn0iQiKtwfN4UZM3nlpPsfbdncCPH-l4et1rsOhWXmWnjKijPzMoVfBjTc3mOvtf6Q4nLivWDfy6s8XiQ5rTNPYd-CAvojOFHWfpoYd5RN1QwNMA_QDZyuK2oo9WutvDY7CSiVPR3dn6sLK9rzh8GOq3NpxC72ocETFryJ19Eabs0EWe_XF61B3vzfWjU_afBOvNygN9Xk3xZdKTqNiLfidN8CRvGT3XyjKEZF4PPNbGhvRh88WZkE8vgnmmxXw-_sPA2ctRssgpZE9PRXHay3xl7TZk69JyqSOSoPJh3yPKP3TSixjQOapGfmas1Xje_fGcvFUm-aQp3sspjjsU1rG7_2lCdl5c2a17JN4WCEy-R0WIDKjKlzwPm4iRDDgOOE0uqpC4rnyBCgtKDs6jcDOKktjL0tMoVSCNAp0PQBl4SfjiNXtIYr8ZsRCkLYWtPggGrrzOF6_LXTxSFasUhDMxJoA0HXVyAVzPrnPfaNw8DK9k96rfMzx6nrDnPKf3iCTmGsDWtYtsPuiFuBIkqhe8dAX-JCwXetbI_NniB8Mb_VIoXyDRCexneMG9Kd3-L_xwsUHoeb8IqW0-ZR0AyiQjkBYpubMjfIuPhOOLZfK1tOhdMOUOPxosXWhTs6C_cGpcktjqvU8xBzd5WVNwWSQI4WV23KQ-Yr6KUWNjRVrw1jyuslf4rEBb6EJ9HFGCWO1nZq2ghT72BV6RWpHtAKOI56vYa2_rCL65TL8XW6r1INKAJo_valvgZwVq-ZgfT5NoqVNn6QeBsT5js4dWWfwy7Phjzh2rPAe4LsQTvLAJPyoLL95-nBFvr5fofI2qWm3coWvI02oog5SLHCcdmGc-aZOk8nErRroofqzjnriO3u5m9n1KaA0hXfVVhKQctvpIKTfGAPavDw-PNeBJBd84PjLdcZRo22z_f-TIQCIoFgFKPu4zpy2skrfthahIsdtPPwhl7D7ABtcS2H3OSWPkxqyUbZxrY9riM-qKyynrxHe3yxjfjbZncOLvaXqrno0XSlYtfSr3IIB8X-lw4p_kmip51cF2jmjSXaApLsPF3TEOmCIkI5tf6ojS5MHh7bBrEPfgn7Ib3JgVej07a9ouhNhESIlJvzscIasbIHCNpM-xaF3rar0yKGAXVptIXtwLaosT0EPMMOV64rVIDA9pxmSTg4T9nhQhIrIHaI5TtyaH4YZ1M3XPqxkGQv7ZP0rVxHKmpavMOuJUmV0EAjl9hRuV8uUB_ZegdPTdyHMWwG0TIjqc-D1tN1Ql8R6ciOxEE7QVeRBOZw225Tp1DiC7taKhX-8Nk-ebZhbaRpso0hUS1lLlmwB97b3Cj_O8TRQXJkBQqjyAMZx2BNdNhrHsyfhqY3JJJRPnA9NBrDti6hgou7RVIVNGqQBLkeODTbw2Lb3Z6h9sLTX6hqTq4h3p0AbxhBMvdd89xyCiWXowRLSZncBSlzej3XjAAl-ewblgsbgrunkqGPvMmMtnrM6CLJwgkEexO3KJyw3hxkCxkJGeVAJGF1Z_h6mo4ujz5Kj-ZQX1L2nkJb8wGSPwJtISwhT24V9VHgLYvgnRMpSatikXbKAI2cbsbnIeT06y9IarSAyAYjeBIB42NWrsA6rqiKrJui4sDauRwRgDKMGykr1KuBcQfEhn5cAPYx-DHHPKNpy8hhnMJi0f_H8BbeHEFe2OVD2eBZWrzYgWtsfXU5vwOg3inu5dXyKJn7y4_EtxACN__-ST_WzLqFfxC_lVxxMKmVlz-DNq_lfkkWxz-_ItuC9xVJuF5zVVJoTqQfvDFdL7rJTde-FdOgFbARCI_1Ji_lmhWmM9F_wZvlCktPlv5c6-zhG_O413ryGOMfDryEoHAy-NGS1ZDjsm8bEeRDYG2-tJDhrAnnHrbCl_C3QbV_DBDWlRc6pSy_V8NRiD1AT_5OQ3KB-9iunOrAnn1n2TnpRUJnStD-FRTEhW8VhYVhcOixpPfk4_IvH_hZQ1-7Vr3jZCV4a3T6Q4WwdnX2O88FbFCOj7WxWSSfX9NI4YbKG05nMJqSufzQJW2thpx20H1VUjzl6VzxPVXVi9CW53UO0oEOiMK0E6UTjujRiQpss0zNNsOJLZEQQSYjzp3cr96u3SI-cSqPIi3Yf9qh74KUGGI_ER77b6VYXf8Omit7X5KOy25UvJHUB8ub9MK896RZ_Ku-ZGs18IQoX2nuVOWilGmCArqCpHCaplxPAhnSZcVJSPtiuMGhcOto_anPwscoyLwThSu5auNTGgpJ5n2d_Y8juIFvDY7izcnIKoYHMvR6WaTIgFF-t2ajXiDOuH5MhKr0CwsrZmqHvMkJ60DiKhzhaR0Ay9NP0LhaDqoPMrDPoFrYTcniyTbHRKrITyJVLfga7OuBlgW2L87CxH83vvT7IomhqQ6HcuNANRWu5f_WWXqiiAbXXeUtLHQdHBTJyKrMTpUhHRp-NHLxGlhgki2EgswS3-hQhgOHsN3yaZeIwuBdRgJ1AB2M1OD2AJqb_Z3iTe8Uq939J7_M8QzbISmw7G9YLBFI6nSmDNeq6WkSOW5ipmhyGU9pEg309eI-S20OkuU05DtW6W5rUmgxE8KtesS6Bp7N452snxsUOSsl-_08ckRZirqcrkBJmZjucWhOBSZLj_unXTDIDnsmwwHQ72JE2YKWoznGAWTh7Sy-8sTyz7eUZszkQxhTA4u5xfuBgZ4Ud6_clGkp-kUfdgVRMWoTNpfvmzJrLHt4okQSE3OJbRlHNrV6mmq06tGniJHcD9izlLDUCwlIpt2wXzULMNX0QK6xXa7hOhQYWa-r9iZeFO8B25AbUU965Jz8Z23xxBjsyFHoOj5DwtFSsUzNOZUMRkr2ys5iKMsnmdpjoHvEEpY_mC0).
+*Para visualizar mejor ingresar a este Link:* 
+
+https://img.plantuml.biz/plantuml/svg/nLl1Sjiu4hsdAl_0ocMTIbc-kxAUaHLDLbEofP7ix375oB3C34LgI2fRhgcvpWVCp7s-Oy_x9_C5ymaBYW09W0sm0OAA3x53elirNpSQ3R3vRLw4MN7OnS7XBjgHu3hS_4YIXvSlyX-ZP1zcuIxOqqlXbgoBvvW46TaKORADoSiNBr-mEy6hPPO-HZ79NmK_ltmHq9_wphjq5qP9VLswTvC-a5Yw9TqURxSPsOQ5e5RysSHXdWUJE299aKC3of_pJr5MF7rye5eksTZhyiexUa4ZyNY8uzjmHyT_n_xI33pa99izN0Rtnz_jGR-K5C5MKxw-H0yaqzkzPoCuioNGidLD8npjA87tMTo8pDWLZK2SRi8YIfD6OCwkM3rMoKGUl7rRUswLfiNLbUuX2GqDQkEq_0MFs5Ej_qcpyjdPNrRshDDD5CPwalFZVHeBuIKRM_uDGi00dAsFt2KcVvO3Pg9dn0iQiKtwfN4UZM3nlpPsfbdncCPH-l4et1rsOhWXmWnjKijPzMoVfBjTc3mOvtf6Q4nLivWDfy6s8XiQ5rTNPYd-CAvojOFHWfpoYd5RN1QwNMA_QDZyuK2oo9WutvDY7CSiVPR3dn6sLK9rzh8GOq3NpxC72ocETFryJ19Eabs0EWe_XF61B3vzfWjU_afBOvNygN9Xk3xZdKTqNiLfidN8CRvGT3XyjKEZF4PPNbGhvRh88WZkE8vgnmmxXw-_sPA2ctRssgpZE9PRXHay3xl7TZk69JyqSOSoPJh3yPKP3TSixjQOapGfmas1Xje_fGcvFUm-aQp3sspjjsU1rG7_2lCdl5c2a17JN4WCEy-R0WIDKjKlzwPm4iRDDgOOE0uqpC4rnyBCgtKDs6jcDOKktjL0tMoVSCNAp0PQBl4SfjiNXtIYr8ZsRCkLYWtPggGrrzOF6_LXTxSFasUhDMxJoA0HXVyAVzPrnPfaNw8DK9k96rfMzx6nrDnPKf3iCTmGsDWtYtsPuiFuBIkqhe8dAX-JCwXetbI_NniB8Mb_VIoXyDRCexneMG9Kd3-L_xwsUHoeb8IqW0-ZR0AyiQjkBYpubMjfIuPhOOLZfK1tOhdMOUOPxosXWhTs6C_cGpcktjqvU8xBzd5WVNwWSQI4WV23KQ-Yr6KUWNjRVrw1jyuslf4rEBb6EJ9HFGCWO1nZq2ghT72BV6RWpHtAKOI56vYa2_rCL65TL8XW6r1INKAJo_valvgZwVq-ZgfT5NoqVNn6QeBsT5js4dWWfwy7Phjzh2rPAe4LsQTvLAJPyoLL95-nBFvr5fofI2qWm3coWvI02oog5SLHCcdmGc-aZOk8nErRroofqzjnriO3u5m9n1KaA0hXfVVhKQctvpIKTfGAPavDw-PNeBJBd84PjLdcZRo22z_f-TIQCIoFgFKPu4zpy2skrfthahIsdtPPwhl7D7ABtcS2H3OSWPkxqyUbZxrY9riM-qKyynrxHe3yxjfjbZncOLvaXqrno0XSlYtfSr3IIB8X-lw4p_kmip51cF2jmjSXaApLsPF3TEOmCIkI5tf6ojS5MHh7bBrEPfgn7Ib3JgVej07a9ouhNhESIlJvzscIasbIHCNpM-xaF3rar0yKGAXVptIXtwLaosT0EPMMOV64rVIDA9pxmSTg4T9nhQhIrIHaI5TtyaH4YZ1M3XPqxkGQv7ZP0rVxHKmpavMOuJUmV0EAjl9hRuV8uUB_ZegdPTdyHMWwG0TIjqc-D1tN1Ql8R6ciOxEE7QVeRBOZw225Tp1DiC7taKhX-8Nk-ebZhbaRpso0hUS1lLlmwB97b3Cj_O8TRQXJkBQqjyAMZx2BNdNhrHsyfhqY3JJJRPnA9NBrDti6hgou7RVIVNGqQBLkeODTbw2Lb3Z6h9sLTX6hqTq4h3p0AbxhBMvdd89xyCiWXowRLSZncBSlzej3XjAAl-ewblgsbgrunkqGPvMmMtnrM6CLJwgkEexO3KJyw3hxkCxkJGeVAJGF1Z_h6mo4ujz5Kj-ZQX1L2nkJb8wGSPwJtISwhT24V9VHgLYvgnRMpSatikXbKAI2cbsbnIeT06y9IarSAyAYjeBIB42NWrsA6rqiKrJui4sDauRwRgDKMGykr1KuBcQfEhn5cAPYx-DHHPKNpy8hhnMJi0f_H8BbeHEFe2OVD2eBZWrzYgWtsfXU5vwOg3inu5dXyKJn7y4_EtxACN__-ST_WzLqFfxC_lVxxMKmVlz-DNq_lfkkWxz-_ItuC9xVJuF5zVVJoTqQfvDFdL7rJTde-FdOgFbARCI_1Ji_lmhWmM9F_wZvlCktPlv5c6-zhG_O413ryGOMfDryEoHAy-NGS1ZDjsm8bEeRDYG2-tJDhrAnnHrbCl_C3QbV_DBDWlRc6pSy_V8NRiD1AT_5OQ3KB-9iunOrAnn1n2TnpRUJnStD-FRTEhW8VhYVhcOixpPfk4_IvH_hZQ1-7Vr3jZCV4a3T6Q4WwdnX2O88FbFCOj7WxWSSfX9NI4YbKG05nMJqSufzQJW2thpx20H1VUjzl6VzxPVXVi9CW53UO0oEOiMK0E6UTjujRiQpss0zNNsOJLZEQQSYjzp3cr96u3SI-cSqPIi3Yf9qh74KUGGI_ER77b6VYXf8Omit7X5KOy25UvJHUB8ub9MK896RZ_Ku-ZGs18IQoX2nuVOWilGmCArqCpHCaplxPAhnSZcVJSPtiuMGhcOto_anPwscoyLwThSu5auNTGgpJ5n2d_Y8juIFvDY7izcnIKoYHMvR6WaTIgFF-t2ajXiDOuH5MhKr0CwsrZmqHvMkJ60DiKhzhaR0Ay9NP0LhaDqoPMrDPoFrYTcniyTbHRKrITyJVLfga7OuBlgW2L87CxH83vvT7IomhqQ6HcuNANRWu5f_WWXqiiAbXXeUtLHQdHBTJyKrMTpUhHRp-NHLxGlhgki2EgswS3-hQhgOHsN3yaZeIwuBdRgJ1AB2M1OD2AJqb_Z3iTe8Uq939J7_M8QzbISmw7G9YLBFI6nSmDNeq6WkSOW5ipmhyGU9pEg309eI-S20OkuU05DtW6W5rUmgxE8KtesS6Bp7N452snxsUOSsl-_08ckRZirqcrkBJmZjucWhOBSZLj_unXTDIDnsmwwHQ72JE2YKWoznGAWTh7Sy-8sTyz7eUZszkQxhTA4u5xfuBgZ4Ud6_clGkp-kUfdgVRMWoTNpfvmzJrLHt4okQSE3OJbRlHNrV6mmq06tGniJHcD9izlLDUCwlIpt2wXzULMNX0QK6xXa7hOhQYWa-r9iZeFO8B25AbUU965Jz8Z23xxBjsyFHoOj5DwtFSsUzNOZUMRkr2ys5iKMsnmdpjoHvEEpY_mC0
 
 ##### 2.6.1.6.2. Bounded Context Database Design Diagram
 
@@ -2303,7 +2389,9 @@ Accede a la persistencia de los intervalos de tiempo, implementando la interfaz 
 
 <img src="img/reservation_class.png" alt="reservation">
 
-*Para visualizar mejor ingresar a este Link:* [Class Diagram Reservations](https://www.plantuml.com/plantuml/svg/lLhlRk8u4F_EKrZzSg3LvW4GhPRINCK9bYwqbVRJoWqkbpQ9Suxf2PtwxfT0fXitSSSPDK7QBKayV_pxZMUSCTyopPNUnz4WvS4ptmbsjXQPK2zSXpB9pjX_0vP_tXvUoPY72Tms7YtbLaJmfFPqkjifiUDQW4xZ4qGyorZLyhj1yFaQHA58zAzmEsOBcUoQ1nLgma0Wer8bNyAjKDWmVeXnapgCnQyiajYuVwLwHar-RRpzfOBFSAO4rw9oPoRZc2TR5fp-ZcegNWV6LJDDVg937Nv4qjdD2OypDfaSHnykBcnanJ8HXp5R5dyiJ6ckzzcOFKWP2PwqWgDqf8IYlC9XiCthDcTm4qcdYHrNJI5Gi1Zmw2fteBXi7YsIhVDO0EJo8q3q8SsrWSEt-LKhu42mHAwyHA03uPYhvxk4l_0muW-H68x6x4M6M_lWAJBKCJBlURGNguSd4MXxT9v2BIUmCjhE8e_bFj5ZzXX9hYtfPg-KI88yY3TQXSdEDPmCSjpy0Lh140Maai8F0BBcZSbaBGAfjk2UBVNEdNBg74-fc2fT8ZZ7yocOSwV7p1au1FI88UGzr6y8Bjpn_X8MpAIZoFwn5-h3kdGjz3IAgbk8GkHWOFDgbwq8NXxcMv35S0tR1HwuMGPUEnTBeHxSW_Xgvnz8TU0WNC4t8pGsfzqUnCOxn-gfhXoVUpTFj52FF12D3dvPfOKKZoRLgBfWV-Sw8j5o1_PgSSq8LcVF5c6ccxsoBOD_Ylz7RUTeMnYW3PaWv5SgxgKykEEuqqEy8K1TSwI-Yd64cvIKjre32qkDZ2me06USjuA8GmHiQwuOESWLtKOrS0_75xx1_vKNrpIDmg28_-RNtkCK4svzypKfoc2KUvwQnsbaIvyLeRL8PHPggGvZfffk8wy8NQK-4sGyGo0pBWMgiqtX5dscz6JZ-XxWFaEGg4vHmptA7EdBdhHLWnJW7EwGa7kBzWxAQGSbrMdX07IzBnjwMIIMHXmWl2BrlEnevQs34WSuEHUzUVAeUARLFj1x9HhhterGMJu_aGJ2slHzIZdUxJMMxViz0nB-xGK1BqJI6IYGp1f1okUehUZCPAALZ2AXt7hYlySx94Ypta2IR7Y4QeBq38eiJzfsijDSNfpwh1CZ53AvLpaJOnQytsKCHtHjR5VBkuxge3ZKT1PAQ-LXs3g5uxGsRfBU4hWBdMQrCEK_YyJIHer0QDEFY5fsHYreGnhegX465MhOlfpWRC58EbsWebk-m4YDC7Wm757rxCowr8Opa3D8Colca7Ys1IhTiYsCDhjVvAuwNiii1edzQoIEBTR8NMSd0gPP9kA7IAXM1FofP7oA492tBRql3T9ZfcLT4nf2EBM5Cb2CEcPJKdZNeAzz4I601P9qeF2G98042iW0MGAUW128VZ94e9QC4MWWW8JiRLy7Vx3pytCslRvU-zVJMv_DLj_P_NHnvxFLvL_-x7PJF1zKTppUwJSXtl7t7zxlttburK5vKRfWTYdusO5Nij-T0O1kq68iehjwCkqT3w2xKcwS-9TKRVpr_NpcRmgcSdwcLwlZr_pVSZdzVhLXFzcFEtyzz-tCGRF6ixu_84wMWpFFbkSSpS8hXPlLyaZGi_HekhPPx-9WDetKHeFMLE5aZWwfeQ1BMwMq8un6zYFY-4w7cq4oa6QpfqjZjNOGf8dvycPnp0jh_sR5VfPfOxvgo0gL4myFJZS0FoHLG8-jvg_PKF8gpIFlAULUOo-eMwy8IGpt1qYpvfZ-8QAxH4-tlRY2Ps4ySAofcSvJhJFPfJU4Ok5EaDaqwXuHkYVqOjQR1wK2GemYTOz4IRqBth4_v5gCSsDMp9vHeVj2t2vqx0EoYyWt4BVhrMBXhuklyExHi8U0Sv5JdjTUvQp3QpxIi3c7r_R-B4EbQcqOCZ5kr583UhH8co94dOj598FqOzEO9RGzDXj_UPb7jqD4lxLgFCUU9NZMggtHcGyMZI2SDMbqTSQbPKhooQROrJ6yMKhhKz4DKs00RJHQIk5FfGIKjgJ3fJLBRElHJLDG07L4Ia3wapYnRAk-YMIxZwF_0G00).
+*Para visualizar mejor ingresar a este Link:* 
+
+https://www.plantuml.com/plantuml/svg/lLhlRk8u4F_EKrZzSg3LvW4GhPRINCK9bYwqbVRJoWqkbpQ9Suxf2PtwxfT0fXitSSSPDK7QBKayV_pxZMUSCTyopPNUnz4WvS4ptmbsjXQPK2zSXpB9pjX_0vP_tXvUoPY72Tms7YtbLaJmfFPqkjifiUDQW4xZ4qGyorZLyhj1yFaQHA58zAzmEsOBcUoQ1nLgma0Wer8bNyAjKDWmVeXnapgCnQyiajYuVwLwHar-RRpzfOBFSAO4rw9oPoRZc2TR5fp-ZcegNWV6LJDDVg937Nv4qjdD2OypDfaSHnykBcnanJ8HXp5R5dyiJ6ckzzcOFKWP2PwqWgDqf8IYlC9XiCthDcTm4qcdYHrNJI5Gi1Zmw2fteBXi7YsIhVDO0EJo8q3q8SsrWSEt-LKhu42mHAwyHA03uPYhvxk4l_0muW-H68x6x4M6M_lWAJBKCJBlURGNguSd4MXxT9v2BIUmCjhE8e_bFj5ZzXX9hYtfPg-KI88yY3TQXSdEDPmCSjpy0Lh140Maai8F0BBcZSbaBGAfjk2UBVNEdNBg74-fc2fT8ZZ7yocOSwV7p1au1FI88UGzr6y8Bjpn_X8MpAIZoFwn5-h3kdGjz3IAgbk8GkHWOFDgbwq8NXxcMv35S0tR1HwuMGPUEnTBeHxSW_Xgvnz8TU0WNC4t8pGsfzqUnCOxn-gfhXoVUpTFj52FF12D3dvPfOKKZoRLgBfWV-Sw8j5o1_PgSSq8LcVF5c6ccxsoBOD_Ylz7RUTeMnYW3PaWv5SgxgKykEEuqqEy8K1TSwI-Yd64cvIKjre32qkDZ2me06USjuA8GmHiQwuOESWLtKOrS0_75xx1_vKNrpIDmg28_-RNtkCK4svzypKfoc2KUvwQnsbaIvyLeRL8PHPggGvZfffk8wy8NQK-4sGyGo0pBWMgiqtX5dscz6JZ-XxWFaEGg4vHmptA7EdBdhHLWnJW7EwGa7kBzWxAQGSbrMdX07IzBnjwMIIMHXmWl2BrlEnevQs34WSuEHUzUVAeUARLFj1x9HhhterGMJu_aGJ2slHzIZdUxJMMxViz0nB-xGK1BqJI6IYGp1f1okUehUZCPAALZ2AXt7hYlySx94Ypta2IR7Y4QeBq38eiJzfsijDSNfpwh1CZ53AvLpaJOnQytsKCHtHjR5VBkuxge3ZKT1PAQ-LXs3g5uxGsRfBU4hWBdMQrCEK_YyJIHer0QDEFY5fsHYreGnhegX465MhOlfpWRC58EbsWebk-m4YDC7Wm757rxCowr8Opa3D8Colca7Ys1IhTiYsCDhjVvAuwNiii1edzQoIEBTR8NMSd0gPP9kA7IAXM1FofP7oA492tBRql3T9ZfcLT4nf2EBM5Cb2CEcPJKdZNeAzz4I601P9qeF2G98042iW0MGAUW128VZ94e9QC4MWWW8JiRLy7Vx3pytCslRvU-zVJMv_DLj_P_NHnvxFLvL_-x7PJF1zKTppUwJSXtl7t7zxlttburK5vKRfWTYdusO5Nij-T0O1kq68iehjwCkqT3w2xKcwS-9TKRVpr_NpcRmgcSdwcLwlZr_pVSZdzVhLXFzcFEtyzz-tCGRF6ixu_84wMWpFFbkSSpS8hXPlLyaZGi_HekhPPx-9WDetKHeFMLE5aZWwfeQ1BMwMq8un6zYFY-4w7cq4oa6QpfqjZjNOGf8dvycPnp0jh_sR5VfPfOxvgo0gL4myFJZS0FoHLG8-jvg_PKF8gpIFlAULUOo-eMwy8IGpt1qYpvfZ-8QAxH4-tlRY2Ps4ySAofcSvJhJFPfJU4Ok5EaDaqwXuHkYVqOjQR1wK2GemYTOz4IRqBth4_v5gCSsDMp9vHeVj2t2vqx0EoYyWt4BVhrMBXhuklyExHi8U0Sv5JdjTUvQp3QpxIi3c7r_R-B4EbQcqOCZ5kr583UhH8co94dOj598FqOzEO9RGzDXj_UPb7jqD4lxLgFCUU9NZMggtHcGyMZI2SDMbqTSQbPKhooQROrJ6yMKhhKz4DKs00RJHQIk5FfGIKjgJ3fJLBRElHJLDG07L4Ia3wapYnRAk-YMIxZwF_0G00
 
 ##### 2.6.2.6.2. Bounded Context Database Design Diagram
 
@@ -2439,7 +2527,9 @@ El diagrama de clases del dominio IAM presenta la estructura interna de las enti
    <img src="img/class-diagram-IAM.png" alt="class-diagram-iam"/>
 </div>
 
-*Para visualizar mejor ingresar a este Link:* [Class Diagram IAM](https://www.plantuml.com/plantuml/png/hPLHJzim4CVVyocoxc6j6D8OgeIg2L7IP4GgjAJjfZrDNd8j5euJRATJGFtk8oQuEOUeFAmF8V7zphux_dU-a8e8LQJC-P30cd9m_PjbkFprsvjDPv7xqJy9Xe5lZDxiPXdDfbC_UWM283ZrlnXWuKS_GiytrbD_60oDDVBdiqMud4Nx_S-2eN_MsF_wUdmpQMn-vfyOw-tARtYU1b-3YUFa9Bud6t1xaombbBjJKeBeuJIU7FVv5pCYfRkI8Ag5-dViqcJahbRXfB44AQ5iv2wKe7pJMC-9b7ypaRHCHthRFlBxtC87cjyvkqRK8LSWrYI6Ed2xnEtWfPTn9JB6K1v7xWRKc35Dz1yA4EN8_RvVkgrM1XYl39Tbc1XylzJ0T_hP269Sg3lWYiP4qOntH2FfXeUy7sTfIdXL0VtjlNmEB72LOt2L8n1NR9pdh3wxhbbzi25gPzd3UgenamYEgM7j5i518UpC6pxBfFL_pp9FN83glqT1zb37sDdRuh3CjXYCVsVVxBfsyAliy2OuyVTdjW2nfN6L6fuqTd9Bce9K9Crh2zAzLmW1N1ccFnZj7InydOcKD53r-jPm6RnV1WtnHa2Iqjy2LwqOCsvpLOZRZ2OMI3bLb33w21DOauAf2L6anUxUd3jhGQGIHQmA0HsDL7Lw9kYZZkDGoN_2dmN4XQ2gz3A-ffj2Q3yBqsAOrvh6esIPtGE_B2XBG5XUbP0ce0XbCanpPbalWGWGADe87WgGAg1CjJVZf4OXgRahmXC6mkTAbFECSjLzVYt1vp0wLNf5v1tbcqCLgp6pOJilJvIvmbZdeNCGaae5F8PU-wPzUYEX2F9CKfM9igL0IRRGBvwPaIO7Bt_itg0yqVV7woZenkeXW6_8RdpCMANYAPNgMuMSlsCqQFKS70oQiYjkAwa9xNldani1q-AITpINZdqP7n-VjuPg1uH7guFR0DFubZgCcal6SP2d1dIv3OMNxT2H1SMBB6Z48wDZQSmOtcmcssnwVM-u09uKAVi7)
+*Para visualizar mejor ingresar a este Link:* 
+
+https://www.plantuml.com/plantuml/png/hPLHJzim4CVVyocoxc6j6D8OgeIg2L7IP4GgjAJjfZrDNd8j5euJRATJGFtk8oQuEOUeFAmF8V7zphux_dU-a8e8LQJC-P30cd9m_PjbkFprsvjDPv7xqJy9Xe5lZDxiPXdDfbC_UWM283ZrlnXWuKS_GiytrbD_60oDDVBdiqMud4Nx_S-2eN_MsF_wUdmpQMn-vfyOw-tARtYU1b-3YUFa9Bud6t1xaombbBjJKeBeuJIU7FVv5pCYfRkI8Ag5-dViqcJahbRXfB44AQ5iv2wKe7pJMC-9b7ypaRHCHthRFlBxtC87cjyvkqRK8LSWrYI6Ed2xnEtWfPTn9JB6K1v7xWRKc35Dz1yA4EN8_RvVkgrM1XYl39Tbc1XylzJ0T_hP269Sg3lWYiP4qOntH2FfXeUy7sTfIdXL0VtjlNmEB72LOt2L8n1NR9pdh3wxhbbzi25gPzd3UgenamYEgM7j5i518UpC6pxBfFL_pp9FN83glqT1zb37sDdRuh3CjXYCVsVVxBfsyAliy2OuyVTdjW2nfN6L6fuqTd9Bce9K9Crh2zAzLmW1N1ccFnZj7InydOcKD53r-jPm6RnV1WtnHa2Iqjy2LwqOCsvpLOZRZ2OMI3bLb33w21DOauAf2L6anUxUd3jhGQGIHQmA0HsDL7Lw9kYZZkDGoN_2dmN4XQ2gz3A-ffj2Q3yBqsAOrvh6esIPtGE_B2XBG5XUbP0ce0XbCanpPbalWGWGADe87WgGAg1CjJVZf4OXgRahmXC6mkTAbFECSjLzVYt1vp0wLNf5v1tbcqCLgp6pOJilJvIvmbZdeNCGaae5F8PU-wPzUYEX2F9CKfM9igL0IRRGBvwPaIO7Bt_itg0yqVV7woZenkeXW6_8RdpCMANYAPNgMuMSlsCqQFKS70oQiYjkAwa9xNldani1q-AITpINZdqP7n-VjuPg1uH7guFR0DFubZgCcal6SP2d1dIv3OMNxT2H1SMBB6Z48wDZQSmOtcmcssnwVM-u09uKAVi7
 
 #### 2.6.3.6.2. Bounded Context Database Design Diagram
 
@@ -2578,7 +2668,9 @@ Accede a la persistencia de los turnos (Shift), siguiendo el patrón de reposito
 
 ![Workers class diagram](img/workers-class-diagram.png)
 
-*Para visualizar mejor ingresar a este Link:* [Class Diagram Workers](https://img.plantuml.biz/plantuml/svg/nLXjJzim4FwEn7-8-38crFo0gdIKZasL67Ij61ydaveISEBCTfYwgVzzJlDcf-V42Gqh4b3NTy_Zk-USkrvmWPY80t9ybFv4o7j1Q-oSt5FsWXa_SVuU7pdoLNpmcGR83ujrxRDlT8M9zf7syMIzPdYD1EPxUvANHn3dJWOCRKXUWn05U9Zjkf7_6xRn27i-8luV97mQvWPBRTLW6ZrHGN_6ZEHMysJXZf7z_LjzQMiu-0z4Odpxy8mzqNpqv53EQAJOZCSDqLWAveVhHdfL93qQrfZLq7P4pwDgZQlanHBIb8yf3G8KhkfoCMLO2ZLbccsNH1VOesoLS3GUxYvQjJ4qKVmUO-RN5ifNB2Q4PEMIRD_O4PHsgT7bPhRgOiSlDtD6N_qLPXOEbBTRuCfOOlRgUy11LQbaSSpsIhHPA31xH1w6vN9s6oNIH6IKCHuxJzAUu5CehLxwzsCRFr2MOJzRyx7IhDcVwjhdOey988DVoUzMnm4qONHYOc4K1-HfNnNRodDc4aN4ztPN3FomsKLB7iRulD5L0pvHp2AR1H4ntaIfmG97bFk2iitG-LrPCHWEuFL3wRNUbxrcAna2tkOnLXNS665Dx-yRuBUMJdraMvHFBPjM9GHafRcgPk4ZGroms1Cnmt1XpIK5IH277ZRtSiyHQknaocnLBxSEl3Dh3dDUO2xCPASq58mIeZQq9jBbtWPrwlT5hb1zjTQ1LWwvlRROKkGo214DERuAXIysepm9dCPCXdteUCfbSchIPfEJMBb5R9ryadRhGjxtldYQ8oOxLvbJtfd8MYqwMozAvHMkKb_bJG3vikpQSf_DCijtslLU_xiRdN2EWmTP4zRd-i9eaCQyi3NLqvbkENG4tVTYaPJQS2MUSg_DZ0072It0LojUG3RQyG8STES5thhfVn-Sy_DpPt5rFPdERc-kbidRT4jM8sxwDO2xc_ZTSh1ty_5zC1Z3UzLPsAsEyNruXsR-Fd3ARmbgCFB9quKgseYspym60ghzLX0r8DbuwW8jr65EeG1KMwkU082sw-tHobjZ5nnaZVxhPD8B3g0L6nnzWZN2cDNI3qX5CNs2xAkcgWHba7NpcTMjpAPWsdOJaif4RzvTfKztPJlkLflklcXqL6hV1409Mr3GHbX83U-GX_OSEjLNpzYrPVSksCtLM0wIRZ8pkifeM8Yl6001u5gbzWe5J8Q7Gh9xV1u6nVx2E31UuoFkC7YsjNXmjDhgwmcjVRqLCqvnJPhdHVtErVqKatR5Jp_eRwgJ4jHwBksXUaeMrbFeGPwvviIr6e6w7xm4R3KGDPtn-EW2Xwiu8Fy0).
+*Para visualizar mejor ingresar a este Link:* 
+
+https://img.plantuml.biz/plantuml/svg/nLXjJzim4FwEn7-8-38crFo0gdIKZasL67Ij61ydaveISEBCTfYwgVzzJlDcf-V42Gqh4b3NTy_Zk-USkrvmWPY80t9ybFv4o7j1Q-oSt5FsWXa_SVuU7pdoLNpmcGR83ujrxRDlT8M9zf7syMIzPdYD1EPxUvANHn3dJWOCRKXUWn05U9Zjkf7_6xRn27i-8luV97mQvWPBRTLW6ZrHGN_6ZEHMysJXZf7z_LjzQMiu-0z4Odpxy8mzqNpqv53EQAJOZCSDqLWAveVhHdfL93qQrfZLq7P4pwDgZQlanHBIb8yf3G8KhkfoCMLO2ZLbccsNH1VOesoLS3GUxYvQjJ4qKVmUO-RN5ifNB2Q4PEMIRD_O4PHsgT7bPhRgOiSlDtD6N_qLPXOEbBTRuCfOOlRgUy11LQbaSSpsIhHPA31xH1w6vN9s6oNIH6IKCHuxJzAUu5CehLxwzsCRFr2MOJzRyx7IhDcVwjhdOey988DVoUzMnm4qONHYOc4K1-HfNnNRodDc4aN4ztPN3FomsKLB7iRulD5L0pvHp2AR1H4ntaIfmG97bFk2iitG-LrPCHWEuFL3wRNUbxrcAna2tkOnLXNS665Dx-yRuBUMJdraMvHFBPjM9GHafRcgPk4ZGroms1Cnmt1XpIK5IH277ZRtSiyHQknaocnLBxSEl3Dh3dDUO2xCPASq58mIeZQq9jBbtWPrwlT5hb1zjTQ1LWwvlRROKkGo214DERuAXIysepm9dCPCXdteUCfbSchIPfEJMBb5R9ryadRhGjxtldYQ8oOxLvbJtfd8MYqwMozAvHMkKb_bJG3vikpQSf_DCijtslLU_xiRdN2EWmTP4zRd-i9eaCQyi3NLqvbkENG4tVTYaPJQS2MUSg_DZ0072It0LojUG3RQyG8STES5thhfVn-Sy_DpPt5rFPdERc-kbidRT4jM8sxwDO2xc_ZTSh1ty_5zC1Z3UzLPsAsEyNruXsR-Fd3ARmbgCFB9quKgseYspym60ghzLX0r8DbuwW8jr65EeG1KMwkU082sw-tHobjZ5nnaZVxhPD8B3g0L6nnzWZN2cDNI3qX5CNs2xAkcgWHba7NpcTMjpAPWsdOJaif4RzvTfKztPJlkLflklcXqL6hV1409Mr3GHbX83U-GX_OSEjLNpzYrPVSksCtLM0wIRZ8pkifeM8Yl6001u5gbzWe5J8Q7Gh9xV1u6nVx2E31UuoFkC7YsjNXmjDhgwmcjVRqLCqvnJPhdHVtErVqKatR5Jp_eRwgJ4jHwBksXUaeMrbFeGPwvviIr6e6w7xm4R3KGDPtn-EW2Xwiu8Fy0
 
 ##### 2.6.4.6.2. Bounded Context Database Design Diagram
 
@@ -2731,7 +2823,9 @@ Accede a la persistencia de los servicios.
 
 <img src="img/services-context-diagram.png" alt="services">
 
-*Para visualizar mejor ingresar a este Link:* [Class Diagram Services](https://img.plantuml.biz/plantuml/svg/tLZRRkCs47qFa7yWzgKf5b7UZIHTNxI12ZlooacAFd8bhbUfBAeKjLYZoB-NadKXPPAY5Ci5weV4kd3EuSoPuNW-fHGIcksYoui4-d_1BG8VDeZy27sKVW3_N5u0zgcVBF0EXd5zNtYsmW6AX4V2u-bsIz0MKiui__4ZcAQWGfQzaN-k4u9_X04YJZ01pNV5o-d1sW9H64RffB9UNkiNFS8TgbVa5uhNWun06k9u0XRbDoLpPcW2LZX6UnKqXJJBUHR_Zrzw4s-nIuMlNs2K8VVhA_Afpjlhse7WzfPRSt-lz7_8_1xXUDj9ha4HlTv6KW6rOpSCD0-SyTw4oFV4gu9l3DRenebfduqLsZ3VKocf6SOHWX9j6cjgZdSx60SwFSq9OlbTkhvydp7ra8z9a9DKxkev2NgjV5EG_98X4cehp0EYqoYgwap-_jwC8bjOhfhjdM3GmdIsRrAkqm9toNrL5saHLVHbUSNWcDeG-GPz91VDHpV9LGcZsyh-FVZE34JeIXfT__3_rrwMfD6MMthJxEqGFVEjBSEK7fEH2UBl_6-_FSdaeJIZPA8MYioMg129HkoVg22i4aa5yeZfPvp5WVtJFonWtgo_AxofN7lLdCjQljo_fab8aYZqYy8eRpAA6BC0AFiCKV3IHaAJ8CukYPIrj7p7GmbEGuh9VWBIzYt5qclv_TDbMuUr7XdN2fJaid8rdtxTZXQozTn-Vd_gTpYuJ_hh6VKh0PBmT6UP4tyZCAKaysb6a3pHreYaZ2AAVQJkwLyJsDtCDq5hr-W1nClLgPoqXrAgPZl7CIKuYjZEkbatBtVfLAmWjLR5steJGcxK5eIxFGNFF96mke_ic8PqVrk78iKPOSwV09-lBrSgbNQQoVZ2OchcDxPmsoZzZv1-NqF2scuMtNGubwsGWwPs-4IiZHsiSSL1Pism9wsC6eYkUjMiiVpls-rfcgBTLvOZvblxJF3kuFbwiIh1FhQMJW35nsOC8gDtMMwgCjlDIMOX9oOnrekPB2JzcCai36ScBSP5b_aBkBkx0zE71yz-c3xPh8s8mSjq-Mm3T_QxFN_QvCylBwhCiGup8wiO3rdD5CYgEuVhwtiWVvkVOrXhRjnpSkFjqT1O08T9qicjDxEdqnClXr5DwEVkQZLzN6nklZpRdcDl2WKqUj14lveXMDBIfIOaeTy98QrnFI5K8EMOmP8ra2VP1GTmr5QE121fE8TxgsdKhBmdi-epi6_ajOhH0DRbKhfGNbW55lrsC2QJFlum2a7FpD1cbD76pSysmn2ScqaVVnY5eDtl3SrfzKuDsYv3PxSiZO9kKbogusVXhgRE8zZOteipBq-VeoD9UWZLrz9VRYUeGYV3wH2u0aSSYAfXDCVNA23j8snCaEDZZDTEAHhWhDRBGZYUlNOtpfFh_NbJQQYb7MuaQLNJHqkCg2BGnP2hbMJyuCNYPYpMQmARh6ccNAFG6AJjyGbqrbCf1M4AATNF-74Omc50HewEhKdKSs7hytVkFZvvxd9fUqNsrcU0cBBjSuaR_3KAhSTxCdPwGOyArPhwdH3fVHtrk_5wDcr3ySnIQGGqJVACXoPBbvF3TZHaqyt6NisgdFJiZVliiQIi3zIRUZRGbQZ_v_RL0FOCFn0DM9pXDz8d50VPBleN).
+*Para visualizar mejor ingresar a este Link:* 
+
+https://img.plantuml.biz/plantuml/svg/tLZRRkCs47qFa7yWzgKf5b7UZIHTNxI12ZlooacAFd8bhbUfBAeKjLYZoB-NadKXPPAY5Ci5weV4kd3EuSoPuNW-fHGIcksYoui4-d_1BG8VDeZy27sKVW3_N5u0zgcVBF0EXd5zNtYsmW6AX4V2u-bsIz0MKiui__4ZcAQWGfQzaN-k4u9_X04YJZ01pNV5o-d1sW9H64RffB9UNkiNFS8TgbVa5uhNWun06k9u0XRbDoLpPcW2LZX6UnKqXJJBUHR_Zrzw4s-nIuMlNs2K8VVhA_Afpjlhse7WzfPRSt-lz7_8_1xXUDj9ha4HlTv6KW6rOpSCD0-SyTw4oFV4gu9l3DRenebfduqLsZ3VKocf6SOHWX9j6cjgZdSx60SwFSq9OlbTkhvydp7ra8z9a9DKxkev2NgjV5EG_98X4cehp0EYqoYgwap-_jwC8bjOhfhjdM3GmdIsRrAkqm9toNrL5saHLVHbUSNWcDeG-GPz91VDHpV9LGcZsyh-FVZE34JeIXfT__3_rrwMfD6MMthJxEqGFVEjBSEK7fEH2UBl_6-_FSdaeJIZPA8MYioMg129HkoVg22i4aa5yeZfPvp5WVtJFonWtgo_AxofN7lLdCjQljo_fab8aYZqYy8eRpAA6BC0AFiCKV3IHaAJ8CukYPIrj7p7GmbEGuh9VWBIzYt5qclv_TDbMuUr7XdN2fJaid8rdtxTZXQozTn-Vd_gTpYuJ_hh6VKh0PBmT6UP4tyZCAKaysb6a3pHreYaZ2AAVQJkwLyJsDtCDq5hr-W1nClLgPoqXrAgPZl7CIKuYjZEkbatBtVfLAmWjLR5steJGcxK5eIxFGNFF96mke_ic8PqVrk78iKPOSwV09-lBrSgbNQQoVZ2OchcDxPmsoZzZv1-NqF2scuMtNGubwsGWwPs-4IiZHsiSSL1Pism9wsC6eYkUjMiiVpls-rfcgBTLvOZvblxJF3kuFbwiIh1FhQMJW35nsOC8gDtMMwgCjlDIMOX9oOnrekPB2JzcCai36ScBSP5b_aBkBkx0zE71yz-c3xPh8s8mSjq-Mm3T_QxFN_QvCylBwhCiGup8wiO3rdD5CYgEuVhwtiWVvkVOrXhRjnpSkFjqT1O08T9qicjDxEdqnClXr5DwEVkQZLzN6nklZpRdcDl2WKqUj14lveXMDBIfIOaeTy98QrnFI5K8EMOmP8ra2VP1GTmr5QE121fE8TxgsdKhBmdi-epi6_ajOhH0DRbKhfGNbW55lrsC2QJFlum2a7FpD1cbD76pSysmn2ScqaVVnY5eDtl3SrfzKuDsYv3PxSiZO9kKbogusVXhgRE8zZOteipBq-VeoD9UWZLrz9VRYUeGYV3wH2u0aSSYAfXDCVNA23j8snCaEDZZDTEAHhWhDRBGZYUlNOtpfFh_NbJQQYb7MuaQLNJHqkCg2BGnP2hbMJyuCNYPYpMQmARh6ccNAFG6AJjyGbqrbCf1M4AATNF-74Omc50HewEhKdKSs7hytVkFZvvxd9fUqNsrcU0cBBjSuaR_3KAhSTxCdPwGOyArPhwdH3fVHtrk_5wDcr3ySnIQGGqJVACXoPBbvF3TZHaqyt6NisgdFJiZVliiQIi3zIRUZRGbQZ_v_RL0FOCFn0DM9pXDz8d50VPBleN
 
 ##### 2.6.5.6.2. Bounded Context Database Design Diagram
 
@@ -2878,11 +2972,16 @@ Accede a la persistencia de los perfiles de proveedores, implementando la interf
 
 <img src="img/reviews-context-diagram.png" alt="reviews">
 
-*Para visualizar mejor ingresar a este Link:* [Class Diagram Reviews](https://img.plantuml.biz/plantuml/svg/nLXjRwCu4FvUgV_1sY_NqwhyWAZjBStIYbDIif3sj9zEBdYpxF5snkbjTCf_F_EEmSOcWHwjsWGyCy-Cdnd6yoab49Dz65nUP3y9TF-2EmG-sEZDH_-a7y2_bnU0NlM3pt48_QY-ppnRnnuAc4VCOtstmsW72KfxQxBB3M2QWj8mRq5sNISuVlCzXF_qlGNOb5zCJx3Q3NmKaNpjClyeN8bpkulIVd_HaRrrpAB5zV851djalVv0BXdoiu4ERcvQCdTtGjSpBu8usad1DLOgf-UqKKHCsK8LQ8TWdsUdM0G9VRW0VaI4QY25-Xh70OBH6Tjb_7HHGlmuafFoAIOFyJxoQX7gS_rPxF57WVHL4GdJ-_KC-Ciu367a3O5Vqb0HL80ebrFWDd9Zx6MeXHlxd7XZ18y2Y5_s2Fk3EV-8Y1u4PUPdomzg0AbS8NH_CBrJvDBxGvE79ogeKamgtlhQ-bY7oK7upNSvSMfJiDo6SYsrPaO4uM_GHNp-VRHogi7WfiHx1xvJ-G1TyLZX5lyvV1JhuP64h-SeTglOT7MlLdvAUaWuBFex-plA7GwbX4f4A8JSEbqJIpAUdZwxZfqtjvuaWU_2p77-wpkFEWsAy0tEie_xZXQJrGoJGFXIA0HibCIfJs9yM03SkICGl1RKt8buFwnBdVkT7U9yhMBSpWHfX9cyUTy0dvk2mv4TaOQ3Q4QdefesUJfcbxJ-TpFKZBvXc1AyTyaU8twIRX1EAJmKkKZSQVz8eBIRQNQ-Mt1Fm5rAftpCDag96EmoZWYEWu0w9WNTh9KmdQqz5TlPkuCAcDIgv9cR8nE61Y6XNIOo8kAJmqsr2McynpJi2-2s2jELY9ao9VjMHL9LyXkLszNa_iCdtpSGmn3HFKrF1h9h9x2gbbRUrQeANKrLuUbIR4GhdNAQLIlLki7_ky7MqnI5hpGdbFrwm75OnBoMbPnUAia5875VYyAc38OhqrHfbIFYACXWSNIDmiNPZN6uE0fEnoKvBK2ttwOndK5MAT5FyW1Tw9Mj0RUGqzzVmEtjBT0V7stZKTyQO6azWHTzzMm0w_vtOxbrikUN5wLYhPW0QVcmHsjcEberkRc-lWFSjUt9YDOUtKohkHdqJAktcWnL0LjQwxN-zDd9uzL4JnohwgokyGg644CVhqmzhwoCKbzv-ENPi4r3tS7ofAznsi3ptMifxxQ6CoZdj8ppM65RoPEsoJ7i5tDPxXDb9IMbvO2lsLVdURNL-VbRdJ4qxcH126I8n9FRu31PPeCT9GXDYAawlO4ENUSoqAViZ9OOslQe2CprPfNJqJOsbcDkBVjhJiYIcmmVMtC9hHf1Q9rH0vT0-LkjZPezFscjev96JqHQzzmp1uGJScLkuzmaafXdfX0yjimS-_7sHsVtp7Q5IVykTeTgmNi149G8MXMsjhLQ6NPU88gAOUOlhApTt7RBGpDSqB8vWjOQ5zHPKGy5E007KsWsCvr9mLHMv0t7D1RKAjV4jWRVzjFOKYaCarlgbOBwoEKunlgUPeA4ylNHiowZucCyMvDPFVK0fADdUiiAlQlSfFAWGCtdKLG-4yM8P5B1e3oQK8l4g4Gx4yMedYJx-OGYRny6_m40).
+*Para visualizar mejor ingresar a este Link:*
+
+https://img.plantuml.biz/plantuml/svg/nLXjRwCu4FvUgV_1sY_NqwhyWAZjBStIYbDIif3sj9zEBdYpxF5snkbjTCf_F_EEmSOcWHwjsWGyCy-Cdnd6yoab49Dz65nUP3y9TF-2EmG-sEZDH_-a7y2_bnU0NlM3pt48_QY-ppnRnnuAc4VCOtstmsW72KfxQxBB3M2QWj8mRq5sNISuVlCzXF_qlGNOb5zCJx3Q3NmKaNpjClyeN8bpkulIVd_HaRrrpAB5zV851djalVv0BXdoiu4ERcvQCdTtGjSpBu8usad1DLOgf-UqKKHCsK8LQ8TWdsUdM0G9VRW0VaI4QY25-Xh70OBH6Tjb_7HHGlmuafFoAIOFyJxoQX7gS_rPxF57WVHL4GdJ-_KC-Ciu367a3O5Vqb0HL80ebrFWDd9Zx6MeXHlxd7XZ18y2Y5_s2Fk3EV-8Y1u4PUPdomzg0AbS8NH_CBrJvDBxGvE79ogeKamgtlhQ-bY7oK7upNSvSMfJiDo6SYsrPaO4uM_GHNp-VRHogi7WfiHx1xvJ-G1TyLZX5lyvV1JhuP64h-SeTglOT7MlLdvAUaWuBFex-plA7GwbX4f4A8JSEbqJIpAUdZwxZfqtjvuaWU_2p77-wpkFEWsAy0tEie_xZXQJrGoJGFXIA0HibCIfJs9yM03SkICGl1RKt8buFwnBdVkT7U9yhMBSpWHfX9cyUTy0dvk2mv4TaOQ3Q4QdefesUJfcbxJ-TpFKZBvXc1AyTyaU8twIRX1EAJmKkKZSQVz8eBIRQNQ-Mt1Fm5rAftpCDag96EmoZWYEWu0w9WNTh9KmdQqz5TlPkuCAcDIgv9cR8nE61Y6XNIOo8kAJmqsr2McynpJi2-2s2jELY9ao9VjMHL9LyXkLszNa_iCdtpSGmn3HFKrF1h9h9x2gbbRUrQeANKrLuUbIR4GhdNAQLIlLki7_ky7MqnI5hpGdbFrwm75OnBoMbPnUAia5875VYyAc38OhqrHfbIFYACXWSNIDmiNPZN6uE0fEnoKvBK2ttwOndK5MAT5FyW1Tw9Mj0RUGqzzVmEtjBT0V7stZKTyQO6azWHTzzMm0w_vtOxbrikUN5wLYhPW0QVcmHsjcEberkRc-lWFSjUt9YDOUtKohkHdqJAktcWnL0LjQwxN-zDd9uzL4JnohwgokyGg644CVhqmzhwoCKbzv-ENPi4r3tS7ofAznsi3ptMifxxQ6CoZdj8ppM65RoPEsoJ7i5tDPxXDb9IMbvO2lsLVdURNL-VbRdJ4qxcH126I8n9FRu31PPeCT9GXDYAawlO4ENUSoqAViZ9OOslQe2CprPfNJqJOsbcDkBVjhJiYIcmmVMtC9hHf1Q9rH0vT0-LkjZPezFscjev96JqHQzzmp1uGJScLkuzmaafXdfX0yjimS-_7sHsVtp7Q5IVykTeTgmNi149G8MXMsjhLQ6NPU88gAOUOlhApTt7RBGpDSqB8vWjOQ5zHPKGy5E007KsWsCvr9mLHMv0t7D1RKAjV4jWRVzjFOKYaCarlgbOBwoEKunlgUPeA4ylNHiowZucCyMvDPFVK0fADdUiiAlQlSfFAWGCtdKLG-4yM8P5B1e3oQK8l4g4Gx4yMedYJx-OGYRny6_m40
 
 ##### 2.6.6.6.2. Bounded Context Database Design Diagram
 
 ![reviews database diagram](img/BD-Diagram-Reviews.png)
+
+<div style="page-break-before: always;"></div>
+
 
 # Capítulo II: Solution UI/UX Design
 
@@ -3416,6 +3515,9 @@ URL del prototipo en figma: https://www.figma.com/proto/2RXg2e7OWrAbqYfNcw2EVP/U
 URL del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EUCzj5c18VdGvJxPX_m0NzcB_UOw9M2pYyfzjp6ukzwg8g
 
 <img src="img/prototipo.png" alt="Prototipo">
+
+<div style="page-break-before: always;"></div>
+
 
 # Capítulo IV: Product Implementation, Validation
 ## 4.1. Software Configuration Management
@@ -4422,8 +4524,11 @@ Cabe mencionar que debido a que Render al ser un servicio gratuito , al acceder 
 | Qqueso Rodriguez, Britney Delhy      | Implementación de pantallas de visualizacion de perfil, favoritos, idiomas y ajustes  |
 | Yum Gonzales, Jorge Suin             | Implementación de pantallas de reserva de servicio |
 
-![alt text](/img/insight_sprint1_1.png)
-![alt text](/img/insight_sprint1_2.png)
+![alt text](img/insight_sprint1_2.png)
+
+![alt text](img/insight_sprint1_1.png)
+
+<div style="page-break-before: always;"></div>
 
 ## Conclusiones y recomendaciones
 
@@ -4453,6 +4558,7 @@ Cabe mencionar que debido a que Render al ser un servicio gratuito , al acceder 
 
 6. **Mejorar la conectividad entre la aplicación móvil y el backend**: Aunque se implementó un backend completo con API REST y se desarrollaron las pantallas móviles, se recomienda optimizar la integración real entre ambos componentes para que las funcionalidades de reserva, gestión de favoritos y perfil de usuario funcionen completamente en tiempo real. Esto incluye mejorar la sincronización de datos y la experiencia de usuario durante las operaciones de red.
 
+<div style="page-break-before: always;"></div>
 
 # Bibliografía
 
@@ -4485,6 +4591,9 @@ Sey, A., & Hafkin, N. (2023). Beyond productivity: The role of mobile technology
 Tarafdar, M., Bose, I., & Dey, S. (2023). Task-technology fit of mobile productivity apps: A measurement model and validation. Information & Management, 60(4), 103782. https://www.sciencedirect.com/journal/information-and-management/vol/60/issue/4
 
 Verhoef, P. C., Broekhuizen, T., Bart, Y., Bhattacharya, A., Dong, J. Q., Fabian, N., & Haenlein, M. (2023). Digitalization in small businesses: A review and research agenda. International Journal of Management Reviews, 25(2), 343-368. https://onlinelibrary.wiley.com/toc/14682370/25/2
+
+<div style="page-break-before: always;"></div>
+
 
 # Anexos
 
