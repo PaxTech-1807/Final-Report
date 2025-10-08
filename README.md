@@ -3091,100 +3091,36 @@ Para el desarrollo de los wireframes y mockups de uTime, utilizaremos **Figma** 
 ###  3.1.4. Mobile Applications UX/UI Design
 #### 3.1.4.1. Mobile Applications Wireframes
 
-<p align="center">
-  <img src="img/Mobile-1.png" alt="Mobile-1" width="320">
-</p>
-
-El wireframe móvil de uTime presenta una estructura clara y fácil de navegar. En la parte superior hay una barra con el logotipo a la izquierda y un menú hamburguesa a la derecha. Debajo aparece un bloque de accesos rápidos con Appointments, My favorites y My profile. La sección Upcoming appointments muestra la fecha a la izquierda y dos tarjetas con las próximas citas. Más abajo, Most popular ofrece un carrusel con imagen, especialidad, calificación y el botón Book now. El diseño favorece una experiencia fluida y ordenada.
+En esta sección se presentan los wireframes iniciales de la aplicación móvil. Estos bocetos permiten visualizar la estructura básica de las interfaces, con un diseño preliminar sencillo cuyo propósito es identificar los componentes clave de cada pantalla. Esta aproximación facilita la validación temprana del flujo de navegación y sienta las bases para desarrollar un diseño más detallado, coherente y centrado en el usuario.
 
 <p align="center">
-  <img src="img/Mobile-2.png" alt="Mobile-2" width="280">
-  <img src="img/Mobile-3.png" alt="Mobile-3" width="280">
+  <img src="img/IMG-1.png" alt="Mobile-1" width="320">
 </p>
-
-La vista de profesional prioriza la reserva. Arriba hay una barra con menú y una imagen de portada con badge de calificación y flechas de navegación. Debajo se muestran el nombre del profesional, el botón de favorito, la ubicación y enlaces a Instagram y TikTok. Luego aparecen las pestañas Services, Reviews y Portafolio, con Services activa. La lista presenta cada servicio con descripción breve, precio, duración y botón Book. El diseño favorece exploración rápida, decisión informada y acción directa.
-
 <p align="center">
-  <img src="img/Mobile-4.png" alt="Mobile-4" width="240">
-  <img src="img/Mobile-5.png" alt="Mobile-5" width="240">
-  <img src="img/Mobile-6.png" alt="Mobile-6" width="240">
+  <img src="img/IMG-2.png" alt="Mobile-2" width="320">
 </p>
-
-El flujo móvil de reserva en uTime se organiza en tres pantallas. Primero, Choose your stylist muestra tarjetas con foto, nombre y especialidad, incluye marcar favorito y seleccionar con un indicador, al final aparece Continue. Luego, Choose the date presenta un calendario mensual con estados Not available, Available y Selected, debajo hay franjas horarias en chips para elegir día y hora, se avanza con Continue. Por último, Select the payment method permite Debit or credit card o Yape, con campos de tarjeta visibles si se elige card, se muestra el Total y el botón Continue.
-
 <p align="center">
-  <img src="img/Mobile-7.png" alt="Mobile-7" width="320">
+  <img src="img/IMG-3.png" alt="Mobile-3" width="320">
 </p>
-
-Vista de inicio para clientes de uTime. Un bloque de accesos rápidos lleva a Appointments, My favorites y My profile. A la derecha hay un recordatorio con la fecha y dos chips para Tomorrow y Next week. Luego se listan las citas en tarjetas con imagen, ubicación, horario, estilista e íconos de acciones. Al final la sección Last visited muestra el último profesional con rating y un campo para dejar una reseña. Diseño limpio y jerarquía clara para actuar rápido.
-
 <p align="center">
-  <img src="img/Mobile-8.png" alt="Mobile-8" width="320">
+  <img src="img/IMG-4.png" alt="Mobile-4" width="320">
 </p>
-
-Pantalla móvil de My favorites en uTime. Arriba hay accesos rápidos y a la derecha un recordatorio con la fecha y chips de Tomorrow y Next week. Debajo aparece el título y una lista desplazable de profesionales con foto, nombre, especialidad, calificación y corazón de favorito, cada tarjeta con botón Book now. Diseño limpio con jerarquía clara y acción principal evidente.
-
 <p align="center">
-  <img src="img/Mobile-9.png" alt="Mobile-9" width="320">
+  <img src="img/IMG-5.png" alt="Mobile-5" width="320">
 </p>
-
-Pantalla móvil Your profile. Encabezado con opción Back y título editable. Bloque Personal information con campos de nombre, e-mail, teléfono, documento, y switches para Notifications y Location. Sección Change password con campos de contraseña actual y nueva, y botón Save changes. Al final aparecen Log out y Delete account como acciones secundarias.
-
 <p align="center">
-  <img src="img/Mobile-10.png" alt="Mobile-10" width="320">
+  <img src="img/IMG-6.png" alt="Mobile-6" width="320">
 </p>
-
-El wireframe móvil de uTime presenta una estructura simple y directa. Arriba hay una barra con menú. Debajo, un bloque de accesos rápidos a Appointments, My favorites y My profile. La sección Upcoming appointments muestra la fecha a la izquierda y dos chips con las próximas citas, Tomorrow y Next week. Más abajo, Staff despliega un carrusel de profesionales con imagen, especialidad, calificación y botón “View schedule”. El diseño favorece consulta rápida y navegación clara.
-
 <p align="center">
-  <img src="img/Mobile-11.png" alt="Mobile-11" width="320">
+  <img src="img/IMG-7.png" alt="Mobile-7" width="320">
 </p>
-
-En esta vista móvil se prioriza lo importante: accesos rápidos, agenda próxima y staff. Un bloque inicial ofrece Appointments, My favorites y My profile. Upcoming appointments muestra la fecha a la izquierda y dos chips con Tomorrow y Next week. Más abajo, Staff despliega un carrusel con imagen, especialidad, calificación y botón View schedule. Navegación clara y acciones visibles para reservar rápido.
-
 <p align="center">
-  <img src="img/Mobile-12.png" alt="Mobile-12" width="320">
+  <img src="img/IMG-8.png" alt="Mobile-8" width="320">
 </p>
-
-Vista móvil de Appointments con selector de profesional y flechas para cambiar. Debajo se muestra una agenda semanal en columnas por día y una escala horaria vertical a la izquierda. Las citas aparecen como chips dentro de cada columna con servicio, rango de hora y nombre del cliente. Permite revisar huecos y organizar la semana de un vistazo.
-
 <p align="center">
-  <img src="img/Mobile-13.png" alt="Mobile-13" width="320">
+  <img src="img/IMG-9.png" alt="Mobile-9" width="320">
 </p>
 
-Pantalla móvil de Reviews. Arriba se muestra el título y un marcador Overall score 4.7 con estrella. Debajo aparece una lista vertical de reseñas separadas por líneas. Cada ítem incluye nombre del usuario, calificación con estrellas y un breve comentario. El espaciado amplio y la tipografía clara favorecen una lectura rápida y un scroll continuo.
-
-<p align="center">
-  <img src="img/Mobile-14.png" alt="Mobile-14" width="320">
-</p>
-
-Pantalla móvil Services. Encabezado con título y botón + New Service alineado a la derecha. Lista de tarjetas por servicio con nombre en negrita y breve descripción. Fila de metadatos con Duration, Price y Status mostrado como chip Active. Separador fino y zona de acciones con íconos de editar y eliminar. Diseño en tarjetas con bordes redondeados y sombra ligera para gestionar y crear servicios de forma rápida.
-
-<p align="center">
-  <img src="img/Mobile-15.png" alt="Mobile-15" width="240">
-  <img src="img/Mobile-16.png" alt="Mobile-16" width="240">
-  <img src="img/Mobile-17.png" alt="Mobile-17" width="240">
-</p>
-
-Sección de planes y precios. Cada plan se presenta en una vista vertical con título grande, breve resumen y una imagen de muestra. Abajo aparece FEATURES con lista de beneficios. El precio se destaca en tipografía gruesa. Deluxe Studio muestra s/.129.9 x month. ProStyle muestra s/.69.9 x month. Essential se indica Free. Al final de cada pantalla hay dos llamadas a la acción: Schedule a demo y I want it!. Diseño simple, lectura rápida y foco en conversión.
-
-<p align="center">
-  <img src="img/Mobile-18.png" alt="Mobile-18" width="320">
-</p>
-
-Pantalla de Settings. Encabezado con opción Back y título con icono de edición. La sección Personal information incluye campos de Name, Address, Phone number e Identity document, además de switches para Notifications y Location. Más abajo, Change password aparece en una tarjeta con el email, la contraseña actual con botón Change, campos New password y Confirm new password, y el botón Save changes. Diseño simple y enfocado en edición rápida.
-
-<p align="center">
-  <img src="img/Mobile-19.png" alt="Mobile-19" width="320">
-</p>
-
-Pantalla de Notifications. Encabezado con título y acción Empty para limpiar. Debajo aparece una lista cronológica de avisos en tarjetas compactas con ícono a la izquierda y marca temporal a la derecha. Se muestran recordatorios de cita inminente, cancelaciones, reprogramaciones, aviso de límite de plan, mantenimiento del sistema, sugerencia de upgrade y creación de nueva cita. Cada ítem tiene separación y fondo suave para facilitar el escaneo rápido.
-
-<p align="center">
-  <img src="img/Mobile-20.png" alt="Mobile-20" width="320">
-</p>
-
-Pantalla móvil Your profile. Encabezado con acción Log out. Bloque de perfil con avatar, nombre del negocio y calificación 4.7. Enlaces a Instagram y TikTok. Sección Portfolio en cuadrícula con tarjeta “+” para añadir. Debajo Recent reviews con tarjetas que muestran nombre, estrellas y breve comentario. Diseño limpio y enfocado en gestionar portafolio y revisar reseñas.
 
 #### 3.1.4.2. Mobile Applications Wireflow Diagrams
 #### 3.1.4.3. Mobile Applications Mock-ups
