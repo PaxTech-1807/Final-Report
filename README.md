@@ -72,7 +72,8 @@
 
    <br>
 
-   <center><b>Septiembre 2025</b></center>
+   <center><b>Octubre 2025</b></center>
+   <br>
    <center><b>Ciclo 2025-20</b></center>
 
    <br>
@@ -82,6 +83,8 @@
 <br>
 <br>
 <br>
+
+<div style="page-break-before: always;"></div>
 
 # Registro de Versiones del Informe
 
@@ -114,6 +117,8 @@
 <br>
 <br>
 <br>
+
+<div style="page-break-before: always;"></div>
 
 # Project Report Collaboration Insights
 
@@ -197,6 +202,8 @@ Los integrantes son:
 ![tp1_imagen2](/img/insight_tp1_2.png)
 
 <br>
+
+<div style="page-break-before: always;"></div>
 
 # Contenido
 
@@ -345,6 +352,8 @@ Los integrantes son:
 
 <br>
 
+<div style="page-break-before: always;"></div>
+
 # Student Outcomes
    **Student Outcome ABET 7**
 
@@ -438,6 +447,8 @@ Los integrantes son:
 
 <br>
 
+<div style="page-break-before: always;"></div>
+
 # Objetivos SMART
 <Table>
    <thead>
@@ -512,6 +523,7 @@ Los integrantes son:
    </tbody>
 </Table>
 
+<div style="page-break-before: always;"></div>
 
 # Capítulo I: Presentación
 
