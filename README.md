@@ -3602,20 +3602,20 @@ Dentro del marco de trabajo Scrum, cada Sprint constituye un periodo de tiempo f
       <td>Done</td>
    </tr>
    <tr>
-      <td rowspan="2">US34</td>
-      <td rowspan="2">Contacto y soporte</td>
+      <td rowspan="2">US22</td>
+      <td rowspan="2">Administración de servicios ofrecidos</td>
       <td>T13</td>
-      <td>Redacción del mensaje de contacto</td>
-      <td>Escribir el texto base para contacto</td>
-      <td>0.5</td>
+      <td>Muestra de categorias en pantalla</td>
+      <td>Implementación de barra de búsqueda</td>
+      <td>2.5</td>
       <td>Natalia Roman</td>
       <td>Done</td>
    </tr>
    <tr>
       <td>T14</td>
-      <td>Maquetación del Formulario</td>
-      <td>Implementar el formulario de contacto</td>
-      <td>1.5</td>
+      <td>Búsqueda de servicios por nombre</td>
+      <td>Implememtación de tarjetas de presentación para cada servicio</td>
+      <td>3.5</td>
       <td>Natalia Roman</td>
       <td>Done</td>
    </tr>
@@ -3701,7 +3701,6 @@ Dentro del marco de trabajo Scrum, cada Sprint constituye un periodo de tiempo f
    </tr>
    
 </table>
-
 
 #### 4.2.1.3. Development Evidence for Sprint Review
 A continuación, se presenta un detalle de los commits realizados, los cuales corresponden a las tareas asignadas a cada miembro del equipo, según lo establecido en el Sprint Backlog 1.
