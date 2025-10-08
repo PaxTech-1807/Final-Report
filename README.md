@@ -167,7 +167,7 @@ Para el desarrollo del informe perteneciente a la entrega del TB2, se dividió l
 
 | Integrantes     | Tareas Asignadas                                                                                                                                                                  |
 |-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Luciana Choquehuanca  |            |
+| Luciana Choquehuanca  |    Elaboración de la aplicacion movil fidelidad baja/wireframe, correción de bounded canvas, flujos de la aplicaciòn movil bassado en user goeals | 
 | Britney Qqueso        |    Diseño de la app en Figma, Mobile Applications Mock-ups, Mobile Applications User Flow Diagrams, Mobile Applications Prototyping, Testing Suite Evidence for Sprint Review y desarrollo de profile de la app.        |
 | Gael Rivera           |    Execution Evidence for Sprint Review de la Landing Page, Backend y Aplicación Mobil, Landing Page Wireframe y Landing Page Mock-up.        |
 | Natalia Roman         |    Diseño de la ventana de categorias y deb búsqueda de servicios, conexión con backend, Sprint Planning 1 y Software Configuration Management |
@@ -384,7 +384,7 @@ Los integrantes son:
       <td>
          <strong>Luciana Carolina Choquehuanca Nuñez</strong> <br>  
          <b>TB1:</b> Durante el desarrollo del proyecto uTime, actualicé mis conocimientos en metodologías de diseño UX/UI centradas en el usuario, profundizando en técnicas de research como análisis competitivo y entrevistas con usuarios objetivo del sector belleza. Consolidé conceptos de arquitectura de información y wireframing, aplicando principios de usabilidad y accesibilidad web. También actualicé mis habilidades en herramientas de prototipado y testing de aplicaciones móviles, integrando conceptos de psicología del usuario y design thinking para crear experiencias digitales optimizadas que complementen la arquitectura técnica desarrollada por el equipo. <br>
-         <b>TB2:</b> Durante esta entrega, actualicé mis conocimientos en documentación técnica y diseño de interfaces móviles. Elaboré el diseño base de la aplicación, incluyendo wireframes y la pantalla de reserva de servicios. Además, realicé mejoras en el Bounded Context Canvas, fortaleciendo la definición de límites del sistema. Esta experiencia me permitió consolidar conocimientos en usabilidad, accesibilidad, testing y presentación estructurada de evidencias técnicas, reforzando mis competencias en el desarrollo de soluciones centradas en el usuario.
+         <b>TP1:</b> Durante esta entrega, actualicé mis conocimientos en documentación técnica y diseño de interfaces móviles. Elaboré el diseño base de la aplicación, incluyendo wireframes y la pantalla de reserva de servicios. Además, realicé mejoras en el Bounded Context Canvas, fortaleciendo la definición de límites del sistema. Esta experiencia me permitió consolidar conocimientos en usabilidad, accesibilidad, testing y presentación estructurada de evidencias técnicas, reforzando mis competencias en el desarrollo de soluciones centradas en el usuario.
       </td>
     </tr>
     <tr>
@@ -421,7 +421,7 @@ Los integrantes son:
       <td>
          <strong>Luciana Carolina Choquehuanca Nuñez</strong> <br>  
          <b>TB1:</b> A lo largo de este avance reconocí la necesidad del aprendizaje permanente al enfrentar el desafío de crear experiencias de usuario que evolucionen con las tendencias del mercado de belleza y las expectativas cambiantes de los usuarios. La investigación continua sobre nuevas metodologías de UX research, herramientas de prototipado emergentes y técnicas de testing de usabilidad me demostró que el campo del diseño digital requiere actualización constante. Me comprometí a mantenerme al día con las mejores prácticas de diseño móvil, accesibilidad y métricas de experiencia de usuario para garantizar que las interfaces que diseñe cumplan con los más altos estándares de calidad y satisfacción del usuario final. <br>
-         <b>TB2:</b> Durante esta entrega reafirmé la importancia del aprendizaje permanente al enfrentar retos en documentación técnica, diseño móvil y testing de interfaces. Este proceso me impulsó a investigar continuamente sobre buenas prácticas de presentación de evidencias, accesibilidad, integración de herramientas y validación de la experiencia de usuario. Reconocí que el aprendizaje continuo es clave para adaptarme a nuevas tecnologías y mantener un enfoque profesional en el desarrollo de soluciones de software efectivas y actualizadas.
+         <b>TP1:</b> Durante esta entrega reafirmé la importancia del aprendizaje permanente al enfrentar retos en documentación técnica, diseño móvil y testing de interfaces. Este proceso me impulsó a investigar continuamente sobre buenas prácticas de presentación de evidencias, accesibilidad, integración de herramientas y validación de la experiencia de usuario. Reconocí que el aprendizaje continuo es clave para adaptarme a nuevas tecnologías y mantener un enfoque profesional en el desarrollo de soluciones de software efectivas y actualizadas.
       </td>
     </tr>
     <tr>
@@ -3123,6 +3123,21 @@ En esta sección se presentan los wireframes iniciales de la aplicación móvil.
 
 
 #### 3.1.4.2. Mobile Applications Wireflow Diagrams
+
+**Segmento objetivo #1: Salones de belleza y barberías**
+* **User Goal:** Como propietario de un salón, quiero gestionar las reservas de clientes de manera eficiente para optimizar mi tiempo y brindar un buen servicio.
+* Task flow:
+<div align="center">
+<img src="img/wireflow1.jpeg" alt="wireflow_salones" width="450" />
+</div>
+
+**Segmento objetivo #1: Clientes de servicios de belleza**
+* **User Goal:** Como cliente de un salón, quiero agendar mi cita rápidamente con mi estilista de confianza para asegurarme de ser atendido a tiempo.
+* Task flow:
+<div align="center">
+<img src="img/wireflow2.jpeg" alt="wireflow_clientes" width="450" />
+</div>
+
 #### 3.1.4.3. Mobile Applications Mock-ups
 
 Los mockups definen el aspecto visual final de la aplicación, detallando los colores, tipografías y elementos gráficos para asegurar una experiencia de usuario atractiva y coherente con la identidad de la app.
@@ -3587,20 +3602,20 @@ Dentro del marco de trabajo Scrum, cada Sprint constituye un periodo de tiempo f
       <td>Done</td>
    </tr>
    <tr>
-      <td rowspan="2">US34</td>
-      <td rowspan="2">Contacto y soporte</td>
+      <td rowspan="2">US22</td>
+      <td rowspan="2">Administración de servicios ofrecidos</td>
       <td>T13</td>
-      <td>Redacción del mensaje de contacto</td>
-      <td>Escribir el texto base para contacto</td>
-      <td>0.5</td>
+      <td>Muestra de categorias en pantalla</td>
+      <td>Implementación de barra de búsqueda</td>
+      <td>2.5</td>
       <td>Natalia Roman</td>
       <td>Done</td>
    </tr>
    <tr>
       <td>T14</td>
-      <td>Maquetación del Formulario</td>
-      <td>Implementar el formulario de contacto</td>
-      <td>1.5</td>
+      <td>Búsqueda de servicios por nombre</td>
+      <td>Implememtación de tarjetas de presentación para cada servicio</td>
+      <td>3.5</td>
       <td>Natalia Roman</td>
       <td>Done</td>
    </tr>
@@ -3748,7 +3763,6 @@ Dentro del marco de trabajo Scrum, cada Sprint constituye un periodo de tiempo f
    </tr>
    
 </table>
-
 
 #### 4.2.1.3. Development Evidence for Sprint Review
 A continuación, se presenta un detalle de los commits realizados, los cuales corresponden a las tareas asignadas a cada miembro del equipo, según lo establecido en el Sprint Backlog 1.
