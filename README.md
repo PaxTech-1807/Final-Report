@@ -1181,7 +1181,7 @@ Preguntas para el segmento objetivo 02
 - **Duración:** 20:43 minutos
 - **Screenshot del cuadro de video:** ![Entrevista Luis Fernando](img/Entrevista-1.png)
 
-- **URL del video (Microsoft Stream):** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fLXfTL
+- **URL del video (Microsoft Stream):** [Video Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ)
 
 
 **Resumen:**
@@ -1198,7 +1198,7 @@ Luis Fernando Farfán es un barbero de Chiclayo que tiene 8 años de experiencia
 - **Duración:** 20:43 minutos
 - **Screenshot del cuadro de video:** ![Entrevista Maria Ysabel Sosa](img/Entrevista-2.png)
 
-- **URL del video (Microsoft Stream):** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fLXfTL
+- **URL del video (Microsoft Stream):** [Video Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ)
 
 
 **Resumen:**
@@ -1213,7 +1213,7 @@ María Ysabel Sosa Rodríguez, de 45 años, es dueña de un salón de belleza y 
 - **Edad:** 20 años
 - **Distrito:** San Isidro
 - **Screenshot del cuadro de video:** *![interview_1.jpeg](img/Entrevista-3.png)*
-- **URL del video (Microsoft Stream):** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fLXfTL
+- **URL del video (Microsoft Stream):** [Video Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ)
 - **Inicio de la entrevista:** 12:20 minutos
 - **Duración:** 20:43 minutos
 
@@ -1227,7 +1227,7 @@ María Ysabel Sosa Rodríguez, de 45 años, es dueña de un salón de belleza y 
 - **Edad:** 20
 - **Distrito:** Chorrillos
 - **Screenshot del cuadro de video:** *![interview_2.jpeg](img/Entrevista-4.png)*
-- **URL del video (Microsoft Stream):** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fLXfTL
+- **URL del video (Microsoft Stream):** [Video Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ)
 - **Inicio de la entrevista:** 16:53 minutos
 - **Duración:** 20:43 minutos
 
@@ -1834,7 +1834,7 @@ Aquí, utilizamos la API de Stripe para que el pago de los servicios sea realiza
 ##### Step 9 & 10: Aggregates & Bounded Contexts
 
 Para los dos últimos pasos, hemos agregado los aggregates y terminado de definir los bounded contexts. A continuación, se mostrará cada Bounded context y se finalizará mostrando el resultado total. Para una mejor vista, se puede ingresar al siguiente enlace: 
-[https://lucid.app/lucidspark/c6b278dc-6a8f-45dd-9c1b-f0455160b1f2/edit?viewport_loc=5984%2C-9745%2C7122%2C8308%2C0_0&invitationId=inv_48046525-d121-4810-94d7-65cc13a2dc23](https://lucid.app/lucidspark/c6b278dc-6a8f-45dd-9c1b-f0455160b1f2/edit?viewport_loc=5984%2C-9745%2C7122%2C8308%2C0_0&invitationId=inv_48046525-d121-4810-94d7-65cc13a2dc23)
+[Lucid Bounded Context Canvas](https://lucid.app/lucidspark/c6b278dc-6a8f-45dd-9c1b-f0455160b1f2/edit)
 
 **Bounded Context Iam**
 Contiene el aggregate Users
@@ -3141,7 +3141,7 @@ En esta sección se presentan los wireframes iniciales de la aplicación móvil.
 
 Los mockups definen el aspecto visual final de la aplicación, detallando los colores, tipografías y elementos gráficos para asegurar una experiencia de usuario atractiva y coherente con la identidad de la app.
 
-URL del Link de Figma: [Figma](https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME?node-id=160-7176&t=E1kC09GYRQ6JJkTE-1)
+URL del Link de Figma: [Figma](https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME)
 
 **Vista de clientes de servicios de belleza**
 
@@ -3334,7 +3334,7 @@ URL del Link de Figma: [Figma](https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2E
 #### 3.1.4.4. Mobile Applications User Flow Diagrams
 Los diagramas de flujo de usuario (user flow) mapean el camino completo que sigue una persona dentro de la aplicación, desde el principio hasta que alcanza su meta. Esto permite visualizar y entender las interacciones, pasos y decisiones cruciales en cada momento.
 
-URL del Link de Figma: [https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME?node-id=160-7176&t=E1kC09GYRQ6JJkTE-1](https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME?node-id=160-7176&t=E1kC09GYRQ6JJkTE-1)
+URL del Link de Figma: [Diseño Figma](https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME)
 
 
 **Vista de clientes de servicios de belleza**
@@ -3397,9 +3397,9 @@ URL del Link de Figma: [https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIM
 Creamos un prototipo de interacción real para que se pueda experimentar la aplicación en un entorno simulado antes de codificarla. Esta herramienta interactiva muestra el flujo exacto entre las pantallas y cómo reacciona cada elemento, lo que nos permite validar y optimizar la usabilidad.
 
 
-URL del prototipo en figma: [https://www.figma.com/proto/2RXg2e7OWrAbqYfNcw2EVP/UTIME?node-id=1518-2275&p=f&t=w5uIq7OCFb3diwCL-1&scaling=min-zoom&content-scaling=fixed&page-id=160%3A7176&starting-point-node-id=1518%3A1475&show-proto-sidebar=1](https://www.figma.com/proto/2RXg2e7OWrAbqYfNcw2EVP/UTIME?node-id=1518-2275&p=f&t=w5uIq7OCFb3diwCL-1&scaling=min-zoom&content-scaling=fixed&page-id=160%3A7176&starting-point-node-id=1518%3A1475&show-proto-sidebar=1)
+URL del prototipo en figma: [Prototipo Figma](https://www.figma.com/proto/2RXg2e7OWrAbqYfNcw2EVP/UTIME)
 
-URL del video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EUCzj5c18VdGvJxPX_m0NzcB_UOw9M2pYyfzjp6ukzwg8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Uqn5eM](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EUCzj5c18VdGvJxPX_m0NzcB_UOw9M2pYyfzjp6ukzwg8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Uqn5eM)
+URL del video: [Video Prototipo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EUCzj5c18VdGvJxPX_m0NzcB_UOw9M2pYyfzjp6ukzwg8g)
 
 <img src="img/prototipo.png" alt="Prototipo">
 
@@ -4450,7 +4450,7 @@ What is Figma? (2019). Figma Learn - Help Center. https://help.figma.com/hc/en-u
 
 Structurizr. (2025). https://structurizr.com/
 
-Lucidchart | Diagramas creados con inteligencia. (2025). Lucidchart. https://www.lucidchart.com/pages/es/landing?utm_source=google&utm_medium=cpc&utm_campaign=_chart_es_tier2_mixed_search_brand_phrase_&km_CPC_CampaignId=1501207844&km_CPC_AdGroupID=63362152012&km_CPC_Keyword=%2Blucidchart%20%2Bsoftware&km_CPC_MatchType=b&km_CPC_ExtensionID=&km_CPC_Network=g&km_CPC_AdPosition=&km_CPC_Creative=286846989106&km_CPC_TargetID=kwd-375017978385&km_CPC_Country=9186211&km_CPC_Device=c&km_CPC_placement=&km_CPC_target=&gad_source=1&gbraid=0AAAAADLdSjCGPJBFHw9InHN-Qfss5OfWy&gclid=Cj0KCQjwoNzABhDbARIsALfY8VPCJ6QSDWkzARgPQcf7VUOTXMJ-PZWXoYd1OdiqYtYOFsopUiaeMW8aAifbEALw_wcB
+Lucidchart | Diagramas creados con inteligencia. (2025). Lucidchart. https://www.lucidchart.com
 
 Videoconferencia, reuniones, llamadas | MicrosoftTeams. (2025). https://www.microsoft.com/es-es/microsoft-teams/group-chat-software
 
@@ -4484,10 +4484,10 @@ URL del Repositorio del Backend: [https://github.com/PaxTech-1807/Web-Services](
 
 URL del Deployment Deployado: [https://utime-web-service.onrender.com/swagger-ui/index.html](https://utime-web-service.onrender.com/swagger-ui/index.html)
 
-Bounded Context Canavas: [https://lucid.app/lucidspark/b49d697e-a5a0-4eca-bcee-a9be27954927/edit?invitationId=inv_bfecb053-e59d-41d8-aac5-7a1275a78017&page=0_0#](https://lucid.app/lucidspark/b49d697e-a5a0-4eca-bcee-a9be27954927/edit?invitationId=inv_bfecb053-e59d-41d8-aac5-7a1275a78017&page=0_0#)
+Bounded Context Canavas: [https://lucid.app/lucidspark/b49d697e-a5a0-4eca-bcee-a9be27954927/edit](https://lucid.app/lucidspark/b49d697e-a5a0-4eca-bcee-a9be27954927/edit)
 
 URL del Repositorio del Mobile App: [https://github.com/PaxTech-1807/Mobile-App](https://github.com/PaxTech-1807/Mobile-App)
 
-URL Compilacion de primera ronda de Entrevistas: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fLXfTL](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fLXfTL)
+URL Compilacion de primera ronda de Entrevistas: [Video Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ)
 
-URL del Figma con los Mockups y Wireframes de la Aplicación: [https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME?node-id=160-7176&t=E17fyI5FpJlRybJg-1](https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME?node-id=160-7176&t=E17fyI5FpJlRybJg-1)
+URL del Figma con los Mockups y Wireframes de la Aplicación: [Figma Mockups](https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME)
