@@ -3395,7 +3395,7 @@ URL del Link de Figma: [Figma](https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2E
 
 **User flow 2 - Sección de busqueda** 
 <p align="center">
-<img src="img/user_flow_2.png" alt="User Flow 2">
+<img src="img/user_flow_4.png" alt="User Flow 2">
 </p>
 
 **User flow 3 - Sección de gestión de citas** 
@@ -3405,7 +3405,7 @@ URL del Link de Figma: [Figma](https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2E
 
 **User flow 4 - Sección de descubrir → seleccionar servicio → reservar** 
 <p align="center">
-<img src="img/user_flow_4.png" alt="User Flow 4">
+<img src="img/user_flow_2.png" alt="User Flow 4">
 </p>
 
 **User flow 5 - Sección de información del perfil** 
