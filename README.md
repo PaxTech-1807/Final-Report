@@ -193,9 +193,8 @@ Los integrantes son:
 
 **Capturas de la participación en el informe:**
 
-![alt text]()
-![alt text]()
-
+![alt text](/img/insight_tp1_1.png)
+![alt text](/img/insight_tp1_2.png)
 
 <br>
 
@@ -4397,6 +4396,8 @@ Cabe mencionar que debido a que Render al ser un servicio gratuito , al acceder 
 
 #### 4.2.1.8. Team Collaboration Insights during Sprint
 
+**Aplicación Móvil**
+
 | **Alumno**                           | **Actividad**                                                       |
 |--------------------------------------|---------------------------------------------------------------------|
 | Roman Cruz, Natalia Riman            | Implementación de pantalla categorias, busqueda de servicios y conección con backend |
@@ -4405,7 +4406,8 @@ Cabe mencionar que debido a que Render al ser un servicio gratuito , al acceder 
 | Qqueso Rodriguez, Britney Delhy      | Implementación de pantallas de visualizacion de perfil, favoritos, idiomas y ajustes  |
 | Yum Gonzales, Jorge Suin             | Implementación de pantallas de reserva de servicio |
 
-
+![alt text](/img/insight_sprint1_1.png)
+![alt text](/img/insight_sprint1_2.png)
 
 ## Conclusiones y recomendaciones
 
