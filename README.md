@@ -72,7 +72,8 @@
 
    <br>
 
-   <center><b>Septiembre 2025</b></center>
+   <center><b>Octubre 2025</b></center>
+   <br>
    <center><b>Ciclo 2025-20</b></center>
 
    <br>
@@ -82,6 +83,8 @@
 <br>
 <br>
 <br>
+
+<div style="page-break-before: always;"></div>
 
 # Registro de Versiones del Informe
 
@@ -114,6 +117,8 @@
 <br>
 <br>
 <br>
+
+<div style="page-break-before: always;"></div>
 
 # Project Report Collaboration Insights
 
@@ -157,8 +162,8 @@ Se explican las ramas más prominentes:
 
 **Capturas de la participación en el informe:**
 
-![alt text](/img/image.png)
-![alt text](/img/image-1.png)
+![tb1_imagen1](/img/image-1.png)
+![tb1_imagen2](/img/image.png)
 
 **TP**
 
@@ -193,11 +198,12 @@ Los integrantes son:
 
 **Capturas de la participación en el informe:**
 
-![alt text]()
-![alt text]()
-
+![tp1_imagen2](/img/insight_tp1_2.png)
+![tp1_image1](/img/insight_tp1_1.png)
 
 <br>
+
+<div style="page-break-before: always;"></div>
 
 # Contenido
 
@@ -346,6 +352,8 @@ Los integrantes son:
 
 <br>
 
+<div style="page-break-before: always;"></div>
+
 # Student Outcomes
    **Student Outcome ABET 7**
 
@@ -439,6 +447,8 @@ Los integrantes son:
 
 <br>
 
+<div style="page-break-before: always;"></div>
+
 # Objetivos SMART
 <Table>
    <thead>
@@ -513,6 +523,7 @@ Los integrantes son:
    </tbody>
 </Table>
 
+<div style="page-break-before: always;"></div>
 
 # Capítulo I: Presentación
 
@@ -723,6 +734,51 @@ Para los profesionales de la belleza:
 ![Lean UX Canvas](img/Final-lean-ux-canvas.png)
 
 ## 1.3. Segmentos objetivo
+
+
+Los segmentos objetivos son las personas o entidades a las cuales está destinada nuestra solución. A continuación se nombraran los que abarca nuestra propuesta.
+
+## Segmento objetivo #1: Salones de belleza y barberías
+
+###  Aspectos Demográficos
+
+- Rango de edad: Mayores de 20 años
+- Sexo: Masculino y femenino
+- Nivel socioeconómico: clases A, B (alta y media-alta)
+
+### Aspectos geográficos:
+
+- Nacionalidad: Peruana o extranjera
+- Zona geográfica de residencia: urbana
+- Departamento: Lima Metropolitana
+
+### Aspectos psicográficos:
+
+- Uso frecuente de medios de comunicación, tales como WhatsApp y llamadas telefónicas, para interactuar con los clientes.
+- Un día a día con la agenda apretada por las reservas de los clientes y poca flexibilidad.
+
+
+## Segmento objetivo #2: Clientes de servicios de belleza
+
+### Aspectos Demográficos
+
+- Rango de edad: Mayores de 18 años
+- Sexo: Masculino y femenino
+- Nivel socioeconómico: clases A, B y C (alta, media-alta y media)
+
+### Aspectos geográficos:
+
+- Nacionalidad: Peruana o extranjera
+- Zona geográfica de residencia: urbana
+- Departamento: Lima Metropolitana
+
+### Aspectos psicográficos:
+
+- Van frecuentemente a salones de belleza para estar a la moda o estar presentable para un evento importante.
+- Tienden a preferir tratarse con el mismo estilista o barbero debido a experiencias anteriores o por la técnica del especialista.
+
+<div style="page-break-before: always;"></div>
+
 
 # Capítulo II: Requirements Elicitation & Analysis
 
@@ -1182,7 +1238,9 @@ Preguntas para el segmento objetivo 02
 - **Duración:** 20:43 minutos
 - **Screenshot del cuadro de video:** ![Entrevista Luis Fernando](img/Entrevista-1.png)
 
-- **URL del video (Microsoft Stream):** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fLXfTL
+- **URL del video (Microsoft Stream):** 
+
+`https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ`
 
 
 **Resumen:**
@@ -1199,7 +1257,9 @@ Luis Fernando Farfán es un barbero de Chiclayo que tiene 8 años de experiencia
 - **Duración:** 20:43 minutos
 - **Screenshot del cuadro de video:** ![Entrevista Maria Ysabel Sosa](img/Entrevista-2.png)
 
-- **URL del video (Microsoft Stream):** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fLXfTL
+- **URL del video (Microsoft Stream):** 
+
+`https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ`
 
 
 **Resumen:**
@@ -1214,9 +1274,12 @@ María Ysabel Sosa Rodríguez, de 45 años, es dueña de un salón de belleza y 
 - **Edad:** 20 años
 - **Distrito:** San Isidro
 - **Screenshot del cuadro de video:** *![interview_1.jpeg](img/Entrevista-3.png)*
-- **URL del video (Microsoft Stream):** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fLXfTL
 - **Inicio de la entrevista:** 12:20 minutos
 - **Duración:** 20:43 minutos
+
+- **URL del video (Microsoft Stream):** 
+
+`https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ`
 
 **Resumen:** En esta entrevista con Anedyib, comentó que visita el salón dos veces al mes (manicure al inicio y recorte de puntas a fin de mes). Valora especialmente el buen trato con su estilista y la facilidad para agendar por WhatsApp, y suele atenderse siempre con la misma persona por la confianza construida. La puntualidad es crítica; relató una mala experiencia que le arruinó planes. Cancelar le resulta fácil, pero reprogramar es complicado por choques de horarios. Prefiere pagos digitales (tarjeta o Yape) y recordatorios tipo calendario. Ha intentado reservar en webs pero no pudo y terminó llamando, algo que le disgustó. Sugiere mejorar la comunicación proactiva desde la reserva hasta la llegada y ofrecer pagos anticipados y digitales.
 
@@ -1228,13 +1291,16 @@ María Ysabel Sosa Rodríguez, de 45 años, es dueña de un salón de belleza y 
 - **Edad:** 20
 - **Distrito:** Chorrillos
 - **Screenshot del cuadro de video:** *![interview_2.jpeg](img/Entrevista-4.png)*
-- **URL del video (Microsoft Stream):** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fLXfTL
 - **Inicio de la entrevista:** 16:53 minutos
 - **Duración:** 20:43 minutos
+- **URL del video (Microsoft Stream):** 
+
+`https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ`
 
 **Resumen:** En esta entrevista con Emily, indicó que acude por corte de cabello, a veces limpieza facial y manicure. Sus criterios clave son ubicación cercana, reputación, comentarios y calidad; está dispuesta a pagar más por un buen servicio. Generalmente se atiende con el mismo estilista porque conoce sus gustos. Prefiere agendar por WhatsApp por mayor comodidad; la puntualidad es muy importante, aunque tolera una breve espera. Cancelar y reprogramar le resulta fácil vía WhatsApp. Paga con Yape o tarjeta y prefiere recordatorios por WhatsApp. Propone mejorar la atención (amabilidad y escuchar lo solicitado). Considera importante la presencia en redes para ver trabajos, opiniones y promociones, y valora los pagos digitales por seguridad, comodidad y ahorro de tiempo. 
 
 ### 2.2.3. Análisis de entrevistas
+
 **Análisis del Segmento Objetivo 01**
 
    - Características Objetivas:
@@ -1298,11 +1364,14 @@ María Ysabel Sosa Rodríguez, de 45 años, es dueña de un salón de belleza y 
          + Respuestas rápidas al agendar citas vía WhatsApp.
          + Mejora en la puntualidad y la atención al cliente.
          + Facilitar el uso de herramientas digitales.
+
+<div style="page-break-before: always;"></div>
+
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
 
-Segmento objetivo #1: Salones de belleza y barberías
+**Segmento objetivo #1: Salones de belleza y barberías**
 
 <div align="center">
 
@@ -1310,13 +1379,17 @@ Segmento objetivo #1: Salones de belleza y barberías
 
 </div>
 
-Segmento objetivo #2: Clientes de servicios de belleza
+<div style="page-break-before: always;"></div>
+
+**Segmento objetivo #2: Clientes de servicios de belleza**
 
 <div align="center">
 
 <img src="img/Camila_Cortez_user_persona.png" alt="user_persona_2" />
 
 </div>
+
+<div style="page-break-before: always;"></div>
 
 ### 2.3.2. User Task Matrix
 
@@ -1341,17 +1414,24 @@ Segmento objetivo #2: Clientes de servicios de belleza
 | Realizar el pago por el servicio                      | Alta                     | Alta                       | Alta                | Alta                 |
 | Pagar por medios electrónicos                         | Baja                     | Baja                       | Alta                | Alta                 |
 
+<div style="page-break-before: always;"></div>
+
 ### 2.3.3. User Journey Mapping
 
 Para el segmento de los salones estilistas o barberos se consideró el momento desde que el cliente se contacta con la recepcionista hasta que el cliente haya terminado su cita y haya salido de salón. En la otra mano, para el segmento de los clientes de los salones se consideró desde que descubren el salón de manera online o por otra persona hasta que haya atendido la cita deseada.
 
 ![Journey mapping | Segmento objetivo #1](img/journeymapping1.png)
 
+<div style="page-break-before: always;"></div>
+
 ![Journey mapping | Segmento objetivo #2](img/journeymapping2.png)
+
+<div style="page-break-before: always;"></div>
+
 
 ### 2.3.4. Empathy Mapping
 
-Segmento objetivo #1: Salones de belleza y barberías
+**Segmento objetivo #1: Salones de belleza y barberías**
 
 <div align="center">
 
@@ -1359,13 +1439,18 @@ Segmento objetivo #1: Salones de belleza y barberías
 
 </div>
 
-Segmento objetivo #2: Clientes de servicios de belleza
+<div style="page-break-before: always;"></div>
+
+**Segmento objetivo #2: Clientes de servicios de belleza**
 
 <div align="center">
 
 <img src="img/Camila_Cortez_empathy_mapping.png" alt="empathy_mapping_2" />
 
 </div>
+
+<div style="page-break-before: always;"></div>
+
 
 ### 2.3.5. Ubiquitous Language
 
@@ -1541,9 +1626,15 @@ Las Spike Stories de uTime son investigaciones técnicas que el equipo realiza a
 </tbody>
 </table>
 
+<div style="page-break-before: always;"></div>
+
+
 ### 2.4.2. Impact Mapping
 
 ![Impact Mapping](img/impact-mapping.png)
+
+<div style="page-break-before: always;"></div>
+
 
 ### 2.4.3. Product Backlog
    
@@ -1835,12 +1926,12 @@ Aquí, utilizamos la API de Stripe para que el pago de los servicios sea realiza
 ##### Step 9 & 10: Aggregates & Bounded Contexts
 
 Para los dos últimos pasos, hemos agregado los aggregates y terminado de definir los bounded contexts. A continuación, se mostrará cada Bounded context y se finalizará mostrando el resultado total. Para una mejor vista, se puede ingresar al siguiente enlace: 
-[https://lucid.app/lucidspark/c6b278dc-6a8f-45dd-9c1b-f0455160b1f2/edit?viewport_loc=5984%2C-9745%2C7122%2C8308%2C0_0&invitationId=inv_48046525-d121-4810-94d7-65cc13a2dc23](https://lucid.app/lucidspark/c6b278dc-6a8f-45dd-9c1b-f0455160b1f2/edit?viewport_loc=5984%2C-9745%2C7122%2C8308%2C0_0&invitationId=inv_48046525-d121-4810-94d7-65cc13a2dc23)
+https://lucid.app/lucidspark/c6b278dc-6a8f-45dd-9c1b-f0455160b1f2/edit
 
 **Bounded Context Iam**
 Contiene el aggregate Users
 
-<img src="img/IAM-CORRECION.png" alt="event storming image">
+<img src="img/new_event_stoming_50.png" alt="event storming image">
 
 **Bounded Context Profiles**
 Contiene los aggregates Clients y Providers
@@ -1871,7 +1962,9 @@ Contiene el aggregate Services
 
 <img src="img/new_event_stoming_56.png" alt="event storming image">
 
----
+
+
+<div style="page-break-before: always;"></div>
 
 #### 2.5.1.2. Domain Message Flows Modeling
 
@@ -1881,6 +1974,8 @@ Contiene el aggregate Services
 ![DomainMessageFlowsModeling4](img/scenario-modeling4.png)
 ![DomainMessageFlowsModeling5](img/scenario-modeling5.png)
 ![DomainMessageFlowsModeling6](img/scenario-modeling6.png)
+
+<div style="page-break-before: always;"></div>
 
 #### 2.5.1.3. Bounded Context Canvases
 
@@ -2118,7 +2213,9 @@ Accede a la persistencia de los perfiles de proveedores, implementando la interf
 
 ![profiles-class-diagram](img/profile-context.svg)
 
-*Para visualizar mejor ingresar a este Link:* [Class Diagram Profiles](https://img.plantuml.biz/plantuml/svg/nLl1Sjiu4hsdAl_0ocMTIbc-kxAUaHLDLbEofP7ix375oB3C34LgI2fRhgcvpWVCp7s-Oy_x9_C5ymaBYW09W0sm0OAA3x53elirNpSQ3R3vRLw4MN7OnS7XBjgHu3hS_4YIXvSlyX-ZP1zcuIxOqqlXbgoBvvW46TaKORADoSiNBr-mEy6hPPO-HZ79NmK_ltmHq9_wphjq5qP9VLswTvC-a5Yw9TqURxSPsOQ5e5RysSHXdWUJE299aKC3of_pJr5MF7rye5eksTZhyiexUa4ZyNY8uzjmHyT_n_xI33pa99izN0Rtnz_jGR-K5C5MKxw-H0yaqzkzPoCuioNGidLD8npjA87tMTo8pDWLZK2SRi8YIfD6OCwkM3rMoKGUl7rRUswLfiNLbUuX2GqDQkEq_0MFs5Ej_qcpyjdPNrRshDDD5CPwalFZVHeBuIKRM_uDGi00dAsFt2KcVvO3Pg9dn0iQiKtwfN4UZM3nlpPsfbdncCPH-l4et1rsOhWXmWnjKijPzMoVfBjTc3mOvtf6Q4nLivWDfy6s8XiQ5rTNPYd-CAvojOFHWfpoYd5RN1QwNMA_QDZyuK2oo9WutvDY7CSiVPR3dn6sLK9rzh8GOq3NpxC72ocETFryJ19Eabs0EWe_XF61B3vzfWjU_afBOvNygN9Xk3xZdKTqNiLfidN8CRvGT3XyjKEZF4PPNbGhvRh88WZkE8vgnmmxXw-_sPA2ctRssgpZE9PRXHay3xl7TZk69JyqSOSoPJh3yPKP3TSixjQOapGfmas1Xje_fGcvFUm-aQp3sspjjsU1rG7_2lCdl5c2a17JN4WCEy-R0WIDKjKlzwPm4iRDDgOOE0uqpC4rnyBCgtKDs6jcDOKktjL0tMoVSCNAp0PQBl4SfjiNXtIYr8ZsRCkLYWtPggGrrzOF6_LXTxSFasUhDMxJoA0HXVyAVzPrnPfaNw8DK9k96rfMzx6nrDnPKf3iCTmGsDWtYtsPuiFuBIkqhe8dAX-JCwXetbI_NniB8Mb_VIoXyDRCexneMG9Kd3-L_xwsUHoeb8IqW0-ZR0AyiQjkBYpubMjfIuPhOOLZfK1tOhdMOUOPxosXWhTs6C_cGpcktjqvU8xBzd5WVNwWSQI4WV23KQ-Yr6KUWNjRVrw1jyuslf4rEBb6EJ9HFGCWO1nZq2ghT72BV6RWpHtAKOI56vYa2_rCL65TL8XW6r1INKAJo_valvgZwVq-ZgfT5NoqVNn6QeBsT5js4dWWfwy7Phjzh2rPAe4LsQTvLAJPyoLL95-nBFvr5fofI2qWm3coWvI02oog5SLHCcdmGc-aZOk8nErRroofqzjnriO3u5m9n1KaA0hXfVVhKQctvpIKTfGAPavDw-PNeBJBd84PjLdcZRo22z_f-TIQCIoFgFKPu4zpy2skrfthahIsdtPPwhl7D7ABtcS2H3OSWPkxqyUbZxrY9riM-qKyynrxHe3yxjfjbZncOLvaXqrno0XSlYtfSr3IIB8X-lw4p_kmip51cF2jmjSXaApLsPF3TEOmCIkI5tf6ojS5MHh7bBrEPfgn7Ib3JgVej07a9ouhNhESIlJvzscIasbIHCNpM-xaF3rar0yKGAXVptIXtwLaosT0EPMMOV64rVIDA9pxmSTg4T9nhQhIrIHaI5TtyaH4YZ1M3XPqxkGQv7ZP0rVxHKmpavMOuJUmV0EAjl9hRuV8uUB_ZegdPTdyHMWwG0TIjqc-D1tN1Ql8R6ciOxEE7QVeRBOZw225Tp1DiC7taKhX-8Nk-ebZhbaRpso0hUS1lLlmwB97b3Cj_O8TRQXJkBQqjyAMZx2BNdNhrHsyfhqY3JJJRPnA9NBrDti6hgou7RVIVNGqQBLkeODTbw2Lb3Z6h9sLTX6hqTq4h3p0AbxhBMvdd89xyCiWXowRLSZncBSlzej3XjAAl-ewblgsbgrunkqGPvMmMtnrM6CLJwgkEexO3KJyw3hxkCxkJGeVAJGF1Z_h6mo4ujz5Kj-ZQX1L2nkJb8wGSPwJtISwhT24V9VHgLYvgnRMpSatikXbKAI2cbsbnIeT06y9IarSAyAYjeBIB42NWrsA6rqiKrJui4sDauRwRgDKMGykr1KuBcQfEhn5cAPYx-DHHPKNpy8hhnMJi0f_H8BbeHEFe2OVD2eBZWrzYgWtsfXU5vwOg3inu5dXyKJn7y4_EtxACN__-ST_WzLqFfxC_lVxxMKmVlz-DNq_lfkkWxz-_ItuC9xVJuF5zVVJoTqQfvDFdL7rJTde-FdOgFbARCI_1Ji_lmhWmM9F_wZvlCktPlv5c6-zhG_O413ryGOMfDryEoHAy-NGS1ZDjsm8bEeRDYG2-tJDhrAnnHrbCl_C3QbV_DBDWlRc6pSy_V8NRiD1AT_5OQ3KB-9iunOrAnn1n2TnpRUJnStD-FRTEhW8VhYVhcOixpPfk4_IvH_hZQ1-7Vr3jZCV4a3T6Q4WwdnX2O88FbFCOj7WxWSSfX9NI4YbKG05nMJqSufzQJW2thpx20H1VUjzl6VzxPVXVi9CW53UO0oEOiMK0E6UTjujRiQpss0zNNsOJLZEQQSYjzp3cr96u3SI-cSqPIi3Yf9qh74KUGGI_ER77b6VYXf8Omit7X5KOy25UvJHUB8ub9MK896RZ_Ku-ZGs18IQoX2nuVOWilGmCArqCpHCaplxPAhnSZcVJSPtiuMGhcOto_anPwscoyLwThSu5auNTGgpJ5n2d_Y8juIFvDY7izcnIKoYHMvR6WaTIgFF-t2ajXiDOuH5MhKr0CwsrZmqHvMkJ60DiKhzhaR0Ay9NP0LhaDqoPMrDPoFrYTcniyTbHRKrITyJVLfga7OuBlgW2L87CxH83vvT7IomhqQ6HcuNANRWu5f_WWXqiiAbXXeUtLHQdHBTJyKrMTpUhHRp-NHLxGlhgki2EgswS3-hQhgOHsN3yaZeIwuBdRgJ1AB2M1OD2AJqb_Z3iTe8Uq939J7_M8QzbISmw7G9YLBFI6nSmDNeq6WkSOW5ipmhyGU9pEg309eI-S20OkuU05DtW6W5rUmgxE8KtesS6Bp7N452snxsUOSsl-_08ckRZirqcrkBJmZjucWhOBSZLj_unXTDIDnsmwwHQ72JE2YKWoznGAWTh7Sy-8sTyz7eUZszkQxhTA4u5xfuBgZ4Ud6_clGkp-kUfdgVRMWoTNpfvmzJrLHt4okQSE3OJbRlHNrV6mmq06tGniJHcD9izlLDUCwlIpt2wXzULMNX0QK6xXa7hOhQYWa-r9iZeFO8B25AbUU965Jz8Z23xxBjsyFHoOj5DwtFSsUzNOZUMRkr2ys5iKMsnmdpjoHvEEpY_mC0).
+*Para visualizar mejor ingresar a este Link:* 
+
+https://img.plantuml.biz/plantuml/svg/nLl1Sjiu4hsdAl_0ocMTIbc-kxAUaHLDLbEofP7ix375oB3C34LgI2fRhgcvpWVCp7s-Oy_x9_C5ymaBYW09W0sm0OAA3x53elirNpSQ3R3vRLw4MN7OnS7XBjgHu3hS_4YIXvSlyX-ZP1zcuIxOqqlXbgoBvvW46TaKORADoSiNBr-mEy6hPPO-HZ79NmK_ltmHq9_wphjq5qP9VLswTvC-a5Yw9TqURxSPsOQ5e5RysSHXdWUJE299aKC3of_pJr5MF7rye5eksTZhyiexUa4ZyNY8uzjmHyT_n_xI33pa99izN0Rtnz_jGR-K5C5MKxw-H0yaqzkzPoCuioNGidLD8npjA87tMTo8pDWLZK2SRi8YIfD6OCwkM3rMoKGUl7rRUswLfiNLbUuX2GqDQkEq_0MFs5Ej_qcpyjdPNrRshDDD5CPwalFZVHeBuIKRM_uDGi00dAsFt2KcVvO3Pg9dn0iQiKtwfN4UZM3nlpPsfbdncCPH-l4et1rsOhWXmWnjKijPzMoVfBjTc3mOvtf6Q4nLivWDfy6s8XiQ5rTNPYd-CAvojOFHWfpoYd5RN1QwNMA_QDZyuK2oo9WutvDY7CSiVPR3dn6sLK9rzh8GOq3NpxC72ocETFryJ19Eabs0EWe_XF61B3vzfWjU_afBOvNygN9Xk3xZdKTqNiLfidN8CRvGT3XyjKEZF4PPNbGhvRh88WZkE8vgnmmxXw-_sPA2ctRssgpZE9PRXHay3xl7TZk69JyqSOSoPJh3yPKP3TSixjQOapGfmas1Xje_fGcvFUm-aQp3sspjjsU1rG7_2lCdl5c2a17JN4WCEy-R0WIDKjKlzwPm4iRDDgOOE0uqpC4rnyBCgtKDs6jcDOKktjL0tMoVSCNAp0PQBl4SfjiNXtIYr8ZsRCkLYWtPggGrrzOF6_LXTxSFasUhDMxJoA0HXVyAVzPrnPfaNw8DK9k96rfMzx6nrDnPKf3iCTmGsDWtYtsPuiFuBIkqhe8dAX-JCwXetbI_NniB8Mb_VIoXyDRCexneMG9Kd3-L_xwsUHoeb8IqW0-ZR0AyiQjkBYpubMjfIuPhOOLZfK1tOhdMOUOPxosXWhTs6C_cGpcktjqvU8xBzd5WVNwWSQI4WV23KQ-Yr6KUWNjRVrw1jyuslf4rEBb6EJ9HFGCWO1nZq2ghT72BV6RWpHtAKOI56vYa2_rCL65TL8XW6r1INKAJo_valvgZwVq-ZgfT5NoqVNn6QeBsT5js4dWWfwy7Phjzh2rPAe4LsQTvLAJPyoLL95-nBFvr5fofI2qWm3coWvI02oog5SLHCcdmGc-aZOk8nErRroofqzjnriO3u5m9n1KaA0hXfVVhKQctvpIKTfGAPavDw-PNeBJBd84PjLdcZRo22z_f-TIQCIoFgFKPu4zpy2skrfthahIsdtPPwhl7D7ABtcS2H3OSWPkxqyUbZxrY9riM-qKyynrxHe3yxjfjbZncOLvaXqrno0XSlYtfSr3IIB8X-lw4p_kmip51cF2jmjSXaApLsPF3TEOmCIkI5tf6ojS5MHh7bBrEPfgn7Ib3JgVej07a9ouhNhESIlJvzscIasbIHCNpM-xaF3rar0yKGAXVptIXtwLaosT0EPMMOV64rVIDA9pxmSTg4T9nhQhIrIHaI5TtyaH4YZ1M3XPqxkGQv7ZP0rVxHKmpavMOuJUmV0EAjl9hRuV8uUB_ZegdPTdyHMWwG0TIjqc-D1tN1Ql8R6ciOxEE7QVeRBOZw225Tp1DiC7taKhX-8Nk-ebZhbaRpso0hUS1lLlmwB97b3Cj_O8TRQXJkBQqjyAMZx2BNdNhrHsyfhqY3JJJRPnA9NBrDti6hgou7RVIVNGqQBLkeODTbw2Lb3Z6h9sLTX6hqTq4h3p0AbxhBMvdd89xyCiWXowRLSZncBSlzej3XjAAl-ewblgsbgrunkqGPvMmMtnrM6CLJwgkEexO3KJyw3hxkCxkJGeVAJGF1Z_h6mo4ujz5Kj-ZQX1L2nkJb8wGSPwJtISwhT24V9VHgLYvgnRMpSatikXbKAI2cbsbnIeT06y9IarSAyAYjeBIB42NWrsA6rqiKrJui4sDauRwRgDKMGykr1KuBcQfEhn5cAPYx-DHHPKNpy8hhnMJi0f_H8BbeHEFe2OVD2eBZWrzYgWtsfXU5vwOg3inu5dXyKJn7y4_EtxACN__-ST_WzLqFfxC_lVxxMKmVlz-DNq_lfkkWxz-_ItuC9xVJuF5zVVJoTqQfvDFdL7rJTde-FdOgFbARCI_1Ji_lmhWmM9F_wZvlCktPlv5c6-zhG_O413ryGOMfDryEoHAy-NGS1ZDjsm8bEeRDYG2-tJDhrAnnHrbCl_C3QbV_DBDWlRc6pSy_V8NRiD1AT_5OQ3KB-9iunOrAnn1n2TnpRUJnStD-FRTEhW8VhYVhcOixpPfk4_IvH_hZQ1-7Vr3jZCV4a3T6Q4WwdnX2O88FbFCOj7WxWSSfX9NI4YbKG05nMJqSufzQJW2thpx20H1VUjzl6VzxPVXVi9CW53UO0oEOiMK0E6UTjujRiQpss0zNNsOJLZEQQSYjzp3cr96u3SI-cSqPIi3Yf9qh74KUGGI_ER77b6VYXf8Omit7X5KOy25UvJHUB8ub9MK896RZ_Ku-ZGs18IQoX2nuVOWilGmCArqCpHCaplxPAhnSZcVJSPtiuMGhcOto_anPwscoyLwThSu5auNTGgpJ5n2d_Y8juIFvDY7izcnIKoYHMvR6WaTIgFF-t2ajXiDOuH5MhKr0CwsrZmqHvMkJ60DiKhzhaR0Ay9NP0LhaDqoPMrDPoFrYTcniyTbHRKrITyJVLfga7OuBlgW2L87CxH83vvT7IomhqQ6HcuNANRWu5f_WWXqiiAbXXeUtLHQdHBTJyKrMTpUhHRp-NHLxGlhgki2EgswS3-hQhgOHsN3yaZeIwuBdRgJ1AB2M1OD2AJqb_Z3iTe8Uq939J7_M8QzbISmw7G9YLBFI6nSmDNeq6WkSOW5ipmhyGU9pEg309eI-S20OkuU05DtW6W5rUmgxE8KtesS6Bp7N452snxsUOSsl-_08ckRZirqcrkBJmZjucWhOBSZLj_unXTDIDnsmwwHQ72JE2YKWoznGAWTh7Sy-8sTyz7eUZszkQxhTA4u5xfuBgZ4Ud6_clGkp-kUfdgVRMWoTNpfvmzJrLHt4okQSE3OJbRlHNrV6mmq06tGniJHcD9izlLDUCwlIpt2wXzULMNX0QK6xXa7hOhQYWa-r9iZeFO8B25AbUU965Jz8Z23xxBjsyFHoOj5DwtFSsUzNOZUMRkr2ys5iKMsnmdpjoHvEEpY_mC0
 
 ##### 2.6.1.6.2. Bounded Context Database Design Diagram
 
@@ -2292,7 +2389,9 @@ Accede a la persistencia de los intervalos de tiempo, implementando la interfaz 
 
 <img src="img/reservation_class.png" alt="reservation">
 
-*Para visualizar mejor ingresar a este Link:* [Class Diagram Reservations](https://www.plantuml.com/plantuml/svg/lLhlRk8u4F_EKrZzSg3LvW4GhPRINCK9bYwqbVRJoWqkbpQ9Suxf2PtwxfT0fXitSSSPDK7QBKayV_pxZMUSCTyopPNUnz4WvS4ptmbsjXQPK2zSXpB9pjX_0vP_tXvUoPY72Tms7YtbLaJmfFPqkjifiUDQW4xZ4qGyorZLyhj1yFaQHA58zAzmEsOBcUoQ1nLgma0Wer8bNyAjKDWmVeXnapgCnQyiajYuVwLwHar-RRpzfOBFSAO4rw9oPoRZc2TR5fp-ZcegNWV6LJDDVg937Nv4qjdD2OypDfaSHnykBcnanJ8HXp5R5dyiJ6ckzzcOFKWP2PwqWgDqf8IYlC9XiCthDcTm4qcdYHrNJI5Gi1Zmw2fteBXi7YsIhVDO0EJo8q3q8SsrWSEt-LKhu42mHAwyHA03uPYhvxk4l_0muW-H68x6x4M6M_lWAJBKCJBlURGNguSd4MXxT9v2BIUmCjhE8e_bFj5ZzXX9hYtfPg-KI88yY3TQXSdEDPmCSjpy0Lh140Maai8F0BBcZSbaBGAfjk2UBVNEdNBg74-fc2fT8ZZ7yocOSwV7p1au1FI88UGzr6y8Bjpn_X8MpAIZoFwn5-h3kdGjz3IAgbk8GkHWOFDgbwq8NXxcMv35S0tR1HwuMGPUEnTBeHxSW_Xgvnz8TU0WNC4t8pGsfzqUnCOxn-gfhXoVUpTFj52FF12D3dvPfOKKZoRLgBfWV-Sw8j5o1_PgSSq8LcVF5c6ccxsoBOD_Ylz7RUTeMnYW3PaWv5SgxgKykEEuqqEy8K1TSwI-Yd64cvIKjre32qkDZ2me06USjuA8GmHiQwuOESWLtKOrS0_75xx1_vKNrpIDmg28_-RNtkCK4svzypKfoc2KUvwQnsbaIvyLeRL8PHPggGvZfffk8wy8NQK-4sGyGo0pBWMgiqtX5dscz6JZ-XxWFaEGg4vHmptA7EdBdhHLWnJW7EwGa7kBzWxAQGSbrMdX07IzBnjwMIIMHXmWl2BrlEnevQs34WSuEHUzUVAeUARLFj1x9HhhterGMJu_aGJ2slHzIZdUxJMMxViz0nB-xGK1BqJI6IYGp1f1okUehUZCPAALZ2AXt7hYlySx94Ypta2IR7Y4QeBq38eiJzfsijDSNfpwh1CZ53AvLpaJOnQytsKCHtHjR5VBkuxge3ZKT1PAQ-LXs3g5uxGsRfBU4hWBdMQrCEK_YyJIHer0QDEFY5fsHYreGnhegX465MhOlfpWRC58EbsWebk-m4YDC7Wm757rxCowr8Opa3D8Colca7Ys1IhTiYsCDhjVvAuwNiii1edzQoIEBTR8NMSd0gPP9kA7IAXM1FofP7oA492tBRql3T9ZfcLT4nf2EBM5Cb2CEcPJKdZNeAzz4I601P9qeF2G98042iW0MGAUW128VZ94e9QC4MWWW8JiRLy7Vx3pytCslRvU-zVJMv_DLj_P_NHnvxFLvL_-x7PJF1zKTppUwJSXtl7t7zxlttburK5vKRfWTYdusO5Nij-T0O1kq68iehjwCkqT3w2xKcwS-9TKRVpr_NpcRmgcSdwcLwlZr_pVSZdzVhLXFzcFEtyzz-tCGRF6ixu_84wMWpFFbkSSpS8hXPlLyaZGi_HekhPPx-9WDetKHeFMLE5aZWwfeQ1BMwMq8un6zYFY-4w7cq4oa6QpfqjZjNOGf8dvycPnp0jh_sR5VfPfOxvgo0gL4myFJZS0FoHLG8-jvg_PKF8gpIFlAULUOo-eMwy8IGpt1qYpvfZ-8QAxH4-tlRY2Ps4ySAofcSvJhJFPfJU4Ok5EaDaqwXuHkYVqOjQR1wK2GemYTOz4IRqBth4_v5gCSsDMp9vHeVj2t2vqx0EoYyWt4BVhrMBXhuklyExHi8U0Sv5JdjTUvQp3QpxIi3c7r_R-B4EbQcqOCZ5kr583UhH8co94dOj598FqOzEO9RGzDXj_UPb7jqD4lxLgFCUU9NZMggtHcGyMZI2SDMbqTSQbPKhooQROrJ6yMKhhKz4DKs00RJHQIk5FfGIKjgJ3fJLBRElHJLDG07L4Ia3wapYnRAk-YMIxZwF_0G00).
+*Para visualizar mejor ingresar a este Link:* 
+
+https://www.plantuml.com/plantuml/svg/lLhlRk8u4F_EKrZzSg3LvW4GhPRINCK9bYwqbVRJoWqkbpQ9Suxf2PtwxfT0fXitSSSPDK7QBKayV_pxZMUSCTyopPNUnz4WvS4ptmbsjXQPK2zSXpB9pjX_0vP_tXvUoPY72Tms7YtbLaJmfFPqkjifiUDQW4xZ4qGyorZLyhj1yFaQHA58zAzmEsOBcUoQ1nLgma0Wer8bNyAjKDWmVeXnapgCnQyiajYuVwLwHar-RRpzfOBFSAO4rw9oPoRZc2TR5fp-ZcegNWV6LJDDVg937Nv4qjdD2OypDfaSHnykBcnanJ8HXp5R5dyiJ6ckzzcOFKWP2PwqWgDqf8IYlC9XiCthDcTm4qcdYHrNJI5Gi1Zmw2fteBXi7YsIhVDO0EJo8q3q8SsrWSEt-LKhu42mHAwyHA03uPYhvxk4l_0muW-H68x6x4M6M_lWAJBKCJBlURGNguSd4MXxT9v2BIUmCjhE8e_bFj5ZzXX9hYtfPg-KI88yY3TQXSdEDPmCSjpy0Lh140Maai8F0BBcZSbaBGAfjk2UBVNEdNBg74-fc2fT8ZZ7yocOSwV7p1au1FI88UGzr6y8Bjpn_X8MpAIZoFwn5-h3kdGjz3IAgbk8GkHWOFDgbwq8NXxcMv35S0tR1HwuMGPUEnTBeHxSW_Xgvnz8TU0WNC4t8pGsfzqUnCOxn-gfhXoVUpTFj52FF12D3dvPfOKKZoRLgBfWV-Sw8j5o1_PgSSq8LcVF5c6ccxsoBOD_Ylz7RUTeMnYW3PaWv5SgxgKykEEuqqEy8K1TSwI-Yd64cvIKjre32qkDZ2me06USjuA8GmHiQwuOESWLtKOrS0_75xx1_vKNrpIDmg28_-RNtkCK4svzypKfoc2KUvwQnsbaIvyLeRL8PHPggGvZfffk8wy8NQK-4sGyGo0pBWMgiqtX5dscz6JZ-XxWFaEGg4vHmptA7EdBdhHLWnJW7EwGa7kBzWxAQGSbrMdX07IzBnjwMIIMHXmWl2BrlEnevQs34WSuEHUzUVAeUARLFj1x9HhhterGMJu_aGJ2slHzIZdUxJMMxViz0nB-xGK1BqJI6IYGp1f1okUehUZCPAALZ2AXt7hYlySx94Ypta2IR7Y4QeBq38eiJzfsijDSNfpwh1CZ53AvLpaJOnQytsKCHtHjR5VBkuxge3ZKT1PAQ-LXs3g5uxGsRfBU4hWBdMQrCEK_YyJIHer0QDEFY5fsHYreGnhegX465MhOlfpWRC58EbsWebk-m4YDC7Wm757rxCowr8Opa3D8Colca7Ys1IhTiYsCDhjVvAuwNiii1edzQoIEBTR8NMSd0gPP9kA7IAXM1FofP7oA492tBRql3T9ZfcLT4nf2EBM5Cb2CEcPJKdZNeAzz4I601P9qeF2G98042iW0MGAUW128VZ94e9QC4MWWW8JiRLy7Vx3pytCslRvU-zVJMv_DLj_P_NHnvxFLvL_-x7PJF1zKTppUwJSXtl7t7zxlttburK5vKRfWTYdusO5Nij-T0O1kq68iehjwCkqT3w2xKcwS-9TKRVpr_NpcRmgcSdwcLwlZr_pVSZdzVhLXFzcFEtyzz-tCGRF6ixu_84wMWpFFbkSSpS8hXPlLyaZGi_HekhPPx-9WDetKHeFMLE5aZWwfeQ1BMwMq8un6zYFY-4w7cq4oa6QpfqjZjNOGf8dvycPnp0jh_sR5VfPfOxvgo0gL4myFJZS0FoHLG8-jvg_PKF8gpIFlAULUOo-eMwy8IGpt1qYpvfZ-8QAxH4-tlRY2Ps4ySAofcSvJhJFPfJU4Ok5EaDaqwXuHkYVqOjQR1wK2GemYTOz4IRqBth4_v5gCSsDMp9vHeVj2t2vqx0EoYyWt4BVhrMBXhuklyExHi8U0Sv5JdjTUvQp3QpxIi3c7r_R-B4EbQcqOCZ5kr583UhH8co94dOj598FqOzEO9RGzDXj_UPb7jqD4lxLgFCUU9NZMggtHcGyMZI2SDMbqTSQbPKhooQROrJ6yMKhhKz4DKs00RJHQIk5FfGIKjgJ3fJLBRElHJLDG07L4Ia3wapYnRAk-YMIxZwF_0G00
 
 ##### 2.6.2.6.2. Bounded Context Database Design Diagram
 
@@ -2428,7 +2527,9 @@ El diagrama de clases del dominio IAM presenta la estructura interna de las enti
    <img src="img/class-diagram-IAM.png" alt="class-diagram-iam"/>
 </div>
 
-*Para visualizar mejor ingresar a este Link:* [Class Diagram IAM](https://www.plantuml.com/plantuml/png/hPLHJzim4CVVyocoxc6j6D8OgeIg2L7IP4GgjAJjfZrDNd8j5euJRATJGFtk8oQuEOUeFAmF8V7zphux_dU-a8e8LQJC-P30cd9m_PjbkFprsvjDPv7xqJy9Xe5lZDxiPXdDfbC_UWM283ZrlnXWuKS_GiytrbD_60oDDVBdiqMud4Nx_S-2eN_MsF_wUdmpQMn-vfyOw-tARtYU1b-3YUFa9Bud6t1xaombbBjJKeBeuJIU7FVv5pCYfRkI8Ag5-dViqcJahbRXfB44AQ5iv2wKe7pJMC-9b7ypaRHCHthRFlBxtC87cjyvkqRK8LSWrYI6Ed2xnEtWfPTn9JB6K1v7xWRKc35Dz1yA4EN8_RvVkgrM1XYl39Tbc1XylzJ0T_hP269Sg3lWYiP4qOntH2FfXeUy7sTfIdXL0VtjlNmEB72LOt2L8n1NR9pdh3wxhbbzi25gPzd3UgenamYEgM7j5i518UpC6pxBfFL_pp9FN83glqT1zb37sDdRuh3CjXYCVsVVxBfsyAliy2OuyVTdjW2nfN6L6fuqTd9Bce9K9Crh2zAzLmW1N1ccFnZj7InydOcKD53r-jPm6RnV1WtnHa2Iqjy2LwqOCsvpLOZRZ2OMI3bLb33w21DOauAf2L6anUxUd3jhGQGIHQmA0HsDL7Lw9kYZZkDGoN_2dmN4XQ2gz3A-ffj2Q3yBqsAOrvh6esIPtGE_B2XBG5XUbP0ce0XbCanpPbalWGWGADe87WgGAg1CjJVZf4OXgRahmXC6mkTAbFECSjLzVYt1vp0wLNf5v1tbcqCLgp6pOJilJvIvmbZdeNCGaae5F8PU-wPzUYEX2F9CKfM9igL0IRRGBvwPaIO7Bt_itg0yqVV7woZenkeXW6_8RdpCMANYAPNgMuMSlsCqQFKS70oQiYjkAwa9xNldani1q-AITpINZdqP7n-VjuPg1uH7guFR0DFubZgCcal6SP2d1dIv3OMNxT2H1SMBB6Z48wDZQSmOtcmcssnwVM-u09uKAVi7)
+*Para visualizar mejor ingresar a este Link:* 
+
+https://www.plantuml.com/plantuml/png/hPLHJzim4CVVyocoxc6j6D8OgeIg2L7IP4GgjAJjfZrDNd8j5euJRATJGFtk8oQuEOUeFAmF8V7zphux_dU-a8e8LQJC-P30cd9m_PjbkFprsvjDPv7xqJy9Xe5lZDxiPXdDfbC_UWM283ZrlnXWuKS_GiytrbD_60oDDVBdiqMud4Nx_S-2eN_MsF_wUdmpQMn-vfyOw-tARtYU1b-3YUFa9Bud6t1xaombbBjJKeBeuJIU7FVv5pCYfRkI8Ag5-dViqcJahbRXfB44AQ5iv2wKe7pJMC-9b7ypaRHCHthRFlBxtC87cjyvkqRK8LSWrYI6Ed2xnEtWfPTn9JB6K1v7xWRKc35Dz1yA4EN8_RvVkgrM1XYl39Tbc1XylzJ0T_hP269Sg3lWYiP4qOntH2FfXeUy7sTfIdXL0VtjlNmEB72LOt2L8n1NR9pdh3wxhbbzi25gPzd3UgenamYEgM7j5i518UpC6pxBfFL_pp9FN83glqT1zb37sDdRuh3CjXYCVsVVxBfsyAliy2OuyVTdjW2nfN6L6fuqTd9Bce9K9Crh2zAzLmW1N1ccFnZj7InydOcKD53r-jPm6RnV1WtnHa2Iqjy2LwqOCsvpLOZRZ2OMI3bLb33w21DOauAf2L6anUxUd3jhGQGIHQmA0HsDL7Lw9kYZZkDGoN_2dmN4XQ2gz3A-ffj2Q3yBqsAOrvh6esIPtGE_B2XBG5XUbP0ce0XbCanpPbalWGWGADe87WgGAg1CjJVZf4OXgRahmXC6mkTAbFECSjLzVYt1vp0wLNf5v1tbcqCLgp6pOJilJvIvmbZdeNCGaae5F8PU-wPzUYEX2F9CKfM9igL0IRRGBvwPaIO7Bt_itg0yqVV7woZenkeXW6_8RdpCMANYAPNgMuMSlsCqQFKS70oQiYjkAwa9xNldani1q-AITpINZdqP7n-VjuPg1uH7guFR0DFubZgCcal6SP2d1dIv3OMNxT2H1SMBB6Z48wDZQSmOtcmcssnwVM-u09uKAVi7
 
 #### 2.6.3.6.2. Bounded Context Database Design Diagram
 
@@ -2567,7 +2668,9 @@ Accede a la persistencia de los turnos (Shift), siguiendo el patrón de reposito
 
 ![Workers class diagram](img/workers-class-diagram.png)
 
-*Para visualizar mejor ingresar a este Link:* [Class Diagram Workers](https://img.plantuml.biz/plantuml/svg/nLXjJzim4FwEn7-8-38crFo0gdIKZasL67Ij61ydaveISEBCTfYwgVzzJlDcf-V42Gqh4b3NTy_Zk-USkrvmWPY80t9ybFv4o7j1Q-oSt5FsWXa_SVuU7pdoLNpmcGR83ujrxRDlT8M9zf7syMIzPdYD1EPxUvANHn3dJWOCRKXUWn05U9Zjkf7_6xRn27i-8luV97mQvWPBRTLW6ZrHGN_6ZEHMysJXZf7z_LjzQMiu-0z4Odpxy8mzqNpqv53EQAJOZCSDqLWAveVhHdfL93qQrfZLq7P4pwDgZQlanHBIb8yf3G8KhkfoCMLO2ZLbccsNH1VOesoLS3GUxYvQjJ4qKVmUO-RN5ifNB2Q4PEMIRD_O4PHsgT7bPhRgOiSlDtD6N_qLPXOEbBTRuCfOOlRgUy11LQbaSSpsIhHPA31xH1w6vN9s6oNIH6IKCHuxJzAUu5CehLxwzsCRFr2MOJzRyx7IhDcVwjhdOey988DVoUzMnm4qONHYOc4K1-HfNnNRodDc4aN4ztPN3FomsKLB7iRulD5L0pvHp2AR1H4ntaIfmG97bFk2iitG-LrPCHWEuFL3wRNUbxrcAna2tkOnLXNS665Dx-yRuBUMJdraMvHFBPjM9GHafRcgPk4ZGroms1Cnmt1XpIK5IH277ZRtSiyHQknaocnLBxSEl3Dh3dDUO2xCPASq58mIeZQq9jBbtWPrwlT5hb1zjTQ1LWwvlRROKkGo214DERuAXIysepm9dCPCXdteUCfbSchIPfEJMBb5R9ryadRhGjxtldYQ8oOxLvbJtfd8MYqwMozAvHMkKb_bJG3vikpQSf_DCijtslLU_xiRdN2EWmTP4zRd-i9eaCQyi3NLqvbkENG4tVTYaPJQS2MUSg_DZ0072It0LojUG3RQyG8STES5thhfVn-Sy_DpPt5rFPdERc-kbidRT4jM8sxwDO2xc_ZTSh1ty_5zC1Z3UzLPsAsEyNruXsR-Fd3ARmbgCFB9quKgseYspym60ghzLX0r8DbuwW8jr65EeG1KMwkU082sw-tHobjZ5nnaZVxhPD8B3g0L6nnzWZN2cDNI3qX5CNs2xAkcgWHba7NpcTMjpAPWsdOJaif4RzvTfKztPJlkLflklcXqL6hV1409Mr3GHbX83U-GX_OSEjLNpzYrPVSksCtLM0wIRZ8pkifeM8Yl6001u5gbzWe5J8Q7Gh9xV1u6nVx2E31UuoFkC7YsjNXmjDhgwmcjVRqLCqvnJPhdHVtErVqKatR5Jp_eRwgJ4jHwBksXUaeMrbFeGPwvviIr6e6w7xm4R3KGDPtn-EW2Xwiu8Fy0).
+*Para visualizar mejor ingresar a este Link:* 
+
+https://img.plantuml.biz/plantuml/svg/nLXjJzim4FwEn7-8-38crFo0gdIKZasL67Ij61ydaveISEBCTfYwgVzzJlDcf-V42Gqh4b3NTy_Zk-USkrvmWPY80t9ybFv4o7j1Q-oSt5FsWXa_SVuU7pdoLNpmcGR83ujrxRDlT8M9zf7syMIzPdYD1EPxUvANHn3dJWOCRKXUWn05U9Zjkf7_6xRn27i-8luV97mQvWPBRTLW6ZrHGN_6ZEHMysJXZf7z_LjzQMiu-0z4Odpxy8mzqNpqv53EQAJOZCSDqLWAveVhHdfL93qQrfZLq7P4pwDgZQlanHBIb8yf3G8KhkfoCMLO2ZLbccsNH1VOesoLS3GUxYvQjJ4qKVmUO-RN5ifNB2Q4PEMIRD_O4PHsgT7bPhRgOiSlDtD6N_qLPXOEbBTRuCfOOlRgUy11LQbaSSpsIhHPA31xH1w6vN9s6oNIH6IKCHuxJzAUu5CehLxwzsCRFr2MOJzRyx7IhDcVwjhdOey988DVoUzMnm4qONHYOc4K1-HfNnNRodDc4aN4ztPN3FomsKLB7iRulD5L0pvHp2AR1H4ntaIfmG97bFk2iitG-LrPCHWEuFL3wRNUbxrcAna2tkOnLXNS665Dx-yRuBUMJdraMvHFBPjM9GHafRcgPk4ZGroms1Cnmt1XpIK5IH277ZRtSiyHQknaocnLBxSEl3Dh3dDUO2xCPASq58mIeZQq9jBbtWPrwlT5hb1zjTQ1LWwvlRROKkGo214DERuAXIysepm9dCPCXdteUCfbSchIPfEJMBb5R9ryadRhGjxtldYQ8oOxLvbJtfd8MYqwMozAvHMkKb_bJG3vikpQSf_DCijtslLU_xiRdN2EWmTP4zRd-i9eaCQyi3NLqvbkENG4tVTYaPJQS2MUSg_DZ0072It0LojUG3RQyG8STES5thhfVn-Sy_DpPt5rFPdERc-kbidRT4jM8sxwDO2xc_ZTSh1ty_5zC1Z3UzLPsAsEyNruXsR-Fd3ARmbgCFB9quKgseYspym60ghzLX0r8DbuwW8jr65EeG1KMwkU082sw-tHobjZ5nnaZVxhPD8B3g0L6nnzWZN2cDNI3qX5CNs2xAkcgWHba7NpcTMjpAPWsdOJaif4RzvTfKztPJlkLflklcXqL6hV1409Mr3GHbX83U-GX_OSEjLNpzYrPVSksCtLM0wIRZ8pkifeM8Yl6001u5gbzWe5J8Q7Gh9xV1u6nVx2E31UuoFkC7YsjNXmjDhgwmcjVRqLCqvnJPhdHVtErVqKatR5Jp_eRwgJ4jHwBksXUaeMrbFeGPwvviIr6e6w7xm4R3KGDPtn-EW2Xwiu8Fy0
 
 ##### 2.6.4.6.2. Bounded Context Database Design Diagram
 
@@ -2720,7 +2823,9 @@ Accede a la persistencia de los servicios.
 
 <img src="img/services-context-diagram.png" alt="services">
 
-*Para visualizar mejor ingresar a este Link:* [Class Diagram Services](https://img.plantuml.biz/plantuml/svg/tLZRRkCs47qFa7yWzgKf5b7UZIHTNxI12ZlooacAFd8bhbUfBAeKjLYZoB-NadKXPPAY5Ci5weV4kd3EuSoPuNW-fHGIcksYoui4-d_1BG8VDeZy27sKVW3_N5u0zgcVBF0EXd5zNtYsmW6AX4V2u-bsIz0MKiui__4ZcAQWGfQzaN-k4u9_X04YJZ01pNV5o-d1sW9H64RffB9UNkiNFS8TgbVa5uhNWun06k9u0XRbDoLpPcW2LZX6UnKqXJJBUHR_Zrzw4s-nIuMlNs2K8VVhA_Afpjlhse7WzfPRSt-lz7_8_1xXUDj9ha4HlTv6KW6rOpSCD0-SyTw4oFV4gu9l3DRenebfduqLsZ3VKocf6SOHWX9j6cjgZdSx60SwFSq9OlbTkhvydp7ra8z9a9DKxkev2NgjV5EG_98X4cehp0EYqoYgwap-_jwC8bjOhfhjdM3GmdIsRrAkqm9toNrL5saHLVHbUSNWcDeG-GPz91VDHpV9LGcZsyh-FVZE34JeIXfT__3_rrwMfD6MMthJxEqGFVEjBSEK7fEH2UBl_6-_FSdaeJIZPA8MYioMg129HkoVg22i4aa5yeZfPvp5WVtJFonWtgo_AxofN7lLdCjQljo_fab8aYZqYy8eRpAA6BC0AFiCKV3IHaAJ8CukYPIrj7p7GmbEGuh9VWBIzYt5qclv_TDbMuUr7XdN2fJaid8rdtxTZXQozTn-Vd_gTpYuJ_hh6VKh0PBmT6UP4tyZCAKaysb6a3pHreYaZ2AAVQJkwLyJsDtCDq5hr-W1nClLgPoqXrAgPZl7CIKuYjZEkbatBtVfLAmWjLR5steJGcxK5eIxFGNFF96mke_ic8PqVrk78iKPOSwV09-lBrSgbNQQoVZ2OchcDxPmsoZzZv1-NqF2scuMtNGubwsGWwPs-4IiZHsiSSL1Pism9wsC6eYkUjMiiVpls-rfcgBTLvOZvblxJF3kuFbwiIh1FhQMJW35nsOC8gDtMMwgCjlDIMOX9oOnrekPB2JzcCai36ScBSP5b_aBkBkx0zE71yz-c3xPh8s8mSjq-Mm3T_QxFN_QvCylBwhCiGup8wiO3rdD5CYgEuVhwtiWVvkVOrXhRjnpSkFjqT1O08T9qicjDxEdqnClXr5DwEVkQZLzN6nklZpRdcDl2WKqUj14lveXMDBIfIOaeTy98QrnFI5K8EMOmP8ra2VP1GTmr5QE121fE8TxgsdKhBmdi-epi6_ajOhH0DRbKhfGNbW55lrsC2QJFlum2a7FpD1cbD76pSysmn2ScqaVVnY5eDtl3SrfzKuDsYv3PxSiZO9kKbogusVXhgRE8zZOteipBq-VeoD9UWZLrz9VRYUeGYV3wH2u0aSSYAfXDCVNA23j8snCaEDZZDTEAHhWhDRBGZYUlNOtpfFh_NbJQQYb7MuaQLNJHqkCg2BGnP2hbMJyuCNYPYpMQmARh6ccNAFG6AJjyGbqrbCf1M4AATNF-74Omc50HewEhKdKSs7hytVkFZvvxd9fUqNsrcU0cBBjSuaR_3KAhSTxCdPwGOyArPhwdH3fVHtrk_5wDcr3ySnIQGGqJVACXoPBbvF3TZHaqyt6NisgdFJiZVliiQIi3zIRUZRGbQZ_v_RL0FOCFn0DM9pXDz8d50VPBleN).
+*Para visualizar mejor ingresar a este Link:* 
+
+https://img.plantuml.biz/plantuml/svg/tLZRRkCs47qFa7yWzgKf5b7UZIHTNxI12ZlooacAFd8bhbUfBAeKjLYZoB-NadKXPPAY5Ci5weV4kd3EuSoPuNW-fHGIcksYoui4-d_1BG8VDeZy27sKVW3_N5u0zgcVBF0EXd5zNtYsmW6AX4V2u-bsIz0MKiui__4ZcAQWGfQzaN-k4u9_X04YJZ01pNV5o-d1sW9H64RffB9UNkiNFS8TgbVa5uhNWun06k9u0XRbDoLpPcW2LZX6UnKqXJJBUHR_Zrzw4s-nIuMlNs2K8VVhA_Afpjlhse7WzfPRSt-lz7_8_1xXUDj9ha4HlTv6KW6rOpSCD0-SyTw4oFV4gu9l3DRenebfduqLsZ3VKocf6SOHWX9j6cjgZdSx60SwFSq9OlbTkhvydp7ra8z9a9DKxkev2NgjV5EG_98X4cehp0EYqoYgwap-_jwC8bjOhfhjdM3GmdIsRrAkqm9toNrL5saHLVHbUSNWcDeG-GPz91VDHpV9LGcZsyh-FVZE34JeIXfT__3_rrwMfD6MMthJxEqGFVEjBSEK7fEH2UBl_6-_FSdaeJIZPA8MYioMg129HkoVg22i4aa5yeZfPvp5WVtJFonWtgo_AxofN7lLdCjQljo_fab8aYZqYy8eRpAA6BC0AFiCKV3IHaAJ8CukYPIrj7p7GmbEGuh9VWBIzYt5qclv_TDbMuUr7XdN2fJaid8rdtxTZXQozTn-Vd_gTpYuJ_hh6VKh0PBmT6UP4tyZCAKaysb6a3pHreYaZ2AAVQJkwLyJsDtCDq5hr-W1nClLgPoqXrAgPZl7CIKuYjZEkbatBtVfLAmWjLR5steJGcxK5eIxFGNFF96mke_ic8PqVrk78iKPOSwV09-lBrSgbNQQoVZ2OchcDxPmsoZzZv1-NqF2scuMtNGubwsGWwPs-4IiZHsiSSL1Pism9wsC6eYkUjMiiVpls-rfcgBTLvOZvblxJF3kuFbwiIh1FhQMJW35nsOC8gDtMMwgCjlDIMOX9oOnrekPB2JzcCai36ScBSP5b_aBkBkx0zE71yz-c3xPh8s8mSjq-Mm3T_QxFN_QvCylBwhCiGup8wiO3rdD5CYgEuVhwtiWVvkVOrXhRjnpSkFjqT1O08T9qicjDxEdqnClXr5DwEVkQZLzN6nklZpRdcDl2WKqUj14lveXMDBIfIOaeTy98QrnFI5K8EMOmP8ra2VP1GTmr5QE121fE8TxgsdKhBmdi-epi6_ajOhH0DRbKhfGNbW55lrsC2QJFlum2a7FpD1cbD76pSysmn2ScqaVVnY5eDtl3SrfzKuDsYv3PxSiZO9kKbogusVXhgRE8zZOteipBq-VeoD9UWZLrz9VRYUeGYV3wH2u0aSSYAfXDCVNA23j8snCaEDZZDTEAHhWhDRBGZYUlNOtpfFh_NbJQQYb7MuaQLNJHqkCg2BGnP2hbMJyuCNYPYpMQmARh6ccNAFG6AJjyGbqrbCf1M4AATNF-74Omc50HewEhKdKSs7hytVkFZvvxd9fUqNsrcU0cBBjSuaR_3KAhSTxCdPwGOyArPhwdH3fVHtrk_5wDcr3ySnIQGGqJVACXoPBbvF3TZHaqyt6NisgdFJiZVliiQIi3zIRUZRGbQZ_v_RL0FOCFn0DM9pXDz8d50VPBleN
 
 ##### 2.6.5.6.2. Bounded Context Database Design Diagram
 
@@ -2867,11 +2972,16 @@ Accede a la persistencia de los perfiles de proveedores, implementando la interf
 
 <img src="img/reviews-context-diagram.png" alt="reviews">
 
-*Para visualizar mejor ingresar a este Link:* [Class Diagram Reviews](https://img.plantuml.biz/plantuml/svg/nLXjRwCu4FvUgV_1sY_NqwhyWAZjBStIYbDIif3sj9zEBdYpxF5snkbjTCf_F_EEmSOcWHwjsWGyCy-Cdnd6yoab49Dz65nUP3y9TF-2EmG-sEZDH_-a7y2_bnU0NlM3pt48_QY-ppnRnnuAc4VCOtstmsW72KfxQxBB3M2QWj8mRq5sNISuVlCzXF_qlGNOb5zCJx3Q3NmKaNpjClyeN8bpkulIVd_HaRrrpAB5zV851djalVv0BXdoiu4ERcvQCdTtGjSpBu8usad1DLOgf-UqKKHCsK8LQ8TWdsUdM0G9VRW0VaI4QY25-Xh70OBH6Tjb_7HHGlmuafFoAIOFyJxoQX7gS_rPxF57WVHL4GdJ-_KC-Ciu367a3O5Vqb0HL80ebrFWDd9Zx6MeXHlxd7XZ18y2Y5_s2Fk3EV-8Y1u4PUPdomzg0AbS8NH_CBrJvDBxGvE79ogeKamgtlhQ-bY7oK7upNSvSMfJiDo6SYsrPaO4uM_GHNp-VRHogi7WfiHx1xvJ-G1TyLZX5lyvV1JhuP64h-SeTglOT7MlLdvAUaWuBFex-plA7GwbX4f4A8JSEbqJIpAUdZwxZfqtjvuaWU_2p77-wpkFEWsAy0tEie_xZXQJrGoJGFXIA0HibCIfJs9yM03SkICGl1RKt8buFwnBdVkT7U9yhMBSpWHfX9cyUTy0dvk2mv4TaOQ3Q4QdefesUJfcbxJ-TpFKZBvXc1AyTyaU8twIRX1EAJmKkKZSQVz8eBIRQNQ-Mt1Fm5rAftpCDag96EmoZWYEWu0w9WNTh9KmdQqz5TlPkuCAcDIgv9cR8nE61Y6XNIOo8kAJmqsr2McynpJi2-2s2jELY9ao9VjMHL9LyXkLszNa_iCdtpSGmn3HFKrF1h9h9x2gbbRUrQeANKrLuUbIR4GhdNAQLIlLki7_ky7MqnI5hpGdbFrwm75OnBoMbPnUAia5875VYyAc38OhqrHfbIFYACXWSNIDmiNPZN6uE0fEnoKvBK2ttwOndK5MAT5FyW1Tw9Mj0RUGqzzVmEtjBT0V7stZKTyQO6azWHTzzMm0w_vtOxbrikUN5wLYhPW0QVcmHsjcEberkRc-lWFSjUt9YDOUtKohkHdqJAktcWnL0LjQwxN-zDd9uzL4JnohwgokyGg644CVhqmzhwoCKbzv-ENPi4r3tS7ofAznsi3ptMifxxQ6CoZdj8ppM65RoPEsoJ7i5tDPxXDb9IMbvO2lsLVdURNL-VbRdJ4qxcH126I8n9FRu31PPeCT9GXDYAawlO4ENUSoqAViZ9OOslQe2CprPfNJqJOsbcDkBVjhJiYIcmmVMtC9hHf1Q9rH0vT0-LkjZPezFscjev96JqHQzzmp1uGJScLkuzmaafXdfX0yjimS-_7sHsVtp7Q5IVykTeTgmNi149G8MXMsjhLQ6NPU88gAOUOlhApTt7RBGpDSqB8vWjOQ5zHPKGy5E007KsWsCvr9mLHMv0t7D1RKAjV4jWRVzjFOKYaCarlgbOBwoEKunlgUPeA4ylNHiowZucCyMvDPFVK0fADdUiiAlQlSfFAWGCtdKLG-4yM8P5B1e3oQK8l4g4Gx4yMedYJx-OGYRny6_m40).
+*Para visualizar mejor ingresar a este Link:*
+
+https://img.plantuml.biz/plantuml/svg/nLXjRwCu4FvUgV_1sY_NqwhyWAZjBStIYbDIif3sj9zEBdYpxF5snkbjTCf_F_EEmSOcWHwjsWGyCy-Cdnd6yoab49Dz65nUP3y9TF-2EmG-sEZDH_-a7y2_bnU0NlM3pt48_QY-ppnRnnuAc4VCOtstmsW72KfxQxBB3M2QWj8mRq5sNISuVlCzXF_qlGNOb5zCJx3Q3NmKaNpjClyeN8bpkulIVd_HaRrrpAB5zV851djalVv0BXdoiu4ERcvQCdTtGjSpBu8usad1DLOgf-UqKKHCsK8LQ8TWdsUdM0G9VRW0VaI4QY25-Xh70OBH6Tjb_7HHGlmuafFoAIOFyJxoQX7gS_rPxF57WVHL4GdJ-_KC-Ciu367a3O5Vqb0HL80ebrFWDd9Zx6MeXHlxd7XZ18y2Y5_s2Fk3EV-8Y1u4PUPdomzg0AbS8NH_CBrJvDBxGvE79ogeKamgtlhQ-bY7oK7upNSvSMfJiDo6SYsrPaO4uM_GHNp-VRHogi7WfiHx1xvJ-G1TyLZX5lyvV1JhuP64h-SeTglOT7MlLdvAUaWuBFex-plA7GwbX4f4A8JSEbqJIpAUdZwxZfqtjvuaWU_2p77-wpkFEWsAy0tEie_xZXQJrGoJGFXIA0HibCIfJs9yM03SkICGl1RKt8buFwnBdVkT7U9yhMBSpWHfX9cyUTy0dvk2mv4TaOQ3Q4QdefesUJfcbxJ-TpFKZBvXc1AyTyaU8twIRX1EAJmKkKZSQVz8eBIRQNQ-Mt1Fm5rAftpCDag96EmoZWYEWu0w9WNTh9KmdQqz5TlPkuCAcDIgv9cR8nE61Y6XNIOo8kAJmqsr2McynpJi2-2s2jELY9ao9VjMHL9LyXkLszNa_iCdtpSGmn3HFKrF1h9h9x2gbbRUrQeANKrLuUbIR4GhdNAQLIlLki7_ky7MqnI5hpGdbFrwm75OnBoMbPnUAia5875VYyAc38OhqrHfbIFYACXWSNIDmiNPZN6uE0fEnoKvBK2ttwOndK5MAT5FyW1Tw9Mj0RUGqzzVmEtjBT0V7stZKTyQO6azWHTzzMm0w_vtOxbrikUN5wLYhPW0QVcmHsjcEberkRc-lWFSjUt9YDOUtKohkHdqJAktcWnL0LjQwxN-zDd9uzL4JnohwgokyGg644CVhqmzhwoCKbzv-ENPi4r3tS7ofAznsi3ptMifxxQ6CoZdj8ppM65RoPEsoJ7i5tDPxXDb9IMbvO2lsLVdURNL-VbRdJ4qxcH126I8n9FRu31PPeCT9GXDYAawlO4ENUSoqAViZ9OOslQe2CprPfNJqJOsbcDkBVjhJiYIcmmVMtC9hHf1Q9rH0vT0-LkjZPezFscjev96JqHQzzmp1uGJScLkuzmaafXdfX0yjimS-_7sHsVtp7Q5IVykTeTgmNi149G8MXMsjhLQ6NPU88gAOUOlhApTt7RBGpDSqB8vWjOQ5zHPKGy5E007KsWsCvr9mLHMv0t7D1RKAjV4jWRVzjFOKYaCarlgbOBwoEKunlgUPeA4ylNHiowZucCyMvDPFVK0fADdUiiAlQlSfFAWGCtdKLG-4yM8P5B1e3oQK8l4g4Gx4yMedYJx-OGYRny6_m40
 
 ##### 2.6.6.6.2. Bounded Context Database Design Diagram
 
 ![reviews database diagram](img/BD-Diagram-Reviews.png)
+
+<div style="page-break-before: always;"></div>
+
 
 # Capítulo II: Solution UI/UX Design
 
@@ -2956,6 +3066,7 @@ Incluye etiquetas principales como:
 #### 3.1.2.3. SEO Tags and Meta Tags
 Aplican únicamente a la landing page para su posicionamiento en buscadores:
 
+```
 <title>uTime - Servicio de agenda para barberos o estilistas</title>  
 <meta name="description" content="uTime es una plataforma que permite a los barberos y estilistas gestionar sus citas y horarios de manera eficiente.">  
 <meta http-equiv="Content-Language" content="es-ES">  
@@ -2963,6 +3074,7 @@ Aplican únicamente a la landing page para su posicionamiento en buscadores:
 <meta name="author" content="uTime Team">  
 <meta name="viewport" content="width=device-width, initial-scale=1.0">  
 <link rel="canonical" href="https://www.uTime.com/">  
+```
 
 #### 3.1.2.4. Searching Systems
 El sistema de búsqueda de uTime está diseñado para ofrecer una experiencia rápida, intuitiva y precisa tanto para los clientes como para los administradores de salones. A través de una barra de búsqueda ubicada en la parte superior de la interfaz, los usuarios pueden filtrar y encontrar fácilmente servicios, estilistas o salones según sus necesidades. El sistema admite búsquedas por palabras clave, como el tipo de servicio (ej. "corte de cabello", "alisado", "manicure"), nombre del estilista o incluso fechas disponibles. Además, puede complementarse con filtros avanzados, como ubicación, rango de precios, calificaciones o disponibilidad horaria, lo que permite a los usuarios personalizar su experiencia y encontrar rápidamente la mejor opción disponible. Esta funcionalidad mejora la eficiencia de la plataforma y contribuye a una mejor experiencia del cliente al reducir el tiempo de búsqueda y facilitar la toma de decisiones.
@@ -3142,7 +3254,7 @@ En esta sección se presentan los wireframes iniciales de la aplicación móvil.
 
 Los mockups definen el aspecto visual final de la aplicación, detallando los colores, tipografías y elementos gráficos para asegurar una experiencia de usuario atractiva y coherente con la identidad de la app.
 
-URL del Link de Figma: [Figma](https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME?node-id=160-7176&t=E1kC09GYRQ6JJkTE-1)
+URL del Link de Figma: https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME
 
 **Vista de clientes de servicios de belleza**
 
@@ -3335,7 +3447,7 @@ URL del Link de Figma: [Figma](https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2E
 #### 3.1.4.4. Mobile Applications User Flow Diagrams
 Los diagramas de flujo de usuario (user flow) mapean el camino completo que sigue una persona dentro de la aplicación, desde el principio hasta que alcanza su meta. Esto permite visualizar y entender las interacciones, pasos y decisiones cruciales en cada momento.
 
-URL del Link de Figma: [https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME?node-id=160-7176&t=E1kC09GYRQ6JJkTE-1](https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME?node-id=160-7176&t=E1kC09GYRQ6JJkTE-1)
+URL del Link de Figma: https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME
 
 
 **Vista de clientes de servicios de belleza**
@@ -3398,18 +3510,140 @@ URL del Link de Figma: [https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIM
 Creamos un prototipo de interacción real para que se pueda experimentar la aplicación en un entorno simulado antes de codificarla. Esta herramienta interactiva muestra el flujo exacto entre las pantallas y cómo reacciona cada elemento, lo que nos permite validar y optimizar la usabilidad.
 
 
-URL del prototipo en figma: [https://www.figma.com/proto/2RXg2e7OWrAbqYfNcw2EVP/UTIME?node-id=1518-2275&p=f&t=w5uIq7OCFb3diwCL-1&scaling=min-zoom&content-scaling=fixed&page-id=160%3A7176&starting-point-node-id=1518%3A1475&show-proto-sidebar=1](https://www.figma.com/proto/2RXg2e7OWrAbqYfNcw2EVP/UTIME?node-id=1518-2275&p=f&t=w5uIq7OCFb3diwCL-1&scaling=min-zoom&content-scaling=fixed&page-id=160%3A7176&starting-point-node-id=1518%3A1475&show-proto-sidebar=1)
+URL del prototipo en figma: https://www.figma.com/proto/2RXg2e7OWrAbqYfNcw2EVP/UTIME
 
-URL del video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EUCzj5c18VdGvJxPX_m0NzcB_UOw9M2pYyfzjp6ukzwg8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Uqn5eM](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EUCzj5c18VdGvJxPX_m0NzcB_UOw9M2pYyfzjp6ukzwg8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Uqn5eM)
+URL del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EUCzj5c18VdGvJxPX_m0NzcB_UOw9M2pYyfzjp6ukzwg8g
 
 <img src="img/prototipo.png" alt="Prototipo">
 
+<div style="page-break-before: always;"></div>
+
+
 # Capítulo IV: Product Implementation, Validation
 ## 4.1. Software Configuration Management
+
+El equipo ha establecido el siguiente conjunto de herramientas para asegurar una configuración de entorno de desarrollo unificada, que permita una colaboración efectiva y el cumplimiento de los objetivos del proyecto. Estas herramientas cubren diferentes actividades del ciclo de vida del producto digital.
+
 ### 4.1.1. Software Development Environment Configuration
+
+#### Project Management
+
+**Pivotal Tracker** es la herramienta principal utilizada por el equipo para la gestión ágil del proyecto. Permite planificar, organizar y hacer seguimiento del avance de las historias de usuario, tareas y bugs mediante un enfoque basado en historias y priorización colaborativa.
+Ruta de referencia: https://www.pivotaltracker.com
+
+**Discord** es la plataforma empleada para la comunicación en tiempo real entre los miembros del equipo. A través de canales organizados por temas y funciones, se realizan reuniones de equipo, coordinación diaria y soporte instantáneo durante todo el desarrollo.  
+Ruta de referencia: https://discord.com
+
+#### Product UX/UI Design
+
+**Figma** es utilizada como herramienta principal para el diseño de interfaces gráficas (UI) y la experiencia de usuario (UX). Permite que varios miembros colaboren simultáneamente en prototipos interactivos, estructuras visuales y pruebas de diseño.  
+Ruta de referencia: https://www.figma.com
+
+**UXPressia** complementa el trabajo de UX al permitir la creación y documentación de User Personas, Customer Journey Maps y Empathy Maps. Esto ayuda al equipo a entender mejor a los usuarios finales y alinear las decisiones de diseño con sus necesidades.  
+Ruta de referencia: https://uxpressia.com
+
+**Trello** complementa el trabajo de UX al facilitar la organización visual de tareas, ideas y flujos de trabajo mediante tableros, listas y tarjetas. Esto permite a los equipos de diseño y desarrollo colaborar de forma ágil, priorizar funcionalidades centradas en el usuario y dar seguimiento al progreso de proyectos UX.
+Ruta de referencia: https://trello.com
+
+#### Software Development
+
+**Android Studio** es un emulador que provee un entorno unificado para desarrollar proyectos para dispositivos Android y ofrece herramientas para diseño, programación, depuración y pruebas. Este es el entorno que hemos utilizado para el desarrollo del frontend de nuestras aplicaciones móviles.
+Ruta de referencia: https://developer.android.com
+
+#### Software Deployment
+
+**Git** es el sistema de control de versiones utilizado para gestionar el historial de cambios en el código fuente. Permite que varios desarrolladores colaboren en paralelo, con control total sobre ramas, merges y versiones del proyecto.  
+Ruta de referencia: https://git-scm.com
+
+**GitKraken** es un cliente Git con interfaz gráfica que el equipo usa para facilitar la gestión visual de ramas, commits, conflictos y flujos de trabajo. Su interfaz amigable permite trabajar con Git de forma intuitiva y estructurada.  
+Ruta de referencia: https://www.gitkraken.com
+
+**Render** es la plataforma de despliegue que el equipo utiliza para alojar y ejecutar APIs simuladas (fake APIs) durante las etapas de desarrollo y pruebas. Su facilidad de configuración y despliegue continuo lo convierten en una herramienta eficiente para ambientes de testing.
+Ruta de referencia: https://render.com
+
+**GitHub Pages** es la plataforma de hosting utilizada por el equipo para desplegar la interfaz frontend de la aplicación. Al integrarse directamente con repositorios de GitHub, permite publicar sitios web estáticos de manera rápida, automatizada y gratuita.
+Ruta de referencia: https://pages.github.com
+
+**Azure** es la plataforma en la nube utilizada por el equipo para desplegar y escalar el backend de la aplicación. Gracias a sus servicios gestionados, como App Services y Azure SQL, permite una implementación robusta, segura y de alto rendimiento para aplicaciones en producción.
+Ruta de referencia: https://azure.microsoft.com
+
+#### Software Documentation and Project Management
+
+**GitHub** se utiliza como repositorio remoto centralizado para almacenar y sincronizar el código del proyecto. También se usa para revisar código (pull requests), registrar incidencias, documentar el proyecto y automatizar tareas de despliegue.  
+Ruta de referencia: https://github.com
+
+#### Software Testing
+
+**Gherkin** es un sistema de etiquetado utilizado para describir los criterios de aceptación de estructura de una user story.  
+Ruta de referencia: https://cucumber.io/docs/gherkin/
+
 ### 4.1.2. Source Code Management
+
+El proyecto seguirá las convenciones de flujo de trabajo establecidas por el modelo GitFlow para el control de versiones, utilizando GitHub como plataforma y sistema de control de versiones. A continuación, se detallará cómo se implementará GitFlow como WorkFlow de control de versiones, además de proporcionar los URL de los repositorios de GitHub para cada producto:
+
+**Repositorios de GitHub:**
+
+- Enlace para acceder a la organización de GitHub: https://github.com/PaxTech-1807
+- Enlace para acceder a repositorio de la Landing Page: https://github.com/PaxTech-1807/Landing-Page
+- Enlace para acceder a repositorio de FrontEnd Web Mobile Application: https://github.com/PaxTech-1807/Mobile-App
+- Enlace para acceder a repositorio de BackEnd Web Service: https://github.com/PaxTech-1807/Web-Services
+
+**Flujo de trabajo GitFlow:** El flujo a utilizar para le desarrollo del proyecto fue el planteado por Vicent Driessen en "A successful Git branching model".
+
+**Estructura de branches (Ramas):**
+
+1. **Main branch (Rama principal):** Esta rama será considerada como la principal para la aplicación, y contendrá versiones estables y finales del desarrollo. Solo se permitirán cambios que hayan sido previamente probados y verificados en otras ramas de prueba.
+
+2. **Develop branch (Rama de desarrollo):** El propósito de esta rama es llevar a cabo los avances del proyecto en equipo y de mantener los archivos centrales del desarrollo continuo.
+
+3. **Feature branches (Ramas de funcionalidad):** Cada funcionalidad desarrollada por el equipo o separada del enfoque actual del desarrollo tendrá su propia rama. Una vez que una funcionalidad esté completamente trabajada, se fusionará con la rama de desarrollo del proyecto. Las convenciones para nombrar las ramas de funcionalidad seguirán un patrón descriptivo y único, por ejemplo, "feature/nombre-de-la-funcionalidad".
+
+4. **Release branches (Ramas de lanzamiento):** Estas ramas se utilizarán para mantener una instancia de la rama develop que esté próxima a ser incluida en la rama principal. Se seguirá el sistema de versionamiento semántico (Semantic Versioning) para nombrar las Releases.
+
+5. **Hotfix branches (Ramas de corrección):** Se crearán para abordar de manera puntual y eficiente la corrección de errores identificados en la rama principal que afecten significativamente la experiencia de los usuarios.
+
+**Versionamiento Semántico:** Para nombrar las Releases, se aplicará el sistema de versionamiento semántico (Semantic Versioning 2.0.0).
+
+**Convenciones de Commits:** Para los mensajes de los commits realizados, se utilizará la especificación Conventional Commits basada en Angular Commit Guidelines. La estructura a seguir será la siguiente:
+
+`git commit -m "<type>[optional scope]: <description">`
+
 ### 4.1.3. Source Code Style Guide & Conventions
+
+**Kotlin/Java (Android):** Para mantener un código limpio y coherente en Android Studio, se recomienda:
+
+1. Usar camelCase para nombres de variables y métodos, y PascalCase para clases.
+
+2. Mantener la indentación en 4 espacios y evitar líneas demasiado largas (>100 caracteres).
+
+3. Escribir comentarios claros solo cuando el código no sea autoexplicativo.
+
+4. Nombrar recursos XML (layouts, strings, drawables, ids) en minúsculas y separados por guiones bajos.
+
+5. Seguir la arquitectura definida y separar responsabilidades en paquetes organizados.
+
+**Gherkin:** Es un lenguaje de dominio específico, el cual busca solucionar un problema concreto, la comunicación entre los negocios y la parte técnica al trabajar con Behavior Driven Development, abreviado por sus siglas en ingles como BBD. En busca de una buena práctica, se ocuparon los saltos de línea para mejorar el orden de los diversos tipos de escenarios y diferenciarlos de forma más óptima. Adicionalmente, se utilizaron las palabras clave "Given", "When", "Then" y "And" para estructurar los escenarios.
+
 ### 4.1.4. Software Deployment Configuration
+
+**Landing page deployment:**
+
+Para poder desplegar la landing page resulta necesario contar con una serie de requisitos, entre ellos, es necesario con una cuenta personal, una organización y un repositorio al cual cargar los documentos. A partir de lo anterior, es posible comenzar el despliegue de la landing page. A continuación se enuncian los pasos a seguir:
+
+1. Crear una carpeta llamada docs para alojar el Landing Page.  
+
+2. Asegurarse de que los archivos sigan las nomenclaturas index.html, para la landing page; style.css, para los estilos y una carpeta llamada img que contenga las imágenes.  
+
+3. Carga los archivos al repositorio mediante las imágenes.  
+
+4. Dirigirse a Settings > Pages y seleccionar la branch correspondiente dentro de la cual se encuentra el proyecto, generalmente se trata de "main" o "master."  
+
+5. Especificar la carpeta /docs como la fuente de la página.  
+
+6. Esperar a que GitHub realice las comprobaciones necesarias. Una vez culminado el proceso, se obtendrá un enlace que llevará al Landing Page Desplegado.  
+
+![GitHubPages](img/GitHub-Pages.png)
+
 ## 4.2. Landing Page & Mobile Application Implementation
 
 ### 4.2.1. Sprint 1
@@ -3801,9 +4035,11 @@ Dentro del marco de trabajo Scrum, cada Sprint constituye un periodo de tiempo f
 </table>
 
 #### 4.2.1.3. Development Evidence for Sprint Review
+
 A continuación, se presenta un detalle de los commits realizados, los cuales corresponden a las tareas asignadas a cada miembro del equipo, según lo establecido en el Sprint Backlog 1.
 
-Repositorio en github:[https://github.com/PaxTech-1807/Mobile-App](https://github.com/PaxTech-1807/Mobile-App)
+Repositorio en github: https://github.com/PaxTech-1807/Mobile-App
+
 
 | Repository              | Branch  | Commit Id | Commit Message                       | Commited on (Date) |
 | ----------------------- | ------- | --------- | ------------------------------------ | ------------------ |
@@ -3825,7 +4061,7 @@ Repositorio en github:[https://github.com/PaxTech-1807/Mobile-App](https://githu
 #### 4.2.1.4. Testing Suite Evidence for Sprint Review
 Se implementaron las pruebas de aceptación para las historias de usuario desarrolladas. Estas pruebas se definieron utilizando el lenguaje Gherkin.
 
-Repositorio de Acceptance Tests:[https://github.com/PaxTech-1807/Acceptance-Tests](https://github.com/PaxTech-1807/Acceptance-Tests)
+Repositorio de Acceptance Tests: https://github.com/PaxTech-1807/Acceptance-Tests
 
 
 | Repository                    | Branch | Commit Id   | Commit Message                                                                                                                             | Commited on (Date) |
@@ -4076,10 +4312,208 @@ Esta API REST completa proporciona todas las funcionalidades necesarias para el 
 
 **Mobile App**
 
+### Flujo de Ejecución de la Aplicación Móvil
+
+La aplicación móvil uTime presenta un flujo de usuario intuitivo y bien estructurado que guía al usuario desde el primer contacto hasta la confirmación de su reserva:
+
+#### 1. **Pantalla de Bienvenida**
+- Presentación inicial con el logo "utime" en color púrpura característico
+- Mensaje de bienvenida y descripción de la funcionalidad de la app
+- Botón "Empezar" para iniciar la experiencia de usuario
+
+<div align="center">
+<img src="img/execution_movil_1.jpg" alt="Pantalla de Bienvenida" width="300"/>
+</div>
+
+#### 2. **Pantalla de Inicio de Sesión**
+- Formulario de login con campos de usuario y contraseña
+- Opciones de inicio de sesión con redes sociales (Apple, Google, Facebook)
+- Enlace para registro de nuevos usuarios
+
+<div align="center">
+<img src="img/execution_movil_2.jpg" alt="Pantalla de Inicio de Sesión" width="300"/>
+</div>
+
+#### 3. **Pantalla Principal (Home)**
+- Saludo personalizado al usuario
+- Secciones de "Recomendado" y "Tendencia" con servicios destacados
+- Sección "Visto recientemente" para facilitar reservas repetidas
+- Navegación inferior con Home, Services, Cart y Profile
+
+<div align="center">
+<img src="img/execution_movil_3.jpg" alt="Pantalla Principal Home" width="300"/>
+</div>
+
+#### 4. **Perfil del Salón - Servicios**
+- Información detallada del salón seleccionado
+- Imagen del profesional y datos de contacto
+- Lista de servicios disponibles con precios y duración
+- Botones "Reservar" para cada servicio
+
+<div align="center">
+<img src="img/execution_movil_4.jpg" alt="Perfil del Salón - Servicios" width="300"/>
+</div>
+
+#### 5. **Perfil del Salón - Reseñas**
+- Sistema de reseñas y calificaciones de clientes
+- Comentarios con sistema de estrellas
+- Información de confianza para el usuario
+
+<div align="center">
+<img src="img/execution_movil_5.jpg" alt="Perfil del Salón - Reseñas" width="300"/>
+</div>
+
+#### 6. **Perfil del Salón - Acerca de**
+- Información detallada del salón
+- Horarios de atención
+- Ubicación y datos de contacto
+
+<div align="center">
+<img src="img/execution_movil_6.jpg" alt="Perfil del Salón - Acerca de" width="300"/>
+</div>
+
+#### 7. **Selección de Profesional**
+- Lista de profesionales disponibles
+- Opción "Cualquier profesional" para flexibilidad
+- Resumen del servicio seleccionado (precio y duración)
+
+<div align="center">
+<img src="img/execution_movil_7.jpg" alt="Selección de Profesional" width="300"/>
+</div>
+
+#### 8. **Selección de Fecha y Hora**
+- Calendario interactivo para elegir fecha
+- Lista de horarios disponibles
+- Información del profesional seleccionado
+- Validación antes de continuar
+
+<div align="center">
+<img src="img/execution_movil_8.jpg" alt="Selección de Fecha y Hora" width="300"/>
+</div>
+
+#### 9. **Confirmación de Reserva**
+- Resumen completo de la reserva
+- Detalles del servicio, profesional, fecha y hora
+- Resumen de pago con total
+- Botón final de confirmación
+
+<div align="center">
+<img src="img/execution_movil_9.jpg" alt="Confirmación de Reserva" width="300"/>
+</div>
+
+#### 10. **Confirmación Exitosa**
+- Mensaje de confirmación con ícono de éxito
+- Detalles de la reserva confirmada
+- Opciones para volver al inicio o compartir la reserva
+
+<div align="center">
+<img src="img/execution_movil_10.jpg" alt="Confirmación Exitosa" width="300"/>
+</div>
+
+#### 11. **Categorías de Servicios**
+- Grid de categorías de servicios de belleza
+- Incluye: Maquillaje, Manicure, Barbería, Cuidado Facial, Masajes, etc.
+- Barra de búsqueda para facilitar la navegación
+
+<div align="center">
+<img src="img/execution_movil_11.jpg" alt="Categorías de Servicios" width="300"/>
+</div>
+
+Este flujo demuestra una experiencia de usuario fluida y completa, desde el descubrimiento hasta la confirmación de reservas, con una interfaz intuitiva y funcionalidades bien integradas.
 
 
 #### 4.2.1.6. Services Documentation Evidence for Sprint Review
 
+Este apartado presenta evidencias del módulo Frontend de UTime que demuestran cómo se consumen y orquestan los servicios desde la capa de presentación.
+
+1) Módulo de autenticación y bienvenida
+- **login/**
+  - `LoginScreen.kt`: pantalla de inicio de sesión para usuarios existentes.
+- **register/**
+  - `RegisterScreen.kt`: registro de nuevos usuarios.
+  - `SuccessBusinessScreen.kt`: confirmación de registro para proveedor.
+  - `SuccessClientScreen.kt`: confirmación de registro para cliente.
+- **splash/**
+  - `SplashScreen.kt`: pantalla inicial; valida sesión/estado de la app.
+- **welcome/**
+  - `WelcomeScreen.kt`: bienvenida y rutas para iniciar sesión o registrarse.
+
+<div align="center">
+<img src="img/front-img.png" alt="front img" />
+</div>
+
+2) Módulo “home” (Jetpack Compose + MVVM)
+- `Home.kt`: pantalla principal tras el login; muestra salones, citas o accesos según rol.
+- `HomeViewModel`: maneja estado/datos de Home (salones, promos, etc.).
+- `SalonCard.kt`: composable reutilizable para tarjetas de salón (nombre, rating, acción “Book”).
+- `SalonDebugScreen.kt`: pantalla auxiliar para pruebas/render de componentes.
+  
+<div align="center">
+<img src="img/front-img2.png" alt="front img" />
+</div>
+
+3) Módulo de “services” (Clean Architecture)
+**Carpeta `data.service/`**
+- `ServiceDto`: DTO para intercambio con API.
+- `ServiceRemoteModule`: configuración de DI para servicios remotos (Retrofit/BaseApiService).
+- `ServiceRepositoryImpl`: implementación del repositorio; orquesta fuentes de datos.
+- `ServiceService`: capa de red/cliente HTTP con operaciones de servicios.
+
+**Carpeta `domain/`**
+- `Provider`: entidad de proveedor.
+- `ProviderRepository`: contrato de acceso a datos de proveedor.
+- `Service`: entidad de servicio ofrecido (corte, manicure, etc.).
+- `ServiceRepository`: contrato de acceso a datos de servicios.
+- `ServicesRepositoryModule`: módulo DI que enlaza interfaces de `domain` con `data.service`.
+
+<div align="center">
+<img src="img/front-img3.png" alt="front img" />
+</div>
+
+
+A continuación, se presentan tres fragmentos de código que evidencian el uso e implementación de los servicios dentro del sistema Backend, abarcando desde la configuración de los endpoints, asi como la lógica de la estructura para los bounded context del negocio:
+
+### 1. Shared Bounded Context:
+
+<div align="center">
+<img src="img/Sharedboundedtb3.png" alt="Shared Bounded Context" />
+</div>
+
+### 2. IAM Bounded Context:
+
+<div align="center">
+<img src="img/IAMboundedtb3.png" alt="Shared Bounded Context" />
+</div>
+
+### 3. Workers Bounded Context:
+
+<div align="center">
+<img src="img/Workersboundedtb3.png" alt="Shared Bounded Context" />
+</div>
+
+### 4. Services Bounded Context:
+
+<div align="center">
+<img src="img/Servicesboundedtb3.png" alt="Shared Bounded Context" />
+</div>
+
+### 5. Reviews Bounded Context:
+
+<div align="center">
+<img src="img/Reviewsboundedtb3.png" alt="Shared Bounded Context" />
+</div>
+
+### 6. Rservation Bounded Context:
+
+<div align="center">
+<img src="img/Reservationboundedtb3.png" alt="Shared Bounded Context" />
+</div>
+
+### 7. Profile Bounded Context:
+
+<div align="center">
+<img src="img/Profileboundedtb3.png" alt="Shared Bounded Context" />
+</div>
 
 
 #### 4.2.1.7. Software Deployment Evidence for Sprint Review
@@ -4116,6 +4550,8 @@ Cabe mencionar que debido a que Render al ser un servicio gratuito , al acceder 
 
 #### 4.2.1.8. Team Collaboration Insights during Sprint
 
+**Aplicación Móvil**
+
 | **Alumno**                           | **Actividad**                                                       |
 |--------------------------------------|---------------------------------------------------------------------|
 | Roman Cruz, Natalia Riman            | Implementación de pantalla categorias, busqueda de servicios y conección con backend |
@@ -4124,7 +4560,11 @@ Cabe mencionar que debido a que Render al ser un servicio gratuito , al acceder 
 | Qqueso Rodriguez, Britney Delhy      | Implementación de pantallas de visualizacion de perfil, favoritos, idiomas y ajustes  |
 | Yum Gonzales, Jorge Suin             | Implementación de pantallas de reserva de servicio |
 
+![alt text](img/insight_sprint1_2.png)
 
+![alt text](img/insight_sprint1_1.png)
+
+<div style="page-break-before: always;"></div>
 
 ## Conclusiones y recomendaciones
 
@@ -4154,6 +4594,7 @@ Cabe mencionar que debido a que Render al ser un servicio gratuito , al acceder 
 
 6. **Mejorar la conectividad entre la aplicación móvil y el backend**: Aunque se implementó un backend completo con API REST y se desarrollaron las pantallas móviles, se recomienda optimizar la integración real entre ambos componentes para que las funcionalidades de reserva, gestión de favoritos y perfil de usuario funcionen completamente en tiempo real. Esto incluye mejorar la sincronización de datos y la experiencia de usuario durante las operaciones de red.
 
+<div style="page-break-before: always;"></div>
 
 # Bibliografía
 
@@ -4167,7 +4608,7 @@ What is Figma? (2019). Figma Learn - Help Center. https://help.figma.com/hc/en-u
 
 Structurizr. (2025). https://structurizr.com/
 
-Lucidchart | Diagramas creados con inteligencia. (2025). Lucidchart. https://www.lucidchart.com/pages/es/landing?utm_source=google&utm_medium=cpc&utm_campaign=_chart_es_tier2_mixed_search_brand_phrase_&km_CPC_CampaignId=1501207844&km_CPC_AdGroupID=63362152012&km_CPC_Keyword=%2Blucidchart%20%2Bsoftware&km_CPC_MatchType=b&km_CPC_ExtensionID=&km_CPC_Network=g&km_CPC_AdPosition=&km_CPC_Creative=286846989106&km_CPC_TargetID=kwd-375017978385&km_CPC_Country=9186211&km_CPC_Device=c&km_CPC_placement=&km_CPC_target=&gad_source=1&gbraid=0AAAAADLdSjCGPJBFHw9InHN-Qfss5OfWy&gclid=Cj0KCQjwoNzABhDbARIsALfY8VPCJ6QSDWkzARgPQcf7VUOTXMJ-PZWXoYd1OdiqYtYOFsopUiaeMW8aAifbEALw_wcB
+Lucidchart | Diagramas creados con inteligencia. (2025). Lucidchart. https://www.lucidchart.com
 
 Videoconferencia, reuniones, llamadas | MicrosoftTeams. (2025). https://www.microsoft.com/es-es/microsoft-teams/group-chat-software
 
@@ -4187,24 +4628,27 @@ Tarafdar, M., Bose, I., & Dey, S. (2023). Task-technology fit of mobile producti
 
 Verhoef, P. C., Broekhuizen, T., Bart, Y., Bhattacharya, A., Dong, J. Q., Fabian, N., & Haenlein, M. (2023). Digitalization in small businesses: A review and research agenda. International Journal of Management Reviews, 25(2), 343-368. https://onlinelibrary.wiley.com/toc/14682370/25/2
 
+<div style="page-break-before: always;"></div>
+
+
 # Anexos
 
-URL de la Organizacion del repositorio en GitHub: [https://github.com/PaxTech-1807](https://github.com/PaxTech-1807)
+URL de la Organizacion del repositorio en GitHub: https://github.com/PaxTech-1807
 
-URL del Repositorio del Reporte Final: [https://github.com/PaxTech-1807/Final-Report](https://github.com/PaxTech-1807/Final-Report)
+URL del Repositorio del Reporte Final: https://github.com/PaxTech-1807/Final-Report
 
-URL del Repositorio de la Landing Page: [https://github.com/PaxTech-1807/Landing-Page](https://github.com/PaxTech-1807/Landing-Page)
+URL del Repositorio de la Landing Page: https://github.com/PaxTech-1807/Landing-Page
 
-URL del Deployment de la Landing Page: [https://paxtech-1807.github.io/Landing-Page/](https://paxtech-1807.github.io/Landing-Page/)
+URL del Deployment de la Landing Page: https://paxtech-1807.github.io/Landing-Page/
 
-URL del Repositorio del Backend: [https://github.com/PaxTech-1807/Web-Services](https://github.com/PaxTech-1807/Web-Services)
+URL del Repositorio del Backend: https://github.com/PaxTech-1807/Web-Services
 
-URL del Deployment Deployado: [https://utime-web-service.onrender.com/swagger-ui/index.html](https://utime-web-service.onrender.com/swagger-ui/index.html)
+URL del Deployment Deployado: https://utime-web-service.onrender.com/swagger-ui/index.html
 
-Bounded Context Canavas: [https://lucid.app/lucidspark/b49d697e-a5a0-4eca-bcee-a9be27954927/edit?invitationId=inv_bfecb053-e59d-41d8-aac5-7a1275a78017&page=0_0#](https://lucid.app/lucidspark/b49d697e-a5a0-4eca-bcee-a9be27954927/edit?invitationId=inv_bfecb053-e59d-41d8-aac5-7a1275a78017&page=0_0#)
+Bounded Context Canavas: https://lucid.app/lucidspark/b49d697e-a5a0-4eca-bcee-a9be27954927/edit
 
-URL del Repositorio del Mobile App: [https://github.com/PaxTech-1807/Mobile-App](https://github.com/PaxTech-1807/Mobile-App)
+URL del Repositorio del Mobile App: https://github.com/PaxTech-1807/Mobile-App
 
-URL Compilacion de primera ronda de Entrevistas: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fLXfTL](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fLXfTL)
+URL Compilacion de primera ronda de Entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ
 
-URL del Figma con los Mockups y Wireframes de la Aplicación: [https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME?node-id=160-7176&t=E17fyI5FpJlRybJg-1](https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME?node-id=160-7176&t=E17fyI5FpJlRybJg-1)
+URL del Figma con los Mockups y Wireframes de la Aplicación: https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME
