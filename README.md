@@ -3161,27 +3161,27 @@ Para el desarrollo de los wireframes y mockups de uTime, utilizaremos **Figma** 
 
 **Mockup 1 - Hero Section:** Diseño final del hero con tipografías atractivas, colores corporativos y call to action visualmente impactante.
 
-<img src="img/mockup1.png" alt="Mockup 1">
+<img src="img/mockup_landing_1.png" alt="Mockup 1">
 
 **Mockup 2 - Features (Funcionalidad 1):** Presentación visual de la primera funcionalidad con iconos, colores y tipografías de la marca.
 
-<img src="img/mockup2.png" alt="Mockup 2">
+<img src="img/mockup_landing_2.png" alt="Mockup 2">
 
 **Mockup 3 - Features (Funcionalidad 2):** Diseño final de la segunda funcionalidad con elementos gráficos y paleta de colores de uTime.
 
-<img src="img/mockup3.png" alt="Mockup 3">
+<img src="img/mockup_landing_3.png" alt="Mockup 3">
 
 **Mockup 4 - Features (Funcionalidad 3):** Interfaz visual de la tercera funcionalidad con iconografía y diseño corporativo.
 
-<img src="img/mockup4.png" alt="Mockup 4">
+<img src="img/mockup_landing_4.png" alt="Mockup 4">
 
 **Mockup 5 - Flujo Salón (Paso 1):** Diseño visual del primer paso del flujo con imágenes, iconos y colores atractivos.
 
-<img src="img/mockup5.png" alt="Mockup 5">
+<img src="img/mockup_landing_5.png" alt="Mockup 5">
 
 **Mockup 6 - Flujo Salón (Paso 2):** Presentación visual del segundo paso con elementos gráficos y tipografías corporativas.
 
-<img src="img/mockup6.png" alt="Mockup 6">
+<img src="img/mockup_landing_6.png" alt="Mockup 6">
 
 **Mockup 7 - Precios y Planes:** Diseño final de los planes con colores, tipografías y elementos visuales que destaquen cada opción.
 
@@ -4087,15 +4087,15 @@ La siguiente sección presenta la evidencia de ejecución de la landing page, ba
 
 **1. Hero Section - Primera Impresión del Usuario**
 
-![Hero Section](img/execution_landing_1.png)
+![Hero Section](img/mockup_landing_1.png.png)
 
 La landing page comienza con una sección hero impactante que captura inmediatamente la atención del usuario. Esta sección presenta una frase llamativa "Skip the Calls, Book in Real Time" que comunica directamente el valor principal de la plataforma. El usuario encuentra un call-to-action prominente "Start for Free →" que lo invita a comenzar su experiencia con uTime. Esta sección está diseñada para generar interés inmediato y motivar al usuario a explorar más la plataforma.
 
 **2-4. Features Section - Funcionalidades de la Aplicación**
 
-![Features 1](img/execution_landing_2.png)
-![Features 2](img/execution_landing_3.png)
-![Features 3](img/execution_landing_4.png)
+![Features 1](img/mockup_landing_2.png)
+![Features 2](img/mockup_landing_3.png)
+![Features 3](img/mockup_landing_4.png)
 
 Las secciones de características presentan las funcionalidades principales que uTime ofrece a los salones de belleza. Los usuarios pueden explorar:
 
@@ -4107,8 +4107,8 @@ Cada feature incluye iconos descriptivos y capturas de pantalla de la aplicació
 
 **5-6. Roadmap - Proceso de Interacción del Usuario**
 
-![Roadmap 1](img/execution_landing_5.png)
-![Roadmap 2](img/execution_landing_6.png)
+![Roadmap 1](img/mockup_landing_5.png)
+![Roadmap 2](img/mockup_landing_6.png)
 
 Esta sección presenta un roadmap claro de cómo los salones de belleza interactuarán con la aplicación:
 
@@ -4175,6 +4175,7 @@ El footer incluye:
 
 Esta estructura completa guía al usuario a través de un journey optimizado que educa, persuade y convierte, presentando uTime como la solución integral para la gestión de salones de belleza y barberías.
 
+**Url de la Landing Page Deployada: ** https://paxtech-1807.github.io/Landing-Page/
 
 **Backend**
 
