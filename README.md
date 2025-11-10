@@ -4869,6 +4869,127 @@ Dentro del marco de trabajo Scrum, cada Sprint constituye un periodo de tiempo f
 
 #### 4.2.2.6. Services Documentation Evidence for Sprint Review
 
+Durante este sprint, se avanzó en el desarrollo del módulo de **reservas** de la aplicación móvil **UTime**, enfocada en conectar a clientes con proveedores de servicios de belleza y bienestar. Se implementaron funcionalidades clave de conexión con el backend mediante **Retrofit**, incluyendo **autenticación de usuarios** y **gestión completa de reservas**.
+
+##### 1. Configuración Base de Retrofit y Conexión con Backend
+
+Se configuró **Retrofit** como cliente HTTP principal para todas las comunicaciones con el backend, utilizando inyección de dependencias con **Hilt** para mantener una arquitectura limpia y modular.
+
+###### 1.1. Configuración de Retrofit (RemoteModule)
+
+![Evidencia1](img/evidencia1.png)
+
+**Características destacadas:**
+- URL base del backend: `https://paxtech.azurewebsites.net/`
+- Timeouts configurados a **30 segundos** para operaciones de conexión, lectura y escritura
+- Integración de **interceptores** para autenticación automática y **logging** de peticiones
+- **Conversor Gson** para serialización/deserialización automática de JSON
+
+###### 1.2. AuthInterceptor - Inyección Automática de Tokens
+
+Se implementó un interceptor que automáticamente añade el token de autenticación a todas las peticiones HTTP.
+
+![Evidencia2](img/evidencia2.png)
+
+**Características destacadas:**
+- Lee el token de autenticación desde **SharedPreferences**
+- Añade automáticamente el header `Authorization: Bearer {token}` a todas las peticiones
+- Permite que las peticiones autenticadas se realicen sin necesidad de pasar el token manualmente en cada llamada
+
+
+##### 2. Sistema de Autenticación (Login)
+
+Se implementó un sistema completo de **autenticación** que permite a los usuarios **registrarse, iniciar sesión y crear perfiles de cliente**, todo conectado con el backend.
+
+###### 2.1. AuthService - Definición de Endpoints de Autenticación
+
+![Evidencia3](img/evidencia3.png)
+
+**Endpoints implementados:**
+- `POST /api/v1/authentication/sign-up` — Registro de nuevos usuarios
+- `POST /api/v1/authentication/sign-in` — Inicio de sesión
+- `POST /api/v1/clients` — Creación de perfil de cliente
+
+###### 2.2. AuthRepositoryImpl - Lógica de Negocio de Autenticación
+
+El repositorio implementa la lógica de comunicación con el backend para autenticación.
+
+![Evidencia4](img/evidencia4.png)
+
+**Características destacadas:**
+- Ejecuta las peticiones en el **dispatcher IO** para operaciones de red
+- **Manejo robusto de errores** con logging detallado
+- **Extracción y retorno del token** de autenticación desde la respuesta del servidor
+- **Transformación de DTOs** del backend a modelos de dominio
+
+###### 2.3. LoginViewModel - Gestión de Estado y Persistencia de Token
+
+El ViewModel maneja el flujo de inicio de sesión y **guarda el token** en SharedPreferences.
+
+![Evidencia5](img/evidencia5.png)
+
+**Características destacadas:**
+- Gestión de estados de **carga** y **error** mediante **StateFlow**
+- **Persistencia automática del token** y datos del usuario en SharedPreferences
+- El token guardado es utilizado automáticamente por el **AuthInterceptor** en todas las peticiones subsiguientes
+
+##### 3. Sistema de Reservas
+
+Se implementó un sistema completo de **gestión de reservas** que permite **crear nuevas reservas** y **consultar** todas las reservas existentes desde el backend.
+
+###### 3.1. ReservationService - Definición de Endpoints de Reservas
+
+![Evidencia5](img/evidencia5.png)
+
+**Endpoints implementados:**
+- `GET /api/v1/reservationsDetails/details` — Obtener todas las reservas con detalles completos
+- `POST /api/v1/reservationsDetails` — Crear una nueva reserva
+
+![Evidencia6](img/evidencia6.png)
+
+###### 3.2. ReservationRepositoryImpl - Lógica de Negocio de Reservas
+
+![Evidencia7](img/evidencia7.png)
+
+![Evidencia8](img/evidencia8.png)
+
+**Características destacadas:**
+- Uso de `Result<T>` para manejo **funcional** de errores
+- **Logging** detallado para debugging y seguimiento de operaciones
+- Manejo robusto de **errores HTTP** y **excepciones** de red
+
+###### 3.3. TimeSelectionViewModel - Integración Completa de Reservas
+
+El ViewModel integra la creación de reservas con la lógica de **selección de horarios**.
+
+![Evidencia9](img/evidencia9.png)
+
+![Evidencia10](img/evidencia10.png)
+
+**Características destacadas:**
+- **Sincronización bidireccional**: las reservas creadas se marcan localmente y se sincronizan con el backend
+- **Carga de reservas existentes** desde el backend para mostrar horarios ocupados
+- **Filtrado inteligente** de reservas por **trabajador** y **proveedor**
+- **Manejo robusto de errores**: si falla la carga del backend, se mantiene el estado local
+- **Persistencia local** de horarios reservados en SharedPreferences para resiliencia
+
+
+##### 4. Inyección de Dependencias - Configuración de Servicios
+
+Los servicios de reservas se configuran mediante **Hilt** en el módulo de dependencias.
+
+![Evidencia11](img/evidencia11.png)
+
+#### Logros del Sprint
+
+-  **Configuración completa de Retrofit** con interceptores para autenticación automática y logging  
+-  **Sistema de autenticación funcional** con registro, inicio de sesión y persistencia de tokens  
+-  **Gestión completa de reservas** con creación y consulta desde el backend  
+-  **Arquitectura limpia** utilizando repositorios, servicios y ViewModels siguiendo principios **SOLID**  
+-  **Manejo robusto de errores** con **Result** types y logging detallado para debugging  
+-  **Sincronización bidireccional** entre estado local y backend para una experiencia de usuario fluida  
+-  **Persistencia local** de tokens y datos críticos para resiliencia ante fallos de red  
+
 #### 4.2.2.7. Software Deployment Evidence for Sprint Review
 
 **Backend:**
