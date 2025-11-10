@@ -72,7 +72,7 @@
 
    <br>
 
-   <center><b>Octubre 2025</b></center>
+   <center><b>Noviembre 2025</b></center>
    <br>
    <center><b>Ciclo 2025-20</b></center>
 
@@ -111,6 +111,11 @@
 | 2.6    | 04/09/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |                                                                               Elaboración del Sprint 1                           |
 | 2.7    | 05/09/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |    Elaboración del Sprint Planning 1, Sprint Backlog 1 y Development Evidence for Sprint Review                                                                                                      |
 | 2.8    | 06/09/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  | Elaboración del Testing Suite, Execution, Services Documentation, Software Deployment y Team Collaboration Insights for Sprint Review.                                                                                                         |
+| 3.1    | 14/10/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  | Correción de los Avances del TP1                                                                                            |
+| 3.2    | 28/10/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |    Elaboración del Sprint Planning 1, Sprint Backlog 1 y Development Evidence for Sprint Review                                                                                                      |
+| 3.3    | 5/11/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  | Elaboración del Testing Suite, Execution, Services Documentation, Software Deployment y Team Collaboration Insights for Sprint Review.                                                                                                         |
+| 3.4    | 1/11/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  | Elaboración del Testing Suite, Execution, Services Documentation, Software Deployment y Team Collaboration Insights for Sprint Review.  
+
 
 </div>
 
@@ -167,7 +172,7 @@ Se explican las ramas más prominentes:
 
 **TP**
 
-Para el desarrollo del informe perteneciente a la entrega del TB2, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+Para el desarrollo del informe perteneciente a la entrega del TP, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
 
 
 | Integrantes     | Tareas Asignadas                                                                                                                                                                  |
@@ -200,6 +205,44 @@ Los integrantes son:
 
 ![tp1_imagen2](img/insight_tp1_2.png)
 ![tp1_image1](img/insight_tp1_1.png)
+
+<br>
+
+**TB2**
+
+Para el desarrollo del informe perteneciente a la entrega del TB2, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+
+
+| Integrantes     | Tareas Asignadas                                                                                                                                                                  |
+|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Luciana Choquehuanca  |    Services Documentation Evidence for Sprint Review, Video About the team  | 
+| Britney Qqueso        |    Testing Suite Evidence for Sprint Review        |
+| Gael Rivera           |    Execution Evidence for Sprint Review, Video App Validation        |
+| Natalia Roman         |    Revisión de user stories, Development Evidence for Sprint Review |
+| Jorge Yum             |    Software Deployment Evidence for Sprint Review, Video About the product           |
+
+
+El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización PaxTech.
+
+**Github Collaboration Insights**
+
+Github también presenta un timeline de las ramas principales y los procesos de merge a los que se han sometido. Todas las
+ramas se crearon tomando en cuenta el diseño de GitFlow para una buena organización cuando se usa un software de control
+de versiones.
+
+Los integrantes son:
+
+- Luciana Choquehuanca (lucianxaaa) 
+- Britney Qqueso (brit2801)
+- Gael Rivera (gael-rs)
+- Natalia Roman (natRC2005)
+- Jorge Yum (jsyumg, myussu)
+
+
+**Capturas de la participación en el informe:**
+
+![tp1_imagen2]()
+![tp1_image1]()
 
 <br>
 
@@ -380,11 +423,13 @@ Los integrantes son:
       <td>
          <strong>Eduardo Gael Rivera Sosa</strong> <br>  
          <b>TB1:</b> Durante el proyecto uTime, actualicé mis conocimientos en Domain-Driven Design (DDD), arquitectura de software con modelo C4, y patrones de integración. Profundicé en el diseño del Bounded Context IAM con conceptos de autenticación y autorización, y en la creación de diagramas de arquitectura (Context, Container y Deployment). También actualicé mis habilidades en especificación de requisitos mediante User Stories, Technical Stories y Spike Stories, y en técnicas ágiles como Impact Mapping y Product Backlog. <br> 
-         <b>TP1:</b> Durante esta entrega, actualicé mis conocimientos en documentación técnica y presentación de evidencias de ejecución. Trabajé en la elaboración de la sección "Execution Evidence for Sprint Review" que incluye la documentación completa de la Landing Page, Backend y Aplicación Móvil, así como en el desarrollo de Landing Page Wireframes y Mock-ups. Esta experiencia me permitió consolidar habilidades en documentación de proyectos de software y presentación de resultados técnicos de manera profesional y estructurada.
+         <b>TP1:</b> Durante esta entrega, actualicé mis conocimientos en documentación técnica y presentación de evidencias de ejecución. Trabajé en la elaboración de la sección "Execution Evidence for Sprint Review" que incluye la documentación completa de la Landing Page, Backend y Aplicación Móvil, así como en el desarrollo de Landing Page Wireframes y Mock-ups. Esta experiencia me permitió consolidar habilidades en documentación de proyectos de software y presentación de resultados técnicos de manera profesional y estructurada. <br>
+         <b>TB2:</b> Durante esta entrega, avancé en la corrección de la Landing Page colocando imágenes del nuevo producto para mejorar la presentación visual y la comunicación de las características del servicio. Trabajé en la elaboración de la sección "Execution Evidence for Sprint Review" documentando los avances y mejoras implementadas. Además, realicé el cambio completo de UI de toda la aplicación móvil, mejorando la experiencia de usuario y la consistencia visual del producto. Esta experiencia me permitió consolidar habilidades en diseño de interfaces, actualización de documentación técnica y mejora continua de productos de software.
       </td>
       <td rowspan="5">
          <b>TB1:</b> El desarrollo completo de los capítulos 1 y 2 del proyecto uTime permitió al equipo consolidar conocimientos fundamentales en ingeniería de software. A través del análisis competitivo, entrevistas con usuarios y técnicas de needfinding, el equipo desarrolló competencias en investigación de mercado y análisis de requisitos. La implementación de metodologías Lean UX y Domain-Driven Design proporcionó una base sólida en diseño de software centrado en el usuario y arquitecturas escalables. La elaboración de diagramas C4, EventStorming y Context Mapping permitió al equipo dominar técnicas avanzadas de modelado de sistemas complejos, mientras que la especificación de requisitos mediante User Stories y Product Backlog consolidó las habilidades del equipo en metodologías ágiles. 
          <br><b>TP1:</b> El desarrollo de los capítulos 3 y 4 del proyecto uTime permitió al equipo consolidar conocimientos avanzados en diseño de interfaces de usuario y implementación de software. A través del Capítulo 3 (Solution UI/UX Design), el equipo desarrolló competencias en Style Guidelines, Information Architecture, Landing Page UI Design y Mobile Applications Design, aplicando principios de usabilidad, accesibilidad y experiencia de usuario. El Capítulo 4 (Product Implementation, Validation) consolidó las habilidades del equipo en Software Configuration Management, implementación de Sprints con metodología Scrum, desarrollo de evidencia de ejecución, testing y deployment. La integración de wireframes, mockups, prototipos y la documentación técnica completa permitió al equipo dominar el ciclo completo de desarrollo de software, desde el diseño conceptual hasta la implementación y validación del producto final.
+         <br><b>TB2:</b> El desarrollo del Sprint 3 completo del proyecto uTime permitió al equipo consolidar conocimientos en implementación y migración de tecnologías móviles. Durante esta entrega, el equipo concluyó completamente el desarrollo de la aplicación móvil en Android, finalizando todas las funcionalidades y mejoras pendientes. Posteriormente, se inició la migración y desarrollo de la aplicación utilizando Flutter, lo que permitió al equipo adquirir competencias en frameworks multiplataforma y técnicas de migración de código. Esta experiencia consolidó las habilidades del equipo en desarrollo móvil nativo y multiplataforma, así como en la gestión de transiciones tecnológicas en proyectos de software en curso.
       </td>
     </tr>
     <tr>
@@ -421,11 +466,13 @@ Los integrantes son:
       <td>
          <strong>Eduardo Gael Rivera Sosa</strong> <br>  
          <b>TB1:</b> Durante el proyecto uTime, reconocí la importancia del aprendizaje continuo al enfrentar desafíos técnicos como el diseño de arquitecturas y la implementación de patrones DDD. La necesidad de mantenerme actualizado se evidenció al plantear como se trabajará con tecnologías emergentes en desarrollo móvil y al adaptarlas a las metodologías ágiles. <br>
-         <b>TP1:</b> Durante esta entrega, reconocí la necesidad del aprendizaje permanente al trabajar en la documentación técnica y presentación de evidencias de ejecución. Al desarrollar la sección "Execution Evidence for Sprint Review" que incluye Landing Page, Backend y Aplicación Móvil, así como Landing Page Wireframes y Mock-ups, identifiqué la importancia de mantenerme actualizado en técnicas de documentación de software y presentación de resultados técnicos para comunicar efectivamente el progreso del proyecto.
+         <b>TP1:</b> Durante esta entrega, reconocí la necesidad del aprendizaje permanente al trabajar en la documentación técnica y presentación de evidencias de ejecución. Al desarrollar la sección "Execution Evidence for Sprint Review" que incluye Landing Page, Backend y Aplicación Móvil, así como Landing Page Wireframes y Mock-ups, identifiqué la importancia de mantenerme actualizado en técnicas de documentación de software y presentación de resultados técnicos para comunicar efectivamente el progreso del proyecto. <br>
+         <b>TB2:</b> Durante esta entrega, reconocí la necesidad del aprendizaje permanente al trabajar en la corrección de la Landing Page con imágenes del nuevo producto y en el cambio completo de UI de toda la aplicación móvil. Al desarrollar la sección "Execution Evidence for Sprint Review" y actualizar la documentación técnica, identifiqué la importancia de mantenerme actualizado en diseño de interfaces, principios de UX/UI modernos y técnicas de mejora continua de productos de software. Esta experiencia me demostró que el aprendizaje permanente es esencial para adaptarse a las necesidades cambiantes de los usuarios y mantener la calidad visual y funcional del producto en constante evolución.
       </td>
       <td rowspan="5">
          <b>TB1:</b> La experiencia del TB1 demostró al equipo que el aprendizaje permanente es esencial en la ingeniería de software. Al trabajar con metodologías emergentes como Lean UX, Domain-Driven Design y arquitecturas, el equipo comprendió que las tecnologías evolucionan constantemente y requieren actualización continua. La investigación de competidores, el análisis de usuarios mediante entrevistas y la implementación de patrones de integración entre bounded contexts enseñaron al equipo la importancia de mantenerse al día con las mejores prácticas de la industria. Además, la colaboración en equipo y la retroalimentación de usuarios mostraron que el aprendizaje no se limita solo a aspectos técnicos, sino también al desarrollo de habilidades de comunicación, análisis de mercado y gestión de proyectos, fundamentales para el crecimiento profesional en el desarrollo de software.
-         <br><b>TP1:</b> La experiencia del TB2 reforzó la importancia del aprendizaje permanente en el desarrollo de software, especialmente en las áreas de diseño de interfaces y implementación de productos. Al trabajar en los capítulos 3 y 4, el equipo comprendió que el diseño de software requiere actualización constante en herramientas de prototipado, principios de UX/UI, metodologías ágiles como Scrum, y tecnologías de deployment. La implementación de wireframes, mockups, y la documentación técnica completa enseñaron al equipo que el aprendizaje continuo es crucial para mantenerse actualizado con las mejores prácticas de la industria en diseño centrado en el usuario, testing de software y gestión de configuración. Además, la colaboración en la implementación de Sprints y la validación de productos demostraron que el aprendizaje permanente abarca tanto aspectos técnicos como habilidades de documentación, presentación de evidencias y comunicación efectiva de resultados técnicos.
+         <br><b>TP1:</b> La experiencia del TP1 reforzó la importancia del aprendizaje permanente en el desarrollo de software, especialmente en las áreas de diseño de interfaces y implementación de productos. Al trabajar en los capítulos 3 y 4, el equipo comprendió que el diseño de software requiere actualización constante en herramientas de prototipado, principios de UX/UI, metodologías ágiles como Scrum, y tecnologías de deployment. La implementación de wireframes, mockups, y la documentación técnica completa enseñaron al equipo que el aprendizaje continuo es crucial para mantenerse actualizado con las mejores prácticas de la industria en diseño centrado en el usuario, testing de software y gestión de configuración. Además, la colaboración en la implementación de Sprints y la validación de productos demostraron que el aprendizaje permanente abarca tanto aspectos técnicos como habilidades de documentación, presentación de evidencias y comunicación efectiva de resultados técnicos.
+         <br><b>TB2:</b> La experiencia del Sprint 3 completo demostró al equipo la importancia crítica del aprendizaje permanente en la adaptación a nuevas tecnologías y frameworks. Al concluir completamente el desarrollo de la aplicación móvil en Android y posteriormente iniciar la migración a Flutter, el equipo comprendió que el aprendizaje permanente es fundamental para mantenerse actualizado con las tecnologías emergentes en desarrollo móvil. La transición de desarrollo nativo a frameworks multiplataforma enseñó al equipo que las tecnologías evolucionan rápidamente y que la capacidad de aprender y adaptarse es esencial para el crecimiento profesional. Además, la gestión de migraciones tecnológicas y el trabajo con diferentes paradigmas de desarrollo demostraron que el aprendizaje permanente abarca tanto la adquisición de nuevos conocimientos técnicos como el desarrollo de habilidades para evaluar, comparar y adoptar nuevas tecnologías de manera efectiva en proyectos de software en curso.
       </td>
     </tr>
     <tr>
@@ -4588,6 +4635,63 @@ Cabe mencionar que debido a que Render al ser un servicio gratuito , al acceder 
 
 #### 4.2.2.1. Sprint Planning 2
 
+
+Dentro del marco de trabajo Scrum, cada Sprint constituye un periodo de tiempo fijo y breve en el que el equipo de desarrollo trabaja de manera enfocada para alcanzar un objetivo específico que contribuya al cumplimiento del Product Goal (Schwaber, K. & Sutherland, J., 2020). En el contexto del desarrollo de la plataforma uTime, el Sprint #2 dio inicio el 16/10/2025, y su meta consiste en continuar el desarrollo de la aplicación móvil en Android, completando funcionalidades pendientes, mejorando la integración con el backend y refinando la experiencia de usuario. Durante este sprint, el equipo se enfocará en finalizar las funcionalidades core del flujo de Android, incluyendo mejoras en la UI/UX, conexión completa con los servicios del backend y optimización del rendimiento de la aplicación.
+
+<table>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint #</b></td>
+      <td colspan="1" align="center">Sprint 2</td>
+   </tr>
+   <tr>
+      <td colspan="2" align="center"><b>Sprint Planning Background</b></td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Date</b></td>
+      <td colspan="1">2025-10-16</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Time</b></td>
+      <td colspan="1">07:00 PM</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Location</b></td>
+      <td colspan="1">Reunión virtual mediante la aplicación Discord</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Prepare By</b></td>
+      <td colspan="1">Gael Rivera</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Attendees (to planning meeting)</b></td>
+      <td colspan="1">Natalia Roman, Gael Rivera, Britney Qqueso, Luciana Choquehuanca y Jorge Yum</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 2 Review Summary</b></td>
+      <td colspan="1">El Sprint 2 logró completar el desarrollo del flujo en Android, finalizando todas las funcionalidades core de la aplicación. Se mejoró significativamente la integración con el backend, permitiendo que todas las operaciones funcionen de manera completa y en tiempo real. Se realizó un cambio completo de UI/UX en toda la aplicación, mejorando la consistencia visual y la experiencia de usuario. La aplicación Android quedó completamente funcional con todas sus características implementadas y documentadas.</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 1 Retrospective Summary</b></td>
+      <td colspan="1">Durante la retrospectiva del Sprint 1, el equipo identificó la necesidad de mejorar la integración con el backend y optimizar algunos flujos de usuario. Se acordó priorizar la conexión completa con los servicios del backend en el siguiente sprint, así como refinar la experiencia de usuario basándose en los comentarios recibidos. Además, se identificó la importancia de mejorar el UI de la aplicación y arreglar la landing page para mejorar la presentación visual del producto. El equipo también reconoció la importancia de mantener una documentación más detallada durante el desarrollo.</td>
+   </tr>
+   <tr>
+      <td colspan="2" align="center"><b>Sprint Goal & User Stories</b></td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 2 Goal</b></td>
+      <td colspan="1"><b>Our focus is on</b> completing the Android application development by finalizing core functionalities, improving backend integration, and enhancing the UI/UX of the entire application.<br><b>We believe it delivers</b> a fully functional Android application with complete backend connectivity, improved user interface, and optimized performance that provides a seamless experience for users booking spa services.<br><b>This will be confirmed when</b> all core functionalities are working end-to-end with the backend, the application has a consistent and polished UI throughout all screens, and users can complete the full booking flow without issues.</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 2 Velocity</b></td>
+      <td colspan="1">55</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sum of Story Points</b></td>
+      <td colspan="1">55</td>
+   </tr>
+</tr>
+</table>
+
 #### 4.2.2.2. Sprint Backlog 2
 
 <table>
@@ -4761,6 +4865,8 @@ Cabe mencionar que debido a que Render al ser un servicio gratuito , al acceder 
 
 #### 4.2.2.5. Execution Evidence for Sprint Review
 
+
+
 #### 4.2.2.6. Services Documentation Evidence for Sprint Review
 
 #### 4.2.2.7. Software Deployment Evidence for Sprint Review
@@ -4781,29 +4887,29 @@ Url del Release
 
 ### Conclusiones
 
-1. Es importante identificar correctamente aquello que el cliente necesita o lo que tiene más valor para este utilizando las técnicas adecuadas, como las entrevistas y la investigación realizada en nuestro 5W2H. De esta manera, tenemos más claridad en cuanto a en qué aspecto debemos enfocarnos.
+1. El desarrollo del Sprint 3 completo permitió al equipo consolidar y finalizar completamente el desarrollo del flujo en Android, logrando implementar todas las funcionalidades pendientes y mejoras de UI/UX. Esta experiencia demostró la importancia de completar ciclos de desarrollo antes de iniciar nuevos flujos en otras plataformas, asegurando que cada flujo esté completamente funcional y documentado.
 
-2. Podemos concluir que el realizar un event storming e identificar correctamente los Bounded Contexts que serán necesarios en la solución es primordial dado que es así que se forma la base para comenzar a definir el espacio y orden en que se implementará la solución mediante una aplicación. Así, sabemos para que secuencias se cruzan los Bounded Contexts, repartimos las responsabilidades adecuadamente y evitamos llamar ciertos sectores innecesariamente.
+2. El inicio del desarrollo del flujo en Flutter representó un aprendizaje significativo sobre frameworks multiplataforma y desarrollo paralelo de aplicaciones. Concluimos que trabajar con dos flujos diferentes (Android y Flutter) requiere una planificación cuidadosa, documentación exhaustiva de cada implementación y una comprensión profunda de las diferencias arquitectónicas entre desarrollo nativo y multiplataforma para garantizar que cada flujo se desarrolle de manera óptima según las capacidades de su plataforma.
 
-3. Concluimos que el planteamiento que hemos realizado corresponde congruentemente con la idea de aplicación que deseamos implementar como solución. Esto, dado que considera todos los aspectos que deben ser tratados dados los deseos de nustros segmentos objetivos, así como representa una división justa que nos permitirá desarrollar el producto mínimo viable en poco tiempo.
+3. A través del Sprint 3, concluimos que la revisión continua de User Stories es fundamental para mantener el producto alineado con las necesidades del usuario. La actualización y refinamiento de las historias de usuario permitió identificar mejoras necesarias y nuevas funcionalidades que enriquecieron la experiencia del producto final en Android.
 
-4. A través del desarrollo del proyecto, concluimos que la implementación de Style Guidelines, Information Architecture y el diseño de wireframes y mockups es fundamental para crear una experiencia de usuario coherente y profesional. La definición clara de la identidad visual, sistemas de navegación y prototipos interactivos permitió validar la usabilidad antes de la implementación, reduciendo significativamente los riesgos de desarrollo.
+4. El desarrollo de evidencias de ejecución, testing, documentación de servicios y deployment durante el Sprint 3 demostró la importancia de mantener una documentación técnica actualizada y completa durante todo el ciclo de desarrollo. Esta práctica facilitó el inicio del desarrollo del flujo en Flutter al tener una referencia clara de todas las funcionalidades implementadas en Android y su comportamiento esperado, permitiendo mantener consistencia entre ambos flujos.
 
-5. El desarrollo del proyecto demostró la importancia de seguir metodologías ágiles como Scrum para la implementación exitosa del software. La evidencia de ejecución, testing automatizado con Gherkin, y el deployment continuo validaron que la arquitectura diseñada es funcional y escalable, cumpliendo con los requisitos establecidos en las User Stories.
+5. La experiencia del Sprint 3 reforzó la importancia del aprendizaje permanente en el desarrollo de software. La necesidad de adaptarse rápidamente a nuevas tecnologías como Flutter, mientras se finalizaba el desarrollo en Android, demostró que la capacidad de aprender y aplicar nuevos frameworks es esencial para el crecimiento profesional y la evolución continua de los productos de software.
 
 ### Recomendaciones
 
-1. **Profundizar en la validación de los Bounded Contexts identificados**: Aunque se logró una buena identificación inicial de los contextos (IAM, Services, Profiles, Reservations, Workers, Reviews, Shared), se recomienda realizar sesiones adicionales de EventStorming con usuarios reales del sector belleza para validar que los eventos, comandos y políticas identificados realmente reflejen los procesos de negocio actuales. Esto permitirá refinar la arquitectura antes de la implementación.
+1. **Establecer una estrategia de desarrollo paralelo para ambos flujos**: Aunque se completó el desarrollo en Android y se inició el desarrollo en Flutter, se recomienda definir claramente qué funcionalidades y flujos corresponden a cada plataforma. Esto permitirá mantener una organización clara del proyecto y evitar duplicación innecesaria de esfuerzos, asegurando que cada flujo se desarrolle de manera óptima según las capacidades de su plataforma.
 
-2. **Expandir el análisis competitivo con métricas cuantitativas**: El análisis de competidores realizado fue valioso, pero se sugiere complementarlo con métricas específicas como tiempo de respuesta de las aplicaciones, tasas de adopción por región, y análisis de reviews de usuarios en tiendas de aplicaciones. Esta información será crucial para posicionar uTime de manera diferenciada en el mercado.
+2. **Documentar las diferencias arquitectónicas y de diseño entre Android y Flutter**: Se sugiere crear documentación detallada sobre las diferencias en arquitectura, patrones de diseño y manejo de estado entre Android nativo y Flutter para cada flujo. Esta documentación será valiosa para futuras referencias y para otros desarrolladores que trabajen en el proyecto, permitiendo entender las decisiones técnicas de cada implementación.
 
-3. **Validar las User Stories con prototipos de baja fidelidad**: Las User Stories y Technical Stories definidas son un buen punto de partida, pero se recomienda crear wireframes o prototipos básicos para validar con usuarios reales que las funcionalidades propuestas realmente resuelven sus problemas. Esto ayudará a priorizar mejor el Product Backlog para las siguientes iteraciones.
+3. **Mantener sincronización de funcionalidades core entre ambos flujos**: Se recomienda establecer un proceso para asegurar que las funcionalidades core compartidas entre ambos flujos (como autenticación, integración con backend, y lógica de negocio) se mantengan sincronizadas, incluyendo validaciones de comportamiento y contratos de API. Esto garantizará consistencia en la experiencia del usuario y facilitará el mantenimiento del backend común.
 
-4. **Documentar patrones de integración entre Bounded Contexts**: Aunque se identificaron los contextos y sus responsabilidades, se sugiere crear documentación detallada sobre cómo se comunicarán entre sí, incluyendo APIs, eventos de dominio y contratos de integración. Esto facilitará la implementación y evitará problemas de acoplamiento en fases posteriores del desarrollo.
+4. **Desarrollar suites de testing específicas para cada flujo**: Aunque se desarrollaron pruebas para Android, se sugiere crear suites de testing completas para Flutter desde el inicio, aprovechando las capacidades de testing del framework. Esto incluye pruebas unitarias, de widgets y de integración que validen la calidad y funcionalidad del flujo desarrollado en Flutter, independientemente del flujo de Android.
 
-5. **Implementar testing de usabilidad con usuarios reales**: Aunque se desarrollaron wireframes, mockups y prototipos interactivos, se recomienda realizar sesiones de testing de usabilidad con usuarios reales del sector belleza para validar que la experiencia de usuario diseñada realmente cumple con sus expectativas y necesidades. Esto permitirá identificar oportunidades de mejora antes del lanzamiento final.
+5. **Realizar validación de rendimiento y experiencia de usuario para cada flujo**: Se recomienda realizar pruebas de rendimiento y usabilidad específicas para cada flujo (Android y Flutter) para identificar oportunidades de optimización y mejoras. Esto permitirá que cada implementación aproveche al máximo las capacidades de su plataforma respectiva.
 
-6. **Mejorar la conectividad entre la aplicación móvil y el backend**: Aunque se implementó un backend completo con API REST y se desarrollaron las pantallas móviles, se recomienda optimizar la integración real entre ambos componentes para que las funcionalidades de reserva, gestión de favoritos y perfil de usuario funcionen completamente en tiempo real. Esto incluye mejorar la sincronización de datos y la experiencia de usuario durante las operaciones de red.
+6. **Establecer un plan de mantenimiento y evolución para ambos flujos**: Se sugiere mantener ambos flujos (Android y Flutter) actualizados con correcciones críticas y mejoras importantes de manera independiente. Esto asegurará que cada flujo evolucione según las necesidades específicas de su plataforma y los usuarios que utilicen cada uno.
 
 <div style="page-break-before: always;"></div>
 
