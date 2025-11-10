@@ -338,6 +338,15 @@ Los integrantes son:
 4.2.1.6. [Services Documentation Evidence for Sprint Review](#4216-services-documentation-evidence-for-sprint-review)<br>
 4.2.1.7. [Software Deployment Evidence for Sprint Review](#4217-software-deployment-evidence-for-sprint-review)<br>
 4.2.1.8. [Team Collaboration Insights during Sprint](#4218-team-collaboration-insights-during-sprint)<br>
+4.2.2. [Sprint 2](#422-sprint-2)<br>
+4.2.2.1. [Sprint Planning 2](#4221-sprint-planning-2)<br>
+4.2.2.2. [Sprint Backlog 2](#4222-sprint-backlog-2)<br>
+4.2.2.3. [Development Evidence for Sprint Review](#4223-development-evidence-for-sprint-review)<br>
+4.2.2.4. [Testing Suite Evidence for Sprint Review](#4224-testing-suite-evidence-for-sprint-review)<br>
+4.2.2.5. [Execution Evidence for Sprint Review](#4225-execution-evidence-for-sprint-review)<br>
+4.2.2.6. [Services Documentation Evidence for Sprint Review](#4226-services-documentation-evidence-for-sprint-review)<br>
+4.2.2.7. [Software Deployment Evidence for Sprint Review](#4227-software-deployment-evidence-for-sprint-review)<br>
+4.2.2.8. [Team Collaboration Insights during Sprint](#4228-team-collaboration-insights-during-sprint)<br>
 4.3. [Validation Interviews](#43-validation-interviews)<br>
 4.3.1. [Diseño de Entrevistas](#431-diseño-de-entrevistas)<br>
 4.3.2. [Registro de Entrevistas](#432-registro-de-entrevistas)<br>
@@ -4574,6 +4583,189 @@ Cabe mencionar que debido a que Render al ser un servicio gratuito , al acceder 
 ![alt text](img/insight_sprint1_1.png)
 
 <div style="page-break-before: always;"></div>
+
+### 4.2.2. Sprint 2
+
+#### 4.2.2.1. Sprint Planning 2
+
+#### 4.2.2.2. Sprint Backlog 2
+
+<table>
+   <tr>
+      <td colspan="2" align="center"><b>Sprint #</b></td>
+      <td colspan="6" align="center"><b>Sprint 2</b></td>
+   </tr>
+   <tr>
+      <td colspan="2"><b>User Story</b></td>
+      <td colspan="6" align="center"><b>Work-Item/Task</b></td>
+   </tr>
+   <tr>
+      <td><b>Id</b></td>
+      <td><b>Tittle</b></td>
+      <td><b>Id</b></td>
+      <td><b>Tittle</b></td>
+      <td><b>Description</b></td>
+      <td><b>Estimation (Hours)</b></td>
+      <td><b>Assigned To</b></td>
+      <td><b>Status(To-do/In-Process/To-Review/Done)</b></td>
+   </tr>
+   <tr>
+      <td rowspan="2">US02</td>
+      <td rowspan="2">Registro de salón/barbería</td>
+      <td>T201</td>
+      <td>Maquetado Flutter del registro</td>
+      <td>Implementar en Flutter la pantalla de registro del negocio con campos obligatorios y validaciones visuales.</td>
+      <td>4</td>
+      <td>Gael Rivera</td>
+      <td>In-Process</td>
+   </tr>
+   <tr>
+      <td>T202</td>
+      <td>Integración con backend</td>
+      <td>Conectar el formulario Flutter con el endpoint POST /providers para persistir nuevos salones.</td>
+      <td>3</td>
+      <td>Jorge Yum</td>
+      <td>To-Review</td>
+   </tr>
+   <tr>
+      <td rowspan="2">US03</td>
+      <td rowspan="2">Inicio de sesión de usuarios</td>
+      <td>T203</td>
+      <td>Pantalla de login en Flutter</td>
+      <td>Diseñar la interfaz de inicio de sesión en Flutter utilizando componentes reutilizables y manejo de estados.</td>
+      <td>3</td>
+      <td>Natalia Roman</td>
+      <td>In-Process</td>
+   </tr>
+   <tr>
+      <td>T204</td>
+      <td>Consumo de endpoint /login</td>
+      <td>Consumir desde Flutter el endpoint POST /login y gestionar tokens JWT en almacenamiento seguro.</td>
+      <td>2.5</td>
+      <td>Luciana Choquehuanca</td>
+      <td>To-do</td>
+   </tr>
+   <tr>
+      <td rowspan="2">US06</td>
+      <td rowspan="2">Personalización del perfil del salón</td>
+      <td>T205</td>
+      <td>UI editable de perfil</td>
+      <td>Crear en Flutter el formulario editable del perfil del salón con pre-carga de datos remotos.</td>
+      <td>3.5</td>
+      <td>Britney Qqueso</td>
+      <td>In-Process</td>
+   </tr>
+   <tr>
+      <td>T206</td>
+      <td>Gestión multimedia</td>
+      <td>Implementar la subida de logotipo e imágenes del salón usando Flutter y almacenamiento en la nube.</td>
+      <td>4</td>
+      <td>Jorge Yum</td>
+      <td>To-do</td>
+   </tr>
+   <tr>
+      <td rowspan="2">TS05</td>
+      <td rowspan="2">Endpoint de registro de usuarios</td>
+      <td>T207</td>
+      <td>Servicio Flutter para POST /usuarios</td>
+      <td>Crear servicio en Flutter que envíe solicitudes POST /usuarios para registrar clientes y salones.</td>
+      <td>2.5</td>
+      <td>Gael Rivera</td>
+      <td>In-Process</td>
+   </tr>
+   <tr>
+      <td>T208</td>
+      <td>Manejo de errores y feedback</td>
+      <td>Configurar mensajes de retroalimentación en Flutter ante respuestas de error del endpoint de registro.</td>
+      <td>2</td>
+      <td>Natalia Roman</td>
+      <td>To-do</td>
+   </tr>
+   <tr>
+      <td rowspan="2">TS12</td>
+      <td rowspan="2">Gestión de proveedores</td>
+      <td>T209</td>
+      <td>Listado de proveedores</td>
+      <td>Consumir GET /providers desde Flutter y mostrar un listado filtrable con tarjetas informativas.</td>
+      <td>3</td>
+      <td>Luciana Choquehuanca</td>
+      <td>In-Process</td>
+   </tr>
+   <tr>
+      <td>T210</td>
+      <td>Registro de proveedores</td>
+      <td>Implementar formulario en Flutter para enviar nuevos proveedores mediante POST /providers.</td>
+      <td>3.5</td>
+      <td>Britney Qqueso</td>
+      <td>To-do</td>
+   </tr>
+   <tr>
+      <td rowspan="2">TS13</td>
+      <td rowspan="2">Perfiles de proveedores</td>
+      <td>T211</td>
+      <td>Pantalla de perfil de proveedor</td>
+      <td>Diseñar pantalla Flutter que muestre la ficha de un proveedor usando GET /providerProfile/{id}.</td>
+      <td>2.5</td>
+      <td>Jorge Yum</td>
+      <td>In-Process</td>
+   </tr>
+   <tr>
+      <td>T212</td>
+      <td>Actualización de perfil</td>
+      <td>Permitir editar datos del proveedor y sincronizar cambios mediante POST /providerProfile.</td>
+      <td>3</td>
+      <td>Gael Rivera</td>
+      <td>To-do</td>
+   </tr>
+   <tr>
+      <td rowspan="2">TS14</td>
+      <td rowspan="2">Gestión de trabajadores</td>
+      <td>T213</td>
+      <td>Listado de trabajadores</td>
+      <td>Crear en Flutter un listado con búsqueda que consuma GET /workers y GET /workers/{id}.</td>
+      <td>3</td>
+      <td>Natalia Roman</td>
+      <td>In-Process</td>
+   </tr>
+   <tr>
+      <td>T214</td>
+      <td>Alta de trabajadores</td>
+      <td>Construir formulario Flutter para registrar personal mediante POST /workers.</td>
+      <td>2.5</td>
+      <td>Luciana Choquehuanca</td>
+      <td>To-do</td>
+   </tr>
+   <tr>
+      <td rowspan="2">TS17</td>
+      <td rowspan="2">Servicios ofrecidos</td>
+      <td>T215</td>
+      <td>Gestor de servicios</td>
+      <td>Implementar componente Flutter que consuma GET /services y permita filtrar por categoría.</td>
+      <td>3.5</td>
+      <td>Britney Qqueso</td>
+      <td>In-Process</td>
+   </tr>
+   <tr>
+      <td>T216</td>
+      <td>Registro de servicios</td>
+      <td>Desarrollar flujo de creación de servicios desde Flutter invocando POST /services y manejo de estados.</td>
+      <td>3</td>
+      <td>Jorge Yum</td>
+      <td>To-do</td>
+   </tr>
+</table>
+
+#### 4.2.2.3. Development Evidence for Sprint Review
+
+#### 4.2.2.4. Testing Suite Evidence for Sprint Review
+
+#### 4.2.2.5. Execution Evidence for Sprint Review
+
+#### 4.2.2.6. Services Documentation Evidence for Sprint Review
+
+#### 4.2.2.7. Software Deployment Evidence for Sprint Review
+
+#### 4.2.2.8. Team Collaboration Insights during Sprint
 
 ## Conclusiones y recomendaciones
 
