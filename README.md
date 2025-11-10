@@ -4765,6 +4765,16 @@ Cabe mencionar que debido a que Render al ser un servicio gratuito , al acceder 
 
 #### 4.2.2.7. Software Deployment Evidence for Sprint Review
 
+**Backend:**
+Ahora, para el despliegue del backend en el Sprint 2 y con el proposito de acelerar el proceso de desarrollo y coneccion del api con la aplicacion movil se opto por usar el servicio de azure web apps. Lo que nos permite desplegar el backend de manera rapida y sencilla desde una automatizacion con github actions.
+![github-actions](img/githubActions.png)
+Url de la documentacion del BackEnd Deployado: https://paxtech.azurewebsites.net/swagger-ui/index.html
+
+**Firebase Hosting:**
+Para el despliegue del FrontEnd de la aplicacion movil se opto por usar Firebase Hosting, ya que nos permite desplegar aplicaciones web y moviles de manera rapida y sencilla para testing de cada miembro del equipo.
+![firebase hosting evidence](img/firebasehosting.png)
+Url del Release 
+
 #### 4.2.2.8. Team Collaboration Insights during Sprint
 
 ## Conclusiones y recomendaciones
