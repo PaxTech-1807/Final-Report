@@ -4939,19 +4939,19 @@ Se implementó un sistema completo de **gestión de reservas** que permite **cre
 
 ###### 3.1. ReservationService - Definición de Endpoints de Reservas
 
-![Evidencia5](img/evidencia5.png)
+![Evidencia6](img/evidencia6.png)
 
 **Endpoints implementados:**
 - `GET /api/v1/reservationsDetails/details` — Obtener todas las reservas con detalles completos
 - `POST /api/v1/reservationsDetails` — Crear una nueva reserva
 
-![Evidencia6](img/evidencia6.png)
+![Evidencia7](img/evidencia7.png)
 
 ###### 3.2. ReservationRepositoryImpl - Lógica de Negocio de Reservas
 
-![Evidencia7](img/evidencia7.png)
-
 ![Evidencia8](img/evidencia8.png)
+
+![Evidencia9](img/evidencia9.png)
 
 **Características destacadas:**
 - Uso de `Result<T>` para manejo **funcional** de errores
@@ -4962,9 +4962,9 @@ Se implementó un sistema completo de **gestión de reservas** que permite **cre
 
 El ViewModel integra la creación de reservas con la lógica de **selección de horarios**.
 
-![Evidencia9](img/evidencia9.png)
-
 ![Evidencia10](img/evidencia10.png)
+
+![Evidencia11](img/evidencia11.png)
 
 **Características destacadas:**
 - **Sincronización bidireccional**: las reservas creadas se marcan localmente y se sincronizan con el backend
@@ -4978,7 +4978,7 @@ El ViewModel integra la creación de reservas con la lógica de **selección de 
 
 Los servicios de reservas se configuran mediante **Hilt** en el módulo de dependencias.
 
-![Evidencia11](img/evidencia11.png)
+![Evidencia12](img/evidencia12.png)
 
 #### Logros del Sprint
 
