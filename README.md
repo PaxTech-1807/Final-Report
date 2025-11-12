@@ -241,8 +241,7 @@ Los integrantes son:
 
 **Capturas de la participación en el informe:**
 
-![tp1_imagen2]()
-![tp1_image1]()
+![tpb2_image](img/tb2project.png)
 
 <br>
 
@@ -396,12 +395,19 @@ Los integrantes son:
 4.3.3. [Evaluaciones según heurísticas](#433-evaluaciones-según-heurísticas)<br>
 5. [Conclusiones](#conclusiones)<br>
 5.1 [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)<br>
-5.2 [Video App Validation](#video-app-validation)<br>
-5.3 [Video About the Product](#video-about-the-product)<br>
+5.2 [Video App Validation](#52-video-app-validation)<br>
+5.3 [Video About the Product](#53-video-about-the-product)<br>
+5.4 [Video About the Team](#54-video-about-the-team)<br>
 6. [Glosario](#glosario)<br>
 7. [Bibliografía](#bibliografía)<br>
 8. [Anexos](#anexos)<br>
 
+
+5.2 Video About the Product
+
+
+
+5.3 Video About the Team
 <br>
 
 <div style="page-break-before: always;"></div>
@@ -4917,6 +4923,93 @@ Repositorio de Acceptance Tests: https://github.com/PaxTech-1807/Acceptance-Test
 
 #### 4.2.2.5. Execution Evidence for Sprint Review
 
+Durante el Sprint 2, se realizó un cambio completo de UI/UX en toda la aplicación móvil Android, mejorando significativamente la experiencia de usuario y la consistencia visual del producto. Se implementó un nuevo diseño con una paleta de colores unificada basada en tonos púrpura, mejorando la navegación y la presentación de la información en todas las pantallas principales.
+
+##### Pantallas Informativas (Onboarding)
+
+La aplicación incluye un flujo de onboarding de tres pantallas que introduce a los usuarios a las funcionalidades principales de uTime. Estas pantallas informativas presentan de manera visual y atractiva los beneficios de la aplicación, utilizando imágenes circulares destacadas y mensajes claros que comunican el valor del servicio.
+
+**Primera pantalla - Exploración de Salones:**
+Esta pantalla presenta la funcionalidad principal de explorar salones de belleza cercanos, destacando la facilidad para descubrir los mejores salones y estilistas en el área del usuario.
+
+![Onboarding 1 - Exploración](img/execution_movil_1.jpg)
+
+**Segunda pantalla - Reserva de Estilistas:**
+La segunda pantalla enfatiza la capacidad de reservar citas con estilistas favoritos de manera fácil y rápida, sin esperas ni complicaciones.
+
+![Onboarding 2 - Reserva](img/execution_movil_2.jpg)
+
+**Tercera pantalla - Transformación Personal:**
+La última pantalla de onboarding invita a los usuarios a transformar su look con los mejores profesionales, descubriendo su mejor versión a través de la aplicación.
+
+![Onboarding 3 - Transformación](img/execution_movil_3.jpg)
+
+##### Pantalla de Inicio de Sesión
+
+La pantalla de login presenta un diseño limpio y moderno con un banner púrpura que invita a los usuarios a iniciar sesión. Incluye campos para correo electrónico y contraseña, con opción de mostrar/ocultar la contraseña, y un enlace para usuarios nuevos que deseen registrarse.
+
+![Pantalla de Login](img/execution_movil_4.jpg)
+
+##### Pantalla de Registro
+
+La pantalla de registro permite a los nuevos usuarios crear una cuenta de manera sencilla. Incluye campos para nombre, apellido, correo electrónico y contraseña, manteniendo el mismo diseño consistente con el resto de la aplicación y un banner informativo que destaca los beneficios de registrarse.
+
+![Pantalla de Registro](img/execution_movil_5.jpg)
+
+##### Pantalla de Inicio
+
+La pantalla principal de la aplicación muestra una interfaz limpia y moderna que permite a los usuarios explorar salones cercanos y recientes. Incluye un banner promocional destacado, una barra de búsqueda para encontrar salones específicos, y tarjetas de salones con información relevante como distancia, calificación y ubicación.
+
+![Pantalla de Inicio](img/exec1.jpg)
+
+##### Pantalla de Categorías y Búsqueda
+
+Esta pantalla permite a los usuarios explorar servicios por categorías, facilitando la búsqueda de servicios específicos como maquillaje, manicure, barbería, cuidado facial, masajes, entre otros. El diseño en grid permite una navegación intuitiva y rápida entre las diferentes opciones de servicios disponibles.
+
+![Pantalla de Categorías](img/exec2.jpg)
+
+##### Pantalla de Reservaciones
+
+La pantalla de reservaciones muestra todas las citas del usuario de manera organizada, presentando información clave como el tipo de servicio, fecha, hora y estado de la reserva. El diseño permite una visualización clara del historial de citas y su estado actual.
+
+![Pantalla de Reservaciones](img/exec3.jpg)
+
+##### Flujo de Reservación
+
+El flujo completo de reservación permite a los usuarios seleccionar servicios, elegir profesionales y confirmar sus citas de manera intuitiva y eficiente.
+
+**Pantalla de Detalles del Salón y Servicios:**
+
+Esta pantalla muestra la información detallada del salón seleccionado, incluyendo su nombre, ubicación y calificación. Presenta pestañas para navegar entre "Servicios", "Reseña" y "Acerca de". En la sección de servicios, los usuarios pueden ver cada servicio disponible con su precio, duración y un botón para reservar directamente.
+
+![Detalles del Salón](img/execution_movil_6.jpg)
+
+**Pantalla de Selección de Profesional:**
+
+Esta pantalla permite a los usuarios elegir un estilista específico para su cita o seleccionar "Cualquier profesional" si no tienen preferencia. Cada opción se presenta en una tarjeta visual que facilita la selección mediante botones de radio.
+
+![Selección de Profesional](img/execution_movil_7.jpg)
+
+**Pantalla de Confirmación de Reserva:**
+
+Antes de finalizar la reserva, esta pantalla muestra un resumen completo de todos los detalles de la cita, incluyendo fecha, hora, profesional seleccionado, lista de servicios con sus duraciones y precios, tiempo total y precio total. El usuario puede revisar toda la información antes de confirmar.
+
+![Confirmación de Reserva](img/execution_movil_8.jpg)
+
+**Pantalla de Confirmación Exitosa:**
+
+Una vez confirmada la reserva, esta pantalla muestra un mensaje de éxito con un ícono de confirmación, un resumen completo de la reserva confirmada, y confirma que se ha enviado un correo electrónico con todos los detalles. Incluye un botón para regresar al inicio de la aplicación.
+
+![Confirmación Exitosa](img/execution_movil_9.jpg)
+
+
+
+##### Pantalla de Perfil
+
+La pantalla de perfil proporciona acceso a todas las opciones de configuración y gestión de la cuenta del usuario. Incluye opciones para gestionar el perfil, métodos de pago, salones favoritos, notificaciones, y otras configuraciones importantes de la aplicación.
+
+![Pantalla de Perfil](img/exec4.jpg)
+
 
 
 #### 4.2.2.6. Services Documentation Evidence for Sprint Review
@@ -5051,10 +5144,27 @@ Url de la documentacion del BackEnd Deployado: https://paxtech.azurewebsites.net
 
 **Firebase Hosting:**
 Para el despliegue del FrontEnd de la aplicacion movil se opto por usar Firebase Hosting, ya que nos permite desplegar aplicaciones web y moviles de manera rapida y sencilla para testing de cada miembro del equipo.
+
+
 ![firebase hosting evidence](img/firebasehosting.png)
-Url del Release 
+
+Url del Release : https://appdistribution.firebase.google.com/testerapps/1:926361378609:android:a84ac4062d1a098abfda10/releases/5uliosg8igfp8
 
 #### 4.2.2.8. Team Collaboration Insights during Sprint
+
+Durante el Sprint 2, el equipo mantuvo una colaboración activa y constante a través de GitHub, trabajando tanto en el desarrollo del flujo de Android como en el inicio del desarrollo del flujo en Flutter. Las métricas de colaboración muestran el compromiso del equipo y la distribución del trabajo entre los diferentes componentes del proyecto.
+
+**Android**
+
+El desarrollo del flujo en Android contó con contribuciones significativas de todos los miembros del equipo, reflejando el trabajo colaborativo en la finalización de funcionalidades, mejoras de UI/UX y la integración completa con el backend. Las métricas de GitHub muestran un alto nivel de actividad durante todo el sprint.
+
+![Team Collaboration Insights - Android](img/android_insight.png)
+
+**Flutter**
+
+El inicio del desarrollo del flujo en Flutter también se refleja en las métricas de colaboración, mostrando las primeras contribuciones al nuevo flujo multiplataforma. Aunque el desarrollo de Flutter está en sus etapas iniciales, las métricas demuestran el compromiso del equipo con esta nueva implementación.
+
+![Team Collaboration Insights - Flutter](img/flutterinsight.png)
 
 ## Conclusiones y recomendaciones
 
@@ -5083,6 +5193,18 @@ Url del Release
 5. **Realizar validación de rendimiento y experiencia de usuario para cada flujo**: Se recomienda realizar pruebas de rendimiento y usabilidad específicas para cada flujo (Android y Flutter) para identificar oportunidades de optimización y mejoras. Esto permitirá que cada implementación aproveche al máximo las capacidades de su plataforma respectiva.
 
 6. **Establecer un plan de mantenimiento y evolución para ambos flujos**: Se sugiere mantener ambos flujos (Android y Flutter) actualizados con correcciones críticas y mejoras importantes de manera independiente. Esto asegurará que cada flujo evolucione según las necesidades específicas de su plataforma y los usuarios que utilicen cada uno.
+
+<div style="page-break-before: always;"></div>
+
+
+## 5.4 Video About the Team
+
+En este video, todo el equipo de desarrollo habla sobre el proceso de desarrollo del proyecto uTime, compartiendo sus experiencias, aprendizajes y el trabajo colaborativo realizado durante la implementación de la plataforma.
+
+![Video About the Team](img/abouttheteam.jpg)
+
+**URL del video (Microsoft Stream):** https://youtu.be/E-CdPPM4Y1Q
+
 
 <div style="page-break-before: always;"></div>
 
@@ -5142,3 +5264,7 @@ URL del Repositorio del Mobile App: https://github.com/PaxTech-1807/Mobile-App
 URL Compilacion de primera ronda de Entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ
 
 URL del Figma con los Mockups y Wireframes de la Aplicación: https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME
+
+URL Firebase Deployment APK: https://appdistribution.firebase.google.com/testerapps/1:926361378609:android:a84ac4062d1a098abfda10/releases/5uliosg8igfp8
+
+Video About The Team: https://youtu.be/E-CdPPM4Y1Q
