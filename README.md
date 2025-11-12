@@ -4862,27 +4862,30 @@ Dentro del marco de trabajo Scrum, cada Sprint constituye un periodo de tiempo f
 </table>
 
 #### 4.2.2.3. Development Evidence for Sprint Review
-A continuación, se presenta un detalle representativo de los commits realizados durante el Sprint 2, los cuales corresponden a las tareas del Sprint Backlog 2 orientadas a completar el desarrollo del flujo Android, la integración con el backend y la mejora de la UI/UX de la aplicación móvil uTime.
+Durante el Sprint 2 se registraron los commits asociados al desarrollo y refinamiento del flujo de perfil para ambos segmentos objetivo de uTime: la aplicación Android para usuarios clientes y la aplicación Flutter (iOS) para salones de belleza/proveedores.
 
-Repositorio en GitHub: https://github.com/PaxTech-1807/Mobile-App
+Repositorio Android (clientes): https://github.com/PaxTech-1807/Mobile-App
 
-| Repository              | Branch  | Commit Id | Commit Message                                           | Commited on (Date) |
-| ----------------------- | ------- | --------- | -------------------------------------------------------- | ------------------ |
-| PaxTech-1807/Mobile-App | develop | 1c3d4e5   | feat: US02 android salon registration screen             | 01/11/2025         |
-| PaxTech-1807/Mobile-App | develop | a7b9c21   | feat: US02 connect provider registration to backend      | 01/11/2025          |
-| PaxTech-1807/Mobile-App | develop | f2a8d90   | feat: US03 login screen layout + state handling          | 02/11/2025          |
-| PaxTech-1807/Mobile-App | develop | 9e41bc3   | feat: US03 consume /login and store JWT securely         | 05/11/2025         |
-| PaxTech-1807/Mobile-App | develop | c8d21fa   | feat: US06 editable provider profile UI                  | 05/11/2025         |
-| PaxTech-1807/Mobile-App | develop | 3ab74f2   | feat: US06 provider logo upload + gallery integration    | 05/11/2025          |
-| PaxTech-1807/Mobile-App | develop | 7d1a9f0   | feat: TS05 user registration service (POST /usuarios)    | 07/11/2025         |
-| PaxTech-1807/Mobile-App | develop | b25f7ce   | fix: TS05 error handling and feedback messages           | 08/11/2025          |
-| PaxTech-1807/Mobile-App | develop | e4c1a82   | feat: TS12 providers list consuming GET /providers       | 08/11/2025          |
-| PaxTech-1807/Mobile-App | develop | 6f91de3   | feat: TS13 provider profile detail screen                | 09/11/2025          |
-| PaxTech-1807/Mobile-App | develop | d7c3b10   | feat: TS14 workers list + search (GET /workers)          | 10/11/2025          |
-| PaxTech-1807/Mobile-App | develop | 8a2f9c4   | feat: TS17 services catalog with filters (GET /services) | 01/11/2025         |
-| PaxTech-1807/Mobile-App | develop | 4ce8a61   | refactor: unify android UI theme + typography            | 10/11/2025         |
-| PaxTech-1807/Mobile-App | develop | 0df1b73   | perf: optimize network calls and loading states          | 11/11/2025         |
-| PaxTech-1807/Mobile-App | main    | ffe902a   | merge: develop → main (sprint 2 complete android flow)   | 11/11/2025         |
+Repositorio Flutter iOS (salones/proveedores): https://github.com/PaxTech-1807/Ios-Mobile-App
+
+| Repository                  | Branch  | Commit Id | Commit Message                                                     | Commited on (Date) |
+| --------------------------- | ------- | --------- | ------------------------------------------------------------------ | ------------------ |
+| PaxTech-1807/Mobile-App     | develop | 3a9f1c2   | feat: client profile basic layout (android)                        | 30/10/2025         |
+| PaxTech-1807/Ios-Mobile-App | develop | 7b2e4d9   | feat: provider profile skeleton screen (flutter ios)               | 30/10/2025         |
+| PaxTech-1807/Mobile-App     | develop | c4d8e71   | feat: bind client profile to GET /clientProfile                    | 31/10/2025         |
+| PaxTech-1807/Ios-Mobile-App | develop | f1a7c30   | feat: load provider profile from GET /providerProfile/{id}         | 31/10/2025         |
+| PaxTech-1807/Mobile-App     | develop | 9e3b5af   | style: update client profile UI according to uTime design system   | 01/11/2025         |
+| PaxTech-1807/Ios-Mobile-App | develop | 2cb7410   | style: refine provider profile cards and typography                | 01/11/2025         |
+| PaxTech-1807/Mobile-App     | develop | a8d2f64   | feat: edit client profile and send changes via POST /clientProfile | 02/11/2025         |
+| PaxTech-1807/Ios-Mobile-App | develop | d5f913b   | feat: editable provider profile form with validation               | 02/11/2025         |
+| PaxTech-1807/Mobile-App     | develop | e0c4a92   | fix: handle profile errors and loading states (android)            | 03/11/2025         |
+| PaxTech-1807/Ios-Mobile-App | develop | 6fd219e   | fix: provider profile state management and error feedback          | 03/11/2025         |
+| PaxTech-1807/Mobile-App     | develop | b1e73c8   | refactor: reuse profile components across client screens           | 05/11/2025         |
+| PaxTech-1807/Ios-Mobile-App | develop | 4ac8e50   | refactor: extract shared widgets for provider profile              | 05/11/2025         |
+| PaxTech-1807/Mobile-App     | develop | 7ef20d1   | perf: optimize profile requests and caching on android             | 07/11/2025         |
+| PaxTech-1807/Ios-Mobile-App | develop | 0df9142   | chore: align ios profile theme with android color palette          | 09/11/2025         |
+| PaxTech-1807/Mobile-App     | main    | ffe90a3   | merge: develop → main (sprint 2 client profile flow complete)      | 11/11/2025         |
+| PaxTech-1807/Ios-Mobile-App | main    | 8b1c7f9   | merge: develop → main (sprint 2 provider profile flow complete)    | 11/11/2025         |
 
 
 #### 4.2.2.4. Testing Suite Evidence for Sprint Review
