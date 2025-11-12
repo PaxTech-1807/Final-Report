@@ -437,6 +437,7 @@ Los integrantes son:
          <strong>Natalia Bertha Roman Cruz</strong> <br>  
          <b>TB1:</b> Durante el desarrollo del proyecto, pude recordar los conceptos aprendidos en cursos anteriores, los cuales incluyen patrones de softwares, modelamiento siguiendo Domain Driven Design y aplicación de Lean UX para identificación de requisitos. Al investigar más sobre las técnicas mencionadas y consultar en cuanto a conceptos en clase, pude expandir mis concomientos y comprender mejor lo que implica cada caso, de forma que ahora puedo aplicar estos conceptos de forma más eficiente.
          <br><b>TP1:</b> Para el desarrollo de la segunda parte del proyecto, se recordaron los conocimientos adquiridos desde la primera semana del curso para comenzar a trabajar en la implementación de nuestra primera aplicación móvil. En ese sentido, buscamos más información en cuanto Android Studio para ampliar nuestros conocimientos y conseguir un mejor resultado. De la misma manera, acudimos a lectura y ejemplos de arquitectura limpia para mantener el orden en el front a desarrollar, pero también al modificar nuestro backend.
+         <br><b>TB2:</b> Al desarrollar la tercera entega de este proyecto, nos basamos principalmente en las diapositivas vistas en clase así como en el proyecto que estamos trabajando progresivamente bajo la guía del profesor. De la misma forma, acudimos a material adicional, videos en plataformas y a la documentación oficial de flutter para mejorar nuestra entrega. Esto nos ayuda no solo a aprender nuevas técnicas que nos pueden servir en otros proyectos, sino también a comparar fuentes y apoyarnos en conjunto durante el apredizaje.
       </td>
     </tr>
     <tr>
@@ -480,7 +481,8 @@ Los integrantes son:
       <td>
          <strong>Natalia Bertha Roman Cruz</strong> <br>  
          <b>TB1:</b> Al desarrollar la primera entrega del presente proyecto, pude notar la importancia de continuar con el aprendizaje contínuo tanto dentro de las sesiones de clases y con el material adjunto, como de forma autónoma de forma que el enfrentar nuevos retos o plasmar ideas innovadoras se vuelva más sencillo con la práctica y la base adecuada.
-         <br><b>TP1:</b> Al concluir con el segundo avance del proyecto se puede notar que es necesairo continuar investigando en cuanto a las nuevas herramientas a utilizar para poder hacer un desarrollo más rápido y dinámico. Asimismo, se deben revisar las metodologías a aplicar, de forma que estás no sean un retraso en la implementación, sino un apoyo para mantener el código limpio, ordenado y comprensible para cualquier miembre del equipo.
+         <br><b>TP1:</b> Al concluir con el segundo avance del proyecto se puede notar que es necesario continuar investigando en cuanto a las nuevas herramientas a utilizar para poder hacer un desarrollo más rápido y dinámico. Asimismo, se deben revisar las metodologías a aplicar, de forma que estás no sean un retraso en la implementación, sino un apoyo para mantener el código limpio, ordenado y comprensible para cualquier miembre del equipo.
+         <br><b>TB2:</b> Al haber terminado la tercera entrega del proyecto nos dimos de que era importante complementar los conocimientos aprendidos en clase con más información obtenido mediante la investigación personal o grupal, así como su repaso y acoplo. A su vez, debemos tomar en cuenta cmoo respetar los criterios planteados desde el inicio y la cultura del código limpio al utilizar flutter.
       </td>
     </tr>
     <tr>
