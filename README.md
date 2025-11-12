@@ -5279,4 +5279,4 @@ URL Firebase Deployment APK: https://appdistribution.firebase.google.com/testera
 
 Video About The Team: https://youtu.be/E-CdPPM4Y1Q
 
-Video About The Product: 
+Video About The Product: https://youtu.be/7odg_s3aRbs
