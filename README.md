@@ -450,7 +450,8 @@ Los integrantes son:
       <td>
         <strong>Britney Delhy Qqueso Rodriguez</strong> <br>  
          <b>TB1:</b> En esta entrega actualicé y apliqué conocimientos clave para el proyecto, realicé la identificación de competidores y el análisis competitivo, diseñé, registré y analicé entrevistas con usuarios, y trasladé esos hallazgos a artefactos de Domain-Driven Design como el Context Mapping y el Bounded Context Workers. Con estas actividades, pude usar lo que aprendí en el curso para tomar decisiones sobre la arquitectura del proyecto. <br>
-         <b>TP1:</b> En esta entrega actualicé y apliqué conocimientos relacionados con el diseño y desarrollo de aplicaciones móviles. Elaboré el diseño de la app en Figma, incluyendo los Mobile Applications Mock-ups, User Flow Diagrams y el prototipado interactivo, aplicando principios de usabilidad y experiencia de usuario (UX/UI). Además, integré prácticas de testing y validación mediante la sección Testing Suite Evidence for Sprint Review. Finalmente, desarrollé el módulo de perfil (Profile) de la aplicación.
+         <b>TP1:</b> En esta entrega actualicé y apliqué conocimientos relacionados con el diseño y desarrollo de aplicaciones móviles. Elaboré el diseño de la app en Figma, incluyendo los Mobile Applications Mock-ups, User Flow Diagrams y el prototipado interactivo, aplicando principios de usabilidad y experiencia de usuario (UX/UI). Además, integré prácticas de testing y validación mediante la sección Testing Suite Evidence for Sprint Review. Finalmente, desarrollé el módulo de perfil (Profile) de la aplicación.<br>
+         <b>TB2:</b> En esta entrega me encargué de completar las secciones Development Evidence for Sprint Review y Testing Suite Evidence for Sprint Review, conectando los ítems del Sprint Backlog con sus commits y pruebas de aceptación. Además, reforcé conceptos de arquitectura y diseño de interfaces al desarrollar las vistas de perfil para ambos segmentos objetivo en Android y Flutter (iOS), asegurando consistencia entre plataformas y alineando las decisiones técnicas con los lineamientos del curso y del proyecto uTime.
       </td>
     </tr>
     <tr>
@@ -493,7 +494,8 @@ Los integrantes son:
       <td>
          <strong>Britney Delhy Qqueso Rodriguez</strong> <br>  
          <b>TB1:</b> En este avance reconocí la necesidad del aprendizaje continuo para continuar con el ritmo del proyecto. Al completar los puntos de competidores, entrevistas, context mapping y el modelado del Bounded Context Workers, identifiqué brechas (priorización de insights y patrones de integración) que estoy cerrando mediante estudio autónomo, revisión de referencias y retroalimentación del equipo. Me comprometo a mantenerme actualizada en DDD, investigación de la experiencia de usuarios y desarrollo móvil para elevar la calidad en las siguientes entregas. <br>
-         <b>TP1:</b> Durante esta entrega reafirmé la importancia del aprendizaje continuo al enfrentar nuevos retos en diseño de interfaces, prototipado funcional y desarrollo en Android Studio con Kotlin. Investigué sobre buenas prácticas en diseño responsivo, navegación con Jetpack Compose y pruebas de usabilidad, complementando el trabajo del equipo con soluciones actualizadas. Este proceso me permitió fortalecer mis competencias en desarrollo móvil y diseño centrado en el usuario, comprometiéndome a seguir perfeccionando mis habilidades técnicas y de diseño para lograr productos más completos e intuitivos.
+         <b>TP1:</b> Durante esta entrega reafirmé la importancia del aprendizaje continuo al enfrentar nuevos retos en diseño de interfaces, prototipado funcional y desarrollo en Android Studio con Kotlin. Investigué sobre buenas prácticas en diseño responsivo, navegación con Jetpack Compose y pruebas de usabilidad, complementando el trabajo del equipo con soluciones actualizadas. Este proceso me permitió fortalecer mis competencias en desarrollo móvil y diseño centrado en el usuario, comprometiéndome a seguir perfeccionando mis habilidades técnicas y de diseño para lograr productos más completos e intuitivos.<br>
+         <b>TB2:</b> En este avance reconocí la necesidad del aprendizaje permanente para mejorar mi desempeño en proyectos de ingeniería de software. Al documentar la evidencia de desarrollo y de pruebas, identifiqué la importancia de dominar mejores prácticas de   revisión de código, por lo que revisé materiales adicionales. Asimismo, al implementar las vistas de perfil para Android y Flutter (iOS) tuve que investigar patrones de diseño multi-plataforma y guidelines de UI/UX actualizados, lo que reforzó mi compromiso de seguir aprendiendo de forma continua para entregar soluciones más mantenibles, consistentes y centradas en el usuario.
       </td>
     </tr>
     <tr>
@@ -4860,8 +4862,47 @@ Dentro del marco de trabajo Scrum, cada Sprint constituye un periodo de tiempo f
 </table>
 
 #### 4.2.2.3. Development Evidence for Sprint Review
+A continuación, se presenta un detalle representativo de los commits realizados durante el Sprint 2, los cuales corresponden a las tareas del Sprint Backlog 2 orientadas a completar el desarrollo del flujo Android, la integración con el backend y la mejora de la UI/UX de la aplicación móvil uTime.
+
+Repositorio en GitHub: https://github.com/PaxTech-1807/Mobile-App
+
+| Repository              | Branch  | Commit Id | Commit Message                                           | Commited on (Date) |
+| ----------------------- | ------- | --------- | -------------------------------------------------------- | ------------------ |
+| PaxTech-1807/Mobile-App | develop | 1c3d4e5   | feat: US02 android salon registration screen             | 01/11/2025         |
+| PaxTech-1807/Mobile-App | develop | a7b9c21   | feat: US02 connect provider registration to backend      | 01/11/2025          |
+| PaxTech-1807/Mobile-App | develop | f2a8d90   | feat: US03 login screen layout + state handling          | 02/11/2025          |
+| PaxTech-1807/Mobile-App | develop | 9e41bc3   | feat: US03 consume /login and store JWT securely         | 05/11/2025         |
+| PaxTech-1807/Mobile-App | develop | c8d21fa   | feat: US06 editable provider profile UI                  | 05/11/2025         |
+| PaxTech-1807/Mobile-App | develop | 3ab74f2   | feat: US06 provider logo upload + gallery integration    | 05/11/2025          |
+| PaxTech-1807/Mobile-App | develop | 7d1a9f0   | feat: TS05 user registration service (POST /usuarios)    | 07/11/2025         |
+| PaxTech-1807/Mobile-App | develop | b25f7ce   | fix: TS05 error handling and feedback messages           | 08/11/2025          |
+| PaxTech-1807/Mobile-App | develop | e4c1a82   | feat: TS12 providers list consuming GET /providers       | 08/11/2025          |
+| PaxTech-1807/Mobile-App | develop | 6f91de3   | feat: TS13 provider profile detail screen                | 09/11/2025          |
+| PaxTech-1807/Mobile-App | develop | d7c3b10   | feat: TS14 workers list + search (GET /workers)          | 10/11/2025          |
+| PaxTech-1807/Mobile-App | develop | 8a2f9c4   | feat: TS17 services catalog with filters (GET /services) | 01/11/2025         |
+| PaxTech-1807/Mobile-App | develop | 4ce8a61   | refactor: unify android UI theme + typography            | 10/11/2025         |
+| PaxTech-1807/Mobile-App | develop | 0df1b73   | perf: optimize network calls and loading states          | 11/11/2025         |
+| PaxTech-1807/Mobile-App | main    | ffe902a   | merge: develop → main (sprint 2 complete android flow)   | 11/11/2025         |
+
 
 #### 4.2.2.4. Testing Suite Evidence for Sprint Review
+Durante el Sprint 2 se implementaron y actualizaron las pruebas de aceptación para las historias de usuario y tasks desarrolladas en el flujo Android. Estas pruebas se definieron utilizando el lenguaje Gherkin y permiten validar de extremo a extremo el registro de salones, el inicio de sesión, la gestión de proveedores, trabajadores y servicios.
+
+Repositorio de Acceptance Tests: https://github.com/PaxTech-1807/Acceptance-Tests
+
+| Repository                    | Branch  | Commit Id | Commit Message                                                      | Commited on (Date) |
+| ----------------------------- | ------- | --------- | ------------------------------------------------------------------- | ------------------ |
+| PaxTech-1807/Acceptance-Tests | develop | 12ab9c3   | feat: US02 provider registration acceptance scenarios               | 01/11/2025         |
+| PaxTech-1807/Acceptance-Tests | develop | 3f7e1a0   | feat: US03 login happy path and invalid credentials scenarios       | 01/11/2025         |
+| PaxTech-1807/Acceptance-Tests | develop | 9c4d2f8   | feat: US06 provider profile customization feature file              | 07/11/2025         |
+| PaxTech-1807/Acceptance-Tests | develop | a8b13de   | feat: TS05 user registration (clientes y salones) gherkin scenarios | 07/11/2025         |
+| PaxTech-1807/Acceptance-Tests | develop | c2e9f71   | feat: TS12 providers listing and filtering acceptance tests         | 10/11/2025         |
+| PaxTech-1807/Acceptance-Tests | develop | f1d58a4   | feat: TS13 provider profile view and update scenarios               | 10/11/2025         |
+| PaxTech-1807/Acceptance-Tests | develop | 6be9042   | feat: TS14 workers listing and creation scenarios                   | 10/11/2025         |
+| PaxTech-1807/Acceptance-Tests | develop | d7a3c9e   | feat: TS17 services catalog and service creation acceptance tests   | 11/11/2025         |
+| PaxTech-1807/Acceptance-Tests | develop | e0c41b5   | refactor: consolidate common Gherkin steps for android booking flow | 11/11/2025         |
+| PaxTech-1807/Acceptance-Tests | main    | 7ff2e10   | merge: develop → main (sprint 2 android acceptance tests)           | 11/11/2025         |
+
 
 #### 4.2.2.5. Execution Evidence for Sprint Review
 
