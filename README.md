@@ -5204,7 +5204,7 @@ En este video se presenta el producto uTime, mostrando sus características prin
 
 ![Video About the Product](img/video-product.jpg)
 
-**URL del video (Youtube):** 
+**URL del video (Youtube):** https://youtu.be/7odg_s3aRbs
 
 
 ## 5.4 Video About the Team
