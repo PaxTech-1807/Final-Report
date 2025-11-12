@@ -5196,6 +5196,14 @@ El inicio del desarrollo del flujo en Flutter también se refleja en las métric
 
 <div style="page-break-before: always;"></div>
 
+## 5.3 Video About the Product
+
+En este video se presenta el producto uTime, mostrando sus características principales, funcionalidades y el valor que ofrece a los usuarios. El video incluye una demostración de la aplicación móvil, destacando las funcionalidades clave como la búsqueda de salones, reserva de citas, gestión de perfil y la experiencia de usuario completa que ofrece la plataforma.
+
+![Video About the Product](img/video-product.jpg)
+
+**URL del video (Youtube):** 
+
 
 ## 5.4 Video About the Team
 
@@ -5203,7 +5211,7 @@ En este video, todo el equipo de desarrollo habla sobre el proceso de desarrollo
 
 ![Video About the Team](img/abouttheteam.jpg)
 
-**URL del video (Microsoft Stream):** https://youtu.be/E-CdPPM4Y1Q
+**URL del video (Youtube):** https://youtu.be/E-CdPPM4Y1Q
 
 
 <div style="page-break-before: always;"></div>
@@ -5268,3 +5276,5 @@ URL del Figma con los Mockups y Wireframes de la Aplicación: https://www.figma.
 URL Firebase Deployment APK: https://appdistribution.firebase.google.com/testerapps/1:926361378609:android:a84ac4062d1a098abfda10/releases/5uliosg8igfp8
 
 Video About The Team: https://youtu.be/E-CdPPM4Y1Q
+
+Video About The Product: 
