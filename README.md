@@ -4925,6 +4925,8 @@ Repositorio de Acceptance Tests: https://github.com/PaxTech-1807/Acceptance-Test
 
 #### 4.2.2.5. Execution Evidence for Sprint Review
 
+##### Android
+
 Durante el Sprint 2, se realizó un cambio completo de UI/UX en toda la aplicación móvil Android, mejorando significativamente la experiencia de usuario y la consistencia visual del producto. Se implementó un nuevo diseño con una paleta de colores unificada basada en tonos púrpura, mejorando la navegación y la presentación de la información en todas las pantallas principales.
 
 ##### Pantallas Informativas (Onboarding)
@@ -5012,6 +5014,29 @@ La pantalla de perfil proporciona acceso a todas las opciones de configuración 
 
 ![Pantalla de Perfil](img/exec4.jpg)
 
+##### Flutter
+
+Durante el Sprint 2, se avanzó significativamente en la implementación de la aplicación móvil en Flutter. Se ha implementado toda la lógica funcional de la aplicación, incluyendo la gestión de equipos, servicios, reservaciones y perfil. Actualmente, falta la implementación del login y registro, así como mejoras en la UI, pero toda la funcionalidad principal está completamente implementada y operativa.
+
+**Pantalla de Equipo:**
+La pantalla de equipo permite gestionar los miembros del equipo, mostrando información detallada de cada miembro incluyendo su rol, servicios asignados y número de proveedor. Incluye funcionalidades para editar y eliminar miembros del equipo.
+
+![Pantalla de Equipo](img/flu1.jpg)
+
+**Pantalla de Reservaciones:**
+La pantalla de reservaciones muestra todas las reservas del negocio con filtros por día, mes y año. Presenta información detallada de cada reserva incluyendo fecha, hora, servicio y trabajador asignado.
+
+![Pantalla de Reservaciones](img/flu2.jpg)
+
+**Pantalla de Servicios:**
+La pantalla de servicios permite gestionar el catálogo de servicios del negocio, mostrando cada servicio con su duración y precio. Incluye funcionalidades para crear, editar y eliminar servicios.
+
+![Pantalla de Servicios](img/flu3.jpg)
+
+**Pantalla de Perfil:**
+La pantalla de perfil muestra la información del negocio y proporciona acceso a la configuración, incluyendo opciones para gestionar el perfil del negocio, notificaciones, suscripción, políticas de privacidad y preguntas frecuentes.
+
+![Pantalla de Perfil](img/flu4.jpg)
 
 
 #### 4.2.2.6. Services Documentation Evidence for Sprint Review
