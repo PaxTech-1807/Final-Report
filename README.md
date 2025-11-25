@@ -403,11 +403,6 @@ Los integrantes son:
 8. [Anexos](#anexos)<br>
 
 
-5.2 Video About the Product
-
-
-
-5.3 Video About the Team
 <br>
 
 <div style="page-break-before: always;"></div>
@@ -5192,6 +5187,93 @@ El desarrollo del flujo en Android contó con contribuciones significativas de t
 El inicio del desarrollo del flujo en Flutter también se refleja en las métricas de colaboración, mostrando las primeras contribuciones al nuevo flujo multiplataforma. Aunque el desarrollo de Flutter está en sus etapas iniciales, las métricas demuestran el compromiso del equipo con esta nueva implementación.
 
 ![Team Collaboration Insights - Flutter](img/flutterinsight.png)
+
+## 4.3. Validation Interviews
+
+
+### PREGUNTAS INTRODUCTORIAS:
+
+* ¿Cuál es tu nombre?
+
+* ¿Cuánto tiempo llevas trabajando en el sector de belleza? / ¿Con qué frecuencia solicitas servicios de belleza?
+
+* ¿Has usado alguna herramienta digital para reservas o todo lo haces por WhatsApp, redes u otro método?
+
+* ¿Qué es lo que más te cuesta gestionar en el tema de reservas?
+
+### SEGMENTO 1: Dueños de Salones de Belleza o Barberías
+
+*Preguntas tras mostrar la Landing Page*
+
+* ¿Sientes que comunica bien la propuesta y beneficios del producto?
+
+* ¿Qué sección o contenido te pareció más útil o llamativo?
+
+* ¿Los planes que se ofrecen se ven claros y bien diferenciados?
+
+* ¿Te animarías a probar una plataforma como esta luego de ver la landing?
+
+
+*Preguntas tras mostrar la Aplicación Móvil (Vista del salón)*
+
+* ¿Fue fácil navegar y entender cómo funciona la gestión de citas?
+
+* ¿Te resultó intuitiva la configuración de horarios y servicios?
+
+* ¿Te parecen útiles las funciones de notificación automática y panel de reseñas?
+
+* ¿Qué tan probable es que uses esta herramienta en tu negocio?
+
+* ¿Te sentirías cómodo/a pagando por un plan si esto mejora la eficiencia de tu gestión?
+
+* ¿Qué barreras o preocupaciones tendrías para adoptar uTime?
+
+
+### SEGMENTO 2: Clientes de servicios de belleza
+
+*Preguntas tras mostrar la Landing Page*
+
+* ¿Qué tan atractivo te parece el diseño y la organización del sitio?
+ 
+* ¿Qué parte de la información te pareció más útil para ti como cliente?
+
+* ¿Te daría confianza usar este sistema para reservar en lugar de escribir por redes?
+
+*Preguntas tras mostrar la Aplicación Móvil (Vista cliente)*
+
+* ¿Fue sencillo registrarte y navegar por la aplicación?
+
+* ¿Pudiste encontrar fácilmente un estilista y agendar una cita?
+
+* ¿Qué opinas del flujo para elegir horario y método de pago?
+
+* ¿Te gustaría recibir notificaciones o recordatorios como los que viste?
+
+* ¿Te gustaría tener la opción de guardar tus salones favoritos o ver tu historial?
+
+* ¿Qué tan probable es que uses uTime para reservar tus próximas citas?
+
+### Preguntas Finales (Cierre)
+
+* ¿Qué es lo que más te gustó de uTime?
+
+* ¿Qué aspecto te pareció confuso o poco útil?
+
+* ¿Hay alguna funcionalidad que esperabas ver y no encontraste?
+
+
+
+### 4.3.1. Diseño de Entrevistas
+
+
+
+### 4.3.2. Registro de Entrevistas
+
+
+
+### 4.3.3. Evaluaciones según heurísticas
+
+
 
 ## Conclusiones y recomendaciones
 
