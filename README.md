@@ -389,6 +389,15 @@ Los integrantes son:
 4.2.2.6. [Services Documentation Evidence for Sprint Review](#4226-services-documentation-evidence-for-sprint-review)<br>
 4.2.2.7. [Software Deployment Evidence for Sprint Review](#4227-software-deployment-evidence-for-sprint-review)<br>
 4.2.2.8. [Team Collaboration Insights during Sprint](#4228-team-collaboration-insights-during-sprint)<br>
+4.2.3. [Sprint 3](#423-sprint-3)<br>
+4.2.3.1. [Sprint Planning 3](#4231-sprint-planning-3)<br>
+4.2.3.2. [Sprint Backlog 3](#4232-sprint-backlog-3)<br>
+4.2.3.3. [Development Evidence for Sprint Review](#4233-development-evidence-for-sprint-review)<br>
+4.2.3.4. [Testing Suite Evidence for Sprint Review](#4234-testing-suite-evidence-for-sprint-review)<br>
+4.2.3.5. [Execution Evidence for Sprint Review](#4235-execution-evidence-for-sprint-review)<br>
+4.2.3.6. [Services Documentation Evidence for Sprint Review](#4236-services-documentation-evidence-for-sprint-review)<br>
+4.2.3.7. [Software Deployment Evidence for Sprint Review](#4237-software-deployment-evidence-for-sprint-review)<br>
+4.2.3.8. [Team Collaboration Insights during Sprint](#4238-team-collaboration-insights-during-sprint)<br>
 4.3. [Validation Interviews](#43-validation-interviews)<br>
 4.3.1. [Diseño de Entrevistas](#431-diseño-de-entrevistas)<br>
 4.3.2. [Registro de Entrevistas](#432-registro-de-entrevistas)<br>
@@ -5188,6 +5197,24 @@ El inicio del desarrollo del flujo en Flutter también se refleja en las métric
 
 ![Team Collaboration Insights - Flutter](img/flutterinsight.png)
 
+### 4.2.3. Sprint 3
+
+#### 4.2.3.1. Sprint Planning 3
+
+#### 4.2.3.2. Sprint Backlog 3
+
+#### 4.2.3.3. Development Evidence for Sprint Review
+
+#### 4.2.3.4. Testing Suite Evidence for Sprint Review
+
+#### 4.2.3.5. Execution Evidence for Sprint Review
+
+#### 4.2.3.6. Services Documentation Evidence for Sprint Review
+
+#### 4.2.3.7. Software Deployment Evidence for Sprint Review
+
+#### 4.2.3.8. Team Collaboration Insights during Sprint
+
 ## 4.3. Validation Interviews
 
 
@@ -5279,29 +5306,31 @@ El inicio del desarrollo del flujo en Flutter también se refleja en las métric
 
 ### Conclusiones
 
-1. El desarrollo del Sprint 3 completo permitió al equipo consolidar y finalizar completamente el desarrollo del flujo en Android, logrando implementar todas las funcionalidades pendientes y mejoras de UI/UX. Esta experiencia demostró la importancia de completar ciclos de desarrollo antes de iniciar nuevos flujos en otras plataformas, asegurando que cada flujo esté completamente funcional y documentado.
+1. El desarrollo del proyecto uTime permitió al equipo crear una solución móvil integral que aborda las necesidades reales del sector de belleza en Perú. A través de la aplicación de metodologías Lean UX, Domain-Driven Design y desarrollo ágil, se logró construir una aplicación móvil funcional que conecta a estilistas, barberos y clientes, facilitando la gestión de citas, pagos digitales y fidelización de clientes. Este resultado demuestra la importancia de un enfoque centrado en el usuario desde las primeras etapas del proyecto.
 
-2. El inicio del desarrollo del flujo en Flutter representó un aprendizaje significativo sobre frameworks multiplataforma y desarrollo paralelo de aplicaciones. Concluimos que trabajar con dos flujos diferentes (Android y Flutter) requiere una planificación cuidadosa, documentación exhaustiva de cada implementación y una comprensión profunda de las diferencias arquitectónicas entre desarrollo nativo y multiplataforma para garantizar que cada flujo se desarrolle de manera óptima según las capacidades de su plataforma.
+2. La investigación y validación continua con usuarios del sector de belleza fue fundamental para entender las necesidades reales del mercado. Las entrevistas realizadas con dueños de salones, barberías y clientes revelaron que la dependencia de métodos informales como WhatsApp genera problemas de organización, pérdida de tiempo y dificultades para atraer nuevos clientes. Esta comprensión profunda del problema permitió diseñar funcionalidades específicas que resuelven estos desafíos de manera efectiva.
 
-3. A través del Sprint 3, concluimos que la revisión continua de User Stories es fundamental para mantener el producto alineado con las necesidades del usuario. La actualización y refinamiento de las historias de usuario permitió identificar mejoras necesarias y nuevas funcionalidades que enriquecieron la experiencia del producto final en Android.
+3. La aplicación de metodologías de diseño centrado en el usuario y arquitectura de software escalable permitió desarrollar un producto robusto y mantenible. El uso de Domain-Driven Design, arquitectura de microservicios y patrones de diseño modernos facilitó la creación de una aplicación móvil que puede escalar según las necesidades del negocio y adaptarse a futuras funcionalidades requeridas por el mercado.
 
-4. El desarrollo de evidencias de ejecución, testing, documentación de servicios y deployment durante el Sprint 3 demostró la importancia de mantener una documentación técnica actualizada y completa durante todo el ciclo de desarrollo. Esta práctica facilitó el inicio del desarrollo del flujo en Flutter al tener una referencia clara de todas las funcionalidades implementadas en Android y su comportamiento esperado, permitiendo mantener consistencia entre ambos flujos.
+4. El desarrollo de uTime demostró la importancia de la documentación técnica y la colaboración en equipo durante todo el ciclo de vida del proyecto. La implementación de prácticas como control de versiones, testing continuo, documentación de servicios y deployment automatizado permitió mantener la calidad del código y facilitar la incorporación de nuevos desarrolladores al proyecto, asegurando la sostenibilidad a largo plazo de la solución.
 
-5. La experiencia del Sprint 3 reforzó la importancia del aprendizaje permanente en el desarrollo de software. La necesidad de adaptarse rápidamente a nuevas tecnologías como Flutter, mientras se finalizaba el desarrollo en Android, demostró que la capacidad de aprender y aplicar nuevos frameworks es esencial para el crecimiento profesional y la evolución continua de los productos de software.
+5. El proyecto uTime representa una oportunidad significativa para digitalizar el sector de belleza en Perú, donde más del 60% de los profesionales son trabajadores independientes que aún dependen de métodos manuales. La aplicación móvil desarrollada ofrece una solución accesible que puede mejorar la productividad de los profesionales, reducir cancelaciones, facilitar la captación de clientes y mejorar la experiencia general tanto para estilistas como para clientes, contribuyendo a cerrar la brecha digital en este sector.
 
 ### Recomendaciones
 
-1. **Establecer una estrategia de desarrollo paralelo para ambos flujos**: Aunque se completó el desarrollo en Android y se inició el desarrollo en Flutter, se recomienda definir claramente qué funcionalidades y flujos corresponden a cada plataforma. Esto permitirá mantener una organización clara del proyecto y evitar duplicación innecesaria de esfuerzos, asegurando que cada flujo se desarrolle de manera óptima según las capacidades de su plataforma.
+1. **Continuar con la validación continua con usuarios del sector de belleza**: Se recomienda realizar entrevistas de validación periódicas con dueños de salones, barberías y clientes para identificar nuevas necesidades, mejorar funcionalidades existentes y validar nuevas características antes de implementarlas. Esta práctica permitirá mantener el producto alineado con las necesidades reales del mercado peruano y asegurar una alta adopción por parte del segmento objetivo.
 
-2. **Documentar las diferencias arquitectónicas y de diseño entre Android y Flutter**: Se sugiere crear documentación detallada sobre las diferencias en arquitectura, patrones de diseño y manejo de estado entre Android nativo y Flutter para cada flujo. Esta documentación será valiosa para futuras referencias y para otros desarrolladores que trabajen en el proyecto, permitiendo entender las decisiones técnicas de cada implementación.
+2. **Implementar estrategias de onboarding y capacitación para usuarios**: Dado que muchos profesionales del sector de belleza pueden tener limitada experiencia con herramientas digitales, se recomienda desarrollar tutoriales interactivos, guías paso a paso y soporte técnico personalizado para facilitar la adopción de uTime. Esto ayudará a superar las barreras de confianza en la tecnología identificadas durante el desarrollo del proyecto.
 
-3. **Mantener sincronización de funcionalidades core entre ambos flujos**: Se recomienda establecer un proceso para asegurar que las funcionalidades core compartidas entre ambos flujos (como autenticación, integración con backend, y lógica de negocio) se mantengan sincronizadas, incluyendo validaciones de comportamiento y contratos de API. Esto garantizará consistencia en la experiencia del usuario y facilitará el mantenimiento del backend común.
+3. **Establecer un plan de marketing y crecimiento enfocado en el segmento objetivo**: Se sugiere desarrollar estrategias de marketing digital específicas para llegar a estilistas, barberos y salones de belleza en Perú, incluyendo alianzas con academias de belleza, influencers del sector y presencia en redes sociales donde estos profesionales son activos. Esto permitirá acelerar la captación de usuarios y el crecimiento de la base de clientes.
 
-4. **Desarrollar suites de testing específicas para cada flujo**: Aunque se desarrollaron pruebas para Android, se sugiere crear suites de testing completas para Flutter desde el inicio, aprovechando las capacidades de testing del framework. Esto incluye pruebas unitarias, de widgets y de integración que validen la calidad y funcionalidad del flujo desarrollado en Flutter, independientemente del flujo de Android.
+4. **Priorizar la seguridad y confiabilidad del sistema de pagos**: Dado que la seguridad en los pagos es un factor crítico para la adopción del producto, se recomienda implementar medidas robustas de seguridad, certificaciones de confianza y opciones de pago flexibles que generen confianza tanto en dueños de salones como en clientes. Esto incluye integración con pasarelas de pago reconocidas y transparencia en las transacciones.
 
-5. **Realizar validación de rendimiento y experiencia de usuario para cada flujo**: Se recomienda realizar pruebas de rendimiento y usabilidad específicas para cada flujo (Android y Flutter) para identificar oportunidades de optimización y mejoras. Esto permitirá que cada implementación aproveche al máximo las capacidades de su plataforma respectiva.
+5. **Desarrollar funcionalidades de fidelización y retención de usuarios**: Se recomienda implementar y mejorar el sistema de promociones, descuentos y programas de lealtad para mantener a los usuarios activos en la plataforma. Esto incluye notificaciones personalizadas, ofertas exclusivas y un sistema de recompensas que incentive tanto a profesionales como a clientes a seguir utilizando uTime.
 
-6. **Establecer un plan de mantenimiento y evolución para ambos flujos**: Se sugiere mantener ambos flujos (Android y Flutter) actualizados con correcciones críticas y mejoras importantes de manera independiente. Esto asegurará que cada flujo evolucione según las necesidades específicas de su plataforma y los usuarios que utilicen cada uno.
+6. **Mantener una arquitectura escalable y documentación técnica actualizada**: Se sugiere continuar documentando las decisiones técnicas, arquitectura del sistema y procesos de desarrollo para facilitar el mantenimiento, la incorporación de nuevos desarrolladores y la evolución del producto. Esto incluye mantener actualizada la documentación de APIs, diagramas de arquitectura y guías de contribución al proyecto.
+
+7. **Establecer métricas de éxito y monitoreo continuo**: Se recomienda definir y monitorear métricas clave como tasa de adopción, retención de usuarios, satisfacción del cliente, número de reservas procesadas y tiempo promedio de respuesta del sistema. Estas métricas permitirán tomar decisiones basadas en datos y medir el impacto real de uTime en el sector de belleza peruano.
 
 <div style="page-break-before: always;"></div>
 
