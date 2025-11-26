@@ -5209,7 +5209,139 @@ El inicio del desarrollo del flujo en Flutter también se refleja en las métric
 
 #### 4.2.3.5. Execution Evidence for Sprint Review
 
+Durante el Sprint 3, se completó exitosamente el desarrollo de la aplicación móvil en Flutter para el segmento de dueños de salones de belleza. La aplicación incluye todas las funcionalidades principales necesarias para la gestión integral de un salón, permitiendo a los profesionales administrar sus servicios, trabajadores, reservas y configuraciones desde un dispositivo móvil.
+
+##### Autenticación: Login y Registro
+
+La aplicación cuenta con un sistema completo de autenticación que permite a los dueños de salones crear una cuenta y acceder a la plataforma. El flujo de registro incluye la creación de perfil del negocio con información básica, mientras que el login permite el acceso seguro mediante correo electrónico y contraseña. Ambas pantallas han sido diseñadas con una interfaz intuitiva y moderna que facilita la experiencia del usuario.
+
+<div style="display: flex; justify-content: space-around; align-items: center; margin: 20px 0;">
+  <img src="img/execsprint3_1.jpg" alt="Pantalla de Login" style="width: 45%;">
+  <img src="img/execsprint3_2.jpg" alt="Pantalla de Registro" style="width: 45%;">
+</div>
+
+##### Dashboard: Pantalla Principal
+
+La pantalla principal del dashboard proporciona una vista general rápida del estado del salón, mostrando métricas clave como número de trabajadores, servicios disponibles, reservas del día y estadísticas del mes en tarjetas informativas. Además, incluye una sección de gestión de reseñas con filtros avanzados por calificación y período de tiempo, permitiendo a los dueños monitorear la satisfacción de los clientes y tomar decisiones informadas sobre su negocio.
+
+<div style="display: flex; justify-content: space-around; align-items: center; margin: 20px 0;">
+  <img src="img/execsprint3_3.jpg" alt="Dashboard Principal" style="width: 45%;">
+  <img src="img/execsprint3_4.jpg" alt="Gestión de Reseñas" style="width: 45%;">
+</div>
+
+##### Gestión de Servicios
+
+La aplicación permite a los dueños de salones gestionar completamente su catálogo de servicios, incluyendo la visualización de todos los servicios disponibles con su nombre, duración y precio en tarjetas organizadas. Los usuarios pueden crear nuevos servicios mediante un formulario intuitivo, editar información existente y eliminar servicios que ya no ofrecen, todo desde una interfaz móvil sencilla y eficiente que facilita la administración del negocio.
+
+<div style="display: flex; justify-content: space-around; align-items: center; margin: 20px 0;">
+  <img src="img/execsprint3_5.jpg" alt="Lista de Servicios" style="width: 30%;">
+  <img src="img/execsprint3_6.jpg" alt="Crear Nuevo Servicio" style="width: 30%;">
+  <img src="img/execsprint3_7.jpg" alt="Editar/Eliminar Servicio" style="width: 30%;">
+</div>
+
+##### Gestión de Trabajadores
+
+La aplicación permite a los dueños gestionar su equipo de trabajo de manera completa, visualizando todos los trabajadores con sus nombres y especializaciones en tarjetas organizadas. Los usuarios pueden agregar nuevos trabajadores asignándoles hasta tres especializaciones de servicios, editar la información de trabajadores existentes incluyendo sus especializaciones y foto de perfil, facilitando la organización del personal y la asignación de servicios según las habilidades de cada trabajador.
+
+<div style="display: flex; justify-content: space-around; align-items: center; margin: 20px 0;">
+  <img src="img/execsprint3_9.jpg" alt="Lista de Trabajadores" style="width: 30%;">
+  <img src="img/execsprint3_10.jpg" alt="Agregar Trabajador" style="width: 30%;">
+  <img src="img/execsprint3_11.jpg" alt="Editar Trabajador" style="width: 30%;">
+</div>
+
+##### Calendario y Gestión de Reservas
+
+La aplicación incluye un calendario completo que permite a los dueños de salones visualizar y gestionar todas las reservas del negocio, así como las reservas individuales de cada trabajador. El calendario muestra una vista semanal con horarios en intervalos de 30 minutos, permitiendo navegar entre meses y días para planificar eficientemente las citas. Esta funcionalidad facilita la organización del tiempo, la asignación de trabajadores a servicios específicos y la visualización de la disponibilidad tanto del salón completo como de cada miembro del equipo.
+
+<div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
+  <img src="img/execsprint3_15.jpg" alt="Calendario de Reservas" style="width: 50%;">
+</div>
+
+##### Perfil y Configuración
+
+La pantalla de perfil permite a los dueños de salones gestionar toda la información y configuración de su negocio desde un solo lugar. Incluye la visualización del perfil del salón con su nombre y tipo de cuenta, un indicador del estado del negocio (abierto/cerrado) que puede ser cambiado fácilmente, y acceso a opciones de configuración como el perfil del negocio para editar información, notificaciones para gestionar alertas, y suscripción para administrar el plan de servicio. Además, la aplicación incluye la opción de cerrar sesión de forma segura, proporcionando un control completo sobre la cuenta y las preferencias del salón.
+
+<div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
+  <img src="img/execsprint3_16.jpg" alt="Perfil y Configuración" style="width: 50%;">
+</div>
+
 #### 4.2.3.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 3, se completó la documentación de los endpoints relacionados con la gestión de trabajadores (Workers), perfiles de proveedores (Provider Profiles), reservaciones (Reservations), servicios (Services) y reseñas (Reviews) utilizando OpenAPI/Swagger. Estos endpoints permiten a la aplicación Flutter realizar operaciones CRUD completas sobre todas las entidades principales del sistema, incluyendo la gestión de trabajadores, información del salón de belleza, reservaciones de citas, catálogo de servicios y sistema de reseñas y valoraciones.
+
+##### Endpoints Documentados - Workers
+
+| Acción | Verbo HTTP | Endpoint | Descripción | Parámetros |
+|--------|------------|----------|-------------|------------|
+| Obtener trabajador por ID | GET | `/api/v1/workers/{workerId}` | Obtiene la información detallada de un trabajador específico | `workerId` (path parameter) |
+| Obtener todos los trabajadores | GET | `/api/v1/workers` | Obtiene la lista completa de trabajadores del salón | Ninguno |
+| Crear trabajador | POST | `/api/v1/workers` | Crea un nuevo trabajador en el sistema | Body: datos del trabajador (nombre, especializaciones, foto, etc.) |
+| Actualizar trabajador | PUT | `/api/v1/workers/{workerId}` | Actualiza la información de un trabajador existente | `workerId` (path parameter), Body: datos actualizados |
+| Eliminar trabajador | DELETE | `/api/v1/workers/{workerId}` | Elimina un trabajador del sistema | `workerId` (path parameter) |
+
+**Documentación de API (Swagger UI):**
+
+![Documentación de Endpoints - Workers](img/webservice_1.png)
+
+##### Endpoints Documentados - Provider Profiles
+
+| Acción | Verbo HTTP | Endpoint | Descripción | Parámetros |
+|--------|------------|----------|-------------|------------|
+| Obtener perfil por ID | GET | `/api/v1/provider-profiles/{id}` | Obtiene la información detallada de un perfil de proveedor específico | `id` (path parameter) |
+| Obtener todos los perfiles | GET | `/api/v1/provider-profiles` | Obtiene la lista completa de perfiles de proveedores | Ninguno |
+| Buscar perfiles | GET | `/api/v1/provider-profiles/search` | Busca perfiles de proveedores por nombre de empresa | Query parameters: nombre de empresa |
+| Crear perfil | POST | `/api/v1/provider-profiles` | Crea un nuevo perfil de proveedor (salón de belleza) | Body: datos del perfil (nombre, ubicación, foto, etc.) |
+| Actualizar perfil completo | PUT | `/api/v1/provider-profiles/{id}` | Actualiza toda la información del perfil del salón, incluyendo ubicación, foto, plan pagado, horarios de apertura y cierre, y demás datos del negocio | `id` (path parameter), Body: datos actualizados del perfil |
+| Eliminar perfil | DELETE | `/api/v1/provider-profiles/{id}` | Elimina un perfil de proveedor del sistema | `id` (path parameter) |
+
+**Documentación de API (Swagger UI):**
+
+![Documentación de Endpoints - Provider Profiles](img/webservice_2.png)
+
+##### Endpoints Documentados - Reservations
+
+| Acción | Verbo HTTP | Endpoint | Descripción | Parámetros |
+|--------|------------|----------|-------------|------------|
+| Obtener todas las reservaciones | GET | `/api/v1/reservationsDetails` | Obtiene la lista completa de reservaciones | Ninguno |
+| Obtener información detallada de todas las reservaciones | GET | `/api/v1/reservationsDetails/details` | Obtiene información detallada de todas las reservaciones con datos completos | Ninguno |
+| Obtener reservación por ID | GET | `/api/v1/reservationsDetails/{reservationId}` | Obtiene la información de una reservación específica | `reservationId` (path parameter) |
+| Obtener información detallada de reservación | GET | `/api/v1/reservationsDetails/details/{reservationId}/` | Obtiene información detallada de una reservación específica | `reservationId` (path parameter) |
+| Crear reservación | POST | `/api/v1/reservationsDetails` | Crea una nueva reservación en el sistema | Body: datos de la reservación (fecha, hora, servicio, trabajador, cliente, etc.) |
+| Eliminar reservación | DELETE | `/api/v1/reservationsDetails/{reservationId}` | Elimina una reservación del sistema | `reservationId` (path parameter) |
+
+**Documentación de API (Swagger UI):**
+
+![Documentación de Endpoints - Reservations](img/webservice_3.png)
+
+##### Endpoints Documentados - Services
+
+| Acción | Verbo HTTP | Endpoint | Descripción | Parámetros |
+|--------|------------|----------|-------------|------------|
+| Obtener todos los servicios | GET | `/api/v1/services` | Obtiene la lista completa de servicios del salón | Ninguno |
+| Crear servicio | POST | `/api/v1/services` | Crea un nuevo servicio en el catálogo | Body: datos del servicio (nombre, duración, precio, etc.) |
+| Actualizar servicio | PUT | `/api/v1/services/{id}` | Actualiza la información de un servicio existente | `id` (path parameter), Body: datos actualizados |
+| Eliminar servicio | DELETE | `/api/v1/services/{serviceId}` | Elimina un servicio del catálogo | `serviceId` (path parameter) |
+
+**Documentación de API (Swagger UI):**
+
+![Documentación de Endpoints - Services](img/webservice_4.png)
+
+##### Endpoints Documentados - Reviews
+
+| Acción | Verbo HTTP | Endpoint | Descripción | Parámetros |
+|--------|------------|----------|-------------|------------|
+| Obtener todas las reseñas | GET | `/api/v1/reviews` | Obtiene la lista completa de reseñas recibidas por el salón | Ninguno |
+| Obtener reseña por ID | GET | `/api/v1/reviews/{reviewId}` | Obtiene la información de una reseña específica | `reviewId` (path parameter) |
+| Crear reseña | POST | `/api/v1/reviews` | Crea una nueva reseña en el sistema | Body: datos de la reseña (calificación, comentario, cliente, servicio, etc.) |
+| Eliminar reseña | DELETE | `/api/v1/reviews/{reviewId}` | Elimina una reseña del sistema | `reviewId` (path parameter) |
+
+**Documentación de API (Swagger UI):**
+
+![Documentación de Endpoints - Reviews](img/webservice_5.png)
+
+**Repositorio de Web Services:** https://github.com/PaxTech-1807/Web-Services
+
+**URL de Documentación Desplegada:** https://paxtech.azurewebsites.net/swagger-ui/index.html
 
 #### 4.2.3.7. Software Deployment Evidence for Sprint Review
 
