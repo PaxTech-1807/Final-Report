@@ -5298,6 +5298,153 @@ Dentro del marco de trabajo Scrum, cada Sprint constituye un periodo de tiempo f
 
 #### 4.2.3.2. Sprint Backlog 3
 
+<table>
+   <tr>
+      <td colspan="2" align="center"><b>Sprint #</b></td>
+      <td colspan="6" align="center"><b>Sprint 3</b></td>
+   </tr>
+   <tr>
+      <td colspan="2"><b>User Story</b></td>
+      <td colspan="6" align="center"><b>Work-Item/Task</b></td>
+   </tr>
+   <tr>
+      <td><b>Id</b></td>
+      <td><b>Tittle</b></td>
+      <td><b>Id</b></td>
+      <td><b>Tittle</b></td>
+      <td><b>Description</b></td>
+      <td><b>Estimation (Hours)</b></td>
+      <td><b>Assigned To</b></td>
+      <td><b>Status(To-do/In-Process/To-Review/Done)</b></td>
+   </tr>
+   <tr>
+      <td rowspan="2">US19</td>
+      <td rowspan="2">Visualización de citas agendadas</td>
+      <td>T301</td>
+      <td>Pantalla de citas agendadas en Android</td>
+      <td>Implementar en iOS la pantalla que muestra las citas agendadas del cliente con información detallada (fecha, hora, lugar, servicio).</td>
+      <td>4</td>
+      <td>Natalia Roman</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T302</td>
+      <td>Integración con endpoint GET /reservationsDetails</td>
+      <td>Conectar la pantalla Android con el endpoint GET /api/v1/reservationsDetails para obtener y mostrar las reservas del cliente autenticado.</td>
+      <td>3</td>
+      <td>Jorge Yum</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="2">US21</td>
+      <td rowspan="2">Historial de modificaciones de citas</td>
+      <td>T303</td>
+      <td>Pantalla de historial en Android</td>
+      <td>Desarrollar en Android la pantalla que muestra el historial de modificaciones de las citas del cliente, incluyendo cambios de fecha, hora o servicio.</td>
+      <td>3.5</td>
+      <td>Britney Qqueso</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T304</td>
+      <td>Lógica de registro de cambios</td>
+      <td>Implementar la funcionalidad que registra y almacena los cambios realizados a las citas para poder mostrar el historial completo.</td>
+      <td>2.5</td>
+      <td>Gael Rivera</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="2">US22</td>
+      <td rowspan="2">Administración de servicios ofrecidos</td>
+      <td>T305</td>
+      <td>Pantalla de gestión de servicios en Flutter</td>
+      <td>Crear en Flutter la pantalla que permite a los dueños de salones agregar, editar y eliminar servicios, usando los endpoints POST, PUT y DELETE /api/v1/services.</td>
+      <td>4</td>
+      <td>Natalia Roman</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T306</td>
+      <td>Formularios de creación y edición</td>
+      <td>Implementar formularios en Flutter para crear y editar servicios con validaciones, incluyendo nombre, duración, precio y descripción.</td>
+      <td>3.5</td>
+      <td>Jorge Yum</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="2">US23</td>
+      <td rowspan="2">Gestión de trabajadores</td>
+      <td>T307</td>
+      <td>Pantalla de gestión de trabajadores en Flutter</td>
+      <td>Desarrollar en Flutter la pantalla que permite a los dueños agregar, editar y eliminar trabajadores, usando los endpoints POST, PUT y DELETE /api/v1/workers.</td>
+      <td>4.5</td>
+      <td>Gael Rivera</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T308</td>
+      <td>Asignación de especializaciones</td>
+      <td>Implementar en Flutter la funcionalidad para asignar hasta tres especializaciones de servicios a cada trabajador durante la creación o edición.</td>
+      <td>3</td>
+      <td>Britney Qqueso</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="2">US29</td>
+      <td rowspan="2">Visualización general de los servicios</td>
+      <td>T309</td>
+      <td>Mejora de la sección de servicios en Landing Page</td>
+      <td>Mejorar y actualizar la sección de visualización de servicios en la Landing Page con mejor diseño y contenido actualizado.</td>
+      <td>2</td>
+      <td>Natalia Roman</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T310</td>
+      <td>Integración con backend en Android</td>
+      <td>Conectar la pantalla de visualización de servicios en Android con el endpoint GET /api/v1/services para mostrar los servicios disponibles de cada salón.</td>
+      <td>3</td>
+      <td>Natalia Roman</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="2">US30</td>
+      <td rowspan="2">Visualización de beneficios</td>
+      <td>T311</td>
+      <td>Actualización de beneficios en Landing Page</td>
+      <td>Actualizar y mejorar la sección de beneficios en la Landing Page con contenido más detallado y elementos visuales mejorados.</td>
+      <td>2.5</td>
+      <td>Britney Qqueso</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T312</td>
+      <td>Optimización de diseño responsive</td>
+      <td>Optimizar el diseño responsive de la sección de beneficios para mejorar la experiencia en dispositivos móviles y tablets.</td>
+      <td>2</td>
+      <td>Jorge Yum</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="2">US06</td>
+      <td rowspan="2">Personalización del perfil del salón</td>
+      <td>T313</td>
+      <td>Pantalla de perfil editable en Flutter</td>
+      <td>Desarrollar en Flutter la pantalla completa de perfil del salón con opciones de edición, usando PUT /api/v1/provider-profiles/{id} para actualizar la información.</td>
+      <td>4</td>
+      <td>Gael Rivera</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T314</td>
+      <td>Gestión de imágenes y multimedia</td>
+      <td>Implementar en Flutter la funcionalidad para subir y actualizar imágenes del salón (logotipo, fotos del negocio) con integración de almacenamiento en la nube.</td>
+      <td>3.5</td>
+      <td>Natalia Roman</td>
+      <td>Done</td>
+   </tr>
+</table>
+
 #### 4.2.3.3. Development Evidence for Sprint Review
 
 #### 4.2.3.4. Testing Suite Evidence for Sprint Review
