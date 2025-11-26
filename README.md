@@ -89,6 +89,7 @@
 
 <div>
 
+<<<<<<< HEAD
 | Version | Fecha      | Autor                                    | Descripción de modificación                                                                                                            |
 | ------- | ---------- | ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | 1.0     | 01/08/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum | Creación del documento de trabajo en formato markdown                                                                                  |
@@ -114,6 +115,38 @@
 | 3.2     | 28/10/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum | Elaboración del Sprint Planning 1, Sprint Backlog 1 y Development Evidence for Sprint Review                                           |
 | 3.3     | 5/11/2025  | Choquehuanca, Qqueso, Rivera, Roman, Yum | Elaboración del Testing Suite, Execution, Services Documentation, Software Deployment y Team Collaboration Insights for Sprint Review. |
 | 3.4     | 1/11/2025  | Choquehuanca, Qqueso, Rivera, Roman, Yum | Elaboración del Testing Suite, Execution, Services Documentation, Software Deployment y Team Collaboration Insights for Sprint Review. |
+=======
+| Version | Fecha      | Autor                            | Descripción de modificación                                                                            |
+|---------|------------|----------------------------------|--------------------------------------------------------------------------------------------------------|
+| 1.0     | 01/08/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |                             Creación del documento de trabajo en formato markdown                                                                           |
+| 1.1     | 03/08/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |  Elaboración del Capitulo 1                                                                                                      |
+| 1.2     | 05/08/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |                 Elaboración de Competidores y Entrevistas                                                                                       |
+| 1.3     | 07/08/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |                           Elaboración del Needfinding                                                                             |
+| 1.4     | 08/08/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |     Elaboración de los *Requirements specification*                                                                                                   |
+| 1.5     | 09/08/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |  Elaboración del *EventStorming*                                                                                                      |
+| 1.6     | 11/08/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |                           Elaboración del *Context Mapping*                                                                             |
+| 1.7     | 13/08/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  | Elaboración del *Software Architecture*                                                                                                       |
+| 1.8     | 16/08/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |                   Elaboración del  *Tactical-Level Domain-Driven Design*                                                                                      |
+| 1.9     | 17/08/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |       Elaboración de la estructura de los Bounded Context (IAM, Services, Profiles,)                                                                                                 |
+| 1.10    | 19/08/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |      Elaboración de la estructura de los Bounded Context (Shared, Reservations, Workers, Reviews)                                                                                                    |
+| 2.1    | 22/08/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |      Elaboración del Product design, Style Guidelines y Information Architecture |
+| 2.2    | 25/08/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |                  Elaboración de la Landing Page Wireframes y Mock-up                                                                                       |
+| 2.3    | 27/08/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |                  Elaboración del Mobile Applications Wireframes y                                                                                           |
+| 2.4    | 30/08/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |                  Elaboración del Mobile Applications Mock-ups, User Flow Diagrams y Prototyping                                                                                     |
+| 2.5    | 02/09/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |                   Elaboración del Software Configuration Management, Source Code Management, Style Guide & Conventions y Deployment Configuration                                                                                       |
+| 2.6    | 04/09/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |                                                                               Elaboración del Sprint 1                           |
+| 2.7    | 05/09/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |    Elaboración del Sprint Planning 1, Sprint Backlog 1 y Development Evidence for Sprint Review                                                                                                      |
+| 2.8    | 06/09/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  | Elaboración del Testing Suite, Execution, Services Documentation, Software Deployment y Team Collaboration Insights for Sprint Review.                                                                                                         |
+| 3.1    | 14/10/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  | Correción de los Avances del TP1                                                                                            |
+| 3.2    | 28/10/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |    Elaboración del Sprint Planning 2, Sprint Backlog 2 y Development Evidence for Sprint Review                                                                                                      |
+| 3.3    | 5/11/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  | Elaboración del Testing Suite, Execution, Services Documentation, Software Deployment y Team Collaboration Insights for Sprint Review.                                                                                                         |
+| 3.4    | 1/11/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  | Elaboración del Testing Suite, Execution, Services Documentation, Software Deployment y Team Collaboration Insights for Sprint Review.  |
+| 4.1    | 14/10/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  | Correción de los Avances del TB2                                                                                           |
+| 4.2    | 28/10/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |    Elaboración del Sprint Planning 3, Sprint Backlog 3 y Development Evidence for Sprint Review                                                                                                      |
+| 4.3    | 5/11/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  | Elaboración del Testing Suite, Execution, Services Documentation, Software Deployment y Team Collaboration Insights for Sprint Review.                                                                                               
+| 4.4    | 1/11/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  | Elaboración del Testing Suite, Execution, Services Documentation, Software Deployment y Team Collaboration Insights for Sprint Review. 
+
+>>>>>>> 0e9f668730f575ee75086fff4b09a0e974d4440d
 
 </div>
 
@@ -234,6 +267,45 @@ Los integrantes son:
 ![tpb2_image](img/tb2project.png)
 
 <br>
+
+
+**TF1**
+
+Para el desarrollo del informe perteneciente a la entrega final (TF1), donde se completó exitosamente el desarrollo de las aplicaciones móviles en Android y Flutter para el segmento de dueños de salones de belleza, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+
+
+| Integrantes     | Tareas Asignadas                                                                                                                                                                  |
+|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Luciana Choquehuanca  |    Services Documentation Evidence for Sprint Review, Video About the team  | 
+| Britney Qqueso        |    Testing Suite Evidence for Sprint Review        |
+| Gael Rivera           |    Execution Evidence for Sprint Review, Video App Validation        |
+| Natalia Roman         |    Revisión de user stories, Development Evidence for Sprint Review |
+| Jorge Yum             |    Software Deployment Evidence for Sprint Review, Video About the product           |
+
+
+El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización PaxTech.
+
+**Github Collaboration Insights**
+
+Github también presenta un timeline de las ramas principales y los procesos de merge a los que se han sometido. Todas las
+ramas se crearon tomando en cuenta el diseño de GitFlow para una buena organización cuando se usa un software de control
+de versiones.
+
+Los integrantes son:
+
+- Luciana Choquehuanca (lucianxaaa) 
+- Britney Qqueso (brit2801)
+- Gael Rivera (gael-rs)
+- Natalia Roman (natRC2005)
+- Jorge Yum (jsyumg, myussu)
+
+
+**Capturas de la participación en el informe:**
+
+![tpb2_image](img/tb2project.png)
+
+<br>
+
 
 <div style="page-break-before: always;"></div>
 
@@ -423,12 +495,14 @@ Los integrantes son:
          <strong>Eduardo Gael Rivera Sosa</strong> <br>  
          <b>TB1:</b> Durante el proyecto uTime, actualicé mis conocimientos en Domain-Driven Design (DDD), arquitectura de software con modelo C4, y patrones de integración. Profundicé en el diseño del Bounded Context IAM con conceptos de autenticación y autorización, y en la creación de diagramas de arquitectura (Context, Container y Deployment). También actualicé mis habilidades en especificación de requisitos mediante User Stories, Technical Stories y Spike Stories, y en técnicas ágiles como Impact Mapping y Product Backlog. <br> 
          <b>TP1:</b> Durante esta entrega, actualicé mis conocimientos en documentación técnica y presentación de evidencias de ejecución. Trabajé en la elaboración de la sección "Execution Evidence for Sprint Review" que incluye la documentación completa de la Landing Page, Backend y Aplicación Móvil, así como en el desarrollo de Landing Page Wireframes y Mock-ups. Esta experiencia me permitió consolidar habilidades en documentación de proyectos de software y presentación de resultados técnicos de manera profesional y estructurada. <br>
-         <b>TB2:</b> Durante esta entrega, avancé en la corrección de la Landing Page colocando imágenes del nuevo producto para mejorar la presentación visual y la comunicación de las características del servicio. Trabajé en la elaboración de la sección "Execution Evidence for Sprint Review" documentando los avances y mejoras implementadas. Además, realicé el cambio completo de UI de toda la aplicación móvil, mejorando la experiencia de usuario y la consistencia visual del producto. Esta experiencia me permitió consolidar habilidades en diseño de interfaces, actualización de documentación técnica y mejora continua de productos de software.
+         <b>TB2:</b> Durante esta entrega, avancé en la corrección de la Landing Page colocando imágenes del nuevo producto para mejorar la presentación visual y la comunicación de las características del servicio. Trabajé en la elaboración de la sección "Execution Evidence for Sprint Review" documentando los avances y mejoras implementadas. Además, realicé el cambio completo de UI de toda la aplicación móvil, mejorando la experiencia de usuario y la consistencia visual del producto. Esta experiencia me permitió consolidar habilidades en diseño de interfaces, actualización de documentación técnica y mejora continua de productos de software. <br>
+         <b>TF1:</b> Durante la entrega final, finalicé y completé exitosamente toda la aplicación móvil en Flutter para el segmento de dueños de salones de belleza. Implementé todas las secciones principales de la aplicación incluyendo autenticación (login y registro), dashboard con métricas del salón, gestión de servicios, gestión de trabajadores, calendario de reservas, y perfil con configuración. El sistema de autenticación fue desarrollado de manera robusta, integrando correctamente con el backend y manejando el flujo completo de registro e inicio de sesión. Esta experiencia me permitió consolidar conocimientos avanzados en desarrollo móvil multiplataforma con Flutter, arquitectura de aplicaciones móviles, integración con APIs REST, y gestión de estado en aplicaciones complejas.
       </td>
       <td rowspan="5">
          <b>TB1:</b> El desarrollo completo de los capítulos 1 y 2 del proyecto uTime permitió al equipo consolidar conocimientos fundamentales en ingeniería de software. A través del análisis competitivo, entrevistas con usuarios y técnicas de needfinding, el equipo desarrolló competencias en investigación de mercado y análisis de requisitos. La implementación de metodologías Lean UX y Domain-Driven Design proporcionó una base sólida en diseño de software centrado en el usuario y arquitecturas escalables. La elaboración de diagramas C4, EventStorming y Context Mapping permitió al equipo dominar técnicas avanzadas de modelado de sistemas complejos, mientras que la especificación de requisitos mediante User Stories y Product Backlog consolidó las habilidades del equipo en metodologías ágiles. 
          <br><b>TP1:</b> El desarrollo de los capítulos 3 y 4 del proyecto uTime permitió al equipo consolidar conocimientos avanzados en diseño de interfaces de usuario y implementación de software. A través del Capítulo 3 (Solution UI/UX Design), el equipo desarrolló competencias en Style Guidelines, Information Architecture, Landing Page UI Design y Mobile Applications Design, aplicando principios de usabilidad, accesibilidad y experiencia de usuario. El Capítulo 4 (Product Implementation, Validation) consolidó las habilidades del equipo en Software Configuration Management, implementación de Sprints con metodología Scrum, desarrollo de evidencia de ejecución, testing y deployment. La integración de wireframes, mockups, prototipos y la documentación técnica completa permitió al equipo dominar el ciclo completo de desarrollo de software, desde el diseño conceptual hasta la implementación y validación del producto final.
          <br><b>TB2:</b> El desarrollo del Sprint 3 completo del proyecto uTime permitió al equipo consolidar conocimientos en implementación y migración de tecnologías móviles. Durante esta entrega, el equipo concluyó completamente el desarrollo de la aplicación móvil en Android, finalizando todas las funcionalidades y mejoras pendientes. Posteriormente, se inició la migración y desarrollo de la aplicación utilizando Flutter, lo que permitió al equipo adquirir competencias en frameworks multiplataforma y técnicas de migración de código. Esta experiencia consolidó las habilidades del equipo en desarrollo móvil nativo y multiplataforma, así como en la gestión de transiciones tecnológicas en proyectos de software en curso.
+         <br><b>TF1:</b> La entrega final del proyecto uTime representó la culminación exitosa de un producto de software completo e integral que incluye la aplicación móvil en Android para clientes, la aplicación móvil en Flutter para dueños de salones de belleza, y la Landing Page como punto de entrada al ecosistema. El producto final uTime demuestra la capacidad del equipo para desarrollar soluciones tecnológicas que abordan problemas reales del mercado peruano, conectando a estilistas, barberos y clientes a través de una plataforma digital moderna y eficiente. La integración completa de todas las funcionalidades principales - desde autenticación y gestión de servicios hasta reservas y reseñas - en múltiples plataformas, consolida las competencias del equipo en desarrollo full-stack, arquitectura de software escalable, diseño centrado en el usuario, y entrega de productos de software que generan valor real para sus usuarios. uTime se posiciona como una solución tecnológica viable que contribuye a la digitalización del sector de belleza en Perú, demostrando que el equipo puede transformar ideas en productos funcionales y listos para el mercado.
       </td>
     </tr>
     <tr>
@@ -469,12 +543,14 @@ Los integrantes son:
          <strong>Eduardo Gael Rivera Sosa</strong> <br>  
          <b>TB1:</b> Durante el proyecto uTime, reconocí la importancia del aprendizaje continuo al enfrentar desafíos técnicos como el diseño de arquitecturas y la implementación de patrones DDD. La necesidad de mantenerme actualizado se evidenció al plantear como se trabajará con tecnologías emergentes en desarrollo móvil y al adaptarlas a las metodologías ágiles. <br>
          <b>TP1:</b> Durante esta entrega, reconocí la necesidad del aprendizaje permanente al trabajar en la documentación técnica y presentación de evidencias de ejecución. Al desarrollar la sección "Execution Evidence for Sprint Review" que incluye Landing Page, Backend y Aplicación Móvil, así como Landing Page Wireframes y Mock-ups, identifiqué la importancia de mantenerme actualizado en técnicas de documentación de software y presentación de resultados técnicos para comunicar efectivamente el progreso del proyecto. <br>
-         <b>TB2:</b> Durante esta entrega, reconocí la necesidad del aprendizaje permanente al trabajar en la corrección de la Landing Page con imágenes del nuevo producto y en el cambio completo de UI de toda la aplicación móvil. Al desarrollar la sección "Execution Evidence for Sprint Review" y actualizar la documentación técnica, identifiqué la importancia de mantenerme actualizado en diseño de interfaces, principios de UX/UI modernos y técnicas de mejora continua de productos de software. Esta experiencia me demostró que el aprendizaje permanente es esencial para adaptarse a las necesidades cambiantes de los usuarios y mantener la calidad visual y funcional del producto en constante evolución.
+         <b>TB2:</b> Durante esta entrega, reconocí la necesidad del aprendizaje permanente al trabajar en la corrección de la Landing Page con imágenes del nuevo producto y en el cambio completo de UI de toda la aplicación móvil. Al desarrollar la sección "Execution Evidence for Sprint Review" y actualizar la documentación técnica, identifiqué la importancia de mantenerme actualizado en diseño de interfaces, principios de UX/UI modernos y técnicas de mejora continua de productos de software. Esta experiencia me demostró que el aprendizaje permanente es esencial para adaptarse a las necesidades cambiantes de los usuarios y mantener la calidad visual y funcional del producto en constante evolución. <br>
+         <b>TF1:</b> Durante la entrega final, reconocí la importancia crítica del aprendizaje permanente al finalizar completamente la aplicación móvil en Flutter. Al implementar todas las funcionalidades principales incluyendo el sistema de autenticación completo, gestión de servicios, trabajadores, reservas y perfil, identifiqué la necesidad de mantenerme actualizado constantemente en frameworks multiplataforma, patrones de arquitectura móvil, y mejores prácticas de desarrollo. La complejidad de integrar múltiples secciones y el sistema de autenticación robusto me demostró que el aprendizaje permanente es fundamental para dominar tecnologías emergentes y entregar productos de alta calidad que cumplan con los estándares profesionales del desarrollo de software moderno.
       </td>
       <td rowspan="5">
          <b>TB1:</b> La experiencia del TB1 demostró al equipo que el aprendizaje permanente es esencial en la ingeniería de software. Al trabajar con metodologías emergentes como Lean UX, Domain-Driven Design y arquitecturas, el equipo comprendió que las tecnologías evolucionan constantemente y requieren actualización continua. La investigación de competidores, el análisis de usuarios mediante entrevistas y la implementación de patrones de integración entre bounded contexts enseñaron al equipo la importancia de mantenerse al día con las mejores prácticas de la industria. Además, la colaboración en equipo y la retroalimentación de usuarios mostraron que el aprendizaje no se limita solo a aspectos técnicos, sino también al desarrollo de habilidades de comunicación, análisis de mercado y gestión de proyectos, fundamentales para el crecimiento profesional en el desarrollo de software.
          <br><b>TP1:</b> La experiencia del TP1 reforzó la importancia del aprendizaje permanente en el desarrollo de software, especialmente en las áreas de diseño de interfaces y implementación de productos. Al trabajar en los capítulos 3 y 4, el equipo comprendió que el diseño de software requiere actualización constante en herramientas de prototipado, principios de UX/UI, metodologías ágiles como Scrum, y tecnologías de deployment. La implementación de wireframes, mockups, y la documentación técnica completa enseñaron al equipo que el aprendizaje continuo es crucial para mantenerse actualizado con las mejores prácticas de la industria en diseño centrado en el usuario, testing de software y gestión de configuración. Además, la colaboración en la implementación de Sprints y la validación de productos demostraron que el aprendizaje permanente abarca tanto aspectos técnicos como habilidades de documentación, presentación de evidencias y comunicación efectiva de resultados técnicos.
          <br><b>TB2:</b> La experiencia del Sprint 3 completo demostró al equipo la importancia crítica del aprendizaje permanente en la adaptación a nuevas tecnologías y frameworks. Al concluir completamente el desarrollo de la aplicación móvil en Android y posteriormente iniciar la migración a Flutter, el equipo comprendió que el aprendizaje permanente es fundamental para mantenerse actualizado con las tecnologías emergentes en desarrollo móvil. La transición de desarrollo nativo a frameworks multiplataforma enseñó al equipo que las tecnologías evolucionan rápidamente y que la capacidad de aprender y adaptarse es esencial para el crecimiento profesional. Además, la gestión de migraciones tecnológicas y el trabajo con diferentes paradigmas de desarrollo demostraron que el aprendizaje permanente abarca tanto la adquisición de nuevos conocimientos técnicos como el desarrollo de habilidades para evaluar, comparar y adoptar nuevas tecnologías de manera efectiva en proyectos de software en curso.
+         <br><b>TF1:</b> La experiencia de la entrega final del producto uTime completo (Android, Flutter y Landing Page) reforzó la importancia fundamental del aprendizaje permanente en el desarrollo de software profesional y la creación de productos tecnológicos viables. Al finalizar exitosamente un ecosistema completo de software que incluye múltiples plataformas móviles y una interfaz web, el equipo comprendió que el aprendizaje permanente es esencial no solo para dominar tecnologías individuales, sino para integrar sistemas complejos, mantener consistencia entre plataformas, y entregar productos que generen valor real para los usuarios. El desarrollo de uTime como producto integral demostró que el aprendizaje continuo permite enfrentar desafíos técnicos complejos, adaptarse a diferentes paradigmas de desarrollo (nativo vs multiplataforma), y crear soluciones que resuelven problemas reales del mercado. Esta experiencia enseñó al equipo que el aprendizaje permanente es la base para transformar ideas en productos funcionales, mantenerse competitivo en la industria del software, y contribuir significativamente a la digitalización de sectores tradicionales como el de belleza en Perú.
       </td>
     </tr>
     <tr>
@@ -1550,6 +1626,7 @@ Para el segmento de los salones estilistas o barberos se consideró el momento d
 
 ### 2.4.1 User Stories
 
+<<<<<<< HEAD
 | **Epic/User Story ID** | **Título**                                                 | **Descripción**                                                                                                                                                            | **Criterios de Aceptación**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | **Epic relacionada** |
 | ---------------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------- |
 | EP01                   | **Gestión y visualización de citas**                       | **Como** cliente, **quiero** poder agendar, modificar y ver mis citas, **para** organizarme mejor y aprovechar los servicios ofrecidos.                                    | No Corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | No Corresponde       |
@@ -1598,3 +1675,3994 @@ Para el segmento de los salones estilistas o barberos se consideró el momento d
 | US33                   | Call to action                                             | **Como** visitante, **quiero** encontrar botones de acción claros, **para** empezar a usar la plataforma fácilmente.                                                       | **Escenario 1: Visualización de opciones para iniciar uso**<br>**Dado** el visitante quiere comenzar<br>**Cuando** encuentra llamados a la acción<br>**Entonces** el sistema los muestra de manera clara.<br><br>**Escenario 2: Seguimiento del flujo tras clic en llamado**<br>**Dado** el visitante acciona un botón<br>**Cuando** se registra la interacción<br>**Entonces** el sistema lo redirige correctamente.                                                                                                                      | EP12                 |
 | US34                   | Contacto o soporte                                         | **Como** visitante, **quiero** poder contactarme con el equipo o recibir soporte, **para** resolver dudas antes de registrarme.                                            | **Escenario 1: Acceso a canal de contacto**<br>**Dado** el visitante tiene una duda<br>**Cuando** busca ayuda<br>**Entonces** el sistema le muestra opciones para contactarse.<br><br>**Escenario 2: Confirmación de recepción de mensaje de soporte**<br>**Dado** el visitante envía una consulta<br>**Cuando** el sistema la recibe<br>**Entonces** emite una confirmación automática.                                                                                                                                                   | EP12                 |
 | US35                   | Información sobre uTime                                    | **Como** visitante, **quiero** poder acceder una sección que explique quiénes son los creadores, **para** tener confianza en la plataforma y su propósito.                 | **Escenario 1: Mostrar información sobre la startup**<br>**Dado** que soy un visitante en la página principal<br>**Cuando** hago clic en el enlace "About US" us del menú de navegación<br>**Entonces** se debe mostrar una sección con información sobre Pactech, incluyendo su misión, visión y propósito.<br><br>**Escenario 2: Visualizar los integrantes del equipo**<br>**Dado** que estoy en la sección "About Us"<br>**Cuando**visualizo la información de la empresa<br>**Entonces** debo poder ver a los integrantes de Paxtech. | EP12                 |
+=======
+
+| **Epic/User Story ID** | **Título**                                                 | **Descripción**                                                                                                                                                            | **Criterios de Aceptación**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | **Epic relacionada** |
+|------------------------|------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|
+| EP01                   | **Gestión y visualización de citas**                       | **Como** cliente, **quiero** poder agendar, modificar y ver mis citas, **para** organizarme mejor y aprovechar los servicios ofrecidos.                                    | No Corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | No Corresponde       |
+| US17                   | Selección de salón                                         | **Como** cliente, **quiero** buscar y seleccionar un salón de belleza/barbería, **para** elegir dónde agendar mi cita.                                                     | **Escenario 1: Búsqueda de salón disponible**<br>**Dado** el cliente desea agendar una cita**<br>**Cuando** realiza la búsqueda de salones<br>**Entonces** el sistema muestra los disponibles.<br><br>**Escenario 2: Selección exitosa del salón deseado**<br>**Dado** el cliente elige un salón<br>**Cuando** realiza la selección<br>**Entonces** el sistema asocia ese salón a la futura cita.                                                                                                                                                   | EP09                 |
+| US18                   | Creación de citas                                          | **Como** cliente, **quiero** poder agendar una cita según disponibilidad, **para** recibir el servicio deseado.                                                            | **Escenario 1: Registro correcto de cita nueva**<br>**Dado** el cliente desea un servicio<br>**Cuando** agenda una cita<br>**Entonces** el sistema la registra correctamente.<br><br>**Escenario 2: Verificación de disponibilidad antes de agendar**<br>**Dado** el cliente selecciona una hora<br>**Cuando** el sistema valida la disponibilidad<br>**Entonces** la cita es agendada si está libre.                                                                                                                                         | EP09                 |
+| US19                   | Visualización de citas agendadas                           | **Como** cliente, **quiero** ver mis citas agendadas, **para** saber cuánto y dónde tengo una reserva.                                                                     | **Escenario 1: Consulta de citas futuras**<br>**Dado** el cliente tiene citas registradas<br>**Cuando** accede a su historial<br>**Entonces** el sistema muestra las próximas citas.<br><br>**Escenario 2: Revisión de detalles de cita**<br>**Dado** una cita está programada<br>**Cuando** el cliente la consulta<br>**Entonces** el sistema muestra fecha, hora y lugar.                                                                                                                                                                   | EP09                 |
+| US20                   | Gestión de modificaciones y cancelaciones de citas         | **Como** cliente, **quiero** modificar o cancelar citas con anticipación, **para** reorganizar mis tiempos.                                                                | **Escenario 1: Modificación de cita antes de la fecha**<br>**Dado** el cliente necesita cambiar una cita<br>**Cuando** solicita el cambio<br>**Entonces** el sistema permite editar la cita.<br><br>**Escenario 2: Cancelación anticipada de una cita**<br>**Dado** el cliente desea cancelar<br>**Cuando** solicita la cancelación<br>**Entonces** el sistema elimina la cita correctamente.                                                                                                                                                 | EP09                 |
+| US21                   | Historial de modificaciones de citas                       | **Como** cliente, **quiero** ver los cambios realizados a mis citas, **para** tener un seguimiento completo de mis actividades.                                            | **Escenario 1: Registro de cambios en una cita**<br>**Dado** el cliente modifica una cita<br>**Cuando** el cambio es confirmado<br>**Entonces** el sistema guarda el cambio en el historial.<br><br>**Escenario 2: Consulta de historial de cambios**<br>**Dado** existen modificaciones previas<br>**Cuando** el cliente revisa el historial<br>**Entonces** el sistema muestra las ediciones realizadas.                                                                                                                                    | EP09                 |
+| EP02                   | **Gestión de negocio**                                     | **Como** dueño/administrador, **quiero** gestionar mis servicios, personal y cuentas, **para** optimizar la operación de mi negocio.                                       | No Corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | No Corresponde       |
+| US22                   | Administración de servicios ofrecidos                      | **Como** dueño/administrador, **quiero** agregar, editar o eliminar servicios, **para** mantener mi catálogo actualizado.                                                  | **Escenario 1: Registro de nuevo servicio**<br>**Dado** el administrador desea añadir un servicio<br>**Cuando** completa los datos necesarios<br>**Entonces** el sistema guarda el nuevo servicio.<br><br>**Escenario 2: Eliminación de servicio registrado**<br>**Dado** un servicio ya no está disponible<br>**Cuando** el administrador lo elimina<br>**Entonces** el sistema lo retira del catálogo.                                                                                                                                      | EP10                 |
+| US23                   | Gestión de trabajadores                                    | **Como** dueño/administrador, **quiero** añadir o quitar trabajadores, **para** organizar quién ofrece cada servicio.                                                      | **Escenario 1: Asignación de nuevo trabajador**<br>**Dado** el administrador incorpora personal<br>**Cuando** añade a un trabajador<br>**Entonces** el sistema lo registra correctamente.<br><br>**Escenario 2: Eliminación de trabajador inactivo**<br>**Dado** un trabajador ya no colabora<br>**Cuando** el administrador lo elimina<br>**Entonces** el sistema lo retira de la plantilla.                                                                                                                                                 | EP10                 |
+| US24                   | Gestión de cuentas bancarias                               | **Como** dueño/administrador, **quiero** registrar, modificar o eliminar cuentas bancarias, **para** administrar correctamente los pagos recibidos.                        | **Escenario 1: Registro de cuenta bancaria válida**<br>**Dado** el administrador desea registrar una cuenta<br>**Cuando** completa los datos<br>**Entonces** el sistema guarda la cuenta exitosamente.<br><br>**Escenario 2: Modificación de cuenta existente**<br>**Dado** hay una cuenta registrada**<br>**Cuando** el administrador la edita<br>**Entonces** el sistema actualiza la información.                                                                                                                                                | EP10                 |
+| EP03                   | **Gestión de horarios**                                    | **Como** dueño/administrador, **quiero** gestionar el horario de mis trabajadores, **para** organizar si pueden o no realizar el servicio.                                 | No Corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | No Corresponde       |
+| US09                   | Visualización de los horarios                              | **Como** dueño/administrador, **quiero** visualizar los horarios disponibles , **para** saber cuándo mis trabajadores puede aceptar citas.                                 | **Escenario 1: Visualización correcta de horarios disponibles**<br>**Dado** el administrador tiene horarios definidos<br>**Cuando** accede a la consulta de disponibilidad<br>**Entonces** el sistema muestra los horarios de atención establecidos.<br><br>**Escenario 2: Visualización vacía sin horarios definidos**<br>**Dado** no se ha configurado ningún horario<br>**Cuando** el administrador consulta los horarios<br>**Entonces** el sistema informa que no hay disponibilidad registrada.                                         | EP05                 |
+| US10                   | Configuración de los horarios                              | **Como** dueño/administrador, **quiero** configurar los horarios de atención de mis trabajadores, **para** definir sus días y horas disponibles.                           | **Escenario 1: Configuración exitosa de horarios**<br>**Dado** el administrador ingresa intervalos válidos<br>**Cuando** define el horario de atención<br>**Entonces** el sistema registra los nuevos horarios correctamente.<br><br>**Escenario 2: Fallo en la configuración por conflictos de horario**<br>**Dado** el administrador ingresa horarios que se superponen o son inválidos<br>**Cuando** intenta configurar la disponibilidad<br>**Entonces** el sistema impide el registro e informa el conflicto.                            | EP05                 |
+| EP04                   | **Gestión de subscripciones**                              | **Como** dueño/administrador, **quiero** conocer y contratar planes de suscripción, **para** acceder a beneficios adicionales de la plataforma.                            | No Corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | No Corresponde       |
+| US11                   | Visualización de beneficios de suscripción                 | **Como** dueño/administrador, **quiero** ver qué beneficios incluye cada plan, **para** elegir el más adecuado para mí.                                                    | **Escenario 1: Consulta exitosa de beneficios**<br>**Dado** el administrador tiene una cuenta activa<br>**Cuando** consulta los beneficios de los planes<br>**Entonces** el sistema muestra los beneficios disponibles en cada plan.<br><br>**Escenario 2: Validación de beneficios según plan**<br>**Dado** el administrador accede al sistema<br>**Cuando** verifica un plan específico<br>**Entonces** el sistema muestra solo los beneficios que corresponden a ese plan.                                                                 | EP07                 |
+| US12                   | Visualización de precios                                   | **Como** dueño/administrador, **quiero** ver los precios de cada plan, **para** tomar decisiones según mi presupuesto.                                                     | **Escenario 1: Visualización de precios de todos los planes**<br>**Dado** el administrador desea conocer los planes<br>**Cuando** accede a la información de precios<br>**Entonces** el sistema muestra los costos de cada plan disponible.<br><br>**Escenario 2: Consulta de precio por plan específico**<br>**Dado** el administrador selecciona un plan<br>**Cuando** consulta su precio<br>**Entonces** el sistema muestra el precio correspondiente a ese plan.                                                                          | EP07                 |
+| US13                   | Estado y nivel de suscripción                              | **Como** dueño/administrador, **quiero** ver el estado de mi suscripción actual, **para** saber su está activa y cuándo expira.                                            | **Escenario 1: Verificación de suscripción activa**<br>**Dado** el administrador posee una suscripción<br>**Cuando** accede a su estado actual<br>**Entonces** el sistema muestra si está activa y su nivel.<br><br>**Escenario 2: Visualización de fecha de expiración**<br>**Dado** la suscripción del administrador está activa<br>**Cuando** consulta la expiración<br>**Entonces** el sistema muestra la fecha de vencimiento.                                                                                                           | EP07                 |
+| US14                   | Contratación de plan de suscripción                        | **Como** dueño/administrador, **quiero** contratar un plan, **para** activar sus beneficios en mi cuenta.                                                                  | **Escenario 1: Activación de plan exitosamente**<br>**Dado** el administrador elige un plan<br>**Cuando** realiza la contratación<br>**Entonces** el sistema activa la suscripción correctamente.<br><br>**Escenario 2: Asociación de beneficios al contratar**<br>**Dado** el plan es contratado<br>**Cuando** se confirma la contratación<br>**Entonces** el sistema habilita los beneficios del plan.                                                                                                                                          | EP07                 |
+| EP05                   | **Gestión de Pagos y Facturación**                         | **Como** usuario, **quiero** pagar y recibir facturas de manera clara y segura, **para** tener control sobre mis transacciones.                                            | No Corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | No Corresponde       |
+| US15                   | Confirmación de pago                                       | **Como** usuario, **quiero** recibir una confirmación inmediata al completar un pago, **para** asegurarme de que la transacción fue exitosa.                               | **Escenario 1: Confirmación inmediata tras pago válido**<br>**Dado** el usuario realiza un pago<br>**Cuando** completa la transacción<br>**Entonces** el sistema confirma que fue exitosa.<br><br>.**Escenario 2: Validación del estado del pago**<br>**Dado** el usuario ha pagado<br>**Cuando** consulta el estado<br>**Entonces** el sistema indica que el pago fue procesado correctamente.                                                                                                                                               | EP08                 |
+| US16                   | Renovación automática de suscripción                       | **Como** dueño/administrador, **quiero** que mi plan se renueve automáticamente, **para** no tener que pagar manualmente cada vez.                                         | **Escenario 1: Renovación automática sin errores**<br>**Dado** el administrador tiene renovación automática activa<br>**Cuando** llega la fecha programada<br>**Entonces** el sistema renueva la suscripción automáticamente.<br><br>**Escenario 2: Confirmación de renovación exitosa**<br>**Dado** se ejecuta la renovación automática<br>**Cuando** el sistema la procesa<br>**Entonces** se confirma al administrador que fue exitosa.                                                                                                    | EP08                 |
+| EP06                   | **Registro de usuario**                                    | **Como** nuevo usuario, **quiero** registrarme fácilmente en la plataforma, **para** poder acceder a sus funcionalidades.                                                  | No Corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | No Corresponde       |
+| US01                   | Registro de un cliente                                     | **Como** cliente, **quiero** registrarme proporcionando mis datos personales, **para** crear una cuenta.                                                                   | **Escenario 1: Registro exitoso de un cliente**<br>**Dado** el cliente proporciona datos personales válidos<br>**Cuando** solicita crear una cuenta<br>**Entonces** el sistema crea una cuenta y confirma el registro.<br><br>**Escenario 2: Registro fallido por datos incompletos**<br>**Dado** el cliente no proporciona todos los datos requeridos<br>**Cuando** intenta registrarse<br>**Entonces** el sistema impide el registro e informa la omisión.                                                                                  | EP01                 |
+| US02                   | Registro de un salón de belleza/barbería                   | **Como** dueño/administrador, **quiero** poder registrar mi negocio, **para** gestionar mis servicios en la plataforma.                                                    | **Escenario 1: Registro exitoso de un negocio**<br>**Dado** el administrador proporciona información válida del negocio<br>**Cuando** solicita registrar su salón o barbería<br>**Entonces** el sistema almacena los datos y confirma el registro del negocio.<br><br>**Escenario 2: Registro fallido por datos inválidos del negocio**<br>**Dado** el administrador ingresa información inválida o incompleta<br>**Cuando** intenta registrar el negocio<br>**Entonces** el sistema rechaza el registro e informa el problema.               | EP01                 |
+| EP07                   | **Inicio de sesión**                                       | **Como** usuario registrado, **quiero** iniciar sesión con mis credenciales, **para** acceder a mi cuenta de forma segura.                                                 | No Corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | No Corresponde       |
+| US03                   | Inicio de sesión del usuario                               | **Como** usuario, **quiero** iniciar sesión con mi correo y contraseña, **para** acceder a mi cuenta.                                                                      | **Escenario 1: Inicio de sesión exitoso**<br>**Dado** el usuario tiene una cuenta registrada<br>**Cuando** proporciona credenciales correctas<br>**Entonces** el sistema permite el acceso a la cuenta.<br><br>**Escenario 2: Fallo en inicio de sesión por credenciales incorrectas**<br>**Dado** el usuario proporciona credenciales inválidas<br>**Cuando** intenta iniciar sesión<br>**Entonces** el sistema rechaza el acceso e informa el error.                                                                                        | EP02                 |
+| US04                   | Recuperación de contraseña                                 | **Como** usuario, **quiero** recuperar el acceso a mi cuenta si olvido la contraseña, **para** poder usar la plataforma nuevamente.                                        | **Escenario 1: Solicitud exitosa de recuperación de contraseña**<br>**Dado** el usuario indica su información asociada a la cuenta<br>**Cuando** solicita recuperar su contraseña<br>**Entonces** el sistema genera instrucciones de recuperación.<br><br>**Escenario 2: Solicitud fallida por información inválida**<br>**Dado** el usuario proporciona información no registrada<br>**Cuando** solicita recuperar su contraseña<br>**Entonces** el sistema informa que no puede completar la solicitud.                                     | EP02                 |
+| EP08                   | **Cierre de sesión y eliminación de la cuenta**            | **Como** usuario, **quiero** cerrar sesión o eliminar mi cuenta, **para** tener control sobre mi acceso y privacidad.                                                      | No Corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | No Corresponde       |
+| US07                   | Cierre de sesión                                           | **Como** usuario, **quiero** poder cerrar sesión de forma segura, **para** proteger mis datos cuando no uso la app.                                                        | **Escenario 1: Cierre de sesión exitoso**<br>**Dado** el usuario tiene una sesión activa<br>**Cuando** solicita cerrar la sesión<br>**Entonces** el sistema finaliza la sesión y revoca el acceso.<br><br>**Escenario 2: Cierre de sesión sin sesión activa**<br>**Dado** no hay una sesión iniciada<br>**Cuando** el usuario intenta cerrar sesión<br>**Entonces** el sistema no realiza ninguna acción.                                                                                                                                     | EP04                 |
+| US08                   | Eliminación de cuenta                                      | **Como** usuario, **quiero** eliminar mi cuenta y datos personales, **para** dejar de utilizar la plataforma si así lo deseo.                                              | **Escenario 1: Eliminación exitosa de cuenta**<br>**Dado** el usuario está autenticado<br>**Cuando** solicita eliminar su cuenta<br>**Entonces** el sistema elimina la cuenta y los datos asociados.<br><br>**Escenario 2: Fallo en la eliminación de cuenta por falta de autenticación**<br>**Dado** el usuario no está autenticado<br>**Cuando** intenta eliminar su cuenta<br>**Entonces** el sistema impide la eliminación e informa la necesidad de autenticarse.                                                                        | EP04                 |
+| EP09                   | **Edición de perfil de usuario**                           | **Como** usuario, **quiero** editar los datos de mi perfil, **para** mantener mi información actualizada y personalizada según mi rol.                                     | No Corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | No Corresponde       |
+| US05                   | Edición del perfil del cliente                             | **Como** cliente, **quiero** actualizar mi información personal, **para** mantener mis datos actualizados.                                                                 | **Escenario 1: Edición exitosa del perfil**<br>**Dado** el cliente accede a su información personal<br>**Cuando** actualiza sus datos correctamente<br>**Entonces** el sistema guarda los cambios y confirma la actualización.<br><br>**Escenario 2: Fallo en edición por datos inválidos**<br>**Dado** el cliente proporciona datos incorrectos<br>**Cuando** intenta actualizar su perfil<br>**Entonces** el sistema rechaza la edición e informa el motivo.                                                                                | EP03                 |
+| US06                   | Personalización del perfil del salón de belleza/barbería   | **Como** dueño/administrador, **quiero** poder personalizar el perfil de mi salon de belleza/barbería con informacíón relevante y estética, **para** atraer a más cliente. | **Escenario 1: Personalización exitosa del perfil del negocio**<br>**Dado** el administrador accede a la configuración del negocio<br>**Cuando** modifica los datos con información válida<br>**Entonces** el sistema actualiza el perfil del negocio.<br><br>**Escenario 2: Fallo en personalización por datos inválidos**<br>**Dado** el administrador proporciona información no aceptada<br>**Cuando** intenta modificar el perfil del negocio<br>**Entonces** el sistema impide la actualización e informa el error.                     | EP03                 |
+| EP10                   | **Gestión de notificaciones**                              | **Como** usuario, **quiero** recibir notificaciones personalizadas sobre mis citas, pagos y promociones, **para** estar siempre informado.                                 | No Corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | No Corresponde       |
+| US25                   | Recepción de notificaciones del estado de la cita          | **Como** cliente, **quiero** recibir notificaciones sobre confirmación, cancelación o modificación de citas, **para** estar al tanto de mis reservas.                      | **Escenario 1: Notificación por confirmación de cita**<br>**Dado** el cliente agenda una cita<br>**Cuando** esta es confirmada<br>**Entonces** el sistema envía una notificación.<br><br>**Escenario 2: Aviso por modificación de cita**<br>**Dado** una cita es modificada<br>**Cuando** se actualiza su estado<br>**Entonces** el cliente recibe una notificación del cambio.                                                                                                                                                               | EP11                 |
+| US26                   | Alertas por vencimiento o fallo de pago                    | **Como** usuario, **quiero** ser alertado si hay un problema con mi pago o si está por vencer mi suscripción, **para** tomar acciones a tiempo.                            | **Escenario 1: Alerta de vencimiento próximo**<br>**Dado** la suscripción está por expirar<br>**Cuando** se acerca la fecha límite<br>**Entonces** el sistema alerta al usuario<br><br>**Escenario 2: Notificación por fallo en el pago**<br>**Dado** un pago no se concreta<br>**Cuando** el sistema detecta el error<br>**Entonces** se notifica al usuario del problema.                                                                                                                                                                   | EP11                 |
+| US27                   | Configuración de medios de notificación                    | **Como** usuario, **quiero** elegir si recibir notificaciones por correo, SMS o dentro de la plataforma, **para** tener un mejor control de mi información.                | **Escenario 1: Selección del medio de notificación preferido**<br>**Dado** el usuario quiere cambiar el medio de notificación<br>**Cuando** accede a su configuración<br>**Entonces** el sistema permite elegir entre las opciones disponibles.<br><br>**Escenario 2: Confirmación de medio seleccionado**<br>**Dado** el usuario elige un medio<br>**Cuando** guarda los cambios<br>**Entonces** el sistema respeta la nueva configuración.                                                                                                  | EP11                 |
+| US28                   | Recepción de notificaciones sobre promociones y descuentos | **Como** cliente, **quiero** recibir promociones y descuentos que me interesen, **para** aprovechar ofertas relevantes.                                                    | **Escenario 1: Envío de promoción activa**<br>**Dado** hay una promoción vigente<br>**Cuando** el sistema identifica usuarios interesados<br>**Entonces** se les envía la promoción correspondiente.<br><br>**Escenario 2: Recepción correcta de promoción configurada**<br>**Dado** el cliente acepta recibir promociones<br>**Cuando** se lanza una campaña<br>**Entonces** recibe la notificación correctamente.                                                                                                                           | EP11                 |
+| EP11                   | **Landing Page**                                           | **Como** visitante, **quiero** ver una página inicial atractiva con toda la información relevante, **para** decidir si deseo registrarme o contactar.                      | No Corresponde                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | No Corresponde       |                            
+| US29                   | Visualización general de los servicios                     | **Como** visitante, **quiero** ver una vista general de los servicios ofrecidos, **para** entender qué tipo de atención puedo recibir.                                     | **Escenario 1: Muestra de catálogo de servicios disponibles**<br>**Dado** el visitante desea informarse<br>**Cuando** accede al listado de servicios<br>**Entonces** el sistema muestra todos los servicios activos.<br><br>**Escenario 2: Visualización de detalles de servicio**<br>**Dado** el visitante elige un servicio<br>**Cuando** accede a la descripción<br>**Entonces** el sistema muestra la información detallada.                                                                                                              | EP12                 |
+| US30                   | Visualización de beneficios                                | **Como** visitante, **quiero** ver los beneficios de usar la plataforma, **para** motivarme a registrarme.                                                                 | **Escenario 1: Despliegue de beneficios por usar la plataforma**<br>**Dado** el visitante quiere conocer ventajas<br>**Cuando** accede a la sección correspondiente<br>**Entonces** el sistema muestra los beneficios disponibles.<br><br>**Escenario 2: Validación de beneficios antes del registro**<br>**Dado** el visitante no está registrado<br>**Cuando** consulta los beneficios<br>**Entonces** el sistema permite visualizar la información sin restricción.                                                                        | EP12                 |
+| US31                   | Planes y precios                                           | **Como** visitante, **quiero** ver los planes de suscripción y sus precios, **para** saber si se ajustan a mis necesidades.                                                | **Escenario 1: Muestra general de planes y precios**<br>**Dado** el visitante desea comparar opciones<br>**Cuando** accede a la sección de planes<br>**Entonces** el sistema muestra los precios y características.**Escenario 2: Consulta de detalle de un plan específico**<br>**Dado** el visitante selecciona un plan<br>**Cuando** solicita más información<br>**Entonces** el sistema despliega los detalles y precio.                                                                                                                  | EP12                 |
+| US32                   | Testimonios                                                | **Como** visitante, **quiero** leer testimonios de otros usuarios, **para** ganar confianza en la plataforma.                                                              | **Escenario 1: Visualización de testimonios disponibles**<br>**Dado** el visitante está explorando la plataforma<br>**Cuando** accede a testimonios<br>**Entonces** el sistema muestra los comentarios de otros usuarios.<br><br>**Escenario 2: Validación de experiencia positiva por testimonios**<br>**Dado** los testimonios están activos<br>**Cuando** el visitante los revisa<br>**Entonces** puede conocer opiniones reales de otros clientes.                                                                                        | EP12                 |
+| US33                   | Call to action                                             | **Como** visitante, **quiero** encontrar botones de acción claros, **para** empezar a usar la plataforma fácilmente.                                                       | **Escenario 1: Visualización de opciones para iniciar uso**<br>**Dado** el visitante quiere comenzar<br>**Cuando** encuentra llamados a la acción<br>**Entonces** el sistema los muestra de manera clara.<br><br>**Escenario 2: Seguimiento del flujo tras clic en llamado**<br>**Dado** el visitante acciona un botón<br>**Cuando** se registra la interacción<br>**Entonces** el sistema lo redirige correctamente.                                                                                                                         | EP12                 |
+| US34                   | Contacto o soporte                                         | **Como** visitante, **quiero** poder contactarme con el equipo o recibir soporte, **para** resolver dudas antes de registrarme.                                            | **Escenario 1: Acceso a canal de contacto**<br>**Dado** el visitante tiene una duda<br>**Cuando** busca ayuda<br>**Entonces** el sistema le muestra opciones para contactarse.<br><br>**Escenario 2: Confirmación de recepción de mensaje de soporte**<br>**Dado** el visitante envía una consulta<br>**Cuando** el sistema la recibe<br>**Entonces** emite una confirmación automática.                                                                                                                                                      | EP12                 |
+| US35                   | Información sobre uTime                                    | **Como** visitante, **quiero** poder acceder una sección que explique quiénes son los creadores, **para** tener confianza en la plataforma y su propósito.                  | **Escenario 1: Mostrar información sobre la startup**<br>**Dado** que soy un visitante en la página principal<br>**Cuando** hago clic en el enlace "About US" us del menú de navegación<br>**Entonces** se debe mostrar una sección con información sobre Pactech, incluyendo su misión, visión y propósito.<br><br>**Escenario 2: Visualizar los integrantes del equipo**<br>**Dado** que estoy en la sección "About Us"<br>**Cuando**visualizo la información de la empresa<br>**Entonces** debo poder ver a los integrantes de Paxtech. | EP12                 |
+
+**Technical Stories**
+
+| **ID** | **Título**                                          | **Descripción**                                                                                                                                              | **Criterios de Aceptación**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | **Epic Relacionado** |
+|--------|-----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|
+| TS01   | Encriptación de contraseñas                         | **Como** developer, **quiero** asegurar las contraseñas mediante hashing y salting, **para** proteger los datos de los usuarios.                             | **Escenario 1: Almacenamiento seguro al registrarse**<br>**Dado** un nuevo usuario se registra<br>**Cuando** se guarda su contraseña<br>**Entonces** la contraseña debe almacenarse en formato hash con salt.<br><br>**Escenario 2: Comparación segura al hacer login**<br>**Dado** un usuario registrado intenta iniciar sesión<br>**Cuando** el sistema compara la contraseña ingresada con la almacenada<br>**Entonces** debe usar el hash y salt para verificar la coincidencia.                                                | EP06                 |
+| TS02   | Actualización en tiempo real de horarios y citas    | **Como** developer, **quiero** que los horarios y las citas se actualicen en tiempo real, **para** que los usuarios vean disponibilidad actualizada.         | **Escenario 1: Horario actualizado sin recargar**<br>**Dado** un horario es actualizado por el administrador<br>**Cuando** otro usuario está viendo los horarios<br>**Entonces** los cambios se reflejan automáticamente.<br><br>**Escenario 2: Cita nueva visible en tiempo real**<br>**Dado** un cliente agenda una cita<br>**Cuando** la cita es confirmada<br>**Entonces** el nuevo horario se muestra en tiempo real en el panel del salón.                                                                                    | EP05/EP06            |
+| TS03   | Validaciones de formularios en la aplicación móvil y backend   | **Como** developer, **quiero** implementar validaciones robustas en formularios, **para** evitar datos erróneos o maliciosos.                                | **Escenario 1: Campo requerido vacío**<br>**Dado** el usuario deja el campo "correo electrónico" vacío<br>**Cuando** intenta enviar el formulario<br>**Entonces** el sistema muestra un mensaje de error.<br><br>**Escenario 2: Formato incorrecto en campo de teléfono**<br>**Dado** el usuario escribe un teléfono no numérico<br>**Cuando** intenta enviar el formulario<br>**Entonces** el sistema muestra un mensaje de validación.                                                                                            | Todas                |
+| TS04   | Diseño adaptable y accesible                       | **Como** developer, **quiero** aplicar diseño adaptable y accesibilidad, **para** que la app funcione bien en distintos dispositivos y pueda ser usada por todos los usuarios.                      | **Escenario 1: Visualización en diferentes dispositivos móviles**<br>**Dado** el usuario accede desde un smartphone Android o iOS  <br>**Cuando** navega entre las pantallas principales.<br>**Entonces**  los elementos se muestran correctamente adaptados al tamaño de pantalla.<br><br>**Escenario 2: Accesibilidad con lector de pantalla**<br>**Dado**  un usuario con discapacidad visual accede a la aplicación móvil  <br>**Cuando** utiliza TalkBack (Android) o VoiceOver (iOS) <br>**Entonces** los elementos clave tienen etiquetas accesibles y la navegación es clara.                                                                                                       | Todas                |
+| TS05   | Crear endpoint para registro de usuario             | **Como** developer, **quiero** crear el endpoint POST /usuarios para registrar clientes y salones de belleza, **para** permitir su incorporación al sistema. | **Escenario 1: Registro exitoso de cliente**<br>**Dado** un cliente envía una solicitud POST con datos válidos<br>**Cuando** el endpoint procesa la petición<br>**Entonces** se registra y devuelve un token de autenticación.<br><br>**Escenario 2: Datos incompletos en el registro**<br>**Dado** un usuario envía datos incompletos<br>**Cuando** el backend valida la solicitud<br>**Entonces** devuelve un error 400 indicando campos faltantes.                                                                               | EP06                 |
+| TS06   | Crear endpoint de login con JWT                     | **Como** developer, **quiero** crear el endpoint POST /login con generación de JWT, **para** autenticar a los usuarios del sistema.                          | **Escenario 1: Login exitoso**<br>**Dado** un usuario envía su correo y contraseña correctos<br>**Cuando** se autentica correctamente<br>**Entonces** el sistema devuelve un JWT válido.<br><br>**Escenario 2: Login fallido**<br>**Dado** un usuario intenta iniciar sesión con datos erróneos<br>**Cuando** el sistema verifica las credenciales<br>**Entonces** devuelve un error 401.                                                                                                                                           | EP07                 |
+| TS07   | Crear endpoint para agendar citas                   | **Como** developer, **quiero** crear el endpoint POST /citas **para** que los usuarios puedan agendar una cita con un salón.                                 | **Escenario 1: Cita agendada correctamente**<br>**Dado** un cliente envía una solicitud con fecha y hora disponibles<br>**Cuando** la solicitud es válida<br>**Entonces** la cita se crea y se confirma.<br><br>**Escenario 2: Horario no disponible**<br>**Dado** un cliente intenta agendar en un horario ocupado<br>**Cuando** envía la solicitud<br>**Entonces** el sistema responde con un error indicando indisponibilidad.                                                                                                   | EP06                 |
+| TS08   | Crear endpoint para gestionar horarios              | **Como** developer, **quiero** crear los endpoints GET /horarios y PUT /horarios, **para** visualizar y actualizar los horarios del salón.                   | **Escenario 1: Visualización de horarios**<br>**Dado** el administrador consulta el endpoint GET /horarios<br>**Cuando** hay horarios configurados<br>**Entonces** el sistema devuelve la lista correctamente.<br><br>**Escenario 2: Actualización de horarios**<br>**Dado** el administrador quiere cambiar su horario<br>**Cuando** envía una solicitud PUT con los nuevos datos<br>**Entonces** el sistema actualiza la información.                                                                                             | EP09                 |
+| TS09   | Crear endpoint de pagos                             | **Como** developer, **quiero** crear el endpoint POST /pagos **para** procesar pagos usando la pasarela integrada.                                           | **Escenario 1: Pago procesado exitosamente**<br>**Dado** el usuario quiere pagar una suscripción<br>**Cuando** envía datos válidos a POST /pagos<br>**Entonces** el sistema procesa el pago y registra la transacción.<br><br>**Escenario 2: Pago rechazado**<br>**Dado** el usuario envía un método de pago inválido<br>**Cuando** se procesa la solicitud<br>**Entonces** el sistema devuelve un error con el motivo del fallo.                                                                                                   | EP05                 |
+| TS10   | Crear endpoints para suscripciones                  | **Como** developer, **quiero** implementar GET /suscripciones, POST /suscripciones, y PUT /suscripciones **para** gestionar los planes de los usuarios.      | **Escenario 1: Consultar planes disponibles**<br>**Dado** un usuario accede a GET /suscripciones<br>**Cuando** el sistema recibe la solicitud<br>**Entonces** devuelve una lista de planes y beneficios.<br><br>**Escenario 2: Cambio de plan**<br>**Dado** un usuario con plan activo quiere cambiar<br>**Cuando** envía una solicitud PUT con el nuevo plan<br>**Entonces** el sistema actualiza la suscripción.                                                                                                                  | EP08                 |
+| TS11   | Crear endpoint para recibir notificaciones          | **Como** developer, **quiero** crear el endpoint POST /notificaciones **para** recibir y registrar eventos que generen alertas al usuario.                   | **Escenario 1: Notificación por cita creada**<br>**Dado** un cliente agenda una cita<br>**Cuando** el evento se genera<br>**Entonces** el sistema envía una notificación mediante POST /notificaciones.<br><br>**Escenario 2: Notificación por vencimiento de pago**<br>**Dado** una suscripción está por vencer<br>**Cuando** se detecta la proximidad de vencimiento<br>**Entonces** se genera y envía una notificación automática.                                                                                               | EP10                 |
+| TS12   | Crear endpoints para gestión de proveedores        | **Como** developer, **quiero** crear los endpoints GET /providers, GET /providers/{id}, y POST /providers, **para** manejar el registro y consulta de proveedores.   | **Escenario 1: Registro de proveedor**<br>**Dado** un proveedor envía una solicitud POST con datos válidos<br>**Cuando** se valida la solicitud<br>**Entonces** se registra y devuelve una confirmación.<br><br>**Escenario 2: Visualización de todos los proveedores**<br>**Dado** un usuario consulta el listado<br>**Cuando** accede a GET /providers<br>**Entonces** recibe una lista completa.<br><br>**Escenario 3: Consulta por ID**<br>**Dado** un proveedor registrado<br>**Cuando** accede a GET /providers/{id}<br>**Entonces** recibe los datos correspondientes. | EP04                 |
+| TS13   | Crear endpoints para perfil de proveedores         | **Como** developer, **quiero** implementar los endpoints GET /providerProfile/{id} y POST /providerProfile, **para** gestionar los perfiles de proveedores.           | **Escenario 1: Registro de perfil**<br>**Dado** un nuevo proveedor envía una solicitud POST con datos válidos<br>**Cuando** se valida y registra<br>**Entonces** se crea su perfil.<br><br>**Escenario 2: Visualización de perfil por ID**<br>**Dado** un ID válido de proveedor<br>**Cuando** se accede a GET /providerProfile/{id}<br>**Entonces** se devuelven sus datos.                                                                                                                                                                            | EP04                 |
+| TS14   | Crear endpoints para trabajadores                  | **Como** developer, **quiero** implementar GET /workers, GET /workers/{id} y POST /workers, **para** gestionar los trabajadores del sistema.                         | **Escenario 1: Registro de trabajador**<br>**Dado** un salón registra un nuevo trabajador<br>**Cuando** envía datos válidos<br>**Entonces** se guarda correctamente.<br><br>**Escenario 2: Listar trabajadores**<br>**Dado** un usuario accede al sistema<br>**Cuando** realiza una solicitud GET<br>**Entonces** recibe todos los trabajadores.<br><br>**Escenario 3: Consultar por ID**<br>**Dado** un ID válido<br>**Cuando** accede a GET /workers/{id}<br>**Entonces** recibe la información del trabajador.                                                                  | EP04                 |
+| TS15   | Crear endpoints para clientes                      | **Como** developer, **quiero** crear los endpoints GET /clients, GET /clients/{id} y POST /clients, **para** gestionar a los clientes del sistema.                   | **Escenario 1: Registro de cliente**<br>**Dado** un cliente nuevo<br>**Cuando** envía una solicitud POST con datos válidos<br>**Entonces** se registra correctamente.<br><br>**Escenario 2: Listado de clientes**<br>**Dado** un administrador accede a GET /clients<br>**Cuando** realiza la solicitud<br>**Entonces** ve todos los clientes.<br><br>**Escenario 3: Consulta individual**<br>**Dado** un ID de cliente<br>**Cuando** accede a GET /clients/{id}<br>**Entonces** recibe los datos correspondientes.                                                     | EP06                 |
+| TS16   | Implementación de endpoints para gestión de reviews | **Como** developer, **quiero** implementar GET /reviews, GET /reviews/{id} y POST /reviews, **para** gestionar las reseñas de los clientes. | **Escenario 1: Listar todas las reviews**<br>**Dado** un usuario accede a GET /reviews<br>**Cuando** hay reseñas registradas<br>**Entonces** el sistema devuelve la lista completa.<br><br>**Escenario 2: Registrar nueva review**<br>**Dado** un cliente envía una reseña válida<br>**Cuando** se realiza POST /reviews<br>**Entonces** la reseña se almacena correctamente.<br><br>**Escenario 3: Consultar review por ID**<br>**Dado** un ID de reseña válido<br>**Cuando** se accede a GET /reviews/{id}<br>**Entonces** el sistema devuelve los datos de la reseña. | EP11                 |
+| TS17   | Crear endpoints para servicios ofrecidos           | **Como** developer, **quiero** implementar GET /services y POST /services, **para** registrar y consultar los servicios del salón.                                  | **Escenario 1: Registro de nuevo servicio**<br>**Dado** un salón desea ofrecer un nuevo servicio<br>**Cuando** envía una solicitud POST válida<br>**Entonces** el servicio se registra.<br><br>**Escenario 2: Visualizar servicios**<br>**Dado** un cliente explora servicios<br>**Cuando** accede a GET /services<br>**Entonces** se listan todos los servicios registrados.                                                                                                                                                                      | EP05                 |
+| TS18   | Crear endpoints para gestión de usuarios           | **Como** developer, **quiero** implementar GET /users, GET /users/{id}, **para** consultar la información general de usuarios registrados.                          | **Escenario 1: Ver todos los usuarios**<br>**Dado** un administrador accede a GET /users<br>**Cuando** hay usuarios registrados<br>**Entonces** se listan correctamente.<br><br>**Escenario 2: Ver usuario por ID**<br>**Dado** un ID válido<br>**Cuando** se accede a GET /users/{id}<br>**Entonces** se muestran los datos del usuario.                                                                                                                                                                                        | EP06                 |
+
+<br>
+
+**Spike Stories**
+
+Las Spike Stories de uTime son investigaciones técnicas que el equipo realiza antes de implementar integraciones con APIs externas. Estas historias nos permiten evaluar la viabilidad, riesgos y esfuerzo requerido para integrar servicios como Stripe (pagos) e ImgBB (imágenes) en nuestra aplicación de gestión de citas de belleza.
+
+<table>
+<thead>
+<tr>
+<th colspan="2">Spike Story 1: Investigación de Integración de Stripe para Procesamiento de Pagos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>Historia</b></td>
+<td><strong>Como</strong> equipo de desarrollo de uTime, <strong>quiero</strong> investigar y prototipar la integración de Stripe en nuestra aplicación móvil y backend, <strong>para que</strong> podamos entender las implicaciones técnicas, riesgos potenciales y esfuerzo requerido para la implementación completa de pagos en uTime.</td>
+</tr>
+<tr>
+<td><b>Criterio 1</b></td>
+<td><strong>Dado que</strong> el equipo necesita entender las capacidades de Stripe para el procesamiento de pagos en aplicaciones móviles, <strong>cuando</strong> el desarrollador revisa la documentación de la API de Stripe (Payments, Checkout, Mobile SDKs), <strong>entonces</strong> se debe documentar en un reporte compartido los productos y flujos de pago más adecuados para uTime.</td>
+</tr>
+<tr>
+<td><b>Criterio 2</b></td>
+<td><strong>Dado que</strong> la aplicación móvil necesita procesar pagos de manera segura, <strong>cuando</strong> el desarrollador evalúa la compatibilidad con Stripe Mobile SDKs para Android e iOS, <strong>entonces</strong> se debe documentar los requisitos de integración móvil, incluyendo componentes de UI específicos y lógica de negocio para manejo de tokens.</td>
+</tr>
+<tr>
+<td><b>Criterio 3</b></td>
+<td><strong>Dado que</strong> el backend necesita manejar la lógica de pagos y webhooks, <strong>cuando</strong> el desarrollador evalúa la compatibilidad con la librería Stripe para el backend, <strong>entonces</strong> se debe documentar los requisitos de integración backend, incluyendo configuración de endpoints REST y manejo de webhooks.</td>
+</tr>
+<tr>
+<td><b>Criterio 4</b></td>
+<td><strong>Dado que</strong> es necesario asegurar el procesamiento seguro de pagos, <strong>cuando</strong> el desarrollador analiza los riesgos de seguridad potenciales, <strong>entonces</strong> el reporte debe incluir un resumen de estos riesgos y las características de mitigación proporcionadas por Stripe.</td>
+</tr>
+<tr>
+<td><b>Criterio 5</b></td>
+<td><strong>Dado que</strong> la aplicación debe mantener un buen rendimiento durante el procesamiento de pagos, <strong>cuando</strong> el desarrollador evalúa el impacto de la integración de Stripe en el rendimiento, <strong>entonces</strong> se deben documentar los hallazgos, incluyendo cualquier cuello de botella potencial.</td>
+</tr>
+</tbody>
+</table>
+<br>
+<table>
+<thead>
+<tr>
+<th colspan="2">Spike Story 2: Investigación de Integración de ImgBB para Gestión de Imágenes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>Historia</b></td>
+<td><strong>Como</strong> equipo de desarrollo de uTime, <strong>quiero</strong> investigar y prototipar la integración de ImgBB en nuestra aplicación móvil y backend, <strong>para que</strong> podamos entender las implicaciones técnicas, limitaciones y esfuerzo requerido para la implementación completa de gestión de imágenes de perfiles y servicios.</td>
+</tr>
+<tr>
+<td><b>Criterio 1</b></td>
+<td><strong>Dado que</strong> el equipo necesita entender las capacidades de ImgBB para el almacenamiento y gestión de imágenes, <strong>cuando</strong> el desarrollador revisa la documentación de la API de ImgBB (upload, delete, management), <strong>entonces</strong> se debe documentar en un reporte compartido los endpoints y funcionalidades más adecuados para uTime.</td>
+</tr>
+<tr>
+<td><b>Criterio 2</b></td>
+<td><strong>Dado que</strong> la aplicación móvil necesita subir y gestionar imágenes de perfiles y servicios, <strong>cuando</strong> el desarrollador evalúa la compatibilidad con las APIs de ImgBB para Android e iOS, <strong>entonces</strong> se debe documentar los requisitos de integración móvil, incluyendo manejo de archivos de imagen y compresión.</td>
+</tr>
+<tr>
+<td><b>Criterio 3</b></td>
+<td><strong>Dado que</strong> el backend necesita procesar y almacenar referencias de imágenes, <strong>cuando</strong> el desarrollador evalúa la integración con ImgBB desde el backend, <strong>entonces</strong> se debe documentar los requisitos de integración backend, incluyendo manejo de URLs de imágenes y validación.</td>
+</tr>
+<tr>
+<td><b>Criterio 4</b></td>
+<td><strong>Dado que</strong> es necesario entender las limitaciones del servicio gratuito de ImgBB, <strong>cuando</strong> el desarrollador analiza los límites de almacenamiento, ancho de banda y funcionalidades, <strong>entonces</strong> el reporte debe incluir un análisis de limitaciones y posibles costos de actualización.</td>
+</tr>
+<tr>
+<td><b>Criterio 5</b></td>
+<td><strong>Dado que</strong> la gestión de imágenes afecta directamente la experiencia del usuario, <strong>cuando</strong> el desarrollador evalúa el impacto de ImgBB en la velocidad de carga y calidad de imágenes, <strong>entonces</strong> se deben documentar los hallazgos sobre rendimiento y recomendaciones para optimización.</td>
+</tr>
+</tbody>
+</table>
+
+<div style="page-break-before: always;"></div>
+
+
+### 2.4.2. Impact Mapping
+
+![Impact Mapping](img/impact-mapping.png)
+
+<div style="page-break-before: always;"></div>
+
+
+### 2.4.3. Product Backlog
+   
+
+| **# Orden** | **User Story ID** | **Titulo**                                               | **Descripción**                                                                                                                                                            | **Story Points** |
+|-------------|-------------------|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|
+| #1          | US29              | Visualización general de los servicios                   | **Como** visitante, **quiero** ver una vista general de los servicios ofrecidos, **para** entender qué tipo de atención puedo recibir.                                     | 2                |
+| #2          | US30              | Visualización de beneficios                              | **Como** visitante, **quiero** ver los beneficios de usar la plataforma, **para** motivarme a registrarme.                                                                 | 2                |
+| #3          | US31              | Planes y precios                                         | **Como** visitante, **quiero** ver los planes de suscripción y sus precios, **para** saber si se ajustan a mis necesidades.                                                | 2                |
+| #4          | US32              | Testimonios                                              | **Como** visitante, **quiero** leer testimonios de otros usuarios, **para** ganar confianza en la plataforma.                                                              | 1                |
+| #5          | US33              | Call to action                                           | **Como** visitante, **quiero** encontrar botones de acción claros, **para** empezar a usar la plataforma fácilmente.                                                       | 1                |
+| #6          | US34              | Contacto y Soporte                                       | **Como** visitante, **quiero** poder contactarme con el equipo o recibir soporte, **para** resolver dudas antes de registrarme.                                            | 2                |
+| #7          | US35              | Información sobre uTime                                       | **Como** visitante, **quiero** poder acceder una sección que explique quiénes son los creadores, **para** tener confianza en la plataforma y su propósito.                                           | 2                |
+| #8          | TS06              | Diseño adaptable y accesible                            | **Como** developer, **quiero** aplicar diseño adaptable y accesibilidad, **para** que la app funcione bien en distintos dispositivos y pueda ser usada por todos los usuarios.                                    | 3                |
+| #9          | TS05              | Validaciones de formularios en frontend y backend        | **Como** developer, **quiero** implementar validaciones robustas en formularios, **para** evitar datos erróneos o maliciosos.                                              | 3                |
+| #10         | US17              | Selección de salón                                       | **Como** cliente, **quiero** buscar y seleccionar un salón de belleza/barbería, **para** elegir dónde agendar mi cita.                                                     | 3                |
+| #11         | TS09              | Crear endpoint para agendar citas                        | **Como** developer, **quiero** crear el endpoint POST /citas **para** que los usuarios puedan agendar una cita con un salón.                                               | 3                |
+| #12         | US18              | Creación de citas                                        | **Como** cliente, **quiero** poder agendar una cita según disponibilidad, **para** recibir el servicio deseado.                                                            | 5                |
+| #13         | TS04              | Actualización en tiempo real de horarios y citas         | **Como** developer, **quiero** que los horarios y las citas se actualicen en tiempo real, **para** que los usuarios vean disponibilidad actualizada.                       | 5                |
+| #14         | US19              | Visualización de citas agendadas                         | **Como** cliente, **quiero** ver mis citas agendadas, **para** saber cuánto y dónde tengo una reserva.                                                                     | 2                |
+| #15         | US20              | Modificación o cancelación de citas                      | **Como** cliente, **quiero** modificar o cancelar citas con anticipación, **para** reorganizar mis tiempos.                                                                | 3                |
+| #16         | US21              | Historial de modificaciones de citas                     | **Como** cliente, **quiero** ver los cambios realizados a mis citas, **para** tener un seguimiento completo de mis actividades.                                            | 3                |
+| #17         | US25              | Recepción de notificaciones del estado de la cita        | **Como** cliente, **quiero** recibir notificaciones sobre confirmación, cancelación o modificación de citas, **para** estar al tanto de mis reservas.                      | 2                |
+| #18         | TS13              | Crear endpoint para recibir notificaciones               | **Como** developer, **quiero** crear el endpoint POST /notificaciones **para** recibir y registrar eventos que generen alertas al usuario.                                 | 3                |
+| #19         | US27              | Configuración de medios de notificación                  | **Como** usuario, **quiero** elegir si recibir notificaciones por correo, SMS o dentro de la plataforma, **para** tener un mejor control de mi información.                | 3                |
+| #20         | US28              | Notificaciones sobre promociones y descuentos            | **Como** cliente, **quiero** recibir promociones y descuentos que me interesen, **para** aprovechar ofertas relevantes.                                                    | 2                |
+| #21         | TS10              | Crear endpoint para gestionar horarios                   | **Como** developer, **quiero** crear los endpoints GET /horarios y PUT /horarios, **para** visualizar y actualizar los horarios del salón.                                 | 3                |
+| #22         | US22              | Administración de servicios ofrecidos                    | **Como** dueño/administrador, **quiero** agregar, editar o eliminar servicios, **para** mantener mi catálogo actualizado.                                                  | 3                |
+| #23         | US23              | Gestión de trabajadores                                  | **Como** dueño/administrador, **quiero** añadir o quitar trabajadores, **para** organizar quién ofrece cada servicio.                                                      | 3                |
+| #24         | US10              | Configuración de los horarios                            | **Como** dueño/administrador, **quiero** configurar los horarios de atención de mis trabajadores, **para** definir sus días y horas disponibles.                           | 3                |
+| #25         | US09              | Visualización de los horarios                            | **Como** dueño/administrador, **quiero** visualizar los horarios disponibles , **para** saber cuándo mis trabajadores puede aceptar citas.                                 | 2                |
+| #26         | TS11              | Crear endpoint de pagos                                  | **Como** developer, **quiero** crear el endpoint POST /pagos **para** procesar pagos usando la pasarela integrada.                                                         | 3                |
+| #27         | TS01              | Integración con pasarela de pagos                        | **Como** developer, **quiero** integrar la plataforma con pasarelas de pago, **para** gestionar cobros de forma segura.                                                    | 5                |
+| #28         | US24              | Gestión de cuentas bancarias                             | **Como** dueño/administrador, **quiero** registrar, modificar o eliminar cuentas bancarias, **para** administrar correctamente los pagos recibidos.                        | 3                |
+| #29         | US14              | Contratación de plan de suscripción                      | **Como** dueño/administrador, **quiero** contratar un plan, **para** activar sus beneficios en mi cuenta.                                                                  | 2                |
+| #30         | US11              | Visualización de beneficios de suscripción               | **Como** dueño/administrador, **quiero** ver qué beneficios incluye cada plan, **para** elegir el más adecuado para mí.                                                    | 2                |
+| #31         | US12              | Visualización de precios                                 | **Como** dueño/administrador, **quiero** ver los precios de cada plan, **para** tomar decisiones según mi presupuesto.                                                     | 2                |
+| #32         | US13              | Estado y nivel de suscripción                            | **Como** dueño/administrador, **quiero** ver el estado de mi suscripción actual, **para** saber su está activa y cuándo expira.                                            | 2                |
+| #33         | TS12              | Crear endpoints para suscripciones                       | **Como** developer, **quiero** implementar GET /suscripciones, POST /suscripciones, y PUT /suscripciones **para** gestionar los planes de los usuarios.                    | 5                |
+| #34         | US15              | Confirmación de pago                                     | **Como** usuario, **quiero** recibir una confirmación inmediata al completar un pago, **para** asegurarme de que la transacción fue exitosa.                               | 2                |
+| #35         | US16              | Renovación automática de suscripción                     | **Como** dueño/administrador, **quiero** que mi plan se renueve automáticamente, **para** no tener que pagar manualmente cada vez.                                         | 3                |
+| #36         | US26              | Alertas por fallo de pago o vencimiento                  | **Como** usuario, **quiero** ser alertado si hay un problema con mi pago o si está por vencer mi suscripción, **para** tomar acciones a tiempo.                            | 2                |
+| #37         | US06              | Personalización del perfil del salón de belleza/barbería | **Como** dueño/administrador, **quiero** poder personalizar el perfil de mi salon de belleza/barbería con informacíón relevante y estética, **para** atraer a más cliente. | 3                |
+| #38         | US05              | Edición del perfil del cliente                           | **Como** cliente, **quiero** actualizar mi información personal, **para** mantener mis datos actualizados.                                                                 | 2                |
+| #39         | US08              | Eliminación de cuenta                                    | **Como** usuario, **quiero** eliminar mi cuenta y datos personales, **para** dejar de utilizar la plataforma si así lo deseo.                                              | 2                |
+| #40         | US07              | Cierre de sesión                                         | **Como** usuario, **quiero** poder cerrar sesión de forma segura, **para** proteger mis datos cuando no uso la app.                                                        | 1                |
+| #41         | TS07              | Crear endpoint para registro de usuario                  | **Como** developer, **quiero** crear el endpoint POST /usuarios para registrar clientes y salones de belleza, **para** permitir su incorporación al sistema.               | 3                |
+| #42         | US01              | Registro de un cliente                                   | **Como** cliente, **quiero** registrarme proporcionando mis datos personales, **para** crear una cuenta.                                                                   | 3                |
+| #43         | US02              | Registro de un salón de belleza/barbería                 | **Como** dueño/administrador, **quiero** poder registrar mi negocio, **para** gestionar mis servicios en la plataforma.                                                    | 3                |
+| #44         | TS08              | Crear endpoint de login con JWT                          | **Como** developer, **quiero** crear el endpoint POST /login con generación de JWT, **para** autenticar a los usuarios del sistema.                                        | 3                |
+| #45         | US03              | Inicio de sesión del usuario                             | **Como** usuario, **quiero** iniciar sesión con mi correo y contraseña, **para** acceder a mi cuenta.                                                                      | 2                |
+| #46         | US04              | Recuperación de contraseña                               | **Como** usuario, **quiero** recuperar el acceso a mi cuenta si olvido la contraseña, **para** poder usar la plataforma nuevamente.                                        | 3                |
+| #47         | TS03              | Encriptación de contraseñas                              | **Como** developer, **quiero** asegurar las contraseñas mediante hashing y salting, **para** proteger los datos de los usuarios.                                           | 3                |
+| #48         | TS02              | Implementación de autenticación con dos pasos (2FA)      | **Como** developer, **quiero** añadir autenticación de dos factores, **para** mejorar la seguridad del inicio de sesión de los usuarios.                                   | 5                |
+
+
+## 2.5. Strategic-Level Domain-Driven Design
+### 2.5.1. EventStorming
+#### 2.5.1.1. Candidate Context Discovery
+
+A continuación, se detalla el proceso y evolución de nuestro event storming.
+
+##### Step 1: Unstructured Exploration
+
+Para comenzar, realizamos una lluvia de ideas para proponer e identificar en equipo los eventos que ocurrirían en nuestras aplicaciones, de forma de que no olvidemos ninguna de las opciones disponibles a utilizar para nuestros usuarios.
+Ahora, presentamos los eventos que consideramos al realizar nuestra exploración inicial.
+
+<img src="img/new_event_stoming_1.png" alt="event storming image">
+
+Aquí, se evidencia el mural con todos los eventos considerados después de evaluar las propuestas de la lluvia de ideas. Con estos será que seguiremos con los pasos siguientes.
+
+##### Step 2: Timelines
+
+Siguiendo con el segundo paso, organizamos los eventos en secuencias según el orden en el que deben ocurrir y considerando el resultado positivo o negativo de los mismos.
+Así, a continuación se presentan las líneas temporales que logramos organizar.
+
+<img src="img/new_event_stoming_2.png" alt="event storming image">
+
+En esta secuencia, podemos ver el camino que debe recorrer un nuevo usuario para registrarse como cliente. Para ello, debe comenzar por seleccionar la casilla cliente en el sign up, colocar su correo y una contraseña válida. Si los datos ingresados son válidos, se creará la cuenta del cliente, caso contrario, se mostrará un mensaje diciendo que las credenciales son inválidas.
+
+<img src="img/new_event_stoming_3.png" alt="event storming image">
+
+En la siguiente secuencia, se muestra el camino que debe seguir un usuario para eliminar su cuenta. Para ello, debe comenzar por dirigirse a la pantalla cuenta, en donde deberá seleccionar la opción de eliminar cuenta para que su cuenta sea borrada definitivamente.
+
+<img src="img/new_event_stoming_4.png" alt="event storming image">
+
+En esta secuencia, se muestra cómo el usuario de tipo cliente puede editar sus datos y configuración de notificaciones en su cuenta. Para ello, primero deberá dirigirse a la pantalla cuenta, en donde al ingresar un nuevo nombre, número de teléfono y/o activar o desactivar la opción de recibir notificaciones se editará su perfil. De ser todos los datos nuevos válidos, estos se mostrarán cambiados en pantalla y en la base de datos. Si existe algún error, se mostrará un mensaje de información inválida.
+
+<img src="img/new_event_stoming_5.png" alt="event storming image">
+
+En la siguiente secuencia, se puede ver como un nuevo usuario puede crear una cuenta como usuario de tipo provider. Para ello, primero debe seleccionar la casilla provider en el sign up. Posteriormente, se pedirá que ingresen su correo y contraseña. De ser estos datos válidos, la cuenta provider será creada, caso contrario se mostrará un mensaje indicando que las credenciales son inválidas.
+
+<img src="img/new_event_stoming_6.png" alt="event storming image">
+
+En esta secuencia, se puede ver el camino de un usuario de tipo provider para editar su cuenta. Para ello, puede ingresar una nueva foto de perfil y/o una nueva foto de banner. De ser estos archivos válidos, los datos serán cambiados en pantalla y en la base de datos, mientras que si hay algún error se mostrará un mensaje de información inválida.
+
+<img src="img/new_event_stoming_7.png" alt="event storming image">
+
+En esta secuencia, se muestra el proceso de sign in que debe seguir un cliente. Para ingresar a su cuenta, debe ingresar correctamente su correo y contraseña registrados. Si se equivoca con alguno, se mostrará un mensaje de información inválida.
+
+<img src="img/new_event_stoming_8.png" alt="event storming image">
+
+En la siguiente secuencia, se puede ver como un usuario puede cerrar su cuenta. Para ello, debe ingresar a la pantalla cuenta y seleccionar la opción de “Logout”. Después de ello, su sesión se encontrará cerrada y podrá volver a ingresar posteriormente.
+
+<img src="img/new_event_stoming_9.png" alt="event storming image">
+
+En esta secuencia, se muestra el proceso que debe seguir un cliente para realizar una reserva. Primero, el cliente deberá ingresar a la pantalla de reservaciones. Luego, debe escoger el servicio que desea reservar y al trabajador que desea que se lo realice. Después, debe seleccionar un horario que esté disponible e ingresar la información de la tarjeta con la que pagará el servicio. Una vez procesado el pago satisfactoriamente, la reserva quedará guardada. Si el usuario selecciona un usuario no disponible para el trabajador que eligió, se mostrará un mensaje de error para que tome otro que sí esté disponible.
+
+<img src="img/new_event_stoming_10.png" alt="event storming image">
+
+En esta secuencia, se muestra como un usuario del tipo provider puede registrar un nuevo usuario de su negocio. Para ello, primero debe dirigirse a la sección de trabajadores, y seleccionar la opción nuevo trabajador. Allí, se le pedirá que ingrese los datos de su trabajador y confirme su registro. Si todos los datos son válidos, el trabajador será guardado, caso contrario, se mostrará un mensaje indicando que la información no es válida.
+
+<img src="img/new_event_stoming_11.png" alt="event storming image">
+
+Para la siguiente secuencia, se muestran los pasos a seguir para que un usuario de tipo provider elimine uno de sus trabajadores registrados. Para ello, solo deberá ingresar a la pantalla de trabajadores y seleccionar la opción eliminar junto al trabajador que desea quitar. Al hacer eso, también se borrará de la base de datos.
+
+<img src="img/new_event_stoming_12.png" alt="event storming image">
+
+En la siguiente secuencia, se muestra como un provider puede actualizar la información de uno de sus trabajadores ya registrados. Para ello, deberá dirigirse a la pantalla de trabajadores y seleccionar la opción actualizar en un trabajador en específico. A continuación, debe ingresar los nuevos datos del trabajador. Si estos son válidos entonces serán guardados, caso contrario se mostrará un mensaje indicando que la información no es válida.
+
+<img src="img/new_event_stoming_13.png" alt="event storming image">
+
+En esta secuencia, se muestra como un usuario de tipo cliente puede dejar una reseña en el perfil de un salón de belleza. Para esto, debe dirigirse al perfil del salón que ha seleccionado y escoger la opción nueva reseña. Aquí, ingresa su reseña. Si esta no incumple con los requisitos será registrada y mostrada, caso contrario se mostrará un mensaje de información no válida detectada.
+
+<img src="img/new_event_stoming_14.png" alt="event storming image">
+
+En la siguiente secuencia, se puede observar el camino que debe seguir un usuario de tipo cliente para eliminar una de sus reseñas realizadas a un salón de belleza. Para lograrlo, debe dirigirse al perfil del salón en el que realizó la reseña y seleccionar la opción eliminar en su reseña.
+
+<img src="img/new_event_stoming_15.png" alt="event storming image">
+
+En la secuencia siguiente, se puede observar como un usuario de tipo provider puede registrar un nuevo servicio para sí mismo. Para ello, debe dirigirse a la pantalla de servicios y seleccionar la opción nuevo servicio. Allí, se le pedirá que ingrese los datos del nuevo servicio a ofrecer. Si estos son válidos, entonces el servicio quedará creado y se guardará en la base de datos. Caso contrario, se mostrará un mensaje de información no válida detectada.
+
+<img src="img/new_event_stoming_16.png" alt="event storming image">
+
+En esta secuencia, se muestra como un usuario de tipo provider puede eliminar uno de sus servicios ingresados. Para ello, solo necesita dirigirse a la sección de servicios y seleccionar la opción eliminar aquel que ya no desea ofrecer. Así, el servicio quedará eliminado y ya no se encontrará en la base de datos.
+
+<img src="img/new_event_stoming_17.png" alt="event storming image">
+
+En la siguiente secuencia, podemos ver como un usuario de tipo provider edita los datos de uno de los servicios que ofrece. Para ello, debe ingresar a la pantalla de servicios y seleccionar la opción actualizar en el servicios que desea editar. Así, podrá ingresar los nuevos datos y al hacerlo correctamente los datos se actualizarán, caso contrario se mostrará un mensaje indicando que la información es inválida.
+
+##### Step 3: Pain Points
+
+Para el siguiente paso, hemos identificado los puntos críticos en los que aún podríamos trabajar para mejorarlos dado que poseen cierto riesgo y/o complejidad. Para darle a estos puntos la atención que merecen y tenerlos en cuenta para futuras versiones los resaltamos con rombos rosados.
+A continuación, mostramos las secuencias en las que hemos empleado pain points junto a la explicación de porqué decidimos incluirlos en dicho espacio.
+
+<img src="img/new_event_stoming_18.png" alt="event storming image">
+
+Hemos incluido un pain point en la secuencia de creación de cliente dado que dentro de nuestra planeación primero se crea un usuario y posteriormente se crea el cliente en sí con sus atributos propios. Si bien estamos contemplando casos de error para evitar que se cree un usuario sin su respectivo cliente, este aún es un punto que se puede mejorar.
+
+<img src="img/new_event_stoming_19.png" alt="event storming image">
+
+Como en el caso anterior, se crea un usuario antes de crear el provider en sí y relacionarlos, por lo que existe el mismo temor de que se cree un usuario sin su respectivo provider. Dado ello, incluimos el pain point para buscar mejorar este aspecto en una futura versión.
+
+##### Step 4: Pivotal Points
+
+En el cuarto paso, marcamos los pasos en los que suceden eventos significativos que marcan un cambio de estado dentro de nuestro sistema establecido. Para ello, a continuación mostramos las secuencias en las que incluímos pivotal points y la justificación de su uso.
+
+<img src="img/new_event_stoming_20.png" alt="event storming image">
+
+Dentro de la secuencia de registro de provider se utiliza un pivotal point, dado que el crear una cuenta de provider habilita al usuario a usar ciertas funciones dirigidas únicamente para este segmento.
+
+<img src="img/new_event_stoming_21.png" alt="event storming image">
+
+Así como en la secuencia anterior, al crear un usuario se le dan los permisos que abren las acciones que le corresponden dentro de la aplicación. En este, se crea un usuario de tipo cliente que podrá ingresar a las secciones que le corresponden.
+
+##### Step 5: Commands
+
+En el quinto paso, mostraremos los comandos que se están utilizando para representar cada acción que los usuarios podrán realizar dentro de las aplicaciones. Estos comandos se relacionan con los endpoints que se implementarán en el código y se alinean directamente con la secuencia que poseen. A continuación, se nombrarán los comandos utilizados para cada secuencia.
+
+<img src="img/new_event_stoming_22.png" alt="event storming image">
+
+El comando sign up permite registrar a cualquier de los tipos de usuarios a la aplicación respectiva.
+
+<img src="img/new_event_stoming_23.png" alt="event storming image">
+
+El comando sign in permite a ambos tipos de usuarios entrar a sus cuentas.
+
+<img src="img/new_event_stoming_24.png" alt="event storming image">
+
+El comando logout permite a ambos tipos de usuarios cerrar sus sesiones en sus cuentas.
+
+<img src="img/new_event_stoming_25.png" alt="event storming image">
+
+El comando create client permite a un usuario que desea ser de tipo cliente crear su perfil como tal.
+
+<img src="img/new_event_stoming_26.png" alt="event storming image">
+
+El comando delete client permite a un usuario cliente eliminar su cuenta.
+
+<img src="img/new_event_stoming_27.png" alt="event storming image">
+
+El comando update client permite a un usuario cliente editar la información de su perfil.
+
+<img src="img/new_event_stoming_28.png" alt="event storming image">
+
+El comando create provider permite a un usuario que desea registrarse como provider crear su cuenta como tal.
+
+<img src="img/new_event_stoming_29.png" alt="event storming image">
+
+El comando delete provider permite a un usuario provider eliminar su cuenta dentro de la aplicación.
+
+<img src="img/new_event_stoming_30.png" alt="event storming image">
+
+El comando update provider permite a un provider editar la información de su perfil.
+
+<img src="img/new_event_stoming_31.png" alt="event storming image">
+
+El comando create reservation permite a un cliente crear y guardar su reservación.
+
+<img src="img/new_event_stoming_32.png" alt="event storming image">
+
+El comando create review permite a los clientes crear reseñas sobre los salones que visitan.
+
+<img src="img/new_event_stoming_33.png" alt="event storming image">
+
+El comando delete review permite a los clientes borrar una review previamente ingresada sobre un salón.
+
+<img src="img/new_event_stoming_34.png" alt="event storming image">
+
+El comando create service permite que los providers agreguen los servicios que ofrecen.
+
+<img src="img/new_event_stoming_35.png" alt="event storming image">
+
+El comando erase service permite eliminar uno de los servicios ingresados por un provider.
+
+<img src="img/new_event_stoming_36.png" alt="event storming image">
+
+El comando update service permite que un provider actualice la información sobre uno de sus servicios registrados.
+
+<img src="img/new_event_stoming_37.png" alt="event storming image">
+
+El comando create worker permite que los providers registren a sus trabajadores.
+
+<img src="img/new_event_stoming_38.png" alt="event storming image">
+
+El comando delete worker permite que los providers eliminen a algún trabajador que ingresaron previamente.
+
+<img src="img/new_event_stoming_39.png" alt="event storming image">
+
+El comando delete worker permite que los providers actualicen la información de alguno de sus trabajadores registrados.
+
+##### Step 6: Policies
+
+En el sexto paso, se incluirán las políticas que estamos considerando dentro de nuestras aplicaciones. Estas describen las reglas de nuestro negocio, así como aclaran la necesidad de cierta información o validación previo un paso o acción.
+A continuación, mostramos los policies que hemos considerado así como su respectiva explicación al ser incluídos.
+
+<img src="img/new_event_stoming_40.png" alt="event storming image">
+
+Estas policies aclaran que no puede crearse una cuenta de usuario sin importar el tipo si es que ya existe un correo registrado como aquel que colocan al hacer sign up. En otras palabras, todo correo ingresado debe ser único.
+
+<img src="img/new_event_stoming_41.png" alt="event storming image">
+
+Estos policies aclaran que para que se pueda registrar una reserva, el horario reservado del estilista debe estar libre en ese momento, así como se debe verificar que el pago haya sido realizado con éxito antes de guardar la reserva.
+
+<img src="img/new_event_stoming_42.png" alt="event storming image">
+<img src="img/new_event_stoming_43.png" alt="event storming image">
+
+Este policy aclara que no pueden registrarse dos trabajadores con el mismo nombre dado que este debe ser algo único al momento de presentarlos de forma que se eviten confusiones para los usuarios.
+
+<img src="img/new_event_stoming_44.png" alt="event storming image">
+<img src="img/new_event_stoming_45.png" alt="event storming image">
+
+Este policy menciona que dos servicios no pueden ser registrados con el mismo nombre exactamente. Esto, dado que causaría confusiones al momento en que el cliente escoge uno para realizar su reserva.
+
+##### Step 7: Read Models
+
+Para el séptimo paso, mostramos los read models que se están incluyendo. Estos representan aquellos momentos en que cierta información de la base de datos debe ser consultada o visitada.
+
+<img src="img/new_event_stoming_46.png" alt="event storming image">
+
+Aquí, se debe verificar que los datos ingresados por el usuario son válidos para permitirle ingresar a la aplicación.
+
+<img src="img/new_event_stoming_47.png" alt="event storming image">
+
+En esta parte, es necesario consultar los horarios en que el trabajador seleccionado ya se encuentra ocupado con una reserva para evitar que se reserve el mismo espacio de tiempo dos veces.
+
+##### Step 8: External Systems
+
+Ahora, se mostrarán los servicios externos que estamos utilizando dentro de la aplicación para asegurar un mejor funcionamiento de la misma.
+
+<img src="img/new_event_stoming_48.png" alt="event storming image">
+
+Este servicio se utiliza para ayudarnos a almacenar las imágenes que los providers ingresen para mostrar en su perfil.
+
+<img src="img/new_event_stoming_49.png" alt="event storming image">
+
+Aquí, utilizamos la API de Stripe para que el pago de los servicios sea realizado con tarjeta o aplicativo a través de este servicio.
+
+##### Step 9 & 10: Aggregates & Bounded Contexts
+
+Para los dos últimos pasos, hemos agregado los aggregates y terminado de definir los bounded contexts. A continuación, se mostrará cada Bounded context y se finalizará mostrando el resultado total. Para una mejor vista, se puede ingresar al siguiente enlace: 
+https://lucid.app/lucidspark/c6b278dc-6a8f-45dd-9c1b-f0455160b1f2/edit
+
+**Bounded Context Iam**
+Contiene el aggregate Users
+
+<img src="img/new_event_stoming_50.png" alt="event storming image">
+
+**Bounded Context Profiles**
+Contiene los aggregates Clients y Providers
+
+<img src="img/new_event_stoming_51.png" alt="event storming image">
+
+**Bounded Context Reservations**
+Contiene el aggregate Reservations
+
+<img src="img/new_event_stoming_52.png" alt="event storming image">
+
+**Bounded Context Reviews**
+Contiene el aggregate Reviews
+
+<img src="img/new_event_stoming_53.png" alt="event storming image">
+
+**Bounded Context Workers**
+Contiene el aggregate Workers
+
+<img src="img/new_event_stoming_54.png" alt="event storming image">
+
+**Bounded Context Services**
+Contiene el aggregate Services
+
+<img src="img/new_event_stoming_55.png" alt="event storming image">
+
+**Vista general de los Bounded Contexts resultantes conectados**
+
+<img src="img/new_event_stoming_56.png" alt="event storming image">
+
+
+
+<div style="page-break-before: always;"></div>
+
+#### 2.5.1.2. Domain Message Flows Modeling
+
+![DomainMessageFlowsModeling1](img/scenario-modeling1.png)
+![DomainMessageFlowsModeling2](img/scenario-modeling2.png)
+![DomainMessageFlowsModeling3](img/scenario-modeling3.png)
+![DomainMessageFlowsModeling4](img/scenario-modeling4.png)
+![DomainMessageFlowsModeling5](img/scenario-modeling5.png)
+![DomainMessageFlowsModeling6](img/scenario-modeling6.png)
+
+<div style="page-break-before: always;"></div>
+
+#### 2.5.1.3. Bounded Context Canvases
+
+#### IAM Bounded Context 
+<img src="img/IAM-CORRECION.png" alt="IAM-boundedcanvas">
+
+#### Reservations Bounded Context
+<img src="img/reservations-boundedcanvas.png" alt="reservations-boundedcanvas">
+
+#### Profiles Bounded Context
+<img src="img/profiles-boundedcanvas.png" alt="profiles-boundedcanva">
+
+#### Workers Bounded Context
+<img src="img/workers-boundedcanvas.png" alt="workers-boundedcanvas">
+
+#### Services Bounded Context
+<img src="img/services-boundedcanvass.png" alt="services-boundedcanvass">
+
+#### Reviews Bounded Context
+<img src="img/reviews-boundedcanvas.png" alt="reviews-boundedcanvas">
+
+### 2.5.2. Context Mapping
+
+El Context Mapping en DDD representa, de forma explícita, cómo interactúan los bounded contexts entre sí y con sistemas o equipos externos. Este mapa permite identificar direcciones de influencia (upstream/downstream), contratos de integración, riesgos de propagación de modelos y niveles de acoplamiento aceptados. Con base en ello, se decide dónde estandarizar, dónde traducir (proteger) y dónde preservar la independencia para que cada contexto pueda evolucionar de manera segura y predecible.
+
+**Context Map Patterns**
+
+**Open Host Service (OHS)**
+
+Un contexto upstream publica capacidades mediante un contrato claro y estable (API/endpoints/eventos), de modo que múltiples consumidores downstream puedan integrarse sin conocer su modelo interno. Favorece el reúso y reduce integraciones ad-hoc.
+En nuestro proyecto, el bounded context IAM expone verificación de identidad y emisión/validación de tokens y claims, consumidos por Profiles, Reservations, Reviews y Services.
+
+<img src="img/Pattern1.png" alt="Pattern">
+
+**Conformist (CF)**
+
+El downstream adopta el modelo del upstream sin traducción. Se gana rapidez de integración, pero se asumen sus decisiones de diseño y semántica.
+En este proyecto, Reservations se alinea al modelo de cobro y webhooks de Stripe, empleando sus estados y eventos nativos para el procesamiento de pagos.
+
+<img src="img/Pattern2.png" alt="Pattern">
+
+**Customer/Supplier (C/S)**
+
+Relación proveedor–cliente entre contextos, el supplier (upstream) prioriza parte de su backlog según las necesidades del customer (downstream), para habilitar sus objetivos.
+En nuestro proyecto, Reservations actúa como customer de Workers para consultar disponibilidad y bloquear TimeSlots; influye en mejoras orientadas a evitar overbooking.
+
+<img src="img/Pattern3.png" alt="Pattern">
+
+**Partnership (P)**
+
+Relación simétrica de interdependencia, los contextos coordinan diseño y releases para evitar bloqueos recíprocos y asegurar coherencia funcional.
+En este proyecto, Profiles y Services coordinan cambios de catálogo y datos del proveedor (nombre comercial, descripciones, imágenes) para publicar actualizaciones en el mismo ciclo.
+
+<img src="img/Pattern4.png" alt="Pattern">
+
+
+### 2.5.3. Software Architecture
+
+La arquitectura de software de uTime se presenta utilizando el modelo C4, el cual permite visualizar la solución desde diferentes niveles de abstracción. 
+
+A continuación se detallan los diagramas de contexto, contenedores, componentes y despliegue que definen la estructura del sistema de reservas universitarias.
+
+#### 2.5.3.1. Software Architecture Context Level Diagrams
+
+El diagrama de contexto presenta una visión de alto nivel del sistema uTime, mostrando cómo interactúa con los diferentes actores y sistemas externos. Este diagrama establece los límites del sistema y define las relaciones principales con usuarios y servicios externos.
+
+<div align="center">
+   <img src="img/context-diagram.png" alt="context-diagram"/>
+</div>
+
+#### 2.5.3.2. Software Architecture Container Level Diagrams
+
+El diagrama de contenedores descompone el sistema uTime en sus principales componentes tecnológicos y aplicaciones. Este diagrama muestra la arquitectura interna del sistema, incluyendo la lanfing page,  aplicaciones móviles, bases de datos y APIs, así como la forma en que estos contenedores se comunican entre sí para proporcionar la funcionalidad completa.
+
+<div align="center">
+   <img src="img/new-container-diagram.png" alt="container-diagram"/>
+</div>
+
+#### 2.5.3.3. Software Architecture Deployment Diagrams
+
+El diagrama de despliegue muestra la distribución física del sistema uTime en la infraestructura de Azure, ilustrando cómo los componentes del software se despliegan sobre los servicios en la nube. Este diagrama visualiza la arquitectura donde las aplicaciones cliente (navegadores web y aplicación móvil nativa) interactúan con el backend hospedado en Azure App Service, incluyendo la Landing Page, la API REST y la base de datos SQL gestionada.
+
+<div align="center">
+   <img src="img/deployment-diagram.png" alt="deployment-diagram"/>
+</div>
+
+**Explicación del diagrama de despliegue:**
+
+El sistema uTime se despliega utilizando una arquitectura de tres capas en Azure App Service:
+
+- **Dispositivos cliente**: Los usuarios acceden al sistema a través de navegadores web (PC y móvil) que se conectan a la Landing Page, y mediante la aplicación móvil nativa que se comunica directamente con la API REST.
+
+- **Azure App Service**: Hospeda tres componentes principales:
+  - **Landing Page**: Página web accesible desde navegadores
+  - **Web service (API REST App)**: Servicio backend que maneja la lógica de negocio
+  - **SQL Database server**: Base de datos gestionada para el almacenamiento de datos
+
+- **Comunicación**: La aplicación móvil nativa se comunica directamente con la API REST mediante peticiones HTTP, mientras que los navegadores web acceden a la Landing Page, la cual a su vez puede consumir servicios de la API REST internamente.
+
+## 2.6. Tactical-Level Domain-Driven Design
+
+### 2.6.1. Bounded Context: Profiles
+### 2.6.1.1. Domain Layer  
+
+#### Aggregates  
+
+**Client**  
+Representa el perfil de un cliente que utiliza la plataforma para reservar servicios. Está vinculado a un usuario de IAM y almacena su nombre completo.  
+- **Atributos**  
+  - `id: UUID`  
+  - `fullName: FullName`  
+  - `user: User` *(referencia a IAM)*  
+  - `createdAt: LocalDateTime`  
+  - `updatedAt: LocalDateTime`  
+- **Funciones**  
+  - `Client(CreateClientCommand command, User user)`  
+  - `getUser(): User`  
+  - `getFirstName(): String`  
+  - `getLastName(): String`  
+  - `getFullName(): String`  
+
+---
+
+**Provider**  
+Representa el perfil de un proveedor que ofrece servicios en la plataforma. Está vinculado a un usuario de IAM y contiene el nombre de la empresa.  
+- **Atributos**  
+  - `id: UUID`  
+  - `companyName: CompanyName`  
+  - `user: User` *(referencia a IAM)*  
+  - `createdAt: LocalDateTime`  
+  - `updatedAt: LocalDateTime`  
+- **Funciones**  
+  - `Provider(CreateProviderCommand command, User user)`  
+  - `getCompanyName(): String`  
+
+---
+
+#### Value Objects  
+
+**FullName**  
+Encapsula el nombre y apellido de un cliente, garantizando consistencia y reglas de validación.  
+- **Atributos**  
+  - `firstName: String`  
+  - `lastName: String`  
+- **Funciones**  
+  - `FullName(firstName: String, lastName: String)`  
+  - `getFirstName(): String`  
+  - `getLastName(): String`  
+  - `getFullName(): String`  
+
+---
+
+**CompanyName**  
+Representa el nombre de la empresa de un proveedor, asegurando que no sea vacío y cumpla con las reglas del dominio.  
+- **Atributos**  
+  - `value: String`  
+- **Funciones**  
+  - `CompanyName(value: String)`  
+  - `getValue(): String`  
+
+---
+
+### 2.6.1.2. Interface Layer  
+
+**ClientsController**  
+Expone operaciones HTTP para gestionar perfiles de clientes en la plataforma.  
+- **Funciones**  
+  - `createClient(CreateClientCommand)`  
+  - `getClientById(UUID)`  
+  - `updateClient(...)`  
+  - `deleteClient(UUID)`  
+
+**ProvidersController**  
+Expone operaciones HTTP para gestionar perfiles de proveedores.  
+- **Funciones**  
+  - `createProvider(CreateProviderCommand)`  
+  - `getProviderById(UUID)`  
+  - `updateProvider(UpdateProviderCommand)`  
+  - `deleteProvider(UUID)`  
+
+---
+
+### 2.6.1.3. Application Layer  
+
+**CreateClientCommand**  
+Ordena la creación de un perfil de cliente a partir de un usuario de IAM.  
+- **Atributos:** `firstName: String`, `lastName: String`, `userId: UUID`  
+
+**CreateProviderCommand**  
+Ordena la creación de un perfil de proveedor asociado a un usuario de IAM.  
+- **Atributos:** `companyName: String`, `userId: UUID`  
+
+**UpdateProviderCommand**  
+Permite modificar datos del perfil de un proveedor existente.  
+- **Atributos:** `providerId: UUID`, `companyName: String?`  
+
+**DeleteClientCommand**  
+Ordena la eliminación lógica de un perfil de cliente.  
+- **Atributos:** `clientId: UUID`  
+
+**DeleteProviderCommand**  
+Ordena la eliminación lógica de un perfil de proveedor.  
+- **Atributos:** `providerId: UUID`  
+
+---
+
+### 2.6.1.4. Infrastructure Layer  
+
+**ClientRepository**  
+Accede a la persistencia de los perfiles de clientes, implementando la interfaz de repositorio del dominio.  
+- **Funciones**  
+  - `findById(UUID): Optional<Client>`  
+  - `findByUserId(UUID): Optional<Client>`  
+  - `save(Client): Client`  
+  - `delete(Client): void`  
+
+**ProviderRepository**  
+Accede a la persistencia de los perfiles de proveedores, implementando la interfaz de repositorio del dominio.  
+- **Funciones**  
+  - `findById(UUID): Optional<Provider>`  
+  - `findByUserId(UUID): Optional<Provider>`  
+  - `save(Provider): Provider`  
+  - `delete(Provider): void`  
+
+
+#### 2.6.1.5. Bounded Context Software Architecture Component Level Diagrams
+
+<div align="center">
+   <img src="img/component-diagram-profiles.png" alt="profiles-context"/>
+</div>
+
+#### 2.6.1.6. Bounded Context Software Architecture Code Level Diagrams
+
+##### 2.6.1.6.1. Bounded Context Domain Layer Class Diagrams
+
+![profiles-class-diagram](img/profile-context.svg)
+
+*Para visualizar mejor ingresar a este Link:* 
+
+https://img.plantuml.biz/plantuml/svg/nLl1Sjiu4hsdAl_0ocMTIbc-kxAUaHLDLbEofP7ix375oB3C34LgI2fRhgcvpWVCp7s-Oy_x9_C5ymaBYW09W0sm0OAA3x53elirNpSQ3R3vRLw4MN7OnS7XBjgHu3hS_4YIXvSlyX-ZP1zcuIxOqqlXbgoBvvW46TaKORADoSiNBr-mEy6hPPO-HZ79NmK_ltmHq9_wphjq5qP9VLswTvC-a5Yw9TqURxSPsOQ5e5RysSHXdWUJE299aKC3of_pJr5MF7rye5eksTZhyiexUa4ZyNY8uzjmHyT_n_xI33pa99izN0Rtnz_jGR-K5C5MKxw-H0yaqzkzPoCuioNGidLD8npjA87tMTo8pDWLZK2SRi8YIfD6OCwkM3rMoKGUl7rRUswLfiNLbUuX2GqDQkEq_0MFs5Ej_qcpyjdPNrRshDDD5CPwalFZVHeBuIKRM_uDGi00dAsFt2KcVvO3Pg9dn0iQiKtwfN4UZM3nlpPsfbdncCPH-l4et1rsOhWXmWnjKijPzMoVfBjTc3mOvtf6Q4nLivWDfy6s8XiQ5rTNPYd-CAvojOFHWfpoYd5RN1QwNMA_QDZyuK2oo9WutvDY7CSiVPR3dn6sLK9rzh8GOq3NpxC72ocETFryJ19Eabs0EWe_XF61B3vzfWjU_afBOvNygN9Xk3xZdKTqNiLfidN8CRvGT3XyjKEZF4PPNbGhvRh88WZkE8vgnmmxXw-_sPA2ctRssgpZE9PRXHay3xl7TZk69JyqSOSoPJh3yPKP3TSixjQOapGfmas1Xje_fGcvFUm-aQp3sspjjsU1rG7_2lCdl5c2a17JN4WCEy-R0WIDKjKlzwPm4iRDDgOOE0uqpC4rnyBCgtKDs6jcDOKktjL0tMoVSCNAp0PQBl4SfjiNXtIYr8ZsRCkLYWtPggGrrzOF6_LXTxSFasUhDMxJoA0HXVyAVzPrnPfaNw8DK9k96rfMzx6nrDnPKf3iCTmGsDWtYtsPuiFuBIkqhe8dAX-JCwXetbI_NniB8Mb_VIoXyDRCexneMG9Kd3-L_xwsUHoeb8IqW0-ZR0AyiQjkBYpubMjfIuPhOOLZfK1tOhdMOUOPxosXWhTs6C_cGpcktjqvU8xBzd5WVNwWSQI4WV23KQ-Yr6KUWNjRVrw1jyuslf4rEBb6EJ9HFGCWO1nZq2ghT72BV6RWpHtAKOI56vYa2_rCL65TL8XW6r1INKAJo_valvgZwVq-ZgfT5NoqVNn6QeBsT5js4dWWfwy7Phjzh2rPAe4LsQTvLAJPyoLL95-nBFvr5fofI2qWm3coWvI02oog5SLHCcdmGc-aZOk8nErRroofqzjnriO3u5m9n1KaA0hXfVVhKQctvpIKTfGAPavDw-PNeBJBd84PjLdcZRo22z_f-TIQCIoFgFKPu4zpy2skrfthahIsdtPPwhl7D7ABtcS2H3OSWPkxqyUbZxrY9riM-qKyynrxHe3yxjfjbZncOLvaXqrno0XSlYtfSr3IIB8X-lw4p_kmip51cF2jmjSXaApLsPF3TEOmCIkI5tf6ojS5MHh7bBrEPfgn7Ib3JgVej07a9ouhNhESIlJvzscIasbIHCNpM-xaF3rar0yKGAXVptIXtwLaosT0EPMMOV64rVIDA9pxmSTg4T9nhQhIrIHaI5TtyaH4YZ1M3XPqxkGQv7ZP0rVxHKmpavMOuJUmV0EAjl9hRuV8uUB_ZegdPTdyHMWwG0TIjqc-D1tN1Ql8R6ciOxEE7QVeRBOZw225Tp1DiC7taKhX-8Nk-ebZhbaRpso0hUS1lLlmwB97b3Cj_O8TRQXJkBQqjyAMZx2BNdNhrHsyfhqY3JJJRPnA9NBrDti6hgou7RVIVNGqQBLkeODTbw2Lb3Z6h9sLTX6hqTq4h3p0AbxhBMvdd89xyCiWXowRLSZncBSlzej3XjAAl-ewblgsbgrunkqGPvMmMtnrM6CLJwgkEexO3KJyw3hxkCxkJGeVAJGF1Z_h6mo4ujz5Kj-ZQX1L2nkJb8wGSPwJtISwhT24V9VHgLYvgnRMpSatikXbKAI2cbsbnIeT06y9IarSAyAYjeBIB42NWrsA6rqiKrJui4sDauRwRgDKMGykr1KuBcQfEhn5cAPYx-DHHPKNpy8hhnMJi0f_H8BbeHEFe2OVD2eBZWrzYgWtsfXU5vwOg3inu5dXyKJn7y4_EtxACN__-ST_WzLqFfxC_lVxxMKmVlz-DNq_lfkkWxz-_ItuC9xVJuF5zVVJoTqQfvDFdL7rJTde-FdOgFbARCI_1Ji_lmhWmM9F_wZvlCktPlv5c6-zhG_O413ryGOMfDryEoHAy-NGS1ZDjsm8bEeRDYG2-tJDhrAnnHrbCl_C3QbV_DBDWlRc6pSy_V8NRiD1AT_5OQ3KB-9iunOrAnn1n2TnpRUJnStD-FRTEhW8VhYVhcOixpPfk4_IvH_hZQ1-7Vr3jZCV4a3T6Q4WwdnX2O88FbFCOj7WxWSSfX9NI4YbKG05nMJqSufzQJW2thpx20H1VUjzl6VzxPVXVi9CW53UO0oEOiMK0E6UTjujRiQpss0zNNsOJLZEQQSYjzp3cr96u3SI-cSqPIi3Yf9qh74KUGGI_ER77b6VYXf8Omit7X5KOy25UvJHUB8ub9MK896RZ_Ku-ZGs18IQoX2nuVOWilGmCArqCpHCaplxPAhnSZcVJSPtiuMGhcOto_anPwscoyLwThSu5auNTGgpJ5n2d_Y8juIFvDY7izcnIKoYHMvR6WaTIgFF-t2ajXiDOuH5MhKr0CwsrZmqHvMkJ60DiKhzhaR0Ay9NP0LhaDqoPMrDPoFrYTcniyTbHRKrITyJVLfga7OuBlgW2L87CxH83vvT7IomhqQ6HcuNANRWu5f_WWXqiiAbXXeUtLHQdHBTJyKrMTpUhHRp-NHLxGlhgki2EgswS3-hQhgOHsN3yaZeIwuBdRgJ1AB2M1OD2AJqb_Z3iTe8Uq939J7_M8QzbISmw7G9YLBFI6nSmDNeq6WkSOW5ipmhyGU9pEg309eI-S20OkuU05DtW6W5rUmgxE8KtesS6Bp7N452snxsUOSsl-_08ckRZirqcrkBJmZjucWhOBSZLj_unXTDIDnsmwwHQ72JE2YKWoznGAWTh7Sy-8sTyz7eUZszkQxhTA4u5xfuBgZ4Ud6_clGkp-kUfdgVRMWoTNpfvmzJrLHt4okQSE3OJbRlHNrV6mmq06tGniJHcD9izlLDUCwlIpt2wXzULMNX0QK6xXa7hOhQYWa-r9iZeFO8B25AbUU965Jz8Z23xxBjsyFHoOj5DwtFSsUzNOZUMRkr2ys5iKMsnmdpjoHvEEpY_mC0
+
+##### 2.6.1.6.2. Bounded Context Database Design Diagram
+
+![provider and client database diagram](img/BD-Diagram-Profiles.png)
+
+### 2.6.2. Bounded Context: Reservations
+#### 2.6.2.1. Domain Layer
+
+#### Aggregates  
+
+**Reservation**  
+Representa la reservación que ha realizado un usuario cliente en un horario, espacio y con un trabajador en específico.  
+- **Atributos**  
+   - `id: UUID`
+   - `client_id: Long`
+   - `service_id: Long`
+   - `provider_id: Long`
+   - `payment_id: Long`
+   - `time_slot_id: Long`
+   - `worker_id: Long`
+- **Funciones**  
+   - `Reservation(CreateReservationCommand command)`
+   - `getClientId(): Long`
+   - `getProviderId(): Long`
+   - `getPaymentId(): Long`
+   - `getTimeSlotId(): Long`
+   - `getWorkerId(): Long`
+
+---
+
+#### Entities  
+
+**Payment**  
+Representa el estado y moneda del pago que debe realizarse por un servicio solicitado.  
+- **Atributos**  
+   - `money: Money`
+   - `status: Boolean`
+- **Funciones**  
+   - `Payment(CreatePaymentCommand command)`
+ 
+**TmeSlot**  
+Representa el tiempo de reserva que es está programando de forma que este no pueda ser ocupado por otro cleinte ocasionando un cruce.  
+- **Atributos**  
+   - `startTime: LocalDateTime`
+   - `endTime: LocalDateTime`
+   - `status: Boolean`
+   - `type: TimeSlotType`
+- **Funciones**  
+   - `TimeSlot(CreateTimeSlotCommand command)`
+   - `getStartTime(): LocalDateTime`
+   - `getEndTime(): LocalDateTime`
+   - `isStatus(): Boolean`
+   - `getType(): String`
+   - `markUnavailable(): void`
+   - `markAvailable(): void`
+
+---
+
+#### Value Objects  
+
+**Money**  
+Encapsula el monto y moneda en la que se realiza el pago de una reserva incluyendo las validaciones necesarias para evitar el ingreso de montos inválidos.  
+- **Atributos**  
+   - `amount: Float`
+   - `currency: String`
+- **Funciones**  
+   - `Money(float amount, String currency)`
+ 
+**TimeSlotType**  
+Encapsula el tipo de tiempo designado para una reserva.  
+- **Atributos**  
+   - `type: String`
+- **Funciones**  
+   - `TimeSlotType(String type)`
+ 
+---
+
+#### 2.6.2.2. Interface Layer
+
+**ReservationsController**  
+Expone las operacions HTTP para gestionar las reservaciones de los clientes.  
+- **Funciones**  
+   - `createReservation(CreateReservationCommand)`
+   - `getAllReservations(GetAllReservationsQuery)`
+   - `getReservationById(GetReservationByIdQuery)`
+ 
+**PaymentsController**  
+Expone las operaciones HTTP para gestionar los pagos de las reservaciones.  
+- **Funciones**  
+   - `createPayment(CreatePaymentCommand)`
+   - `getPaymentById(GetPaymentByIdQuery)`
+   - `getAllPayments(GetAllPaymentsQuery)`
+ 
+**TimeSlotsController**  
+Expone las operaciones HTTP para gestionar los tiempos que ocupa cada reserva.  
+- **Funciones**  
+   - `createTimeSlot(CreateTimeSlotCommand)`
+   - `getTimeSlotById(GetTimeSlotByIdQuery)`
+   - `getAllTimeSlots(GetAllTimeSlotsQuery)`
+
+---
+
+#### 2.6.2.3. Application Layer
+
+**CreateReservationCommand**  
+Ordena la creación de una reservación considerando que los elementos bajo los que se está creando se encuentren disponibles.  
+- **Atributos:** `clientId: Long`, `providerId: Long`, `paymentId: Long`, `timeSlotId: Long`, `workerId: Long`
+
+**CreatePaymentCommand**   
+Ordena la creación de un pago considerando el monto, la moneda y el estado del mismo.  
+- **Atributos:** `amount: float`, `currency: String`, `status: boolean`
+
+**CreateTimeSlotCommand**  
+Ordena la creación de un intervalo de tiempo para una reserva considerando su inicio, fin, estado y tipo.  
+- **Atributos:** `startTime: LocalDateTime`, `endTime: LocalDateTime`, `status: boolean`, `type: String`
+
+**GetAllPaymentsQuery**  
+Devuelve todos los pagos que han sido ingresados.
+
+**GetAllReservationsQuery**  
+Devuelve todas las reservaciones que se han realizado.
+
+**GetAllTimeSlotsQuery**  
+Devuelve todos los intervalos de tiempo correspondientes a reservaciones que se han realizado.
+
+**GetPaymentByIdQuery**  
+Devuelve un pago previamente ingresado considerando su id.
+- **Atributos:** `id: Long`
+
+**GetReservationByIdQuery**  
+Devuelve una reserva que fue creada anteriormente considerando su id.
+- **Atributos:** `id: Long`
+
+**GetTimeSlotByIdQuery**  
+Devuelve un intervalo de tiempo de una reserva previamente registrada considerando su id.
+- **Atributos:** `id: Long`
+
+---
+
+#### 2.6.2.4. Infrastructure Layer
+
+**ReservationRepository**  
+Accede a la persistencia de las reservas, implementando la interfaz de repositorio del dominio.   
+- **Funciones**
+   - `findById(UUID): Optional<Reservation>`
+   - `save(Reservation): Reservation`  
+   - `delete(Reservation): void`
+ 
+**PaymentRepository**  
+Accede a la persistencia de los pagos, implementando la interfaz de repositorio del dominio.  
+- **Funciones**  
+   - `findById(UUID): Optional<Payment>`
+   - `save(Payment): Payment`  
+   - `delete(Payment): void`
+ 
+**TimeSlotRepository**  
+Accede a la persistencia de los intervalos de tiempo, implementando la interfaz de repositorio del dominio.  
+- **Funciones**  
+   - `findById(UUID): Optional<TimeSlot>`
+   - `save(TimeSlot): TimeSlot`  
+   - `delete(TimeSlot): void`
+
+---
+
+#### 2.6.2.5. Bounded Context Software Architecture Component Level Diagrams
+
+<img src="img/reservation_components.png" alt="reservation">
+
+#### 2.6.2.6. Bounded Context Software Architecture Code Level Diagrams
+##### 2.6.2.6.1. Bounded Context Domain Layer Class Diagrams
+
+<img src="img/reservation_class.png" alt="reservation">
+
+*Para visualizar mejor ingresar a este Link:* 
+
+https://www.plantuml.com/plantuml/svg/lLhlRk8u4F_EKrZzSg3LvW4GhPRINCK9bYwqbVRJoWqkbpQ9Suxf2PtwxfT0fXitSSSPDK7QBKayV_pxZMUSCTyopPNUnz4WvS4ptmbsjXQPK2zSXpB9pjX_0vP_tXvUoPY72Tms7YtbLaJmfFPqkjifiUDQW4xZ4qGyorZLyhj1yFaQHA58zAzmEsOBcUoQ1nLgma0Wer8bNyAjKDWmVeXnapgCnQyiajYuVwLwHar-RRpzfOBFSAO4rw9oPoRZc2TR5fp-ZcegNWV6LJDDVg937Nv4qjdD2OypDfaSHnykBcnanJ8HXp5R5dyiJ6ckzzcOFKWP2PwqWgDqf8IYlC9XiCthDcTm4qcdYHrNJI5Gi1Zmw2fteBXi7YsIhVDO0EJo8q3q8SsrWSEt-LKhu42mHAwyHA03uPYhvxk4l_0muW-H68x6x4M6M_lWAJBKCJBlURGNguSd4MXxT9v2BIUmCjhE8e_bFj5ZzXX9hYtfPg-KI88yY3TQXSdEDPmCSjpy0Lh140Maai8F0BBcZSbaBGAfjk2UBVNEdNBg74-fc2fT8ZZ7yocOSwV7p1au1FI88UGzr6y8Bjpn_X8MpAIZoFwn5-h3kdGjz3IAgbk8GkHWOFDgbwq8NXxcMv35S0tR1HwuMGPUEnTBeHxSW_Xgvnz8TU0WNC4t8pGsfzqUnCOxn-gfhXoVUpTFj52FF12D3dvPfOKKZoRLgBfWV-Sw8j5o1_PgSSq8LcVF5c6ccxsoBOD_Ylz7RUTeMnYW3PaWv5SgxgKykEEuqqEy8K1TSwI-Yd64cvIKjre32qkDZ2me06USjuA8GmHiQwuOESWLtKOrS0_75xx1_vKNrpIDmg28_-RNtkCK4svzypKfoc2KUvwQnsbaIvyLeRL8PHPggGvZfffk8wy8NQK-4sGyGo0pBWMgiqtX5dscz6JZ-XxWFaEGg4vHmptA7EdBdhHLWnJW7EwGa7kBzWxAQGSbrMdX07IzBnjwMIIMHXmWl2BrlEnevQs34WSuEHUzUVAeUARLFj1x9HhhterGMJu_aGJ2slHzIZdUxJMMxViz0nB-xGK1BqJI6IYGp1f1okUehUZCPAALZ2AXt7hYlySx94Ypta2IR7Y4QeBq38eiJzfsijDSNfpwh1CZ53AvLpaJOnQytsKCHtHjR5VBkuxge3ZKT1PAQ-LXs3g5uxGsRfBU4hWBdMQrCEK_YyJIHer0QDEFY5fsHYreGnhegX465MhOlfpWRC58EbsWebk-m4YDC7Wm757rxCowr8Opa3D8Colca7Ys1IhTiYsCDhjVvAuwNiii1edzQoIEBTR8NMSd0gPP9kA7IAXM1FofP7oA492tBRql3T9ZfcLT4nf2EBM5Cb2CEcPJKdZNeAzz4I601P9qeF2G98042iW0MGAUW128VZ94e9QC4MWWW8JiRLy7Vx3pytCslRvU-zVJMv_DLj_P_NHnvxFLvL_-x7PJF1zKTppUwJSXtl7t7zxlttburK5vKRfWTYdusO5Nij-T0O1kq68iehjwCkqT3w2xKcwS-9TKRVpr_NpcRmgcSdwcLwlZr_pVSZdzVhLXFzcFEtyzz-tCGRF6ixu_84wMWpFFbkSSpS8hXPlLyaZGi_HekhPPx-9WDetKHeFMLE5aZWwfeQ1BMwMq8un6zYFY-4w7cq4oa6QpfqjZjNOGf8dvycPnp0jh_sR5VfPfOxvgo0gL4myFJZS0FoHLG8-jvg_PKF8gpIFlAULUOo-eMwy8IGpt1qYpvfZ-8QAxH4-tlRY2Ps4ySAofcSvJhJFPfJU4Ok5EaDaqwXuHkYVqOjQR1wK2GemYTOz4IRqBth4_v5gCSsDMp9vHeVj2t2vqx0EoYyWt4BVhrMBXhuklyExHi8U0Sv5JdjTUvQp3QpxIi3c7r_R-B4EbQcqOCZ5kr583UhH8co94dOj598FqOzEO9RGzDXj_UPb7jqD4lxLgFCUU9NZMggtHcGyMZI2SDMbqTSQbPKhooQROrJ6yMKhhKz4DKs00RJHQIk5FfGIKjgJ3fJLBRElHJLDG07L4Ia3wapYnRAk-YMIxZwF_0G00
+
+##### 2.6.2.6.2. Bounded Context Database Design Diagram
+
+<img src="img/reservation_database.png" alt="reservation">
+
+### 2.6.3 Bounded Context: IAM
+
+#### 2.6.3.1. Domain
+
+**Aggregates**
+
+**User**
+
+Representa el usuarios que se generá al crear una cuenta y luego se le asigna si será **Cliente** o **Provider**.
+
+- **Atributos**
+   - `id: UUID`
+   - `email: String`
+   - `password: String`
+- **Funciones**
+   - `User(String email, String password)`
+
+
+#### 2.6.3.2. Interface Layer
+
+**UsersController**
+Expone las operaciones HTTP para gestionar informacion los usuarios.
+
+- **Funciones**
+   - `getAllUsers(GetAllUsersQuery)`
+   - `getUserById(GetUserByIdQuery)`
+
+
+**AuthenticationController**
+Expone las operaciones HTTP para gestionar las cuentas de los usuarios.
+
+- **Funciones**
+   - `signIn(SignInCommand)` 
+   - `signUp(SignUpCommand)`
+
+
+#### 2.6.3.3. Application Layer
+
+**SignInCommand**
+Ordena la creación de un usuario considerando que los elementos bajo los que se está creando se encuentren disponibles.
+
+- Atributos: `email: String`, `password:String`
+
+**SignUpCommand**
+
+Ordena la información de un usuario considerando que los elementos bajo los que se está creando se encuentren en la Base de Datos.
+
+- Atributos: `email: String`, `password:String`
+
+**GetAllUsersQuery**
+
+Devuelve todo los usuarios que se registraron.
+
+**GetUserByIdQuery**
+
+Devuelve un usuario previamente registrado considerando su `id`.
+
+**GetUserByEmailQuery**
+
+Devuelve un usuario previamente registrado considerando su `email`.
+
+**Timestamp**
+
+Maneja la gestión de marcas de tiempo para eventos y auditoría del sistema.
+
+- **Funciones**:
+  - `getCurrentTimestamp()`: Obtiene la marca de tiempo actual del sistema
+  - `formatTimestamp(Timestamp timestamp)`: Formatea timestamps para diferentes contextos
+
+**ApplicationReadyEvent**
+
+Gestiona eventos de inicialización y configuración cuando la aplicación está lista para recibir peticiones.
+
+- **Funciones**:
+  - `onApplicationReady()`: Se ejecuta cuando la aplicación ha terminado de inicializarse
+  - `initializeDefaultData()`: Inicializa datos por defecto del sistema si es necesario
+
+
+#### 2.6.3.4. Infrastructure Layer
+
+**Authorization**
+
+Maneja la configuración de seguridad y autenticación del sistema.
+
+- **WebSecurityConfiguration**: Configuración de seguridad web para definir políticas de acceso y autenticación
+- **EmailPasswordAuthenticationTokenBuilder**: Constructor de tokens de autenticación basados en email y contraseña
+- **UserDetailsImpl**: Implementación de detalles de usuario para el framework de seguridad
+- **BearerAuthorizationRequestFilter**: Filtro que intercepta peticiones y procesa tokens bearer para autorización
+- **UnauthorizedRequestHandlerEntryPoint**: Punto de entrada para manejar peticiones no autorizadas
+- **UserDetailsServiceImp**: Servicio que carga datos específicos del usuario para autenticación
+
+**Hashing**
+
+Gestiona el cifrado y hashing de contraseñas utilizando BCrypt.
+
+- **HashingServiceImpl**: Implementación general del servicio de hashing
+- **BCryptHashingService**: Servicio específico de hashing usando algoritmo BCrypt para cifrar contraseñas
+
+**Persistence**
+
+Maneja la persistencia de datos de usuarios en la base de datos.
+
+- **UserRepository**: Repositorio JPA para operaciones CRUD de usuarios en la base de datos
+
+**Tokens**
+
+Gestiona la creación y validación de tokens JWT para autenticación.
+
+- **TokenServiceImpl**: Implementación general del servicio de tokens
+- **BearerTokenService**: Servicio específico para manejo de tokens bearer JWT
+
+
+#### 2.6.3.5. Bounded Context Software Architecture Component Level Diagrams
+
+<div align="center">
+   <img src="img/component-diagram-iam.png" alt="iam-context"/>
+</div>
+
+#### 2.6.3.6. Bounded Context Software Architecture Code Level Diagrams
+
+Los diagramas de código muestran la implementación detallada de los componentes del bounded context IAM, incluyendo las clases, interfaces y sus relaciones a nivel de código fuente.
+
+#### 2.6.3.6.1. Bounded Context Domain Layer Class Diagrams
+
+El diagrama de clases del dominio IAM presenta la estructura interna de las entidades, servicios y repositorios que componen la capa de dominio, mostrando las relaciones entre los diferentes componentes y sus responsabilidades específicas en el manejo de autenticación y autorización.
+
+<div align="center">
+   <img src="img/class-diagram-IAM.png" alt="class-diagram-iam"/>
+</div>
+
+*Para visualizar mejor ingresar a este Link:* 
+
+https://www.plantuml.com/plantuml/png/hPLHJzim4CVVyocoxc6j6D8OgeIg2L7IP4GgjAJjfZrDNd8j5euJRATJGFtk8oQuEOUeFAmF8V7zphux_dU-a8e8LQJC-P30cd9m_PjbkFprsvjDPv7xqJy9Xe5lZDxiPXdDfbC_UWM283ZrlnXWuKS_GiytrbD_60oDDVBdiqMud4Nx_S-2eN_MsF_wUdmpQMn-vfyOw-tARtYU1b-3YUFa9Bud6t1xaombbBjJKeBeuJIU7FVv5pCYfRkI8Ag5-dViqcJahbRXfB44AQ5iv2wKe7pJMC-9b7ypaRHCHthRFlBxtC87cjyvkqRK8LSWrYI6Ed2xnEtWfPTn9JB6K1v7xWRKc35Dz1yA4EN8_RvVkgrM1XYl39Tbc1XylzJ0T_hP269Sg3lWYiP4qOntH2FfXeUy7sTfIdXL0VtjlNmEB72LOt2L8n1NR9pdh3wxhbbzi25gPzd3UgenamYEgM7j5i518UpC6pxBfFL_pp9FN83glqT1zb37sDdRuh3CjXYCVsVVxBfsyAliy2OuyVTdjW2nfN6L6fuqTd9Bce9K9Crh2zAzLmW1N1ccFnZj7InydOcKD53r-jPm6RnV1WtnHa2Iqjy2LwqOCsvpLOZRZ2OMI3bLb33w21DOauAf2L6anUxUd3jhGQGIHQmA0HsDL7Lw9kYZZkDGoN_2dmN4XQ2gz3A-ffj2Q3yBqsAOrvh6esIPtGE_B2XBG5XUbP0ce0XbCanpPbalWGWGADe87WgGAg1CjJVZf4OXgRahmXC6mkTAbFECSjLzVYt1vp0wLNf5v1tbcqCLgp6pOJilJvIvmbZdeNCGaae5F8PU-wPzUYEX2F9CKfM9igL0IRRGBvwPaIO7Bt_itg0yqVV7woZenkeXW6_8RdpCMANYAPNgMuMSlsCqQFKS70oQiYjkAwa9xNldani1q-AITpINZdqP7n-VjuPg1uH7guFR0DFubZgCcal6SP2d1dIv3OMNxT2H1SMBB6Z48wDZQSmOtcmcssnwVM-u09uKAVi7
+
+#### 2.6.3.6.2. Bounded Context Database Design Diagram
+
+El diagrama de base de datos del bounded context IAM muestra la estructura de las tablas, sus atributos y las restricciones de integridad referencial que garantizan la consistencia de los datos de autenticación y autorización.
+
+<div align="center">
+   <img src="img/BD-Diagram-IAM.png" alt="db-diagram-iam"/>
+</div>
+
+
+### 2.6.4. Bounded Context: Workers
+
+#### 2.6.4.1. Domain Layer
+
+#### Aggregates  
+
+**Worker**
+Representa a la persona que presta servicios en el salón y cuya información operativa se gestiona en este contexto.
+
+- **Atributos**
+    - `id: UUID`
+    - `name: WorkerName`
+    - `specialization: WorkerSpecialization`
+    - `photoUrl: WorkerPhotoUrl.`
+- **Funciones**
+    - `Worker(CreateWorkerCommand)`
+    - `getName(): String`
+    - `getSpecialization(): String`
+    - `getPhotoUrl(): String.`
+
+#### Value Objects
+
+**WorkerName**
+Encapsula el nombre del trabajador.
+- **Atributos** 
+    - `name: String`
+
+**WorkerSpecialization**
+Representa la especialidad declarada por el trabajador.
+- **Atributos** 
+    - `specialization: String`
+
+**WorkerPhotoUrl**
+Contiene la URL de la fotografía del trabajador.
+- **Atributos** 
+    - `photo_url: String`
+
+
+#### 2.6.4.2. Interface Layer 
+
+**WorkerController**
+Expone operaciones HTTP para administrar trabajadores.
+
+- **Funciones**
+
+    - `createWorker() → ResponseEntity<WorkerResource>`
+    - `updateWorker() → ResponseEntity<WorkerResource>`
+    - `getWorkersWithParameters() → ResponseEntity<?>`
+    - `getWorkerById() → ResponseEntity<WorkerResource>`
+    - `getAllWorkers() → ResponseEntity<List<WorkerResource>>.`
+
+- **Recursos y ensambladores**
+
+    - `WorkerResource (record).`
+    - `WorkerResourceFromEntityAssembler`
+    - `CreateWorkerCommandFromResourceAssembler`
+    - `UpdateWorkerCommandFromResourceAssembler`
+
+
+#### 2.6.4.3. Application Layer
+
+**CreateWorkerCommand**
+Ordena la creación de un trabajador asociado a un proveedor.
+- **Atributos** 
+    - `providerId: Long`
+    - `fullName: String` 
+    - `specialization: String`
+    - `photoUrl: String`
+
+**UpdateWorkerCommand**
+Permite modificar datos del trabajador existente.
+- **Atributos** 
+    - `workerId: UUID`
+    - `fullName: String`
+    - `specialization: String`
+    - `photoUrl: String`
+    - `active: Boolean`
+
+**DefineWeeklyScheduleCommand**
+Ordena la definición o reemplazo del horario semanal del trabajador.
+- **Atributos** 
+    - `workerId: UUID `
+    - `shifts: List<ShiftDTO>`
+
+**RegisterUnavailabilityCommand**
+Ordena el registro de una indisponibilidad del trabajador.
+- **Atributos**
+    - `workerId: UUID`
+    - `start: LocalDateTime`
+    - `end: LocalDateTime`
+    - `reason: String`
+
+**RemoveUnavailabilityCommand**
+Ordena la eliminación de una indisponibilidad registrada.
+- **Atributos**
+    - `workerId: UUID`
+    - `unavailabilityId: UUID`
+
+
+#### 2.6.4.4. Infrastructure Layer
+
+**WorkerRepository**
+Accede a la persistencia del agregado Worker, implementando la interfaz de repositorio del dominio (misma estructura y estilo que en Profiles).
+
+- **Funciones**
+    - `findById(UUID): Optional<Worker>`
+    - `save(Worker): Worker`
+    - `delete(Worker): void`
+
+**ShiftRepository**
+Accede a la persistencia de los turnos (Shift), siguiendo el patrón de repositorios utilizado en los demás bounded contexts.
+- **Funciones**
+    - `findById(UUID): Optional<Shift>`
+    - `save(Shift): Shift`
+    - `delete(Shift): void`
+
+#### 2.6.4.5. Bounded Context Software Architecture Component Level Diagrams
+
+<div align="center">
+   <img src="img/component-diagram-workers.png" alt="workers-component-diagram"/>
+</div>
+
+#### 2.6.4.6. Bounded Context Software Architecture Code Level Diagrams
+
+##### 2.6.4.6.1. Bounded Context Domain Layer Class Diagrams
+
+![Workers class diagram](img/workers-class-diagram.png)
+
+*Para visualizar mejor ingresar a este Link:* 
+
+https://img.plantuml.biz/plantuml/svg/nLXjJzim4FwEn7-8-38crFo0gdIKZasL67Ij61ydaveISEBCTfYwgVzzJlDcf-V42Gqh4b3NTy_Zk-USkrvmWPY80t9ybFv4o7j1Q-oSt5FsWXa_SVuU7pdoLNpmcGR83ujrxRDlT8M9zf7syMIzPdYD1EPxUvANHn3dJWOCRKXUWn05U9Zjkf7_6xRn27i-8luV97mQvWPBRTLW6ZrHGN_6ZEHMysJXZf7z_LjzQMiu-0z4Odpxy8mzqNpqv53EQAJOZCSDqLWAveVhHdfL93qQrfZLq7P4pwDgZQlanHBIb8yf3G8KhkfoCMLO2ZLbccsNH1VOesoLS3GUxYvQjJ4qKVmUO-RN5ifNB2Q4PEMIRD_O4PHsgT7bPhRgOiSlDtD6N_qLPXOEbBTRuCfOOlRgUy11LQbaSSpsIhHPA31xH1w6vN9s6oNIH6IKCHuxJzAUu5CehLxwzsCRFr2MOJzRyx7IhDcVwjhdOey988DVoUzMnm4qONHYOc4K1-HfNnNRodDc4aN4ztPN3FomsKLB7iRulD5L0pvHp2AR1H4ntaIfmG97bFk2iitG-LrPCHWEuFL3wRNUbxrcAna2tkOnLXNS665Dx-yRuBUMJdraMvHFBPjM9GHafRcgPk4ZGroms1Cnmt1XpIK5IH277ZRtSiyHQknaocnLBxSEl3Dh3dDUO2xCPASq58mIeZQq9jBbtWPrwlT5hb1zjTQ1LWwvlRROKkGo214DERuAXIysepm9dCPCXdteUCfbSchIPfEJMBb5R9ryadRhGjxtldYQ8oOxLvbJtfd8MYqwMozAvHMkKb_bJG3vikpQSf_DCijtslLU_xiRdN2EWmTP4zRd-i9eaCQyi3NLqvbkENG4tVTYaPJQS2MUSg_DZ0072It0LojUG3RQyG8STES5thhfVn-Sy_DpPt5rFPdERc-kbidRT4jM8sxwDO2xc_ZTSh1ty_5zC1Z3UzLPsAsEyNruXsR-Fd3ARmbgCFB9quKgseYspym60ghzLX0r8DbuwW8jr65EeG1KMwkU082sw-tHobjZ5nnaZVxhPD8B3g0L6nnzWZN2cDNI3qX5CNs2xAkcgWHba7NpcTMjpAPWsdOJaif4RzvTfKztPJlkLflklcXqL6hV1409Mr3GHbX83U-GX_OSEjLNpzYrPVSksCtLM0wIRZ8pkifeM8Yl6001u5gbzWe5J8Q7Gh9xV1u6nVx2E31UuoFkC7YsjNXmjDhgwmcjVRqLCqvnJPhdHVtErVqKatR5Jp_eRwgJ4jHwBksXUaeMrbFeGPwvviIr6e6w7xm4R3KGDPtn-EW2Xwiu8Fy0
+
+##### 2.6.4.6.2. Bounded Context Database Design Diagram
+
+![Workers database diagram](img/BD-Diagram-Workers.png)
+
+### 2.6.5. Bounded Context: Services
+
+#### 2.6.5.1. Domain Layer
+
+##### Aggregates
+
+**Service**  
+Representa un servicio ofrecido por un proveedor dentro de la plataforma.  
+- **Atributos**  
+  - `id: Long`  
+  - `providerId: ProviderId`  
+  - `serviceDetails: ServiceDetails`  
+  - `serviceName: ServiceName`  
+  - `duration: Duration`  
+  - `price: Money`  
+  - `status: Status`  
+- **Funciones**  
+  - `Service(CreateServiceCommand command)`  
+  - `update(UpdateServiceCommand command)`  
+  - `getProviderId(): ProviderId`  
+  - `getServiceName(): String`  
+  - `getDuration(): Int`  
+  - `getPrice(): Money`  
+  - `getStatus(): Boolean`  
+
+##### Value Objects
+
+**ServiceName**  
+Encapsula el nombre de un servicio.  
+- **Atributos**: `serviceName: String`  
+- **Funciones**: `ServiceName(serviceName: String)`, `getValue(): String`  
+
+**Duration**  
+Representa la duración de un servicio en minutos.  
+- **Atributos**: `duration: Int`  
+- **Funciones**: `Duration(value: Int)`, `getValue(): Int`  
+
+**Status**  
+Define si un servicio está activo o inactivo.  
+- **Atributos**: `status: Boolean`  
+- **Funciones**: `Status(value: Boolean)`, `isActive(): Boolean`  
+
+**ServiceDetails**  
+Contiene la descripción general del servicio.  
+- **Atributos**: `details: String`  
+- **Funciones**: `ServiceDetails(value: String)`, `getValue(): String`  
+
+**ProviderId**  
+Identificador único del proveedor que ofrece el servicio.  
+- **Atributos**: `id: Long`  
+- **Funciones**: `ProviderId(value: Long)`, `getValue(): Long`  
+
+---
+
+#### 2.6.5.2. Interface Layer
+
+##### Controllers
+
+**ServiceController**  
+Expone operaciones HTTP para gestionar los servicios en la plataforma.  
+- **Funciones**  
+  - `createService(CreateServiceCommand)`  
+  - `updateService(UpdateServiceCommand)`  
+  - `getAllServices()`  
+  - `getServiceById(Long)`  
+  - `getServicesByProviderId(Long)`  
+
+##### Assemblers
+
+**ServiceResourceFromEntityAssembler**  
+Convierte entidades de dominio en recursos expuestos por la API.  
+- **Funciones**: `toResource(Service)`  
+
+**CreateServiceCommandFromResourceAssembler**  
+Convierte recursos HTTP en comandos de creación.  
+- **Funciones**: `toCommandFromResource(CreateServiceResource)`  
+
+**UpdateServiceCommandFromResourceAssembler**  
+Convierte recursos HTTP en comandos de actualización.  
+- **Funciones**: `toCommandFromResource(UpdateServiceResource)`  
+
+##### Resources
+
+- `CreateServiceResource`  
+- `UpdateServiceResource`  
+- `ServiceResource`  
+
+---
+
+#### 2.6.5.3. Application Layer
+
+##### Commands
+
+**CreateServiceCommand**  
+Ordena la creación de un nuevo servicio.  
+- **Atributos**: `serviceName: String`, `duration: Int`, `providerId: Long`, `status: Boolean`  
+
+**UpdateServiceCommand**  
+Permite modificar los datos de un servicio existente.  
+- **Atributos**: `serviceId: Long`, `serviceName: String?`, `duration: Int?`, `status: Boolean?`  
+
+##### Queries
+
+**GetAllServicesQuery**  
+Permite obtener todos los servicios.  
+
+**GetServiceByIdQuery**  
+Permite obtener un servicio específico por ID.  
+
+**GetServicesByProviderIdQuery**  
+Permite obtener todos los servicios de un proveedor determinado.  
+
+
+##### Services
+
+**ServiceCommandService**  
+Define operaciones de creación y actualización.  
+- **Funciones**: `createService(CreateServiceCommand)`, `updateService(UpdateServiceCommand)`  
+
+**ServiceQueryService**  
+Define operaciones de consulta.  
+- **Funciones**: `getAllServices()`, `getServiceById(Long)`, `getServicesByProviderId(Long)`  
+
+---
+
+#### 2.6.5.4. Infrastructure Layer
+
+##### Repositories
+
+**ServiceRepository**  
+Accede a la persistencia de los servicios.  
+- **Funciones**  
+  - `findById(Long): Optional<Service>`  
+  - `findByProviderId(Long): List<Service>`  
+  - `findAll(): List<Service>`  
+  - `save(Service): Service`  
+  - `delete(Service): void`  
+
+#### 2.6.5.5. Bounded Context Software Architecture Component Level Diagrams
+
+<img src="img/component-diagram-services.png" alt="services">
+
+#### 2.6.5.6. Bounded Context Software Architecture Code Level Diagrams
+##### 2.6.5.6.1. Bounded Context Domain Layer Class Diagrams
+
+<img src="img/services-context-diagram.png" alt="services">
+
+*Para visualizar mejor ingresar a este Link:* 
+
+https://img.plantuml.biz/plantuml/svg/tLZRRkCs47qFa7yWzgKf5b7UZIHTNxI12ZlooacAFd8bhbUfBAeKjLYZoB-NadKXPPAY5Ci5weV4kd3EuSoPuNW-fHGIcksYoui4-d_1BG8VDeZy27sKVW3_N5u0zgcVBF0EXd5zNtYsmW6AX4V2u-bsIz0MKiui__4ZcAQWGfQzaN-k4u9_X04YJZ01pNV5o-d1sW9H64RffB9UNkiNFS8TgbVa5uhNWun06k9u0XRbDoLpPcW2LZX6UnKqXJJBUHR_Zrzw4s-nIuMlNs2K8VVhA_Afpjlhse7WzfPRSt-lz7_8_1xXUDj9ha4HlTv6KW6rOpSCD0-SyTw4oFV4gu9l3DRenebfduqLsZ3VKocf6SOHWX9j6cjgZdSx60SwFSq9OlbTkhvydp7ra8z9a9DKxkev2NgjV5EG_98X4cehp0EYqoYgwap-_jwC8bjOhfhjdM3GmdIsRrAkqm9toNrL5saHLVHbUSNWcDeG-GPz91VDHpV9LGcZsyh-FVZE34JeIXfT__3_rrwMfD6MMthJxEqGFVEjBSEK7fEH2UBl_6-_FSdaeJIZPA8MYioMg129HkoVg22i4aa5yeZfPvp5WVtJFonWtgo_AxofN7lLdCjQljo_fab8aYZqYy8eRpAA6BC0AFiCKV3IHaAJ8CukYPIrj7p7GmbEGuh9VWBIzYt5qclv_TDbMuUr7XdN2fJaid8rdtxTZXQozTn-Vd_gTpYuJ_hh6VKh0PBmT6UP4tyZCAKaysb6a3pHreYaZ2AAVQJkwLyJsDtCDq5hr-W1nClLgPoqXrAgPZl7CIKuYjZEkbatBtVfLAmWjLR5steJGcxK5eIxFGNFF96mke_ic8PqVrk78iKPOSwV09-lBrSgbNQQoVZ2OchcDxPmsoZzZv1-NqF2scuMtNGubwsGWwPs-4IiZHsiSSL1Pism9wsC6eYkUjMiiVpls-rfcgBTLvOZvblxJF3kuFbwiIh1FhQMJW35nsOC8gDtMMwgCjlDIMOX9oOnrekPB2JzcCai36ScBSP5b_aBkBkx0zE71yz-c3xPh8s8mSjq-Mm3T_QxFN_QvCylBwhCiGup8wiO3rdD5CYgEuVhwtiWVvkVOrXhRjnpSkFjqT1O08T9qicjDxEdqnClXr5DwEVkQZLzN6nklZpRdcDl2WKqUj14lveXMDBIfIOaeTy98QrnFI5K8EMOmP8ra2VP1GTmr5QE121fE8TxgsdKhBmdi-epi6_ajOhH0DRbKhfGNbW55lrsC2QJFlum2a7FpD1cbD76pSysmn2ScqaVVnY5eDtl3SrfzKuDsYv3PxSiZO9kKbogusVXhgRE8zZOteipBq-VeoD9UWZLrz9VRYUeGYV3wH2u0aSSYAfXDCVNA23j8snCaEDZZDTEAHhWhDRBGZYUlNOtpfFh_NbJQQYb7MuaQLNJHqkCg2BGnP2hbMJyuCNYPYpMQmARh6ccNAFG6AJjyGbqrbCf1M4AATNF-74Omc50HewEhKdKSs7hytVkFZvvxd9fUqNsrcU0cBBjSuaR_3KAhSTxCdPwGOyArPhwdH3fVHtrk_5wDcr3ySnIQGGqJVACXoPBbvF3TZHaqyt6NisgdFJiZVliiQIi3zIRUZRGbQZ_v_RL0FOCFn0DM9pXDz8d50VPBleN
+
+##### 2.6.5.6.2. Bounded Context Database Design Diagram
+
+![services database diagram](img/BD-Diagram-Services.png)
+
+### 2.6.6. Bounded Context: Reviews
+
+#### 2.6.6.1. Domain Layer
+
+##### Aggregates
+
+**Review**  
+Representa una reseña/review de un cliente sobre un proveedor de servicios. Está vinculada a un usuario de IAM y almacena su contenido completo.  
+- **Atributos**  
+  - `id: UUID`  
+  - `fullname: String` (referencia a IAM)  
+  - `user: User` (referencia a IAM)  
+  - `createdAt: LocalDateTime`  
+  - `updatedAt: LocalDateTime`  
+- **Funciones**  
+  - `Review(CreateReviewCommand command, User user)`  
+  - `getUser(): User`  
+  - `getFirstName(): String`  
+  - `getLastName(): String`  
+  - `getFullName(): String`  
+
+**Provider**  
+Representa el perfil de un proveedor que ofrece servicios en la plataforma. Está vinculado a un usuario de IAM y contiene el nombre de la empresa.  
+- **Atributos**  
+  - `id: UUID`  
+  - `companyName: CompanyName`  
+  - `user: User` (referencia a IAM)  
+  - `createdAt: LocalDateTime`  
+  - `updatedAt: LocalDateTime`  
+- **Funciones**  
+  - `Provider(CreateProviderCommand command, User user)`  
+  - `getCompanyName(): String`  
+
+##### Value Objects
+
+**FullName**  
+Encapsula el nombre y apellido de un cliente, garantizando consistencia y reglas de validación.  
+- **Atributos**  
+  - `firstName: String`  
+  - `lastName: String`  
+- **Funciones**  
+  - `FullName(firstName: String, lastName: String)`  
+  - `getFirstName(): String`  
+  - `getLastName(): String`  
+  - `getFullName(): String`  
+
+**CompanyName**  
+Representa el nombre de la empresa de un proveedor, asegurando que no sea vacío y cumpla con las reglas del dominio.  
+- **Atributos**  
+  - `value: String`  
+- **Funciones**  
+  - `CompanyName(value: String)`  
+  - `getValue(): String`  
+
+---
+
+#### 2.6.6.2. Interface Layer
+
+##### Controllers
+
+**ClientController**  
+Expone operaciones HTTP para gestionar perfiles de clientes en la plataforma.  
+- **Funciones**  
+  - `createClient(CreateClientCommand)`  
+  - `getClientById(UUID)`  
+  - `updateClient(...)`  
+  - `deleteClient(UUID)`  
+
+**ProviderController**  
+Expone operaciones HTTP para gestionar perfiles de proveedores.  
+- **Funciones**  
+  - `createProvider(CreateProviderCommand)`  
+  - `getProviderById(UUID)`  
+  - `updateProvider(UpdateProviderCommand)`  
+  - `deleteProvider(UUID)`  
+
+---
+
+#### 2.6.6.3. Application Layer
+
+##### Commands
+
+**CreateClientCommand**  
+Ordena la creación de un perfil de cliente a partir de un usuario de IAM.  
+- **Atributos**: `firstName: String`, `lastName: String`, `userId: UUID`  
+
+**CreateProviderCommand**  
+Ordena la creación de un perfil de proveedor asociado a un usuario de IAM.  
+- **Atributos**: `companyName: String`, `userId: UUID`  
+
+**UpdateProviderCommand**  
+Permite modificar datos del perfil de un proveedor existente.  
+- **Atributos**: `providerId: UUID`, `companyName: String?`  
+
+**DeleteClientCommand**  
+Ordena la eliminación lógica de un perfil de cliente.  
+- **Atributos**: `clientId: UUID`  
+
+**DeleteProviderCommand**  
+Ordena la eliminación lógica de un perfil de proveedor.  
+- **Atributos**: `providerId: UUID`  
+
+---
+
+#### 2.6.6.4. Infrastructure Layer
+
+##### Repositories
+
+**ReviewRepository**  
+Accede a la persistencia de las reseñas/reviews, implementando la interfaz de repositorio del dominio.  
+- **Funciones**  
+  - `findById(UUID): Optional<Review>`  
+  - `findByUserId(UUID): Optional<Review>`  
+  - `save(Review): Review`  
+  - `delete(Review): void`  
+
+**ClientRepository**  
+Accede a la persistencia de los perfiles de clientes, implementando la interfaz de repositorio del dominio.  
+- **Funciones**  
+  - `findById(UUID): Optional<Client>`  
+  - `findByUserId(UUID): Optional<Client>`  
+  - `save(Client): Client`  
+  - `delete(Client): void`  
+
+**ProviderRepository**  
+Accede a la persistencia de los perfiles de proveedores, implementando la interfaz de repositorio del dominio.  
+- **Funciones**  
+  - `findById(UUID): Optional<Provider>`  
+  - `findByUserId(UUID): Optional<Provider>`  
+  - `save(Provider): Provider`  
+  - `delete(Provider): void`  
+
+#### 2.6.6.5. Bounded Context Software Architecture Component Level Diagrams
+
+<img src="img/component-diagram-reviews.png" alt="reviews">
+
+#### 2.6.6.6. Bounded Context Software Architecture Code Level Diagrams
+##### 2.6.6.6.1. Bounded Context Domain Layer Class Diagrams
+
+<img src="img/reviews-context-diagram.png" alt="reviews">
+
+*Para visualizar mejor ingresar a este Link:*
+
+https://img.plantuml.biz/plantuml/svg/nLXjRwCu4FvUgV_1sY_NqwhyWAZjBStIYbDIif3sj9zEBdYpxF5snkbjTCf_F_EEmSOcWHwjsWGyCy-Cdnd6yoab49Dz65nUP3y9TF-2EmG-sEZDH_-a7y2_bnU0NlM3pt48_QY-ppnRnnuAc4VCOtstmsW72KfxQxBB3M2QWj8mRq5sNISuVlCzXF_qlGNOb5zCJx3Q3NmKaNpjClyeN8bpkulIVd_HaRrrpAB5zV851djalVv0BXdoiu4ERcvQCdTtGjSpBu8usad1DLOgf-UqKKHCsK8LQ8TWdsUdM0G9VRW0VaI4QY25-Xh70OBH6Tjb_7HHGlmuafFoAIOFyJxoQX7gS_rPxF57WVHL4GdJ-_KC-Ciu367a3O5Vqb0HL80ebrFWDd9Zx6MeXHlxd7XZ18y2Y5_s2Fk3EV-8Y1u4PUPdomzg0AbS8NH_CBrJvDBxGvE79ogeKamgtlhQ-bY7oK7upNSvSMfJiDo6SYsrPaO4uM_GHNp-VRHogi7WfiHx1xvJ-G1TyLZX5lyvV1JhuP64h-SeTglOT7MlLdvAUaWuBFex-plA7GwbX4f4A8JSEbqJIpAUdZwxZfqtjvuaWU_2p77-wpkFEWsAy0tEie_xZXQJrGoJGFXIA0HibCIfJs9yM03SkICGl1RKt8buFwnBdVkT7U9yhMBSpWHfX9cyUTy0dvk2mv4TaOQ3Q4QdefesUJfcbxJ-TpFKZBvXc1AyTyaU8twIRX1EAJmKkKZSQVz8eBIRQNQ-Mt1Fm5rAftpCDag96EmoZWYEWu0w9WNTh9KmdQqz5TlPkuCAcDIgv9cR8nE61Y6XNIOo8kAJmqsr2McynpJi2-2s2jELY9ao9VjMHL9LyXkLszNa_iCdtpSGmn3HFKrF1h9h9x2gbbRUrQeANKrLuUbIR4GhdNAQLIlLki7_ky7MqnI5hpGdbFrwm75OnBoMbPnUAia5875VYyAc38OhqrHfbIFYACXWSNIDmiNPZN6uE0fEnoKvBK2ttwOndK5MAT5FyW1Tw9Mj0RUGqzzVmEtjBT0V7stZKTyQO6azWHTzzMm0w_vtOxbrikUN5wLYhPW0QVcmHsjcEberkRc-lWFSjUt9YDOUtKohkHdqJAktcWnL0LjQwxN-zDd9uzL4JnohwgokyGg644CVhqmzhwoCKbzv-ENPi4r3tS7ofAznsi3ptMifxxQ6CoZdj8ppM65RoPEsoJ7i5tDPxXDb9IMbvO2lsLVdURNL-VbRdJ4qxcH126I8n9FRu31PPeCT9GXDYAawlO4ENUSoqAViZ9OOslQe2CprPfNJqJOsbcDkBVjhJiYIcmmVMtC9hHf1Q9rH0vT0-LkjZPezFscjev96JqHQzzmp1uGJScLkuzmaafXdfX0yjimS-_7sHsVtp7Q5IVykTeTgmNi149G8MXMsjhLQ6NPU88gAOUOlhApTt7RBGpDSqB8vWjOQ5zHPKGy5E007KsWsCvr9mLHMv0t7D1RKAjV4jWRVzjFOKYaCarlgbOBwoEKunlgUPeA4ylNHiowZucCyMvDPFVK0fADdUiiAlQlSfFAWGCtdKLG-4yM8P5B1e3oQK8l4g4Gx4yMedYJx-OGYRny6_m40
+
+##### 2.6.6.6.2. Bounded Context Database Design Diagram
+
+![reviews database diagram](img/BD-Diagram-Reviews.png)
+
+<div style="page-break-before: always;"></div>
+
+
+# Capítulo II: Solution UI/UX Design
+
+## 3.1. Product design
+
+### 3.1.1. Style Guidelines
+uTime es una plataforma digital diseñada para transformar la manera en que los salones de belleza gestionan su tiempo, sus citas y su relación con los clientes. Con un enfoque profesional, moderno y accesible, uTime conecta a salones con sus clientes de forma inteligente, permitiendo reservas fluidas, recordatorios automáticos, gestión centralizada de citas, perfiles personalizados y mucho más.<br>
+La plataforma está pensada para brindar una experiencia visual sofisticada y funcional, adaptable tanto para usuarios del sector belleza como para sus clientes. Para asegurar una presentación coherente y unificada en todo el ecosistema digital de uTime, este documento establece una guía centralizada de estilo que cubre desde elementos visuales hasta principios de diseño para landing page y aplicación móvil.
+
+Las Style Guidelines de uTime están divididas en tres secciones: General Style Guidelines, Web Style Guidelines y Mobile Style Guidelines, asegurando que el diseño sea intuitivo, atractivo y accesible en cada entorno.
+#### 3.1.1.1. General Style Guidelines
+El branding de uTime es el núcleo de su identidad visual, diseñado para transmitir profesionalismo, modernidad y accesibilidad. La marca representa la fusión entre tecnología y bienestar, ofreciendo una experiencia elegante tanto para salones de belleza como para sus clientes. A través de una estética limpia, neutra y equilibrada, uTime busca establecer una conexión de confianza y eficiencia.
+
+Los elementos visuales —logo, tipografía y paleta de colores— reflejan organización, claridad y cuidado, capturando la esencia de un servicio puntual, estilizado y personalizado. El sistema visual está cuidadosamente alineado con el mundo de la belleza, sin perder su enfoque en la simplicidad y funcionalidad, generando una experiencia coherente y agradable.
+
+Tipografía
+<div align="center"> <img src="img/tipografia.png" alt="tipografia" width="600" /> </div> Se utilizan dos tipografías principales:
+
+Logo: Roboto SemiBold, que proyecta firmeza, modernidad y confianza.
+
+Texto regular: Poppins en sus variaciones Light, Regular, Medium, SemiBold y Bold para asegurar jerarquía y legibilidad en pantallas de todos los tamaños.
+
+**Colores**
+<div align="center"> <img src="img/paleta%20colores.png" alt="paleta_colores" width="600" /> </div> La paleta está compuesta por tonos principales en violeta y oscuros (#B497F3, #513A84, #2D3142) que transmiten modernidad y lujo, complementados con colores secundarios suaves (#E8C7EF, #BFAFAF) que añaden calidez y cercanía.
+
+**Iconografía**
+<div align="center"> <img src="img/iconografia.png" alt="iconografia" width="600" /> </div> Íconos lineales (outline) con trazos uniformes y redondeados, diseñados en tres tamaños estándar (grandes, medianos y pequeños). La librería incluye funciones clave como agendamiento, pagos, perfil, servicios y notificaciones.
+
+### 3.1.2. Information Architecture
+#### 3.1.2.1. Organization Systems
+-Landing Page Diagram:
+<div align="center">
+   <img src="img/diagram_1_fix.png" alt="diagram-1"/>
+</div>
+-Home System Diagram:
+<div align="center">
+   <img src="img/Homepage_system.png" alt="diagram-1-sign-in"/>
+</div>
+-Dashboard Diagram:
+<div align="center">
+   <img src="img/dashboard_1.png" alt="dash_1"/>
+   <img src="img/dashboard_2.png" alt="dash_2"/>
+</div>
+Los diagramas del sistema han sido divididos y organizados mediante el uso de colores distintivos, con el propósito de representar claramente la funcionalidad específica de cada sección: landing page, home system y dashboard. Esta diferenciación visual permite identificar rápidamente el propósito de cada componente y entender su rol dentro de la estructura general del sistema. La jerarquía de elementos se mantiene mediante una distribución ordenada, donde cada bloque se relaciona con funciones concretas, lo que facilita tanto el análisis como futuras modificaciones.
+
+#### 3.1.2.2. Labelling Systems
+**Landing Page (web):**
+Incluye etiquetas principales como:
+
+- HOME: visión general de uTime.
+
+- PRICING: detalle de planes de suscripción.
+
+- ABOUT US: presentación del equipo.
+
+- CONTACT US: información de contacto.
+
+**App Móvil – Salones (Segmento objetivo #1):**
+
+- Home: información general del negocio.
+
+- Appointments: lista y control de citas.
+
+- Reviews: reseñas de clientes.
+
+- Services: gestión de servicios ofrecidos.
+
+- Subscription: panel de plan activo.
+
+- Settings: configuraciones generales.
+
+- Notifications: centro de alertas.
+
+**App Móvil – Clientes (Segmento objetivo #2):**
+
+- Appointments: ver, agendar o modificar citas.
+
+- My favorites: acceso rápido a salones o estilistas favoritos.
+
+- My profile: datos de cuenta y preferencias.
+  
+#### 3.1.2.3. SEO Tags and Meta Tags
+Aplican únicamente a la landing page para su posicionamiento en buscadores:
+
+```
+<title>uTime - Servicio de agenda para barberos o estilistas</title>  
+<meta name="description" content="uTime es una plataforma que permite a los barberos y estilistas gestionar sus citas y horarios de manera eficiente.">  
+<meta http-equiv="Content-Language" content="es-ES">  
+<meta name="robots" content="index, follow">  
+<meta name="author" content="uTime Team">  
+<meta name="viewport" content="width=device-width, initial-scale=1.0">  
+<link rel="canonical" href="https://www.uTime.com/">  
+```
+
+#### 3.1.2.4. Searching Systems
+El sistema de búsqueda de uTime está diseñado para ofrecer una experiencia rápida, intuitiva y precisa tanto para los clientes como para los administradores de salones. A través de una barra de búsqueda ubicada en la parte superior de la interfaz, los usuarios pueden filtrar y encontrar fácilmente servicios, estilistas o salones según sus necesidades. El sistema admite búsquedas por palabras clave, como el tipo de servicio (ej. "corte de cabello", "alisado", "manicure"), nombre del estilista o incluso fechas disponibles. Además, puede complementarse con filtros avanzados, como ubicación, rango de precios, calificaciones o disponibilidad horaria, lo que permite a los usuarios personalizar su experiencia y encontrar rápidamente la mejor opción disponible. Esta funcionalidad mejora la eficiencia de la plataforma y contribuye a una mejor experiencia del cliente al reducir el tiempo de búsqueda y facilitar la toma de decisiones.
+
+
+#### 3.1.2.5. Navigation Systems
+<p>En uTime, los sistemas de navegación han sido diseñados para ofrecer una experiencia intuitiva y fluida, guiando a los usuarios a través de la plataforma de forma clara y eficiente. Desde la landing page hasta las diferentes áreas internas de la aplicación, cada elemento de navegación ha sido pensado para facilitar la interacción y ayudar a los usuarios a alcanzar sus objetivos sin fricciones.</p>
+<p>Uno de los principales componentes de navegación en uTime es el menú lateral, ubicado en la parte izquierda de la interfaz. Este menú actúa como eje central de navegación, brindando accesos directos a las secciones clave de la plataforma. Para los clientes, estas secciones incluyen citas, favoritos y perfil, mientras que para los salones se extienden a servicios, suscripciones, reseñas, configuraciones y más. Esta estructura lateral asegura que los usuarios puedan explorar rápidamente las funcionalidades que necesitan, manteniendo la coherencia visual y la facilidad de uso en todo momento.</p>
+
+**Menú de Clientes**
+
+Para los clientes, la navegación se estructura en un menú lateral simple y directo que incluye tres accesos principales: "Appointments", "My favorites" y "My profile". Estas etiquetas, acompañadas por íconos fácilmente reconocibles, permiten que el usuario navegue por su historial de citas, acceda a sus salones o servicios favoritos, y gestione la información de su cuenta personal. Este menú está diseñado con una jerarquía visual clara y un lenguaje sencillo para reducir la fricción y fomentar el uso frecuente.
+**Appointments (Citas)**
+- Permite al usuario ver sus citas pasadas y futuras.
+- Incluye detalles como fecha, hora, servicio y profesional asignado.
+- Posibilidad de cancelar o reprogramar citas desde esta sección.
+
+**My Favorites (Mis favoritos)**
+- Muestra una lista de salones que el cliente ha marcado como favoritos.
+- Facilita el acceso rápido para volver a agendar con salones frecuentes.
+- Incluye botones para ver el perfil del salón y agendar directamente.
+
+**My Profile (Mi perfil)**
+- Permite al usuario actualizar su información personal (nombre, número, correo, foto de perfil).
+- Acceso a la configuración de privacidad y notificaciones.
+
+<p>Una de las herramientas centrales en los sistemas de navegación de uTime es la barra de búsqueda ubicada en la parte superior de la interfaz. Esta funcionalidad permite a los usuarios acceder de forma rápida y directa a salones, sin tener que explorar múltiples menús. Gracias a esta búsqueda inteligente, el proceso de agendamiento se vuelve mucho más fluido y eficiente. </p>
+<p>Asimismo, se implementan acciones contextuales en elementos clave —como botones de agendamiento rápido o marcación de favoritos— que permiten a los usuarios interactuar con el contenido sin abandonar la pantalla actual. Todo esto contribuye a una navegación intuitiva y sin fricciones, asegurando que los clientes puedan cumplir sus objetivos de manera ágil y placentera dentro de la plataforma.</p>
+<p>Finalmente, para facilitar el desplazamiento dentro de secciones más profundas, como los detalles de un salón o profesional, se han incorporado rutas de navegación ("breadcrumbs") que permiten al usuario regresar fácilmente al punto anterior. También se incluyen botones de retroceso para mantener el contexto sin necesidad de recargar pantallas.</p>
+
+De la misma manera en la aplicación web los usuarios podrán acceder a sus funcionalidades a través de un menú de navgación en la parte superior de la pantalla. 
+### 3.1.3. Landing Page UI Design
+
+Para el desarrollo de los wireframes y mockups de uTime, utilizaremos **Figma** como herramienta principal de diseño. Los wireframes definirán la estructura básica y navegación, mientras que los mockups mostrarán el diseño final con la identidad visual de la aplicación.
+
+#### 3.1.3.1. Landing Page Wireframe
+
+**Wireframe 1 - Hero Section:** Estructura del hero con frase principal y call to action para captar la atención del usuario.
+
+<img src="img/wireframe1.png" alt="Wireframe 1">
+
+**Wireframe 2 - Features (Funcionalidad 1):** Layout para mostrar la primera funcionalidad principal de la aplicación móvil.
+
+<img src="img/wireframe2.png" alt="Wireframe 2">
+
+**Wireframe 3 - Features (Funcionalidad 2):** Estructura para presentar la segunda funcionalidad clave de uTime.
+
+<img src="img/wireframe3.png" alt="Wireframe 3">
+
+**Wireframe 4 - Features (Funcionalidad 3):** Layout para mostrar la tercera funcionalidad destacada de la aplicación.
+
+<img src="img/wireframe4.png" alt="Wireframe 4">
+
+**Wireframe 5 - Flujo Salón (Paso 1):** Estructura del primer paso del flujo de interacción del salón de belleza con la aplicación.
+
+<img src="img/wireframe5.png" alt="Wireframe 5">
+
+**Wireframe 6 - Flujo Salón (Paso 2):** Layout del segundo paso del proceso de interacción del salón con uTime.
+
+<img src="img/wireframe6.png" alt="Wireframe 6">
+
+**Wireframe 7 - Precios y Planes:** Estructura para mostrar los diferentes planes de precios disponibles en uTime.
+
+<img src="img/wireframe7.png" alt="Wireframe 7">
+
+**Wireframe 8 - Testimonios:** Layout para mostrar testimonios de diferentes usuarios destacando los beneficios de uTime.
+
+<img src="img/wireframe8.png" alt="Wireframe 8">
+
+**Wireframe 9 - Video About the Product:** Estructura de la sección del video promocional sobre el producto.
+
+<img src="img/wireframe9.png" alt="Wireframe 9">
+
+**Wireframe 10 - FAQ (Preguntas Frecuentes):** Layout de la sección de preguntas frecuentes para resolver dudas de usuarios.
+
+<img src="img/wireframe10.png" alt="Wireframe 10">
+
+**Wireframe 11 - Call to Action Final + Footer:** Estructura del último call to action junto con el footer de la landing page.
+
+<img src="img/wireframe11.png" alt="Wireframe 11">
+
+
+#### 3.1.3.2. Landing Page Mock-up
+
+**Mockup 1 - Hero Section:** Diseño final del hero con tipografías atractivas, colores corporativos y call to action visualmente impactante.
+
+<img src="img/mockup_landing_1.png" alt="Mockup 1">
+
+**Mockup 2 - Features (Funcionalidad 1):** Presentación visual de la primera funcionalidad con iconos, colores y tipografías de la marca.
+
+<img src="img/mockup_landing_2.png" alt="Mockup 2">
+
+**Mockup 3 - Features (Funcionalidad 2):** Diseño final de la segunda funcionalidad con elementos gráficos y paleta de colores de uTime.
+
+<img src="img/mockup_landing_3.png" alt="Mockup 3">
+
+**Mockup 4 - Features (Funcionalidad 3):** Interfaz visual de la tercera funcionalidad con iconografía y diseño corporativo.
+
+<img src="img/mockup_landing_4.png" alt="Mockup 4">
+
+**Mockup 5 - Flujo Salón (Paso 1):** Diseño visual del primer paso del flujo con imágenes, iconos y colores atractivos.
+
+<img src="img/mockup_landing_5.png" alt="Mockup 5">
+
+**Mockup 6 - Flujo Salón (Paso 2):** Presentación visual del segundo paso con elementos gráficos y tipografías corporativas.
+
+<img src="img/mockup_landing_6.png" alt="Mockup 6">
+
+**Mockup 7 - Precios y Planes:** Diseño final de los planes con colores, tipografías y elementos visuales que destaquen cada opción.
+
+<img src="img/mockup7.png" alt="Mockup 7">
+
+**Mockup 8 - Testimonios:** Interfaz visual de testimonios con fotos de usuarios, tipografías y colores que generen confianza.
+
+<img src="img/mockup8.png" alt="Mockup 8">
+
+**Mockup 9 - FAQ (Preguntas Frecuentes):** Diseño final de la sección FAQ con iconos, colores y tipografías que faciliten la lectura.
+
+<img src="img/mockup9.png" alt="Mockup 9">
+
+**Mockup 10 - Call to Action Final + Footer:** Diseño visual del último CTA y footer con elementos gráficos y colores corporativos.
+
+<img src="img/mockup10.png" alt="Mockup 10">
+
+
+###  3.1.4. Mobile Applications UX/UI Design
+#### 3.1.4.1. Mobile Applications Wireframes
+
+En esta sección se presentan los wireframes iniciales de la aplicación móvil. Estos bocetos permiten visualizar la estructura básica de las interfaces, con un diseño preliminar sencillo cuyo propósito es identificar los componentes clave de cada pantalla. Esta aproximación facilita la validación temprana del flujo de navegación y sienta las bases para desarrollar un diseño más detallado, coherente y centrado en el usuario.
+
+<p align="center">
+  <img src="img/img-1.png" alt="Mobile-1" width="480">
+</p>
+<p align="center">
+  <img src="img/img-2.png" alt="Mobile-2" width="480">
+</p>
+<p align="center">
+  <img src="img/img-3.png" alt="Mobile-3" width="480">
+</p>
+<p align="center">
+  <img src="img/img-4.png" alt="Mobile-4" width="480">
+</p>
+<p align="center">
+  <img src="img/img-5.png" alt="Mobile-5" width="480">
+</p>
+<p align="center">
+  <img src="img/img-6.png" alt="Mobile-6" width="480">
+</p>
+<p align="center">
+  <img src="img/img-7.png" alt="Mobile-7" width="480">
+</p>
+<p align="center">
+  <img src="img/img-8.png" alt="Mobile-8" width="480">
+</p>
+<p align="center">
+  <img src="img/img-9.png" alt="Mobile-9" width="480">
+</p>
+
+
+#### 3.1.4.2. Mobile Applications Wireflow Diagrams
+
+**Segmento objetivo #1: Salones de belleza y barberías**
+* **User Goal:** Como propietario de un salón, quiero gestionar las reservas de clientes de manera eficiente para optimizar mi tiempo y brindar un buen servicio.
+* Task flow:
+<div align="center">
+<img src="img/wireflow1.jpeg" alt="wireflow_salones" width="450" />
+</div>
+
+**Segmento objetivo #1: Clientes de servicios de belleza**
+* **User Goal:** Como cliente de un salón, quiero agendar mi cita rápidamente con mi estilista de confianza para asegurarme de ser atendido a tiempo.
+* Task flow:
+<div align="center">
+<img src="img/wireflow2.jpeg" alt="wireflow_clientes" width="450" />
+</div>
+
+#### 3.1.4.3. Mobile Applications Mock-ups
+
+Los mockups definen el aspecto visual final de la aplicación, detallando los colores, tipografías y elementos gráficos para asegurar una experiencia de usuario atractiva y coherente con la identidad de la app.
+
+URL del Link de Figma: https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME
+
+**Vista de clientes de servicios de belleza**
+
+**Mockup 1 - Bienvenida:** Pantalla hero de inicio.
+
+<p align="center">
+   <img src="img/mockup_1.png" alt="Mockup 1" width="320">
+</p>
+
+**Mockup 2 - Inicio de sesión:** Formulario de login con enlace a registro.
+
+<p align="center">
+<img src="img/mockup_2.png" alt="Mockup 2" width="320">
+</p>
+
+**Mockup 3 - Registro** Formulario de registro.
+
+<p align="center">
+<img src="img/mockup_3.png" alt="Mockup 3" width="320">
+</p>
+
+<p align="center">
+<img src="img/mockup_3_1.png" alt="Mockup 3" width="320">
+</p>
+
+
+**Mockup 4 - Home:** Vista principal con tarjetas de negocios.
+<p align="center">
+<img src="img/mockup_4.png" alt="Mockup 4" width="320">
+</p>
+
+**Mockup 5 - Perfil de negocio(Servicios)** Información de servicios, reseñas y acerca de.
+<p align="center">
+<img src="img/mockup_5.png" alt="Mockup 5" width="320">
+</p>
+
+<p align="center">
+<img src="img/mockup_5_1.png" alt="Mockup 5" width="320">
+</p>
+
+<p align="center">
+<img src="img/mockup_5_2.png" alt="Mockup 5" width="320">
+</p>
+
+<p align="center">
+<img src="img/mockup_5_3.png" alt="Mockup 5" width="320">
+</p>
+
+**Mockup 6 - Selección de profesional** Listado de profesionales por servicio con rating.
+<p align="center">
+<img src="img/mockup_6.png" alt="Mockup 6" width="320">
+</p>
+
+**Mockup 7 - Selección de fecha y hora** Calendario con horarios disponibles.
+<p align="center">
+<img src="img/mockup_7.png" alt="Mockup 7" width="320">
+</p>
+
+**Mockup 8 - Checkout / Revisar y confirmar** Resumen de cita, método de pago y confirmación de cita.
+<p align="center">
+<img src="img/mockup_8.png" alt="Mockup 8" width="320">
+</p>
+
+**Mockup 9 - Mis citas (lista)** Sin citas, próximas e histórico con acciones rápidas.
+<p align="center">
+<img src="img/mockup_9.png" alt="Mockup 9" width="320">
+</p>
+
+<p align="center">
+<img src="img/mockup_9_1.png" alt="Mockup 9" width="320">
+</p>
+
+**Mockup 10 - Detalle de cita** Información completa y gestión (cambiar/cancelar).
+<p align="center">
+<img src="img/mockup_10.png" alt="Mockup 10" width="320">
+</p>
+
+<p align="center">
+<img src="img/mockup_10_1.png" alt="Mockup 10" width="320">
+</p>
+
+**Mockup 11 - Perfil de usuario** Información del usuario.
+<p align="center">
+<img src="img/mockup_11.png" alt="Mockup 11" width="320">
+</p>
+
+<p align="center">
+<img src="img/mockup_11_1.png" alt="Mockup 11" width="320">
+</p>
+
+**Mockup 12 - Seccion de favoritos** Lista de favoritos.
+<p align="center">
+<img src="img/mockup_12.png" alt="Mockup 12" width="320">
+</p>
+
+**Mockup 13 - Sección de idioma** Selección de idioma.
+<p align="center">
+<img src="img/mockup_13.png" alt="Mockup 13" width="320">
+</p>
+
+**Mockup 14 - Seccion de ajustes** Selección de preferencias de los ajustes.
+<p align="center">
+<img src="img/mockup_14.png" alt="Mockup 14" width="320">
+</p>
+
+**Mockup 15 - Sección de busqueda** Busqueda de salones de belleza.
+<p align="center">
+<img src="img/mockup_15.png" alt="Mockup 15" width="320">
+</p>
+
+
+
+**Vista de salones de belleza**
+
+**Mockup 1 - Bienvenida:** Pantalla hero de inicio.
+<p align="center">
+<img src="img/mockup-1.png" alt="Mockup 1" width="320">
+</p>
+
+**Mockup 2 - Inicio de sesión:** Formulario de login con enlace a registro.
+<p align="center">
+<img src="img/mockup-2.png" alt="Mockup 2" width="320">
+</p>
+
+**Mockup 3 - Registro** Formulario de registro.
+<p align="center">
+<img src="img/mockup-3.png" alt="Mockup 3" width="320">
+</p>
+
+**Mockup 4 - Menú principal de cuenta:** Accesos al calendario general, perfil del negocio, servicios, equipo.
+<p align="center">
+<img src="img/mockup-4.png" alt="Mockup 4" width="320">
+</p>
+
+**Mockup 5 - Calendario (Mes):** Vista mensual para planificación.
+<p align="center">
+<img src="img/mockup-5.png" alt="Mockup 5" width="320">
+</p>
+
+**Mockup 6 - Calendario (Semana):** Agenda por estilista con bloques de tiempo y estados.
+<p align="center">
+<img src="img/mockup-6.png" alt="Mockup 6" width="320">
+</p>
+
+**Mockup 7 - Calendario (Día):** Detalle de la agenda diaria para reprogramación rápida.
+<p align="center">
+<img src="img/mockup-7.png" alt="Mockup 7" width="320">
+</p>
+
+**Mockup 8 - Servicios (lista):** Tabla de servicios con nombre, duración, precio y estado.
+<p align="center">
+<img src="img/mockup-8.png" alt="Mockup 8" width="320">
+</p>
+
+**Mockup 9 - Nuevo servicio:** Formulario para crear un servicio con validaciones.
+<p align="center">
+<img src="img/mockup-9.png" alt="Mockup 9" width="320">
+</p>
+
+**Mockup 10 - Equipo (Agregar miembro):** Formulario para agregar un nuevo miembro
+<p align="center">
+<img src="img/mockup-10.png" alt="Mockup 10" width="320">
+</p>
+
+<p align="center">
+<img src="img/mockup-10-1.png" alt="Mockup 10" width="320">
+</p>
+
+
+**Mockup 11 - Equipo (Lista):** Tarjetas de miembros con acciones de editar/eliminar.
+<p align="center">
+<img src="img/mockup-11.png" alt="Mockup 11" width="320">
+</p>
+
+**Mockup 12 - Sección de perfil del negocio:** Accesos a información, notificaciones, ajustes y preferencias de la empresa
+<p align="center">
+<img src="img/mockup-12.png" alt="Mockup 12" width="320">
+</p>
+
+**Mockup 13 - Perfil del negocio:** Datos comerciales, horarios, dirección y "Sobre nosotros".
+<p align="center">
+<img src="img/mockup-13.png" alt="Mockup 13" width="320">
+</p>
+
+**Mockup 14 - Notificaciones:** Alertas de citas, reprogramaciones y avisos del plan.
+<p align="center">
+<img src="img/mockup-14.png" alt="Mockup 14" width="320">
+</p>
+
+#### 3.1.4.4. Mobile Applications User Flow Diagrams
+Los diagramas de flujo de usuario (user flow) mapean el camino completo que sigue una persona dentro de la aplicación, desde el principio hasta que alcanza su meta. Esto permite visualizar y entender las interacciones, pasos y decisiones cruciales en cada momento.
+
+URL del Link de Figma: https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME
+
+
+**Vista de clientes de servicios de belleza**
+
+**User flow 1 - Registro y login para clientes** 
+<p align="center">
+<img src="img/user_flow_1.png" alt="User Flow 1">
+</p>
+
+**User flow 2 - Sección de descubrir → seleccionar servicio → reservar** 
+<p align="center">
+<img src="img/user_flow_2.png" alt="User Flow 2">
+</p>
+
+**User flow 3 - Sección de gestión de citas** 
+<p align="center">
+<img src="img/user_flow_3.png" alt="User Flow 3">
+</p>
+
+**User flow 4 - Sección de busqueda** 
+<p align="center">
+<img src="img/user_flow_4.png" alt="User Flow 4">
+</p>
+
+**User flow 5 - Sección de información del perfil** 
+<p align="center">
+<img src="img/user_flow_5.png" alt="User Flow 5">
+</p>
+
+
+
+**Vista de salones de belleza**
+
+**User flow 1 - Registro y login para salones de belleza** 
+<p align="center">
+<img src="img/user-flow-1.png" alt="User Flow 1">
+</p>
+
+**User flow 2 - Sección de vista principal(Calendario)** 
+<p align="center">
+<img src="img/user-flow-2.png" alt="User Flow 2">
+</p>
+
+**User flow 3 - Sección de servicios** 
+<p align="center">
+<img src="img/user-flow-3.png" alt="User Flow 3">
+</p>
+
+**User flow 4 - Sección de equipo** 
+<p align="center">
+<img src="img/user-flow-4.png" alt="User Flow 4">
+</p>
+
+**User flow 5 - Sección de información del perfil** 
+<p align="center">
+<img src="img/user-flow-5.png" alt="User Flow 5">
+</p>
+
+#### 3.1.4.5. Mobile Applications Prototyping
+Creamos un prototipo de interacción real para que se pueda experimentar la aplicación en un entorno simulado antes de codificarla. Esta herramienta interactiva muestra el flujo exacto entre las pantallas y cómo reacciona cada elemento, lo que nos permite validar y optimizar la usabilidad.
+
+
+URL del prototipo en figma: https://www.figma.com/proto/2RXg2e7OWrAbqYfNcw2EVP/UTIME
+
+URL del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/EUCzj5c18VdGvJxPX_m0NzcB_UOw9M2pYyfzjp6ukzwg8g
+
+<img src="img/prototipo.png" alt="Prototipo">
+
+<div style="page-break-before: always;"></div>
+
+
+# Capítulo IV: Product Implementation, Validation
+## 4.1. Software Configuration Management
+
+El equipo ha establecido el siguiente conjunto de herramientas para asegurar una configuración de entorno de desarrollo unificada, que permita una colaboración efectiva y el cumplimiento de los objetivos del proyecto. Estas herramientas cubren diferentes actividades del ciclo de vida del producto digital.
+
+### 4.1.1. Software Development Environment Configuration
+
+#### Project Management
+
+**Pivotal Tracker** es la herramienta principal utilizada por el equipo para la gestión ágil del proyecto. Permite planificar, organizar y hacer seguimiento del avance de las historias de usuario, tareas y bugs mediante un enfoque basado en historias y priorización colaborativa.
+Ruta de referencia: https://www.pivotaltracker.com
+
+**Discord** es la plataforma empleada para la comunicación en tiempo real entre los miembros del equipo. A través de canales organizados por temas y funciones, se realizan reuniones de equipo, coordinación diaria y soporte instantáneo durante todo el desarrollo.  
+Ruta de referencia: https://discord.com
+
+#### Product UX/UI Design
+
+**Figma** es utilizada como herramienta principal para el diseño de interfaces gráficas (UI) y la experiencia de usuario (UX). Permite que varios miembros colaboren simultáneamente en prototipos interactivos, estructuras visuales y pruebas de diseño.  
+Ruta de referencia: https://www.figma.com
+
+**UXPressia** complementa el trabajo de UX al permitir la creación y documentación de User Personas, Customer Journey Maps y Empathy Maps. Esto ayuda al equipo a entender mejor a los usuarios finales y alinear las decisiones de diseño con sus necesidades.  
+Ruta de referencia: https://uxpressia.com
+
+**Trello** complementa el trabajo de UX al facilitar la organización visual de tareas, ideas y flujos de trabajo mediante tableros, listas y tarjetas. Esto permite a los equipos de diseño y desarrollo colaborar de forma ágil, priorizar funcionalidades centradas en el usuario y dar seguimiento al progreso de proyectos UX.
+Ruta de referencia: https://trello.com
+
+#### Software Development
+
+**Android Studio** es un emulador que provee un entorno unificado para desarrollar proyectos para dispositivos Android y ofrece herramientas para diseño, programación, depuración y pruebas. Este es el entorno que hemos utilizado para el desarrollo del frontend de nuestras aplicaciones móviles.
+Ruta de referencia: https://developer.android.com
+
+#### Software Deployment
+
+**Git** es el sistema de control de versiones utilizado para gestionar el historial de cambios en el código fuente. Permite que varios desarrolladores colaboren en paralelo, con control total sobre ramas, merges y versiones del proyecto.  
+Ruta de referencia: https://git-scm.com
+
+**GitKraken** es un cliente Git con interfaz gráfica que el equipo usa para facilitar la gestión visual de ramas, commits, conflictos y flujos de trabajo. Su interfaz amigable permite trabajar con Git de forma intuitiva y estructurada.  
+Ruta de referencia: https://www.gitkraken.com
+
+**Render** es la plataforma de despliegue que el equipo utiliza para alojar y ejecutar APIs simuladas (fake APIs) durante las etapas de desarrollo y pruebas. Su facilidad de configuración y despliegue continuo lo convierten en una herramienta eficiente para ambientes de testing.
+Ruta de referencia: https://render.com
+
+**GitHub Pages** es la plataforma de hosting utilizada por el equipo para desplegar la interfaz frontend de la aplicación. Al integrarse directamente con repositorios de GitHub, permite publicar sitios web estáticos de manera rápida, automatizada y gratuita.
+Ruta de referencia: https://pages.github.com
+
+**Azure** es la plataforma en la nube utilizada por el equipo para desplegar y escalar el backend de la aplicación. Gracias a sus servicios gestionados, como App Services y Azure SQL, permite una implementación robusta, segura y de alto rendimiento para aplicaciones en producción.
+Ruta de referencia: https://azure.microsoft.com
+
+#### Software Documentation and Project Management
+
+**GitHub** se utiliza como repositorio remoto centralizado para almacenar y sincronizar el código del proyecto. También se usa para revisar código (pull requests), registrar incidencias, documentar el proyecto y automatizar tareas de despliegue.  
+Ruta de referencia: https://github.com
+
+#### Software Testing
+
+**Gherkin** es un sistema de etiquetado utilizado para describir los criterios de aceptación de estructura de una user story.  
+Ruta de referencia: https://cucumber.io/docs/gherkin/
+
+### 4.1.2. Source Code Management
+
+El proyecto seguirá las convenciones de flujo de trabajo establecidas por el modelo GitFlow para el control de versiones, utilizando GitHub como plataforma y sistema de control de versiones. A continuación, se detallará cómo se implementará GitFlow como WorkFlow de control de versiones, además de proporcionar los URL de los repositorios de GitHub para cada producto:
+
+**Repositorios de GitHub:**
+
+- Enlace para acceder a la organización de GitHub: https://github.com/PaxTech-1807
+- Enlace para acceder a repositorio de la Landing Page: https://github.com/PaxTech-1807/Landing-Page
+- Enlace para acceder a repositorio de FrontEnd Web Mobile Application: https://github.com/PaxTech-1807/Mobile-App
+- Enlace para acceder a repositorio de BackEnd Web Service: https://github.com/PaxTech-1807/Web-Services
+
+**Flujo de trabajo GitFlow:** El flujo a utilizar para le desarrollo del proyecto fue el planteado por Vicent Driessen en "A successful Git branching model".
+
+**Estructura de branches (Ramas):**
+
+1. **Main branch (Rama principal):** Esta rama será considerada como la principal para la aplicación, y contendrá versiones estables y finales del desarrollo. Solo se permitirán cambios que hayan sido previamente probados y verificados en otras ramas de prueba.
+
+2. **Develop branch (Rama de desarrollo):** El propósito de esta rama es llevar a cabo los avances del proyecto en equipo y de mantener los archivos centrales del desarrollo continuo.
+
+3. **Feature branches (Ramas de funcionalidad):** Cada funcionalidad desarrollada por el equipo o separada del enfoque actual del desarrollo tendrá su propia rama. Una vez que una funcionalidad esté completamente trabajada, se fusionará con la rama de desarrollo del proyecto. Las convenciones para nombrar las ramas de funcionalidad seguirán un patrón descriptivo y único, por ejemplo, "feature/nombre-de-la-funcionalidad".
+
+4. **Release branches (Ramas de lanzamiento):** Estas ramas se utilizarán para mantener una instancia de la rama develop que esté próxima a ser incluida en la rama principal. Se seguirá el sistema de versionamiento semántico (Semantic Versioning) para nombrar las Releases.
+
+5. **Hotfix branches (Ramas de corrección):** Se crearán para abordar de manera puntual y eficiente la corrección de errores identificados en la rama principal que afecten significativamente la experiencia de los usuarios.
+
+**Versionamiento Semántico:** Para nombrar las Releases, se aplicará el sistema de versionamiento semántico (Semantic Versioning 2.0.0).
+
+**Convenciones de Commits:** Para los mensajes de los commits realizados, se utilizará la especificación Conventional Commits basada en Angular Commit Guidelines. La estructura a seguir será la siguiente:
+
+`git commit -m "<type>[optional scope]: <description">`
+
+### 4.1.3. Source Code Style Guide & Conventions
+
+**Kotlin/Java (Android):** Para mantener un código limpio y coherente en Android Studio, se recomienda:
+
+1. Usar camelCase para nombres de variables y métodos, y PascalCase para clases.
+
+2. Mantener la indentación en 4 espacios y evitar líneas demasiado largas (>100 caracteres).
+
+3. Escribir comentarios claros solo cuando el código no sea autoexplicativo.
+
+4. Nombrar recursos XML (layouts, strings, drawables, ids) en minúsculas y separados por guiones bajos.
+
+5. Seguir la arquitectura definida y separar responsabilidades en paquetes organizados.
+
+**Gherkin:** Es un lenguaje de dominio específico, el cual busca solucionar un problema concreto, la comunicación entre los negocios y la parte técnica al trabajar con Behavior Driven Development, abreviado por sus siglas en ingles como BBD. En busca de una buena práctica, se ocuparon los saltos de línea para mejorar el orden de los diversos tipos de escenarios y diferenciarlos de forma más óptima. Adicionalmente, se utilizaron las palabras clave "Given", "When", "Then" y "And" para estructurar los escenarios.
+
+### 4.1.4. Software Deployment Configuration
+
+**Landing page deployment:**
+
+Para poder desplegar la landing page resulta necesario contar con una serie de requisitos, entre ellos, es necesario con una cuenta personal, una organización y un repositorio al cual cargar los documentos. A partir de lo anterior, es posible comenzar el despliegue de la landing page. A continuación se enuncian los pasos a seguir:
+
+1. Crear una carpeta llamada docs para alojar el Landing Page.  
+
+2. Asegurarse de que los archivos sigan las nomenclaturas index.html, para la landing page; style.css, para los estilos y una carpeta llamada img que contenga las imágenes.  
+
+3. Carga los archivos al repositorio mediante las imágenes.  
+
+4. Dirigirse a Settings > Pages y seleccionar la branch correspondiente dentro de la cual se encuentra el proyecto, generalmente se trata de "main" o "master."  
+
+5. Especificar la carpeta /docs como la fuente de la página.  
+
+6. Esperar a que GitHub realice las comprobaciones necesarias. Una vez culminado el proceso, se obtendrá un enlace que llevará al Landing Page Desplegado.  
+
+![GitHubPages](img/GitHub-Pages.png)
+
+## 4.2. Landing Page & Mobile Application Implementation
+
+### 4.2.1. Sprint 1
+
+#### 4.2.1.1. Sprint Planning 1
+
+Dentro del marco de trabajo Scrum, cada Sprint constituye un periodo de tiempo fijo y breve en el que el equipo de desarrollo trabaja de manera enfocada para alcanzar un objetivo específico que contribuya al cumplimiento del Product Goal (Schwaber, K. & Sutherland, J., 2020). En el contexto del desarrollo de la plataforma uTime, el Sprint #1 dio inicio el 25/09/2025, y su meta consiste en implementar las primeras pantallas necesarias para que el usuario de tipo cliente puede comenzar a visualizar información dentro de la aplicación. Si bien no estamos conectando la totalidad de funciones con nuestro backend ya diseñado, si mostramos la secuencia real que el cliente seguirá dentro de la aplicación para acceder a los servicios. Nuestra funcionalidad principal viene a ser el poder reservar una cita considerando tanto el tipo de servicio, profesional, hora y pago a realizarse.
+
+<table>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint #</b></td>
+      <td colspan="1" align="center">Sprint 1</td>
+   </tr>
+   <tr>
+      <td colspan="2" align="center"><b>Sprint Planning Background</b></td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Date</b></td>
+      <td colspan="1">2025-09-25</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Time</b></td>
+      <td colspan="1">07:00 PM</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Location</b></td>
+      <td colspan="1">Reunión virtual mediante la aplicación Discord</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Prepare By</b></td>
+      <td colspan="1">Jorge Yum</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Attendees (to planning meeting)</b></td>
+      <td colspan="1">Natalia Roman, Gael Rivera, Britney Qqueso, Luciana Choquehuanca y Jorge Yum</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 0 Review Summary</b></td>
+      <td colspan="1">Al ser este el primer sprint, aún no se posee una revisión de un sprint previo</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 0 Retrospective Summary</b></td>
+      <td colspan="1">Al ser este el primer sprint, no podemos contar con una retroaliemtación previa. Puede mensionarse que se han tomado en cuenta los comentarios del profesor para mejorar el informe presentado anteriormente</td>
+   </tr>
+   <tr>
+      <td colspan="2" align="center"><b>Sprint Goal & User Stories</b></td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 1 Goal</b></td>
+      <td colspan="1"><b>Our focus in on</b> developing some of our main application screen and functionalities using Android Studio and focussing on the clients<br><b>We believe it delivers</b>a functional and responsive interface that supports key actions such as visualiting the available services and booking a reservation considering the proffesional, service, schedule time and payment.<br><b>This will be confirmed when</b> customers can successfully see the registered salons and services, and interact with the application in a way in which they can understand the process of booking a spa service.</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 1 Velocity</b></td>
+      <td colspan="1">50</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sum of Story Points</b></td>
+      <td colspan="1">50</td>
+   </tr>
+</tr>
+</table>
+
+#### 4.2.1.2. Sprint Backlog 1
+
+<table>
+   <tr>
+      <td colspan="2" align="center"><b>Sprint #</b></td>
+      <td colspan="6" align="center"><b>Sprint 1</b></td>
+   </tr>
+   <tr>
+      <td colspan="2"><b>User Story</b></td>
+      <td colspan="6" align="center"><b>Work-Item/Task</b></td>
+   </tr>
+   <tr>
+      <td><b>Id</b></td>
+      <td><b>Tittle</b></td>
+      <td><b>Id</b></td>
+      <td><b>Tittle</b></td>
+      <td><b>Description</b></td>
+      <td><b>Estimation (Hours)</b></td>
+      <td><b>Assigned To</b></td>
+      <td><b>Status(To-do/In-Process/To-Review/Done)</b></td>
+   </tr>
+   <tr>
+      <td rowspan="3">US29</td>
+      <td rowspan="3">Visualización general de los servicios</td>
+      <td>T1</td>
+      <td>Redacción de contenido</td>
+      <td>Redactar los textos que describen los servicios ofrecidos.</td>
+      <td>2</td>
+      <td>Luciana Choquehuanca</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T2</td>
+      <td>Maquetación Inicial</td>
+      <td>Implementar estructuras básicas en HTML/CSS</td>
+      <td>2</td>
+      <td>Luciana Choquehuanca</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T3</td>
+      <td>Estilización</td>
+      <td>Aplicar estilos CSS según el diseño aprobado.</td>
+      <td>2</td>
+      <td>Luciana Choquehuanca</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="2">US30</td>
+      <td rowspan="2">Visualización de beneficios</td>
+      <td>T4</td>
+      <td>Redacción de beneficios</td>
+      <td>Redactar los beneficios principales de la plataforma</td>
+      <td>2</td>
+      <td>Britney Qqueso</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T5</td>
+      <td>Diseño Gráfico</td>
+      <td>Utilizar íconos o elementos visuales para loa beneficios</td>
+      <td>1.5</td>
+      <td>Britney Qqueso</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="2">US31</td>
+      <td rowspan="2">Planes y precios</td>
+      <td>T6</td>
+      <td>Redacción de contenido</td>
+      <td>Redacción de los planes y precios para mostrar</td>
+      <td>1</td>
+      <td>Jorge Yum</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T7</td>
+      <td>Implementación UI</td>
+      <td>Codificar la sección de precios y planes</td>
+      <td>2</td>
+      <td>Jorge Yum</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="1">TS06</td>
+      <td rowspan="1">Diseño responsive y accesible</td>
+      <td>T8</td>
+      <td>Diseño responsive y accesible</td>
+      <td>Ajustar estilos para móviles y tablets.</td>
+      <td>2.5</td>
+      <td>Natalia Roman</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="2">US32</td>
+      <td rowspan="2">Testimonios</td>
+      <td>T9</td>
+      <td>Recolección de testimonios</td>
+      <td>Buscar testimonios reales de usuarios anteriores (ficticios o reales)</td>
+      <td>1</td>
+      <td>Gael Rivera</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T10</td>
+      <td>Codificar la sección de testimonios</td>
+      <td>Codificar la sección de testimonios en la landing page</td>
+      <td>2</td>
+      <td>Gael Rivera</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="2">US33</td>
+      <td rowspan="2">Call to Action</td>
+      <td>T11</td>
+      <td>Diseño de botones CTA</td>
+      <td>Diseñar visualmente los botones de llamada a la acción.</td>
+      <td>0.5</td>
+      <td>Jorge Yun</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T12</td>
+      <td>Implementación de botones</td>
+      <td>Añadir los botones CTA en secciones clave del sitio.</td>
+      <td>1</td>
+      <td>Jorge Yum</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="2">US22</td>
+      <td rowspan="2">Administración de servicios ofrecidos</td>
+      <td>T13</td>
+      <td>Muestra de categorias en pantalla</td>
+      <td>Implementación de barra de búsqueda</td>
+      <td>2.5</td>
+      <td>Natalia Roman</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T14</td>
+      <td>Búsqueda de servicios por nombre</td>
+      <td>Implememtación de tarjetas de presentación para cada servicio</td>
+      <td>3.5</td>
+      <td>Natalia Roman</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="3">US01</td>
+      <td rowspan="3">Registro de un cliente</td>
+      <td>T16</td>
+      <td>Maquetado del formulario</td>
+      <td>Crear el formulario con campos como nombre, correo y contraseña</td>
+      <td>3</td>
+      <td>Britney Qqueso</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T17</td>
+      <td>Validación de Campos</td>
+      <td>Validar que los campos del formulario estén correctamente llenados</td>
+      <td>2</td>
+      <td>Britney Qqueso</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T18</td>
+      <td>Estilo y responsive</td>
+      <td>Aplicar diseño responsive y estilos visuales</td>
+      <td>2</td>
+      <td>Britney Qqueso</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="3">US02</td>
+      <td rowspan="3">Registro del salón/barbería</td>
+      <td>T19</td>
+      <td>Maquetado del formulario</td>
+      <td>Crear el formulario con campos para el registro del negocio (nombre, RUC, dirección, etc.)</td>
+      <td>3</td>
+      <td>Gael Rivera</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T20</td>
+      <td>Validación de Campos</td>
+      <td>Validar que los campos del formulario estén correctamente llenados</td>
+      <td>2</td>
+      <td>Gael Rivera</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T21</td>
+      <td>Estilo y responsive</td>
+      <td>Aplicar diseño responsive y estilos visuales</td>
+      <td>1</td>
+      <td>Gael Rivera</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="2">US03</td>
+      <td rowspan="2">Inicio de sesión</td>
+      <td>T22</td>
+      <td>Formulario de login</td>
+      <td>Crear formulario para correo y contraseña</td>
+      <td>2</td>
+      <td>Luciana Choquehuanca</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T23</td>
+      <td>Diseño y feedback</td>
+      <td>Aplicar estilos y mostrar mensajes de error/éxito</td>
+      <td>2</td>
+      <td>Luciana Choquehuanca</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="1">US17</td>
+      <td rowspan="1">Selección de salón</td>
+      <td>T24</td>
+      <td>Diseño de interfaz de búsqueda</td>
+      <td>Crear la interfaz para buscar salones con filtros básicos</td>
+      <td>3</td>
+      <td>Jorge Suin Yum Gonzales</td>
+      <td>To-do</td>
+   </tr>
+   <tr>
+      <td rowspan="2">TS15</td>
+      <td rowspan="2">Implementación de endpoints para consulta de usuarios</td>
+      <td>T1</td>
+      <td>Desarrollo del método para listar todos los usuarios (GET /users)</td>
+      <td>Implementar la lógica en el controlador y servicio para recuperar la lista completa de usuarios registrados.</td>
+      <td>1</td>
+      <td>Yum Gonzales, Jorge Suin</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T2</td>
+      <td>Desarrollo del método para obtener usuario por ID (GET /users/{id})</td>
+      <td>Obtener usuario por ID.</td>
+      <td>1</td>
+      <td>Yum Gonzales, Jorge Suin</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="2">TS11</td>
+      <td rowspan="2">Implementación de endpoints para autenticación de usuarios</td>
+      <td>T1</td>
+      <td>Desarrollo del método para inicio de sesión (POST /authentication/sign-in)</td>
+      <td>Implementar la lógica necesaria para autenticar usuarios registrados mediante sus credenciales y retornar un token JWT válido.</td>
+      <td>2</td>
+      <td>Yum Gonzales, Jorge Suin</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T2</td>
+      <td>Desarrollo del método para registro de usuarios (POST /authentication/sign-up)</td>
+      <td>Implementar la funcionalidad para registrar nuevos usuarios en el sistema.</td>
+      <td>2</td>
+      <td>Yum Gonzales, Jorge Suin</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="3">TS16</td>
+      <td rowspan="3">Implementación de endpoints para gestión de reviews</td>
+      <td>T1</td>
+      <td>Desarrollo del método para listar todas las reviews (GET /reviews)</td>
+      <td>Implementar la lógica en el controlador y servicio para recuperar la lista completa de reseñas registradas.</td>
+      <td>1</td>
+      <td>Yum Gonzales, Jorge Suin</td>
+      <td>In-Process</td>
+   </tr>
+   <tr>
+      <td>T2</td>
+      <td>Desarrollo del método para registrar una nueva review (POST /reviews)</td>
+      <td>Crear la funcionalidad que permita registrar una nueva reseña, validando los datos y almacenándolos en la base de datos.</td>
+      <td>1</td>
+      <td>Yum Gonzales, Jorge Suin</td>
+      <td>In-Process</td>
+   </tr>
+   <tr>
+      <td>T3</td>
+      <td>Desarrollo del método para obtener review por ID (GET /reviews/{id})</td>
+      <td>Desarrollar la funcionalidad para consultar los datos de una reseña específica mediante su identificador único.</td>
+      <td>1</td>
+      <td>Yum Gonzales, Jorge Suin</td>
+      <td>In-Process</td>
+   </tr>
+   <tr>
+      <td>T2</td>
+      <td>Desarrollo del método para registro de usuarios (POST /authentication/sign-up)</td>
+      <td>Implementar la funcionalidad para registrar nuevos usuarios en el sistema.</td>
+      <td>2</td>
+      <td>Yum Gonzales, Jorge Suin</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="2">TS18</td>
+      <td rowspan="2">Implementación de endpoints para gestión de perfiles de proveedores</td>
+      <td>T1</td>
+      <td>Desarrollo del método para visualizar perfil de proveedor (GET /providerProfile/{id})</td>
+      <td>Implementar la funcionalidad para consultar los datos de un perfil de proveedor específico mediante su identificador único.</td>
+      <td>1</td>
+      <td>Yum Gonzales, Jorge Suin</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T2</td>
+      <td>Desarrollo del método para registrar perfil de proveedor (POST /providerProfile)</td>
+      <td>Crear la funcionalidad que permita registrar un nuevo perfil de proveedor, validando los datos y almacenándolos en la base de datos.</td>
+      <td>2</td>
+      <td>Yum Gonzales, Jorge Suin</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="1">TS19</td>
+      <td rowspan="1">Conexión de endpoints con frontend móvil</td>
+      <td>T1</td>
+      <td>Integración de endpoints de Profiles con aplicación móvil</td>
+      <td>Conectar frontend móvil con `ClientsController`, `ProviderProfileController`, `ProvidersController` para mostrar perfiles e imágenes en la aplicación móvil</td>
+      <td>2</td>
+      <td>Yum Gonzales, Jorge Suin</td>
+      <td>Done</td>
+   </tr>
+   
+</table>
+
+#### 4.2.1.3. Development Evidence for Sprint Review
+
+A continuación, se presenta un detalle de los commits realizados, los cuales corresponden a las tareas asignadas a cada miembro del equipo, según lo establecido en el Sprint Backlog 1.
+
+Repositorio en github: https://github.com/PaxTech-1807/Mobile-App
+
+
+| Repository              | Branch  | Commit Id | Commit Message                       | Commited on (Date) |
+| ----------------------- | ------- | --------- | ------------------------------------ | ------------------ |
+| PaxTech-1807/Mobile-App | develop | 9f3a1c2   | chore: base android project          | 01/10/2025         |
+| PaxTech-1807/Mobile-App | develop | a12b4d8   | docs: add readme                     | 01/10/2025         |
+| PaxTech-1807/Mobile-App | develop | b7c9e21   | feat: US29 services layout           | 01/10/2025         |
+| PaxTech-1807/Mobile-App | develop | c34af90   | style: US29 services styles          | 01/10/2025         |
+| PaxTech-1807/Mobile-App | develop | d1e5ab3   | feat: US30 benefits copy + icons     | 02/10/2025         |
+| PaxTech-1807/Mobile-App | develop | e93bf12   | feat: US31 pricing content           | 02/10/2025         |
+| PaxTech-1807/Mobile-App | develop | f7a1cde   | feat: US31 pricing UI                | 02/10/2025         |
+| PaxTech-1807/Mobile-App | develop | 2fa93b0   | feat: TS06 responsive + a11y         | 03/10/2025         |
+| PaxTech-1807/Mobile-App | develop | 4a8c1e9   | feat: US32 testimonials component    | 03/10/2025         |
+| PaxTech-1807/Mobile-App | develop | 6c2e8bd   | feat: US33 CTAs + wiring             | 04/10/2025         |
+| PaxTech-1807/Mobile-App | develop | 9a4d7f2   | feat: US34 contact form + validation | 05/10/2025         |
+| PaxTech-1807/Mobile-App | main    | dfe1029   | merge: develop → main (sprint 1)     | 06/10/2025         |
+
+
+
+#### 4.2.1.4. Testing Suite Evidence for Sprint Review
+Se implementaron las pruebas de aceptación para las historias de usuario desarrolladas. Estas pruebas se definieron utilizando el lenguaje Gherkin.
+
+Repositorio de Acceptance Tests: https://github.com/PaxTech-1807/Acceptance-Tests
+
+
+| Repository                    | Branch | Commit Id   | Commit Message                                                                                                                             | Commited on (Date) |
+| ----------------------------- | ------ | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| PaxTech-1807/Acceptance-Tests | main   | **a91c2f3** | feat(tech-stories): add Gherkin features for **TS01–TS06** (security, realtime, validation, user registration/login)                       | 04/10/2025         |
+| PaxTech-1807/Acceptance-Tests | main   | **4fa7d9b** | feat(tech-stories): add Gherkin features for **TS07–TS12** (bookings, schedules, payments, subscriptions, notifications, providers)        | 04/10/2025         |
+| PaxTech-1807/Acceptance-Tests | main   | **c73e1a0** | feat(tech-stories): add Gherkin features for **TS13–TS18** (provider profile, workers, clients, reviews, services, users)                  | 05/10/2025         |
+| PaxTech-1807/Acceptance-Tests | main   | **d5b4e22** | feat(user-stories): add Gherkin features for **US01–US05** (sign-up, business register, login, recovery, customer profile)                 | 05/10/2025         |
+| PaxTech-1807/Acceptance-Tests | main   | **e8c6a1f** | feat(user-stories): add Gherkin features for **US06–US10** (business profile, logout, account deletion, schedule view/config)              | 05/10/2025         |
+| PaxTech-1807/Acceptance-Tests | main   | **79d2bb8** | feat(user-stories): add Gherkin features for **US11–US15** (subscription benefits/pricing/status, plan purchase, payment confirmation)     | 06/10/2025         |
+| PaxTech-1807/Acceptance-Tests | main   | **1abf7c4** | feat(user-stories): add Gherkin features for **US16–US20** (auto-renewal, booking create/list/modify/cancel)                               | 06/10/2025         |
+| PaxTech-1807/Acceptance-Tests | main   | **f0c934a** | feat(user-stories): add Gherkin features for **US21–US25** (booking history, services CRUD, workers, bank accounts, booking notifications) | 06/10/2025         |
+| PaxTech-1807/Acceptance-Tests | main   | **6d8e5a1** | feat(user-stories): add Gherkin features for **US26–US30** (renewal/payment alerts, channels, promos, landing: services/benefits)          | 06/10/2025         |
+| PaxTech-1807/Acceptance-Tests | main   | **b3f1c9d** | feat(user-stories): add Gherkin features for **US31–US35** (landing: pricing, testimonials, CTAs, contact/support, about us)               | 06/10/2025         |
+
+
+
+#### 4.2.1.5. Execution Evidence for Sprint Review
+
+La siguiente sección presenta la evidencia de ejecución de la landing page, backend y algunas pantallas de la aplicación mobil de uTime, mostrando la experiencia completa del usuario desde su primera interacción hasta la conversión final. Cada imagen representa una sección específica de la página que guía al usuario a través de un journey diseñado para presentar las funcionalidades, beneficios y valor de la plataforma para salones de belleza y barberías.
+
+**Landing Page**
+
+**1. Hero Section - Primera Impresión del Usuario**
+
+![Hero Section](img/mockup_landing_1.png.png)
+
+La landing page comienza con una sección hero impactante que captura inmediatamente la atención del usuario. Esta sección presenta una frase llamativa "Skip the Calls, Book in Real Time" que comunica directamente el valor principal de la plataforma. El usuario encuentra un call-to-action prominente "Start for Free →" que lo invita a comenzar su experiencia con uTime. Esta sección está diseñada para generar interés inmediato y motivar al usuario a explorar más la plataforma.
+
+**2-4. Features Section - Funcionalidades de la Aplicación**
+
+![Features 1](img/mockup_landing_2.png)
+![Features 2](img/mockup_landing_3.png)
+![Features 3](img/mockup_landing_4.png)
+
+Las secciones de características presentan las funcionalidades principales que uTime ofrece a los salones de belleza. Los usuarios pueden explorar:
+
+- **Gestión de Citas Inteligente**: Un calendario visual que se actualiza en tiempo real, permitiendo a los usuarios ver todas las reservas de su equipo de forma centralizada.
+- **Pagos y Gestión Completa de Servicios**: Control total del salón desde un solo dashboard, incluyendo servicios, reservas, pagos e interacciones con clientes.
+- **Perfiles Personalizables**: Control completo con perfiles personalizados que permiten a cada salón o barbería mostrar sus servicios, gestionar su equipo y controlar cómo los clientes los ven.
+
+Cada feature incluye iconos descriptivos y capturas de pantalla de la aplicación real, permitiendo al usuario visualizar cómo funcionaría la plataforma en su negocio.
+
+**5-6. Roadmap - Proceso de Interacción del Usuario**
+
+![Roadmap 1](img/mockup_landing_5.png)
+![Roadmap 2](img/mockup_landing_6.png)
+
+Esta sección presenta un roadmap claro de cómo los salones de belleza interactuarán con la aplicación:
+
+- **Crear Cuenta**: El usuario se registra fácilmente proporcionando información básica y accede a su dashboard personalizado.
+- **Agregar y Gestionar Trabajadores**: Los usuarios registran su equipo, asignan horarios y controlan las agendas desde un solo lugar.
+- **Definir Servicios**: Los usuarios configuran sus servicios, precios y duraciones de manera sencilla.
+
+El roadmap incluye capturas de pantalla reales de la aplicación, mostrando la interfaz de gestión de personal y calendario, lo que permite al usuario visualizar el flujo de trabajo completo.
+
+**7. Pricing Section - Planes de Suscripción**
+
+![Pricing](img/execution_landing_7.png)
+
+La sección de precios presenta tres planes flexibles diseñados para diferentes etapas del negocio:
+
+- **Essential (Gratis)**: Plan básico con calendario inteligente, página de reservas de clientes, reseñas y calificaciones, perfiles de estilistas y hasta 2 cuentas de estilistas.
+- **ProStyle (S/69.9/mes)**: Plan intermedio con sincronización avanzada de calendario, recordatorios por WhatsApp, hasta 5 estilistas, seguimiento de rendimiento y soporte prioritario.
+- **Deluxe Studio (S/129.9/mes)**: Plan premium con control total del calendario, recordatorios ilimitados, estilistas ilimitados, análisis avanzados y soporte VIP.
+
+Los usuarios pueden comparar las características de cada plan y elegir el que mejor se adapte a las necesidades de su negocio.
+
+**8. Testimonials Section - Experiencias de Usuarios**
+
+![Testimonials](img/execution_landing_8.png)
+
+Esta sección presenta testimonios reales de más de 100+ negocios de belleza que confían en uTime. Los testimonios incluyen:
+
+- Experiencias de ahorro de tiempo en la gestión del salón
+- Mejoras en la organización de citas
+- Satisfacción del cliente y del equipo
+- Control de productividad y estadísticas
+
+Cada testimonio incluye una calificación de 5 estrellas, una cita del usuario, su foto de perfil, nombre y rol en su negocio, proporcionando credibilidad y confianza a los nuevos usuarios.
+
+**9. FAQ Section - Preguntas Frecuentes**
+
+![FAQ](img/execution_landing_9.png)
+
+La sección de preguntas frecuentes aborda las dudas más comunes sobre la plataforma:
+
+- ¿Es uTime adecuado para barberías pequeñas o solo para grandes empresas?
+- ¿Necesito conexión a internet para usar uTime?
+- ¿uTime ayuda a gestionar horarios y turnos del personal?
+- ¿Hay una prueba gratuita para probar uTime?
+- ¿uTime me ayuda a gestionar las citas de clientes?
+
+Los usuarios pueden hacer clic en cualquier pregunta para expandir la respuesta, permitiendo una navegación rápida y eficiente para resolver sus dudas específicas.
+
+**10. Call to Action Final y Footer**
+
+![Final CTA and Footer](img/execution_landing_10.png)
+
+La landing page culmina con una sección de llamada a la acción final que refuerza el valor de la plataforma:
+
+- **Mensaje Principal**: "¿Listo para transformar tus operaciones diarias?"
+- **Descripción**: Explica cómo uTime ayuda a gestionar citas, turnos y clientes con facilidad.
+- **Call to Action**: Botón prominente "Start for Free →" para la conversión final.
+
+El footer incluye:
+- Enlaces rápidos de navegación
+- Información de soporte y ayuda
+- Datos de contacto (email, teléfono, dirección)
+- Enlaces a redes sociales
+
+Esta estructura completa guía al usuario a través de un journey optimizado que educa, persuade y convierte, presentando uTime como la solución integral para la gestión de salones de belleza y barberías.
+
+**Url de la Landing Page Deployada: ** https://paxtech-1807.github.io/Landing-Page/
+
+**Backend**
+
+La siguiente sección presenta la evidencia de ejecución del backend de uTime, mostrando la documentación completa de la API REST que soporta todas las funcionalidades de la plataforma. Cada imagen representa un conjunto de endpoints específicos que permiten la gestión integral de salones de belleza y barberías.
+
+**1. Workers Management - Gestión de Trabajadores**
+
+![Workers API](img/execution_backend_1.png)
+
+Endpoints para la gestión completa de trabajadores del salón:
+- **GET /api/v1/workers**: Obtener todos los trabajadores
+- **POST /api/v1/workers**: Crear nuevo trabajador
+- **GET /api/v1/workers/{workerId}**: Obtener trabajador por ID
+- **PUT /api/v1/workers/{workerId}**: Actualizar trabajador
+- **DELETE /api/v1/workers/{workerId}**: Eliminar trabajador
+
+**2. Provider Profiles - Perfiles de Proveedores**
+
+![Provider Profiles API](img/execution_backend_2.png)
+
+Endpoints para gestión de perfiles de proveedores y sus relaciones:
+- **GET /api/v1/provider-profiles**: Obtener todos los perfiles
+- **POST /api/v1/provider-profiles**: Crear nuevo perfil
+- **GET /api/v1/provider-profiles/{id}**: Obtener perfil por ID
+- **PUT /api/v1/provider-profiles/{id}**: Actualizar imagen y portada
+- **DELETE /api/v1/provider-profiles/{id}**: Eliminar perfil
+
+**3. Clients Management - Gestión de Clientes**
+
+![Clients API](img/execution_backend_3.png)
+
+Endpoints para la gestión de clientes:
+- **GET /api/v1/clients**: Obtener todos los clientes
+- **POST /api/v1/clients**: Crear nuevo cliente
+- **GET /api/v1/clients/{id}**: Obtener cliente por ID
+- **GET /api/v1/clients/user/{userId}**: Obtener cliente por userId
+
+**4. Time Slots - Gestión de Horarios**
+
+![Time Slots API](img/execution_backend_4.png)
+
+Endpoints para gestión de horarios disponibles:
+- **GET /api/v1/time-slots**: Obtener todos los horarios
+- **POST /api/v1/time-slots**: Crear nuevo horario
+- **GET /api/v1/time-slots/{id}**: Obtener horario por ID
+
+**5. Reservations - Gestión de Reservas**
+
+![Reservations API](img/execution_backend_5.png)
+
+Endpoints para gestión completa de reservas:
+- **GET /api/v1/reservationsDetails**: Obtener todas las reservas
+- **POST /api/v1/reservationsDetails**: Crear nueva reserva
+- **GET /api/v1/reservationsDetails/{reservationId}**: Obtener reserva por ID
+- **GET /api/v1/reservationsDetails/details**: Obtener información detallada de reservas
+- **GET /api/v1/reservationsDetails/details/{reservationId}**: Obtener información detallada de reserva específica
+
+**6. Social Networks - Redes Sociales**
+
+![Socials API](img/execution_backend_6.png)
+
+Endpoints para gestión de redes sociales y sus relaciones con perfiles:
+- **GET /api/v1/providerProfiles/{providerProfileId}/socials**: Obtener redes sociales del perfil
+- **POST /api/v1/providerProfiles/{providerProfileId}/socials**: Crear nueva red social
+- **PUT /api/v1/providerProfiles/{providerProfileId}/socials/{id}**: Actualizar red social
+- **DELETE /api/v1/providerProfiles/{providerProfileId}/socials/{id}**: Eliminar red social
+
+**7. Services Management - Gestión de Servicios**
+
+![Services API](img/execution_backend_7.png)
+
+Endpoints para gestión de servicios ofrecidos:
+- **GET /api/v1/services**: Obtener todos los servicios
+- **POST /api/v1/services**: Crear nuevo servicio
+- **PUT /api/v1/services/{id}**: Actualizar servicio
+- **DELETE /api/v1/services/{serviceId}**: Eliminar servicio
+
+**8. Users Management - Gestión de Usuarios**
+
+![Users API](img/execution_backend_8.png)
+
+Endpoints para gestión de usuarios del sistema:
+- **GET /api/v1/users**: Obtener todos los usuarios
+- **GET /api/v1/users/{userId}**: Obtener usuario por ID
+
+**9. Providers Management - Gestión de Proveedores**
+
+![Providers API](img/execution_backend_9.png)
+
+Endpoints para gestión de proveedores:
+- **GET /api/v1/providers**: Obtener todos los proveedores
+- **POST /api/v1/providers**: Crear nuevo proveedor
+- **GET /api/v1/providers/{id}**: Obtener proveedor por ID
+- **GET /api/v1/providers/user/{userId}**: Obtener proveedor por userId
+
+**10. Reviews Management - Gestión de Reseñas**
+
+![Reviews API](img/execution_backend_10.png)
+
+Endpoints para gestión de reseñas y calificaciones:
+- **GET /api/v1/reviews**: Obtener todas las reseñas
+- **POST /api/v1/reviews**: Crear nueva reseña
+- **GET /api/v1/reviews/{reviewId}**: Obtener reseña por ID
+- **DELETE /api/v1/reviews/{reviewId}**: Eliminar reseña
+
+**11. Payments Management - Gestión de Pagos**
+
+![Payments API](img/execution_backend_11.png)
+
+Endpoints para gestión de pagos:
+- **GET /api/v1/payments**: Obtener todos los pagos
+- **POST /api/v1/payments**: Crear nuevo pago
+- **GET /api/v1/payments/{paymentId}**: Obtener pago por ID
+
+**12. Authentication - Autenticación**
+
+![Authentication API](img/execution_backend_12.png)
+
+Endpoints para autenticación de usuarios:
+- **POST /api/v1/authentication/sign-up**: Registro de usuarios
+- **POST /api/v1/authentication/sign-in**: Inicio de sesión
+
+**13. Portfolio Images - Imágenes de Portafolio**
+
+![Portfolio Images API](img/execution_backend_13.png)
+
+Endpoints para gestión de imágenes de portafolio y sus relaciones con perfiles:
+- **GET /api/v1/providerProfiles/{providerProfileId}/portfolio**: Obtener todas las imágenes del portafolio
+- **POST /api/v1/providerProfiles/{providerProfileId}/portfolio**: Crear nueva imagen de portafolio
+- **PUT /api/v1/providerProfiles/{providerProfileId}/portfolio/{id}**: Actualizar imagen del portafolio
+- **DELETE /api/v1/providerProfiles/{providerProfileId}/portfolio/{id}**: Eliminar imagen del portafolio
+
+Esta API REST completa proporciona todas las funcionalidades necesarias para el funcionamiento integral de uTime, permitiendo la gestión de usuarios, servicios, reservas, pagos y todos los aspectos operativos de salones de belleza y barberías.
+
+
+**Mobile App**
+
+### Flujo de Ejecución de la Aplicación Móvil
+
+La aplicación móvil uTime presenta un flujo de usuario intuitivo y bien estructurado que guía al usuario desde el primer contacto hasta la confirmación de su reserva:
+
+#### 1. **Pantalla de Bienvenida**
+- Presentación inicial con el logo "utime" en color púrpura característico
+- Mensaje de bienvenida y descripción de la funcionalidad de la app
+- Botón "Empezar" para iniciar la experiencia de usuario
+
+<div align="center">
+<img src="img/execution_movil_1.jpg" alt="Pantalla de Bienvenida" width="300"/>
+</div>
+
+#### 2. **Pantalla de Inicio de Sesión**
+- Formulario de login con campos de usuario y contraseña
+- Opciones de inicio de sesión con redes sociales (Apple, Google, Facebook)
+- Enlace para registro de nuevos usuarios
+
+<div align="center">
+<img src="img/execution_movil_2.jpg" alt="Pantalla de Inicio de Sesión" width="300"/>
+</div>
+
+#### 3. **Pantalla Principal (Home)**
+- Saludo personalizado al usuario
+- Secciones de "Recomendado" y "Tendencia" con servicios destacados
+- Sección "Visto recientemente" para facilitar reservas repetidas
+- Navegación inferior con Home, Services, Cart y Profile
+
+<div align="center">
+<img src="img/execution_movil_3.jpg" alt="Pantalla Principal Home" width="300"/>
+</div>
+
+#### 4. **Perfil del Salón - Servicios**
+- Información detallada del salón seleccionado
+- Imagen del profesional y datos de contacto
+- Lista de servicios disponibles con precios y duración
+- Botones "Reservar" para cada servicio
+
+<div align="center">
+<img src="img/execution_movil_4.jpg" alt="Perfil del Salón - Servicios" width="300"/>
+</div>
+
+#### 5. **Perfil del Salón - Reseñas**
+- Sistema de reseñas y calificaciones de clientes
+- Comentarios con sistema de estrellas
+- Información de confianza para el usuario
+
+<div align="center">
+<img src="img/execution_movil_5.jpg" alt="Perfil del Salón - Reseñas" width="300"/>
+</div>
+
+#### 6. **Perfil del Salón - Acerca de**
+- Información detallada del salón
+- Horarios de atención
+- Ubicación y datos de contacto
+
+<div align="center">
+<img src="img/execution_movil_6.jpg" alt="Perfil del Salón - Acerca de" width="300"/>
+</div>
+
+#### 7. **Selección de Profesional**
+- Lista de profesionales disponibles
+- Opción "Cualquier profesional" para flexibilidad
+- Resumen del servicio seleccionado (precio y duración)
+
+<div align="center">
+<img src="img/execution_movil_7.jpg" alt="Selección de Profesional" width="300"/>
+</div>
+
+#### 8. **Selección de Fecha y Hora**
+- Calendario interactivo para elegir fecha
+- Lista de horarios disponibles
+- Información del profesional seleccionado
+- Validación antes de continuar
+
+<div align="center">
+<img src="img/execution_movil_8.jpg" alt="Selección de Fecha y Hora" width="300"/>
+</div>
+
+#### 9. **Confirmación de Reserva**
+- Resumen completo de la reserva
+- Detalles del servicio, profesional, fecha y hora
+- Resumen de pago con total
+- Botón final de confirmación
+
+<div align="center">
+<img src="img/execution_movil_9.jpg" alt="Confirmación de Reserva" width="300"/>
+</div>
+
+#### 10. **Confirmación Exitosa**
+- Mensaje de confirmación con ícono de éxito
+- Detalles de la reserva confirmada
+- Opciones para volver al inicio o compartir la reserva
+
+<div align="center">
+<img src="img/execution_movil_10.jpg" alt="Confirmación Exitosa" width="300"/>
+</div>
+
+#### 11. **Categorías de Servicios**
+- Grid de categorías de servicios de belleza
+- Incluye: Maquillaje, Manicure, Barbería, Cuidado Facial, Masajes, etc.
+- Barra de búsqueda para facilitar la navegación
+
+<div align="center">
+<img src="img/execution_movil_11.jpg" alt="Categorías de Servicios" width="300"/>
+</div>
+
+Este flujo demuestra una experiencia de usuario fluida y completa, desde el descubrimiento hasta la confirmación de reservas, con una interfaz intuitiva y funcionalidades bien integradas.
+
+
+#### 4.2.1.6. Services Documentation Evidence for Sprint Review
+
+Este apartado presenta evidencias del módulo Frontend de UTime que demuestran cómo se consumen y orquestan los servicios desde la capa de presentación.
+
+1) Módulo de autenticación y bienvenida
+- **login/**
+  - `LoginScreen.kt`: pantalla de inicio de sesión para usuarios existentes.
+- **register/**
+  - `RegisterScreen.kt`: registro de nuevos usuarios.
+  - `SuccessBusinessScreen.kt`: confirmación de registro para proveedor.
+  - `SuccessClientScreen.kt`: confirmación de registro para cliente.
+- **splash/**
+  - `SplashScreen.kt`: pantalla inicial; valida sesión/estado de la app.
+- **welcome/**
+  - `WelcomeScreen.kt`: bienvenida y rutas para iniciar sesión o registrarse.
+
+<div align="center">
+<img src="img/front-img.png" alt="front img" />
+</div>
+
+2) Módulo “home” (Jetpack Compose + MVVM)
+- `Home.kt`: pantalla principal tras el login; muestra salones, citas o accesos según rol.
+- `HomeViewModel`: maneja estado/datos de Home (salones, promos, etc.).
+- `SalonCard.kt`: composable reutilizable para tarjetas de salón (nombre, rating, acción “Book”).
+- `SalonDebugScreen.kt`: pantalla auxiliar para pruebas/render de componentes.
+  
+<div align="center">
+<img src="img/front-img2.png" alt="front img" />
+</div>
+
+3) Módulo de “services” (Clean Architecture)
+**Carpeta `data.service/`**
+- `ServiceDto`: DTO para intercambio con API.
+- `ServiceRemoteModule`: configuración de DI para servicios remotos (Retrofit/BaseApiService).
+- `ServiceRepositoryImpl`: implementación del repositorio; orquesta fuentes de datos.
+- `ServiceService`: capa de red/cliente HTTP con operaciones de servicios.
+
+**Carpeta `domain/`**
+- `Provider`: entidad de proveedor.
+- `ProviderRepository`: contrato de acceso a datos de proveedor.
+- `Service`: entidad de servicio ofrecido (corte, manicure, etc.).
+- `ServiceRepository`: contrato de acceso a datos de servicios.
+- `ServicesRepositoryModule`: módulo DI que enlaza interfaces de `domain` con `data.service`.
+
+<div align="center">
+<img src="img/front-img3.png" alt="front img" />
+</div>
+
+
+A continuación, se presentan tres fragmentos de código que evidencian el uso e implementación de los servicios dentro del sistema Backend, abarcando desde la configuración de los endpoints, asi como la lógica de la estructura para los bounded context del negocio:
+
+### 1. Shared Bounded Context:
+
+<div align="center">
+<img src="img/Sharedboundedtb3.png" alt="Shared Bounded Context" />
+</div>
+
+### 2. IAM Bounded Context:
+
+<div align="center">
+<img src="img/IAMboundedtb3.png" alt="Shared Bounded Context" />
+</div>
+
+### 3. Workers Bounded Context:
+
+<div align="center">
+<img src="img/Workersboundedtb3.png" alt="Shared Bounded Context" />
+</div>
+
+### 4. Services Bounded Context:
+
+<div align="center">
+<img src="img/Servicesboundedtb3.png" alt="Shared Bounded Context" />
+</div>
+
+### 5. Reviews Bounded Context:
+
+<div align="center">
+<img src="img/Reviewsboundedtb3.png" alt="Shared Bounded Context" />
+</div>
+
+### 6. Rservation Bounded Context:
+
+<div align="center">
+<img src="img/Reservationboundedtb3.png" alt="Shared Bounded Context" />
+</div>
+
+### 7. Profile Bounded Context:
+
+<div align="center">
+<img src="img/Profileboundedtb3.png" alt="Shared Bounded Context" />
+</div>
+
+
+#### 4.2.1.7. Software Deployment Evidence for Sprint Review
+
+**Landing Page:**
+
+Para la entrega del Sprint número 1, se desplegó la landing page completa en GitPage. Donde configuramos que la rama que tomará sera main que se encuentra en la carpeta docs, ya que seguimos una estructura de carpetas y archivos.
+
+![GitPage](img/GitHub-Pages.png)
+
+Enlace para acceder a la landing page: https://paxtech-1807.github.io/Landing-Page/
+
+**Backend:**
+Para realizar el deployment del backend de la aplicación, se empleó la plataforma Render temporalmente mientras se configura el FrontEnd de la aplicacion movil. Mas adelante se optara por hacer despliegue en un servicio de maquina virtual en la nube.
+
+En primer lugar, se compilo el spring boot usando maven y usando docker se construyó la imagen del proyecto.
+Esta imagen se subio al repositorio de Docker Hub. De esta manera desde el servicio de Render se puede acceder a la imagen y desplegarla con las variables de entorno necesarias.
+
+![Dockerfile](img/dockerhub.png)
+
+![Render Service](img/render.png)
+
+Se utiliza swagger para acceder a las endpoints:
+
+![Swagger](img/swagger.png)
+
+Finalmente, usando el servicio de Aiven, se desplego una base de datos MySql y se configuraron las variables de entorno en Render para que el backend pueda conectarse a la base de datos.
+
+![MySql on Aiven](img/aiven.png)
+
+URL del BackEnd Deployado: https://utime-web-service.onrender.com/swagger-ui/index.html
+
+Cabe mencionar que debido a que Render al ser un servicio gratuito , al acceder al URL del backend deployado, este puede demorar un aproximado de "50 segundos" en iniciar el servicio. Este problema no se presentara cuando se haga el despliegue en un servicio de maquina virtual en la nube.
+
+#### 4.2.1.8. Team Collaboration Insights during Sprint
+
+**Aplicación Móvil**
+
+| **Alumno**                           | **Actividad**                                                       |
+|--------------------------------------|---------------------------------------------------------------------|
+| Roman Cruz, Natalia Riman            | Implementación de pantalla categorias, busqueda de servicios y conección con backend |
+| Rivera Sosa, Eduardo Gael            | Implementación de pantallas de sign up, registro y sign in |
+| Choquehuanca Nuñez, Luciana Carolina | Implementación de pantallas de reserva de servicio |
+| Qqueso Rodriguez, Britney Delhy      | Implementación de pantallas de visualizacion de perfil, favoritos, idiomas y ajustes  |
+| Yum Gonzales, Jorge Suin             | Implementación de pantallas de reserva de servicio |
+
+![alt text](img/insight_sprint1_2.png)
+
+![alt text](img/insight_sprint1_1.png)
+
+<div style="page-break-before: always;"></div>
+
+### 4.2.2. Sprint 2
+
+#### 4.2.2.1. Sprint Planning 2
+
+
+Dentro del marco de trabajo Scrum, cada Sprint constituye un periodo de tiempo fijo y breve en el que el equipo de desarrollo trabaja de manera enfocada para alcanzar un objetivo específico que contribuya al cumplimiento del Product Goal (Schwaber, K. & Sutherland, J., 2020). En el contexto del desarrollo de la plataforma uTime, el Sprint #2 dio inicio el 16/10/2025, y su meta consiste en continuar el desarrollo de la aplicación móvil en Android, completando funcionalidades pendientes, mejorando la integración con el backend y refinando la experiencia de usuario. Durante este sprint, el equipo se enfocará en finalizar las funcionalidades core del flujo de Android, incluyendo mejoras en la UI/UX, conexión completa con los servicios del backend y optimización del rendimiento de la aplicación.
+
+<table>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint #</b></td>
+      <td colspan="1" align="center">Sprint 2</td>
+   </tr>
+   <tr>
+      <td colspan="2" align="center"><b>Sprint Planning Background</b></td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Date</b></td>
+      <td colspan="1">2025-10-16</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Time</b></td>
+      <td colspan="1">07:00 PM</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Location</b></td>
+      <td colspan="1">Reunión virtual mediante la aplicación Discord</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Prepare By</b></td>
+      <td colspan="1">Gael Rivera</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Attendees (to planning meeting)</b></td>
+      <td colspan="1">Natalia Roman, Gael Rivera, Britney Qqueso, Luciana Choquehuanca y Jorge Yum</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 2 Review Summary</b></td>
+      <td colspan="1">El Sprint 2 logró completar el desarrollo del flujo en Android, finalizando todas las funcionalidades core de la aplicación. Se mejoró significativamente la integración con el backend, permitiendo que todas las operaciones funcionen de manera completa y en tiempo real. Se realizó un cambio completo de UI/UX en toda la aplicación, mejorando la consistencia visual y la experiencia de usuario. La aplicación Android quedó completamente funcional con todas sus características implementadas y documentadas.</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 1 Retrospective Summary</b></td>
+      <td colspan="1">Durante la retrospectiva del Sprint 1, el equipo identificó la necesidad de mejorar la integración con el backend y optimizar algunos flujos de usuario. Se acordó priorizar la conexión completa con los servicios del backend en el siguiente sprint, así como refinar la experiencia de usuario basándose en los comentarios recibidos. Además, se identificó la importancia de mejorar el UI de la aplicación y arreglar la landing page para mejorar la presentación visual del producto. El equipo también reconoció la importancia de mantener una documentación más detallada durante el desarrollo.</td>
+   </tr>
+   <tr>
+      <td colspan="2" align="center"><b>Sprint Goal & User Stories</b></td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 2 Goal</b></td>
+      <td colspan="1"><b>Our focus is on</b> completing the Android application development by finalizing core functionalities, improving backend integration, and enhancing the UI/UX of the entire application.<br><b>We believe it delivers</b> a fully functional Android application with complete backend connectivity, improved user interface, and optimized performance that provides a seamless experience for users booking spa services.<br><b>This will be confirmed when</b> all core functionalities are working end-to-end with the backend, the application has a consistent and polished UI throughout all screens, and users can complete the full booking flow without issues.</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 2 Velocity</b></td>
+      <td colspan="1">55</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sum of Story Points</b></td>
+      <td colspan="1">55</td>
+   </tr>
+</tr>
+</table>
+
+#### 4.2.2.2. Sprint Backlog 2
+
+<table>
+   <tr>
+      <td colspan="2" align="center"><b>Sprint #</b></td>
+      <td colspan="6" align="center"><b>Sprint 2</b></td>
+   </tr>
+   <tr>
+      <td colspan="2"><b>User Story</b></td>
+      <td colspan="6" align="center"><b>Work-Item/Task</b></td>
+   </tr>
+   <tr>
+      <td><b>Id</b></td>
+      <td><b>Tittle</b></td>
+      <td><b>Id</b></td>
+      <td><b>Tittle</b></td>
+      <td><b>Description</b></td>
+      <td><b>Estimation (Hours)</b></td>
+      <td><b>Assigned To</b></td>
+      <td><b>Status(To-do/In-Process/To-Review/Done)</b></td>
+   </tr>
+   <tr>
+      <td rowspan="2">US02</td>
+      <td rowspan="2">Registro de salón/barbería</td>
+      <td>T201</td>
+      <td>Maquetado Flutter del registro</td>
+      <td>Implementar en Flutter la pantalla de registro del negocio con campos obligatorios y validaciones visuales.</td>
+      <td>4</td>
+      <td>Gael Rivera</td>
+      <td>In-Process</td>
+   </tr>
+   <tr>
+      <td>T202</td>
+      <td>Integración con backend</td>
+      <td>Conectar el formulario Flutter con el endpoint POST /providers para persistir nuevos salones.</td>
+      <td>3</td>
+      <td>Jorge Yum</td>
+      <td>To-Review</td>
+   </tr>
+   <tr>
+      <td rowspan="2">US03</td>
+      <td rowspan="2">Inicio de sesión de usuarios</td>
+      <td>T203</td>
+      <td>Pantalla de login en Flutter</td>
+      <td>Diseñar la interfaz de inicio de sesión en Flutter utilizando componentes reutilizables y manejo de estados.</td>
+      <td>3</td>
+      <td>Natalia Roman</td>
+      <td>In-Process</td>
+   </tr>
+   <tr>
+      <td>T204</td>
+      <td>Consumo de endpoint /login</td>
+      <td>Consumir desde Flutter el endpoint POST /login y gestionar tokens JWT en almacenamiento seguro.</td>
+      <td>2.5</td>
+      <td>Luciana Choquehuanca</td>
+      <td>To-do</td>
+   </tr>
+   <tr>
+      <td rowspan="2">US06</td>
+      <td rowspan="2">Personalización del perfil del salón</td>
+      <td>T205</td>
+      <td>UI editable de perfil</td>
+      <td>Crear en Flutter el formulario editable del perfil del salón con pre-carga de datos remotos.</td>
+      <td>3.5</td>
+      <td>Britney Qqueso</td>
+      <td>In-Process</td>
+   </tr>
+   <tr>
+      <td>T206</td>
+      <td>Gestión multimedia</td>
+      <td>Implementar la subida de logotipo e imágenes del salón usando Flutter y almacenamiento en la nube.</td>
+      <td>4</td>
+      <td>Jorge Yum</td>
+      <td>To-do</td>
+   </tr>
+   <tr>
+      <td rowspan="2">TS05</td>
+      <td rowspan="2">Endpoint de registro de usuarios</td>
+      <td>T207</td>
+      <td>Servicio Flutter para POST /usuarios</td>
+      <td>Crear servicio en Flutter que envíe solicitudes POST /usuarios para registrar clientes y salones.</td>
+      <td>2.5</td>
+      <td>Gael Rivera</td>
+      <td>In-Process</td>
+   </tr>
+   <tr>
+      <td>T208</td>
+      <td>Manejo de errores y feedback</td>
+      <td>Configurar mensajes de retroalimentación en Flutter ante respuestas de error del endpoint de registro.</td>
+      <td>2</td>
+      <td>Natalia Roman</td>
+      <td>To-do</td>
+   </tr>
+   <tr>
+      <td rowspan="2">TS12</td>
+      <td rowspan="2">Gestión de proveedores</td>
+      <td>T209</td>
+      <td>Listado de proveedores</td>
+      <td>Consumir GET /providers desde Flutter y mostrar un listado filtrable con tarjetas informativas.</td>
+      <td>3</td>
+      <td>Luciana Choquehuanca</td>
+      <td>In-Process</td>
+   </tr>
+   <tr>
+      <td>T210</td>
+      <td>Registro de proveedores</td>
+      <td>Implementar formulario en Flutter para enviar nuevos proveedores mediante POST /providers.</td>
+      <td>3.5</td>
+      <td>Britney Qqueso</td>
+      <td>To-do</td>
+   </tr>
+   <tr>
+      <td rowspan="2">TS13</td>
+      <td rowspan="2">Perfiles de proveedores</td>
+      <td>T211</td>
+      <td>Pantalla de perfil de proveedor</td>
+      <td>Diseñar pantalla Flutter que muestre la ficha de un proveedor usando GET /providerProfile/{id}.</td>
+      <td>2.5</td>
+      <td>Jorge Yum</td>
+      <td>In-Process</td>
+   </tr>
+   <tr>
+      <td>T212</td>
+      <td>Actualización de perfil</td>
+      <td>Permitir editar datos del proveedor y sincronizar cambios mediante POST /providerProfile.</td>
+      <td>3</td>
+      <td>Gael Rivera</td>
+      <td>To-do</td>
+   </tr>
+   <tr>
+      <td rowspan="2">TS14</td>
+      <td rowspan="2">Gestión de trabajadores</td>
+      <td>T213</td>
+      <td>Listado de trabajadores</td>
+      <td>Crear en Flutter un listado con búsqueda que consuma GET /workers y GET /workers/{id}.</td>
+      <td>3</td>
+      <td>Natalia Roman</td>
+      <td>In-Process</td>
+   </tr>
+   <tr>
+      <td>T214</td>
+      <td>Alta de trabajadores</td>
+      <td>Construir formulario Flutter para registrar personal mediante POST /workers.</td>
+      <td>2.5</td>
+      <td>Luciana Choquehuanca</td>
+      <td>To-do</td>
+   </tr>
+   <tr>
+      <td rowspan="2">TS17</td>
+      <td rowspan="2">Servicios ofrecidos</td>
+      <td>T215</td>
+      <td>Gestor de servicios</td>
+      <td>Implementar componente Flutter que consuma GET /services y permita filtrar por categoría.</td>
+      <td>3.5</td>
+      <td>Britney Qqueso</td>
+      <td>In-Process</td>
+   </tr>
+   <tr>
+      <td>T216</td>
+      <td>Registro de servicios</td>
+      <td>Desarrollar flujo de creación de servicios desde Flutter invocando POST /services y manejo de estados.</td>
+      <td>3</td>
+      <td>Jorge Yum</td>
+      <td>To-do</td>
+   </tr>
+</table>
+
+#### 4.2.2.3. Development Evidence for Sprint Review
+Durante el Sprint 2 se implementaron las historias de usuario y tasks definidos en el Sprint Backlog 2, enfocadas en completar el flujo core de la aplicación móvil uTime: por un lado, avanzando el desarrollo de la app Android para clientes (flujos de autenticación, perfil y consumo de servicios) y, por otro, implementando en Flutter (iOS) las funcionalidades de registro de salones, inicio de sesión, personalización de perfil, gestión de proveedores y trabajadores.
+
+Repositorio Android (clientes): https://github.com/PaxTech-1807/Mobile-App
+
+Repositorio Flutter iOS (salones/proveedores): https://github.com/PaxTech-1807/Ios-Mobile-App
+
+| Repository                  | Branch  | Commit Id | Commit Message                                                                        | Commited on (Date) |
+| --------------------------- | ------- | --------- | ------------------------------------------------------------------------------------- | ------------------ |
+| PaxTech-1807/Ios-Mobile-App | develop | 1a9f3c2   | feat: US02 salon registration screen layout (Flutter)                                 | 30/10/2025         |
+| PaxTech-1807/Ios-Mobile-App | develop | 7b2e4d9   | feat: US02 connect POST /providers for salon registration                             | 30/10/2025         |
+| PaxTech-1807/Ios-Mobile-App | develop | c4d8e71   | feat: US03 login screen with state management                                         | 31/10/2025         |
+| PaxTech-1807/Ios-Mobile-App | develop | f1a7c30   | feat: US03 consume /login and handle JWT storage                                      | 31/10/2025         |
+| PaxTech-1807/Ios-Mobile-App | develop | 9e3b5af   | feat: US06 editable provider profile UI with remote data preloading                   | 01/11/2025         |
+| PaxTech-1807/Ios-Mobile-App | develop | 2cb7410   | feat: US06 media upload for logo and gallery images                                   | 01/11/2025         |
+| PaxTech-1807/Ios-Mobile-App | develop | a8d2f64   | feat: TS05 user registration service (POST /usuarios) for clients and providers       | 02/11/2025         |
+| PaxTech-1807/Ios-Mobile-App | develop | d5f913b   | feat: TS05 error handling and feedback messages on registration                       | 02/11/2025         |
+| PaxTech-1807/Ios-Mobile-App | develop | e0c4a92   | feat: TS12 providers list consuming GET /providers with basic filters                 | 03/11/2025         |
+| PaxTech-1807/Ios-Mobile-App | develop | 6fd219e   | feat: TS12 provider creation form with POST /providers                                | 03/11/2025         |
+| PaxTech-1807/Ios-Mobile-App | develop | b1e73c8   | feat: TS13 provider profile detail screen (GET /providerProfile/{id})                 | 05/11/2025         |
+| PaxTech-1807/Ios-Mobile-App | develop | 4ac8e50   | feat: TS13 provider profile update via POST /providerProfile                          | 05/11/2025         |
+| PaxTech-1807/Ios-Mobile-App | develop | 7ef20d1   | feat: TS14 workers list with search (GET /workers, GET /workers/{id})                 | 07/11/2025         |
+| PaxTech-1807/Ios-Mobile-App | develop | 0df9142   | feat: TS14 worker creation form (POST /workers)                                       | 09/11/2025         |
+| PaxTech-1807/Ios-Mobile-App | develop | 3fa8c61   | feat: TS17 services catalog (GET /services) with category filters                     | 10/11/2025         |
+| PaxTech-1807/Ios-Mobile-App | develop | 8cd1b04   | feat: TS17 service creation flow (POST /services) and state management                | 10/11/2025         |
+| PaxTech-1807/Mobile-App     | develop | 5be91d2   | feat: android client profile screen aligned with new UX guidelines                    | 30/10/2025         |
+| PaxTech-1807/Mobile-App     | develop | 9ad42f7   | feat: wire android profile to backend (GET/POST clientProfile)                        | 01/11/2025         |
+| PaxTech-1807/Mobile-App     | develop | e3f0a89   | refactor: unify android theming and reuse profile components across client flows      | 03/11/2025         |
+| PaxTech-1807/Mobile-App     | develop | 6c7b1e0   | perf: optimize android network calls and loading states for booking and profile flows | 07/11/2025         |
+| PaxTech-1807/Mobile-App     | main    | ffe90a3   | merge: develop → main (sprint 2 mobile core flows and provider features complete)     | 11/11/2025         |
+| PaxTech-1807/Ios-Mobile-App | main    | 8b1c7f9   | merge: develop → main (sprint 2 Flutter provider flows complete)                      | 11/11/2025         |
+
+
+#### 4.2.2.4. Testing Suite Evidence for Sprint Review
+Durante el Sprint 2 se implementaron y actualizaron las pruebas de aceptación para las historias de usuario y tasks desarrolladas en el flujo Android. Estas pruebas se definieron utilizando el lenguaje Gherkin y permiten validar de extremo a extremo el registro de salones, el inicio de sesión, la gestión de proveedores, trabajadores y servicios.
+
+Repositorio de Acceptance Tests: https://github.com/PaxTech-1807/Acceptance-Tests
+
+| Repository                    | Branch  | Commit Id | Commit Message                                                      | Commited on (Date) |
+| ----------------------------- | ------- | --------- | ------------------------------------------------------------------- | ------------------ |
+| PaxTech-1807/Acceptance-Tests | develop | 12ab9c3   | feat: US02 provider registration acceptance scenarios               | 01/11/2025         |
+| PaxTech-1807/Acceptance-Tests | develop | 3f7e1a0   | feat: US03 login happy path and invalid credentials scenarios       | 01/11/2025         |
+| PaxTech-1807/Acceptance-Tests | develop | 9c4d2f8   | feat: US06 provider profile customization feature file              | 07/11/2025         |
+| PaxTech-1807/Acceptance-Tests | develop | a8b13de   | feat: TS05 user registration (clientes y salones) gherkin scenarios | 07/11/2025         |
+| PaxTech-1807/Acceptance-Tests | develop | c2e9f71   | feat: TS12 providers listing and filtering acceptance tests         | 10/11/2025         |
+| PaxTech-1807/Acceptance-Tests | develop | f1d58a4   | feat: TS13 provider profile view and update scenarios               | 10/11/2025         |
+| PaxTech-1807/Acceptance-Tests | develop | 6be9042   | feat: TS14 workers listing and creation scenarios                   | 10/11/2025         |
+| PaxTech-1807/Acceptance-Tests | develop | d7a3c9e   | feat: TS17 services catalog and service creation acceptance tests   | 11/11/2025         |
+| PaxTech-1807/Acceptance-Tests | develop | e0c41b5   | refactor: consolidate common Gherkin steps for android booking flow | 11/11/2025         |
+| PaxTech-1807/Acceptance-Tests | main    | 7ff2e10   | merge: develop → main (sprint 2 android acceptance tests)           | 11/11/2025         |
+
+
+#### 4.2.2.5. Execution Evidence for Sprint Review
+
+##### Android
+
+Durante el Sprint 2, se realizó un cambio completo de UI/UX en toda la aplicación móvil Android, mejorando significativamente la experiencia de usuario y la consistencia visual del producto. Se implementó un nuevo diseño con una paleta de colores unificada basada en tonos púrpura, mejorando la navegación y la presentación de la información en todas las pantallas principales.
+
+##### Pantallas Informativas (Onboarding)
+
+La aplicación incluye un flujo de onboarding de tres pantallas que introduce a los usuarios a las funcionalidades principales de uTime. Estas pantallas informativas presentan de manera visual y atractiva los beneficios de la aplicación, utilizando imágenes circulares destacadas y mensajes claros que comunican el valor del servicio.
+
+**Primera pantalla - Exploración de Salones:**
+Esta pantalla presenta la funcionalidad principal de explorar salones de belleza cercanos, destacando la facilidad para descubrir los mejores salones y estilistas en el área del usuario.
+
+![Onboarding 1 - Exploración](img/execution_movil_1.jpg)
+
+**Segunda pantalla - Reserva de Estilistas:**
+La segunda pantalla enfatiza la capacidad de reservar citas con estilistas favoritos de manera fácil y rápida, sin esperas ni complicaciones.
+
+![Onboarding 2 - Reserva](img/execution_movil_2.jpg)
+
+**Tercera pantalla - Transformación Personal:**
+La última pantalla de onboarding invita a los usuarios a transformar su look con los mejores profesionales, descubriendo su mejor versión a través de la aplicación.
+
+![Onboarding 3 - Transformación](img/execution_movil_3.jpg)
+
+##### Pantalla de Inicio de Sesión
+
+La pantalla de login presenta un diseño limpio y moderno con un banner púrpura que invita a los usuarios a iniciar sesión. Incluye campos para correo electrónico y contraseña, con opción de mostrar/ocultar la contraseña, y un enlace para usuarios nuevos que deseen registrarse.
+
+![Pantalla de Login](img/execution_movil_4.jpg)
+
+##### Pantalla de Registro
+
+La pantalla de registro permite a los nuevos usuarios crear una cuenta de manera sencilla. Incluye campos para nombre, apellido, correo electrónico y contraseña, manteniendo el mismo diseño consistente con el resto de la aplicación y un banner informativo que destaca los beneficios de registrarse.
+
+![Pantalla de Registro](img/execution_movil_5.jpg)
+
+##### Pantalla de Inicio
+
+La pantalla principal de la aplicación muestra una interfaz limpia y moderna que permite a los usuarios explorar salones cercanos y recientes. Incluye un banner promocional destacado, una barra de búsqueda para encontrar salones específicos, y tarjetas de salones con información relevante como distancia, calificación y ubicación.
+
+![Pantalla de Inicio](img/exec1.jpg)
+
+##### Pantalla de Categorías y Búsqueda
+
+Esta pantalla permite a los usuarios explorar servicios por categorías, facilitando la búsqueda de servicios específicos como maquillaje, manicure, barbería, cuidado facial, masajes, entre otros. El diseño en grid permite una navegación intuitiva y rápida entre las diferentes opciones de servicios disponibles.
+
+![Pantalla de Categorías](img/exec2.jpg)
+
+##### Pantalla de Reservaciones
+
+La pantalla de reservaciones muestra todas las citas del usuario de manera organizada, presentando información clave como el tipo de servicio, fecha, hora y estado de la reserva. El diseño permite una visualización clara del historial de citas y su estado actual.
+
+![Pantalla de Reservaciones](img/exec3.jpg)
+
+##### Flujo de Reservación
+
+El flujo completo de reservación permite a los usuarios seleccionar servicios, elegir profesionales y confirmar sus citas de manera intuitiva y eficiente.
+
+**Pantalla de Detalles del Salón y Servicios:**
+
+Esta pantalla muestra la información detallada del salón seleccionado, incluyendo su nombre, ubicación y calificación. Presenta pestañas para navegar entre "Servicios", "Reseña" y "Acerca de". En la sección de servicios, los usuarios pueden ver cada servicio disponible con su precio, duración y un botón para reservar directamente.
+
+![Detalles del Salón](img/execution_movil_6.jpg)
+
+**Pantalla de Selección de Profesional:**
+
+Esta pantalla permite a los usuarios elegir un estilista específico para su cita o seleccionar "Cualquier profesional" si no tienen preferencia. Cada opción se presenta en una tarjeta visual que facilita la selección mediante botones de radio.
+
+![Selección de Profesional](img/execution_movil_7.jpg)
+
+**Pantalla de Confirmación de Reserva:**
+
+Antes de finalizar la reserva, esta pantalla muestra un resumen completo de todos los detalles de la cita, incluyendo fecha, hora, profesional seleccionado, lista de servicios con sus duraciones y precios, tiempo total y precio total. El usuario puede revisar toda la información antes de confirmar.
+
+![Confirmación de Reserva](img/execution_movil_8.jpg)
+
+**Pantalla de Confirmación Exitosa:**
+
+Una vez confirmada la reserva, esta pantalla muestra un mensaje de éxito con un ícono de confirmación, un resumen completo de la reserva confirmada, y confirma que se ha enviado un correo electrónico con todos los detalles. Incluye un botón para regresar al inicio de la aplicación.
+
+![Confirmación Exitosa](img/execution_movil_9.jpg)
+
+
+
+##### Pantalla de Perfil
+
+La pantalla de perfil proporciona acceso a todas las opciones de configuración y gestión de la cuenta del usuario. Incluye opciones para gestionar el perfil, métodos de pago, salones favoritos, notificaciones, y otras configuraciones importantes de la aplicación.
+
+![Pantalla de Perfil](img/exec4.jpg)
+
+##### Flutter
+
+Durante el Sprint 2, se avanzó significativamente en la implementación de la aplicación móvil en Flutter. Se ha implementado toda la lógica funcional de la aplicación, incluyendo la gestión de equipos, servicios, reservaciones y perfil. Actualmente, falta la implementación del login y registro, así como mejoras en la UI, pero toda la funcionalidad principal está completamente implementada y operativa.
+
+**Pantalla de Equipo:**
+La pantalla de equipo permite gestionar los miembros del equipo, mostrando información detallada de cada miembro incluyendo su rol, servicios asignados y número de proveedor. Incluye funcionalidades para editar y eliminar miembros del equipo.
+
+![Pantalla de Equipo](img/flu1.jpg)
+
+**Pantalla de Reservaciones:**
+La pantalla de reservaciones muestra todas las reservas del negocio con filtros por día, mes y año. Presenta información detallada de cada reserva incluyendo fecha, hora, servicio y trabajador asignado.
+
+![Pantalla de Reservaciones](img/flu2.jpg)
+
+**Pantalla de Servicios:**
+La pantalla de servicios permite gestionar el catálogo de servicios del negocio, mostrando cada servicio con su duración y precio. Incluye funcionalidades para crear, editar y eliminar servicios.
+
+![Pantalla de Servicios](img/flu3.jpg)
+
+**Pantalla de Perfil:**
+La pantalla de perfil muestra la información del negocio y proporciona acceso a la configuración, incluyendo opciones para gestionar el perfil del negocio, notificaciones, suscripción, políticas de privacidad y preguntas frecuentes.
+
+![Pantalla de Perfil](img/flu4.jpg)
+
+
+#### 4.2.2.6. Services Documentation Evidence for Sprint Review
+
+Durante este sprint, se avanzó en el desarrollo del módulo de **reservas** de la aplicación móvil **UTime**, enfocada en conectar a clientes con proveedores de servicios de belleza y bienestar. Se implementaron funcionalidades clave de conexión con el backend mediante **Retrofit**, incluyendo **autenticación de usuarios** y **gestión completa de reservas**.
+
+##### 1. Configuración Base de Retrofit y Conexión con Backend
+
+Se configuró **Retrofit** como cliente HTTP principal para todas las comunicaciones con el backend, utilizando inyección de dependencias con **Hilt** para mantener una arquitectura limpia y modular.
+
+###### 1.1. Configuración de Retrofit (RemoteModule)
+
+![Evidencia1](img/evidencia1.png)
+
+**Características destacadas:**
+- URL base del backend: `https://paxtech.azurewebsites.net/`
+- Timeouts configurados a **30 segundos** para operaciones de conexión, lectura y escritura
+- Integración de **interceptores** para autenticación automática y **logging** de peticiones
+- **Conversor Gson** para serialización/deserialización automática de JSON
+
+###### 1.2. AuthInterceptor - Inyección Automática de Tokens
+
+Se implementó un interceptor que automáticamente añade el token de autenticación a todas las peticiones HTTP.
+
+![Evidencia2](img/evidencia2.png)
+
+**Características destacadas:**
+- Lee el token de autenticación desde **SharedPreferences**
+- Añade automáticamente el header `Authorization: Bearer {token}` a todas las peticiones
+- Permite que las peticiones autenticadas se realicen sin necesidad de pasar el token manualmente en cada llamada
+
+
+##### 2. Sistema de Autenticación (Login)
+
+Se implementó un sistema completo de **autenticación** que permite a los usuarios **registrarse, iniciar sesión y crear perfiles de cliente**, todo conectado con el backend.
+
+###### 2.1. AuthService - Definición de Endpoints de Autenticación
+
+![Evidencia3](img/evidencia3.png)
+
+**Endpoints implementados:**
+- `POST /api/v1/authentication/sign-up` — Registro de nuevos usuarios
+- `POST /api/v1/authentication/sign-in` — Inicio de sesión
+- `POST /api/v1/clients` — Creación de perfil de cliente
+
+###### 2.2. AuthRepositoryImpl - Lógica de Negocio de Autenticación
+
+El repositorio implementa la lógica de comunicación con el backend para autenticación.
+
+![Evidencia4](img/evidencia4.png)
+
+**Características destacadas:**
+- Ejecuta las peticiones en el **dispatcher IO** para operaciones de red
+- **Manejo robusto de errores** con logging detallado
+- **Extracción y retorno del token** de autenticación desde la respuesta del servidor
+- **Transformación de DTOs** del backend a modelos de dominio
+
+###### 2.3. LoginViewModel - Gestión de Estado y Persistencia de Token
+
+El ViewModel maneja el flujo de inicio de sesión y **guarda el token** en SharedPreferences.
+
+![Evidencia5](img/evidencia5.png)
+
+**Características destacadas:**
+- Gestión de estados de **carga** y **error** mediante **StateFlow**
+- **Persistencia automática del token** y datos del usuario en SharedPreferences
+- El token guardado es utilizado automáticamente por el **AuthInterceptor** en todas las peticiones subsiguientes
+
+##### 3. Sistema de Reservas
+
+Se implementó un sistema completo de **gestión de reservas** que permite **crear nuevas reservas** y **consultar** todas las reservas existentes desde el backend.
+
+###### 3.1. ReservationService - Definición de Endpoints de Reservas
+
+![Evidencia6](img/evidencia6.png)
+
+**Endpoints implementados:**
+- `GET /api/v1/reservationsDetails/details` — Obtener todas las reservas con detalles completos
+- `POST /api/v1/reservationsDetails` — Crear una nueva reserva
+
+![Evidencia7](img/evidencia7.png)
+
+###### 3.2. ReservationRepositoryImpl - Lógica de Negocio de Reservas
+
+![Evidencia8](img/evidencia8.png)
+
+![Evidencia9](img/evidencia9.png)
+
+**Características destacadas:**
+- Uso de `Result<T>` para manejo **funcional** de errores
+- **Logging** detallado para debugging y seguimiento de operaciones
+- Manejo robusto de **errores HTTP** y **excepciones** de red
+
+###### 3.3. TimeSelectionViewModel - Integración Completa de Reservas
+
+El ViewModel integra la creación de reservas con la lógica de **selección de horarios**.
+
+![Evidencia10](img/evidencia10.png)
+
+![Evidencia11](img/evidencia11.png)
+
+**Características destacadas:**
+- **Sincronización bidireccional**: las reservas creadas se marcan localmente y se sincronizan con el backend
+- **Carga de reservas existentes** desde el backend para mostrar horarios ocupados
+- **Filtrado inteligente** de reservas por **trabajador** y **proveedor**
+- **Manejo robusto de errores**: si falla la carga del backend, se mantiene el estado local
+- **Persistencia local** de horarios reservados en SharedPreferences para resiliencia
+
+
+##### 4. Inyección de Dependencias - Configuración de Servicios
+
+Los servicios de reservas se configuran mediante **Hilt** en el módulo de dependencias.
+
+![Evidencia12](img/evidencia12.png)
+
+#### Logros del Sprint
+
+-  **Configuración completa de Retrofit** con interceptores para autenticación automática y logging  
+-  **Sistema de autenticación funcional** con registro, inicio de sesión y persistencia de tokens  
+-  **Gestión completa de reservas** con creación y consulta desde el backend  
+-  **Arquitectura limpia** utilizando repositorios, servicios y ViewModels siguiendo principios **SOLID**  
+-  **Manejo robusto de errores** con **Result** types y logging detallado para debugging  
+-  **Sincronización bidireccional** entre estado local y backend para una experiencia de usuario fluida  
+-  **Persistencia local** de tokens y datos críticos para resiliencia ante fallos de red  
+
+#### 4.2.2.7. Software Deployment Evidence for Sprint Review
+
+**Backend:**
+Ahora, para el despliegue del backend en el Sprint 2 y con el proposito de acelerar el proceso de desarrollo y coneccion del api con la aplicacion movil se opto por usar el servicio de azure web apps. Lo que nos permite desplegar el backend de manera rapida y sencilla desde una automatizacion con github actions.
+![github-actions](img/githubActions.png)
+Url de la documentacion del BackEnd Deployado: https://paxtech.azurewebsites.net/swagger-ui/index.html
+
+**Firebase Hosting:**
+Para el despliegue del FrontEnd de la aplicacion movil se opto por usar Firebase Hosting, ya que nos permite desplegar aplicaciones web y moviles de manera rapida y sencilla para testing de cada miembro del equipo.
+
+
+![firebase hosting evidence](img/firebasehosting.png)
+
+Url del Release : https://appdistribution.firebase.google.com/testerapps/1:926361378609:android:a84ac4062d1a098abfda10/releases/5uliosg8igfp8
+
+#### 4.2.2.8. Team Collaboration Insights during Sprint
+
+Durante el Sprint 2, el equipo mantuvo una colaboración activa y constante a través de GitHub, trabajando tanto en el desarrollo del flujo de Android como en el inicio del desarrollo del flujo en Flutter. Las métricas de colaboración muestran el compromiso del equipo y la distribución del trabajo entre los diferentes componentes del proyecto.
+
+**Android**
+
+El desarrollo del flujo en Android contó con contribuciones significativas de todos los miembros del equipo, reflejando el trabajo colaborativo en la finalización de funcionalidades, mejoras de UI/UX y la integración completa con el backend. Las métricas de GitHub muestran un alto nivel de actividad durante todo el sprint.
+
+![Team Collaboration Insights - Android](img/android_insight.png)
+
+**Flutter**
+
+El inicio del desarrollo del flujo en Flutter también se refleja en las métricas de colaboración, mostrando las primeras contribuciones al nuevo flujo multiplataforma. Aunque el desarrollo de Flutter está en sus etapas iniciales, las métricas demuestran el compromiso del equipo con esta nueva implementación.
+
+![Team Collaboration Insights - Flutter](img/flutterinsight.png)
+
+### 4.2.3. Sprint 3
+
+#### 4.2.3.1. Sprint Planning 3
+
+#### 4.2.3.2. Sprint Backlog 3
+
+#### 4.2.3.3. Development Evidence for Sprint Review
+
+#### 4.2.3.4. Testing Suite Evidence for Sprint Review
+
+#### 4.2.3.5. Execution Evidence for Sprint Review
+
+Durante el Sprint 3, se completó exitosamente el desarrollo de la aplicación móvil en Flutter para el segmento de dueños de salones de belleza. La aplicación incluye todas las funcionalidades principales necesarias para la gestión integral de un salón, permitiendo a los profesionales administrar sus servicios, trabajadores, reservas y configuraciones desde un dispositivo móvil.
+
+##### Autenticación: Login y Registro
+
+La aplicación cuenta con un sistema completo de autenticación que permite a los dueños de salones crear una cuenta y acceder a la plataforma. El flujo de registro incluye la creación de perfil del negocio con información básica, mientras que el login permite el acceso seguro mediante correo electrónico y contraseña. Ambas pantallas han sido diseñadas con una interfaz intuitiva y moderna que facilita la experiencia del usuario.
+
+<div style="display: flex; justify-content: space-around; align-items: center; margin: 20px 0;">
+  <img src="img/execsprint3_1.jpg" alt="Pantalla de Login" style="width: 45%;">
+  <img src="img/execsprint3_2.jpg" alt="Pantalla de Registro" style="width: 45%;">
+</div>
+
+##### Dashboard: Pantalla Principal
+
+La pantalla principal del dashboard proporciona una vista general rápida del estado del salón, mostrando métricas clave como número de trabajadores, servicios disponibles, reservas del día y estadísticas del mes en tarjetas informativas. Además, incluye una sección de gestión de reseñas con filtros avanzados por calificación y período de tiempo, permitiendo a los dueños monitorear la satisfacción de los clientes y tomar decisiones informadas sobre su negocio.
+
+<div style="display: flex; justify-content: space-around; align-items: center; margin: 20px 0;">
+  <img src="img/execsprint3_3.jpg" alt="Dashboard Principal" style="width: 45%;">
+  <img src="img/execsprint3_4.jpg" alt="Gestión de Reseñas" style="width: 45%;">
+</div>
+
+##### Gestión de Servicios
+
+La aplicación permite a los dueños de salones gestionar completamente su catálogo de servicios, incluyendo la visualización de todos los servicios disponibles con su nombre, duración y precio en tarjetas organizadas. Los usuarios pueden crear nuevos servicios mediante un formulario intuitivo, editar información existente y eliminar servicios que ya no ofrecen, todo desde una interfaz móvil sencilla y eficiente que facilita la administración del negocio.
+
+<div style="display: flex; justify-content: space-around; align-items: center; margin: 20px 0;">
+  <img src="img/execsprint3_5.jpg" alt="Lista de Servicios" style="width: 30%;">
+  <img src="img/execsprint3_6.jpg" alt="Crear Nuevo Servicio" style="width: 30%;">
+  <img src="img/execsprint3_7.jpg" alt="Editar/Eliminar Servicio" style="width: 30%;">
+</div>
+
+##### Gestión de Trabajadores
+
+La aplicación permite a los dueños gestionar su equipo de trabajo de manera completa, visualizando todos los trabajadores con sus nombres y especializaciones en tarjetas organizadas. Los usuarios pueden agregar nuevos trabajadores asignándoles hasta tres especializaciones de servicios, editar la información de trabajadores existentes incluyendo sus especializaciones y foto de perfil, facilitando la organización del personal y la asignación de servicios según las habilidades de cada trabajador.
+
+<div style="display: flex; justify-content: space-around; align-items: center; margin: 20px 0;">
+  <img src="img/execsprint3_9.jpg" alt="Lista de Trabajadores" style="width: 30%;">
+  <img src="img/execsprint3_10.jpg" alt="Agregar Trabajador" style="width: 30%;">
+  <img src="img/execsprint3_11.jpg" alt="Editar Trabajador" style="width: 30%;">
+</div>
+
+##### Calendario y Gestión de Reservas
+
+La aplicación incluye un calendario completo que permite a los dueños de salones visualizar y gestionar todas las reservas del negocio, así como las reservas individuales de cada trabajador. El calendario muestra una vista semanal con horarios en intervalos de 30 minutos, permitiendo navegar entre meses y días para planificar eficientemente las citas. Esta funcionalidad facilita la organización del tiempo, la asignación de trabajadores a servicios específicos y la visualización de la disponibilidad tanto del salón completo como de cada miembro del equipo.
+
+<div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
+  <img src="img/execsprint3_15.jpg" alt="Calendario de Reservas" style="width: 50%;">
+</div>
+
+##### Perfil y Configuración
+
+La pantalla de perfil permite a los dueños de salones gestionar toda la información y configuración de su negocio desde un solo lugar. Incluye la visualización del perfil del salón con su nombre y tipo de cuenta, un indicador del estado del negocio (abierto/cerrado) que puede ser cambiado fácilmente, y acceso a opciones de configuración como el perfil del negocio para editar información, notificaciones para gestionar alertas, y suscripción para administrar el plan de servicio. Además, la aplicación incluye la opción de cerrar sesión de forma segura, proporcionando un control completo sobre la cuenta y las preferencias del salón.
+
+<div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
+  <img src="img/execsprint3_16.jpg" alt="Perfil y Configuración" style="width: 50%;">
+</div>
+
+#### 4.2.3.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 3, se completó la documentación de los endpoints relacionados con la gestión de trabajadores (Workers), perfiles de proveedores (Provider Profiles), reservaciones (Reservations), servicios (Services) y reseñas (Reviews) utilizando OpenAPI/Swagger. Estos endpoints permiten a la aplicación Flutter realizar operaciones CRUD completas sobre todas las entidades principales del sistema, incluyendo la gestión de trabajadores, información del salón de belleza, reservaciones de citas, catálogo de servicios y sistema de reseñas y valoraciones.
+
+##### Endpoints Documentados - Workers
+
+| Acción | Verbo HTTP | Endpoint | Descripción | Parámetros |
+|--------|------------|----------|-------------|------------|
+| Obtener trabajador por ID | GET | `/api/v1/workers/{workerId}` | Obtiene la información detallada de un trabajador específico | `workerId` (path parameter) |
+| Obtener todos los trabajadores | GET | `/api/v1/workers` | Obtiene la lista completa de trabajadores del salón | Ninguno |
+| Crear trabajador | POST | `/api/v1/workers` | Crea un nuevo trabajador en el sistema | Body: datos del trabajador (nombre, especializaciones, foto, etc.) |
+| Actualizar trabajador | PUT | `/api/v1/workers/{workerId}` | Actualiza la información de un trabajador existente | `workerId` (path parameter), Body: datos actualizados |
+| Eliminar trabajador | DELETE | `/api/v1/workers/{workerId}` | Elimina un trabajador del sistema | `workerId` (path parameter) |
+
+**Documentación de API (Swagger UI):**
+
+![Documentación de Endpoints - Workers](img/webservice_1.png)
+
+##### Endpoints Documentados - Provider Profiles
+
+| Acción | Verbo HTTP | Endpoint | Descripción | Parámetros |
+|--------|------------|----------|-------------|------------|
+| Obtener perfil por ID | GET | `/api/v1/provider-profiles/{id}` | Obtiene la información detallada de un perfil de proveedor específico | `id` (path parameter) |
+| Obtener todos los perfiles | GET | `/api/v1/provider-profiles` | Obtiene la lista completa de perfiles de proveedores | Ninguno |
+| Buscar perfiles | GET | `/api/v1/provider-profiles/search` | Busca perfiles de proveedores por nombre de empresa | Query parameters: nombre de empresa |
+| Crear perfil | POST | `/api/v1/provider-profiles` | Crea un nuevo perfil de proveedor (salón de belleza) | Body: datos del perfil (nombre, ubicación, foto, etc.) |
+| Actualizar perfil completo | PUT | `/api/v1/provider-profiles/{id}` | Actualiza toda la información del perfil del salón, incluyendo ubicación, foto, plan pagado, horarios de apertura y cierre, y demás datos del negocio | `id` (path parameter), Body: datos actualizados del perfil |
+| Eliminar perfil | DELETE | `/api/v1/provider-profiles/{id}` | Elimina un perfil de proveedor del sistema | `id` (path parameter) |
+
+**Documentación de API (Swagger UI):**
+
+![Documentación de Endpoints - Provider Profiles](img/webservice_2.png)
+
+##### Endpoints Documentados - Reservations
+
+| Acción | Verbo HTTP | Endpoint | Descripción | Parámetros |
+|--------|------------|----------|-------------|------------|
+| Obtener todas las reservaciones | GET | `/api/v1/reservationsDetails` | Obtiene la lista completa de reservaciones | Ninguno |
+| Obtener información detallada de todas las reservaciones | GET | `/api/v1/reservationsDetails/details` | Obtiene información detallada de todas las reservaciones con datos completos | Ninguno |
+| Obtener reservación por ID | GET | `/api/v1/reservationsDetails/{reservationId}` | Obtiene la información de una reservación específica | `reservationId` (path parameter) |
+| Obtener información detallada de reservación | GET | `/api/v1/reservationsDetails/details/{reservationId}/` | Obtiene información detallada de una reservación específica | `reservationId` (path parameter) |
+| Crear reservación | POST | `/api/v1/reservationsDetails` | Crea una nueva reservación en el sistema | Body: datos de la reservación (fecha, hora, servicio, trabajador, cliente, etc.) |
+| Eliminar reservación | DELETE | `/api/v1/reservationsDetails/{reservationId}` | Elimina una reservación del sistema | `reservationId` (path parameter) |
+
+**Documentación de API (Swagger UI):**
+
+![Documentación de Endpoints - Reservations](img/webservice_3.png)
+
+##### Endpoints Documentados - Services
+
+| Acción | Verbo HTTP | Endpoint | Descripción | Parámetros |
+|--------|------------|----------|-------------|------------|
+| Obtener todos los servicios | GET | `/api/v1/services` | Obtiene la lista completa de servicios del salón | Ninguno |
+| Crear servicio | POST | `/api/v1/services` | Crea un nuevo servicio en el catálogo | Body: datos del servicio (nombre, duración, precio, etc.) |
+| Actualizar servicio | PUT | `/api/v1/services/{id}` | Actualiza la información de un servicio existente | `id` (path parameter), Body: datos actualizados |
+| Eliminar servicio | DELETE | `/api/v1/services/{serviceId}` | Elimina un servicio del catálogo | `serviceId` (path parameter) |
+
+**Documentación de API (Swagger UI):**
+
+![Documentación de Endpoints - Services](img/webservice_4.png)
+
+##### Endpoints Documentados - Reviews
+
+| Acción | Verbo HTTP | Endpoint | Descripción | Parámetros |
+|--------|------------|----------|-------------|------------|
+| Obtener todas las reseñas | GET | `/api/v1/reviews` | Obtiene la lista completa de reseñas recibidas por el salón | Ninguno |
+| Obtener reseña por ID | GET | `/api/v1/reviews/{reviewId}` | Obtiene la información de una reseña específica | `reviewId` (path parameter) |
+| Crear reseña | POST | `/api/v1/reviews` | Crea una nueva reseña en el sistema | Body: datos de la reseña (calificación, comentario, cliente, servicio, etc.) |
+| Eliminar reseña | DELETE | `/api/v1/reviews/{reviewId}` | Elimina una reseña del sistema | `reviewId` (path parameter) |
+
+**Documentación de API (Swagger UI):**
+
+![Documentación de Endpoints - Reviews](img/webservice_5.png)
+
+**Repositorio de Web Services:** https://github.com/PaxTech-1807/Web-Services
+
+**URL de Documentación Desplegada:** https://paxtech.azurewebsites.net/swagger-ui/index.html
+
+#### 4.2.3.7. Software Deployment Evidence for Sprint Review
+
+#### 4.2.3.8. Team Collaboration Insights during Sprint
+
+## 4.3. Validation Interviews
+
+
+### PREGUNTAS INTRODUCTORIAS:
+
+* ¿Cuál es tu nombre?
+
+* ¿Cuánto tiempo llevas trabajando en el sector de belleza? / ¿Con qué frecuencia solicitas servicios de belleza?
+
+* ¿Has usado alguna herramienta digital para reservas o todo lo haces por WhatsApp, redes u otro método?
+
+* ¿Qué es lo que más te cuesta gestionar en el tema de reservas?
+
+### SEGMENTO 1: Dueños de Salones de Belleza o Barberías
+
+*Preguntas tras mostrar la Landing Page*
+
+* ¿Sientes que comunica bien la propuesta y beneficios del producto?
+
+* ¿Qué sección o contenido te pareció más útil o llamativo?
+
+* ¿Los planes que se ofrecen se ven claros y bien diferenciados?
+
+* ¿Te animarías a probar una plataforma como esta luego de ver la landing?
+
+
+*Preguntas tras mostrar la Aplicación Móvil (Vista del salón)*
+
+* ¿Fue fácil navegar y entender cómo funciona la gestión de citas?
+
+* ¿Te resultó intuitiva la configuración de horarios y servicios?
+
+* ¿Te parecen útiles las funciones de notificación automática y panel de reseñas?
+
+* ¿Qué tan probable es que uses esta herramienta en tu negocio?
+
+* ¿Te sentirías cómodo/a pagando por un plan si esto mejora la eficiencia de tu gestión?
+
+* ¿Qué barreras o preocupaciones tendrías para adoptar uTime?
+
+
+### SEGMENTO 2: Clientes de servicios de belleza
+
+*Preguntas tras mostrar la Landing Page*
+
+* ¿Qué tan atractivo te parece el diseño y la organización del sitio?
+ 
+* ¿Qué parte de la información te pareció más útil para ti como cliente?
+
+* ¿Te daría confianza usar este sistema para reservar en lugar de escribir por redes?
+
+*Preguntas tras mostrar la Aplicación Móvil (Vista cliente)*
+
+* ¿Fue sencillo registrarte y navegar por la aplicación?
+
+* ¿Pudiste encontrar fácilmente un estilista y agendar una cita?
+
+* ¿Qué opinas del flujo para elegir horario y método de pago?
+
+* ¿Te gustaría recibir notificaciones o recordatorios como los que viste?
+
+* ¿Te gustaría tener la opción de guardar tus salones favoritos o ver tu historial?
+
+* ¿Qué tan probable es que uses uTime para reservar tus próximas citas?
+
+### Preguntas Finales (Cierre)
+
+* ¿Qué es lo que más te gustó de uTime?
+
+* ¿Qué aspecto te pareció confuso o poco útil?
+
+* ¿Hay alguna funcionalidad que esperabas ver y no encontraste?
+
+
+
+### 4.3.1. Diseño de Entrevistas
+
+
+
+### 4.3.2. Registro de Entrevistas
+
+
+
+### 4.3.3. Evaluaciones según heurísticas
+
+
+
+## Conclusiones y recomendaciones
+
+### Conclusiones
+
+1. El desarrollo del proyecto uTime permitió al equipo crear una solución móvil integral que aborda las necesidades reales del sector de belleza en Perú. A través de la aplicación de metodologías Lean UX, Domain-Driven Design y desarrollo ágil, se logró construir una aplicación móvil funcional que conecta a estilistas, barberos y clientes, facilitando la gestión de citas, pagos digitales y fidelización de clientes. Este resultado demuestra la importancia de un enfoque centrado en el usuario desde las primeras etapas del proyecto.
+
+2. La investigación y validación continua con usuarios del sector de belleza fue fundamental para entender las necesidades reales del mercado. Las entrevistas realizadas con dueños de salones, barberías y clientes revelaron que la dependencia de métodos informales como WhatsApp genera problemas de organización, pérdida de tiempo y dificultades para atraer nuevos clientes. Esta comprensión profunda del problema permitió diseñar funcionalidades específicas que resuelven estos desafíos de manera efectiva.
+
+3. La aplicación de metodologías de diseño centrado en el usuario y arquitectura de software escalable permitió desarrollar un producto robusto y mantenible. El uso de Domain-Driven Design, arquitectura de microservicios y patrones de diseño modernos facilitó la creación de una aplicación móvil que puede escalar según las necesidades del negocio y adaptarse a futuras funcionalidades requeridas por el mercado.
+
+4. El desarrollo de uTime demostró la importancia de la documentación técnica y la colaboración en equipo durante todo el ciclo de vida del proyecto. La implementación de prácticas como control de versiones, testing continuo, documentación de servicios y deployment automatizado permitió mantener la calidad del código y facilitar la incorporación de nuevos desarrolladores al proyecto, asegurando la sostenibilidad a largo plazo de la solución.
+
+5. El proyecto uTime representa una oportunidad significativa para digitalizar el sector de belleza en Perú, donde más del 60% de los profesionales son trabajadores independientes que aún dependen de métodos manuales. La aplicación móvil desarrollada ofrece una solución accesible que puede mejorar la productividad de los profesionales, reducir cancelaciones, facilitar la captación de clientes y mejorar la experiencia general tanto para estilistas como para clientes, contribuyendo a cerrar la brecha digital en este sector.
+
+### Recomendaciones
+
+1. **Continuar con la validación continua con usuarios del sector de belleza**: Se recomienda realizar entrevistas de validación periódicas con dueños de salones, barberías y clientes para identificar nuevas necesidades, mejorar funcionalidades existentes y validar nuevas características antes de implementarlas. Esta práctica permitirá mantener el producto alineado con las necesidades reales del mercado peruano y asegurar una alta adopción por parte del segmento objetivo.
+
+2. **Implementar estrategias de onboarding y capacitación para usuarios**: Dado que muchos profesionales del sector de belleza pueden tener limitada experiencia con herramientas digitales, se recomienda desarrollar tutoriales interactivos, guías paso a paso y soporte técnico personalizado para facilitar la adopción de uTime. Esto ayudará a superar las barreras de confianza en la tecnología identificadas durante el desarrollo del proyecto.
+
+3. **Establecer un plan de marketing y crecimiento enfocado en el segmento objetivo**: Se sugiere desarrollar estrategias de marketing digital específicas para llegar a estilistas, barberos y salones de belleza en Perú, incluyendo alianzas con academias de belleza, influencers del sector y presencia en redes sociales donde estos profesionales son activos. Esto permitirá acelerar la captación de usuarios y el crecimiento de la base de clientes.
+
+4. **Priorizar la seguridad y confiabilidad del sistema de pagos**: Dado que la seguridad en los pagos es un factor crítico para la adopción del producto, se recomienda implementar medidas robustas de seguridad, certificaciones de confianza y opciones de pago flexibles que generen confianza tanto en dueños de salones como en clientes. Esto incluye integración con pasarelas de pago reconocidas y transparencia en las transacciones.
+
+5. **Desarrollar funcionalidades de fidelización y retención de usuarios**: Se recomienda implementar y mejorar el sistema de promociones, descuentos y programas de lealtad para mantener a los usuarios activos en la plataforma. Esto incluye notificaciones personalizadas, ofertas exclusivas y un sistema de recompensas que incentive tanto a profesionales como a clientes a seguir utilizando uTime.
+
+6. **Mantener una arquitectura escalable y documentación técnica actualizada**: Se sugiere continuar documentando las decisiones técnicas, arquitectura del sistema y procesos de desarrollo para facilitar el mantenimiento, la incorporación de nuevos desarrolladores y la evolución del producto. Esto incluye mantener actualizada la documentación de APIs, diagramas de arquitectura y guías de contribución al proyecto.
+
+7. **Establecer métricas de éxito y monitoreo continuo**: Se recomienda definir y monitorear métricas clave como tasa de adopción, retención de usuarios, satisfacción del cliente, número de reservas procesadas y tiempo promedio de respuesta del sistema. Estas métricas permitirán tomar decisiones basadas en datos y medir el impacto real de uTime en el sector de belleza peruano.
+
+<div style="page-break-before: always;"></div>
+
+## 5.3 Video About the Product
+
+En este video se presenta el producto uTime, mostrando sus características principales, funcionalidades y el valor que ofrece a los usuarios. El video incluye una demostración de la aplicación móvil, destacando las funcionalidades clave como la búsqueda de salones, reserva de citas, gestión de perfil y la experiencia de usuario completa que ofrece la plataforma.
+
+![Video About the Product](img/video-product.jpg)
+
+**URL del video (Youtube):** https://youtu.be/7odg_s3aRbs
+
+
+## 5.4 Video About the Team
+
+En este video, todo el equipo de desarrollo habla sobre el proceso de desarrollo del proyecto uTime, compartiendo sus experiencias, aprendizajes y el trabajo colaborativo realizado durante la implementación de la plataforma.
+
+![Video About the Team](img/abouttheteam.jpg)
+
+**URL del video (Youtube):** https://youtu.be/E-CdPPM4Y1Q
+
+
+<div style="page-break-before: always;"></div>
+
+# Bibliografía
+
+Araya, F., Balestrini, M., Blandón, C., Henriquez P. & Torrico, B. (2025). El poder de los datos: Impulsando la transformación digital de las pymes de América Latina. https://blogs.iadb.org/innovacion/es/el-poder-de-los-datos-impulsando-la-transformacion-digital-de-las-pymes-de-america-latina/
+
+Expo Belleza Fest. (2016). Más del 60% de los estilistas en México trabajan de manera independiente. https://bellezafest.blogspot.com/2016/12/mas-del-60-de-los-estilistas-en-mexico.html
+
+Telefónica. (2022). La digitalización de las empresas repercute hasta un 25% en su productividad. https://www.telefonica.com/es/sala-comunicacion/blog/la-digitalizacion-de-las-empresas-repercute-hasta-un-25-en-su-productividad/
+
+What is Figma? (2019). Figma Learn - Help Center. https://help.figma.com/hc/en-us/articles/14563969806359-What-is-Figma
+
+Structurizr. (2025). https://structurizr.com/
+
+Lucidchart | Diagramas creados con inteligencia. (2025). Lucidchart. https://www.lucidchart.com
+
+Videoconferencia, reuniones, llamadas | MicrosoftTeams. (2025). https://www.microsoft.com/es-es/microsoft-teams/group-chat-software
+
+Build software better, together. (2025). GitHub. https://github.com/about
+
+Gothelf, J., Seiden, J., & Ries, E. (2014). Lean UX: cómo aplicar los principios Lean a la mejora de la experiencia de usuario. https://reunir.unir.net/handle/123456789/4506
+
+Hunter-Zinck, H., De Siqueira, A. F., Vásquez, V. N., Barnes, R., & Martinez, C. C. (2021). Ten simple rules on writing clean and reliable open-source scientific software. PLoS Computational Biology, 17(11), e1009481. https://doi.org/10.1371/journal.pcbi.1009481
+
+Domain-Driven Design for Microservices: An Evidence-Based Investigation. (2024). IEEE Journals & Magazine | IEEE Xplore. https://ieeexplore.ieee.org/abstract/document/10495888
+
+Li, M., Huang, P., & Benbasat, I. (2023). User experience and satisfaction with online booking systems: The role of perceived convenience, transparency, and personalization. Journal of Retailing and Consumer Services, 73, 103412. https://doi.org/10.1016/j.jretconser.2023.103412
+
+Sey, A., & Hafkin, N. (2023). Beyond productivity: The role of mobile technology in reducing digital divides and fostering social inclusion among small-scale entrepreneurs. Telecommunications Policy, 47(4), 102586. https://www.sciencedirect.com/journal/telecommunications-policy/vol/47/issue/4
+
+Tarafdar, M., Bose, I., & Dey, S. (2023). Task-technology fit of mobile productivity apps: A measurement model and validation. Information & Management, 60(4), 103782. https://www.sciencedirect.com/journal/information-and-management/vol/60/issue/4
+
+Verhoef, P. C., Broekhuizen, T., Bart, Y., Bhattacharya, A., Dong, J. Q., Fabian, N., & Haenlein, M. (2023). Digitalization in small businesses: A review and research agenda. International Journal of Management Reviews, 25(2), 343-368. https://onlinelibrary.wiley.com/toc/14682370/25/2
+
+<div style="page-break-before: always;"></div>
+
+
+# Anexos
+
+URL de la Organizacion del repositorio en GitHub: https://github.com/PaxTech-1807
+
+URL del Repositorio del Reporte Final: https://github.com/PaxTech-1807/Final-Report
+
+URL del Repositorio de la Landing Page: https://github.com/PaxTech-1807/Landing-Page
+
+URL del Deployment de la Landing Page: https://paxtech-1807.github.io/Landing-Page/
+
+URL del Repositorio del Backend: https://github.com/PaxTech-1807/Web-Services
+
+URL del Deployment Deployado: https://utime-web-service.onrender.com/swagger-ui/index.html
+
+Bounded Context Canavas: https://lucid.app/lucidspark/b49d697e-a5a0-4eca-bcee-a9be27954927/edit
+
+URL del Repositorio del Mobile App: https://github.com/PaxTech-1807/Mobile-App
+
+URL Compilacion de primera ronda de Entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ
+
+URL del Figma con los Mockups y Wireframes de la Aplicación: https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME
+
+URL Firebase Deployment APK: https://appdistribution.firebase.google.com/testerapps/1:926361378609:android:a84ac4062d1a098abfda10/releases/5uliosg8igfp8
+
+Video About The Team: https://youtu.be/E-CdPPM4Y1Q
+
+Video About The Product: https://youtu.be/7odg_s3aRbs
+>>>>>>> 0e9f668730f575ee75086fff4b09a0e974d4440d
