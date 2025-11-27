@@ -5676,7 +5676,210 @@ Durante el Sprint 3, se completó la documentación de los endpoints relacionado
 
 ### 4.3.3. Evaluaciones según heurísticas
 
+#### Aplicación a evaluar: uTime
 
+#### Tareas a evaluar:
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:  
+
+1. Registro de usuario clientes
+2. Registro de usuario dueño de salón de belleza
+3. Refistro de un nuevo empleado
+4. Registro de un nuevo servicio
+5. Eliminación de un servicio o empleado
+6. Reserva de una cita
+7. Pago de una cita
+
+No están incluídas en esta versión de la evaluación heurística las siguientes tareas:
+
+1. Edición de un empleado
+2. Edición de un servicio
+3. Selección de un salón como favorito
+4. Cancelación de una reserva
+5. Eliminación de una cuenta
+
+#### Escala de severidad
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+<table>
+   <tr>
+      <td><b>Nivel</b></td>
+      <td><b>Descripción</b></td>
+   </tr>
+   <tr>
+      <td><b>Nivel 1</b></td>
+      <td>Problema superficial: Puede ser fácilmente superador por el usuario y ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</td>
+   </tr>
+   <tr>
+      <td><b>Nivel 2</b></td>
+      <td>Problema menor: Puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase.</td>
+   </tr>
+   <tr>
+      <td><b>Nivel 3</b></td>
+      <td>Problema mayor: Ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</td>
+   </tr>
+   <tr>
+      <td><b>Nivel 4</b></td>
+      <td>Problema muy grave: Un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.</td>
+   </tr>
+</table>
+
+#### Tabla Resumen
+
+<table>
+   <tr>
+      <td><b>#</b></td>
+      <td><b>Problema</b></td>
+      <td><b>Escala de severidad</b></td>
+      <td><b>Herística/Principio violado</b></td>
+   </tr>
+   <tr>
+      <td><b>1</b></td>
+      <td>El proceso de reservación de cita no puede detenerse en cualquier punto</td>
+      <td>3</td>
+      <td>Libertad y control del usuario</td>
+   </tr>
+   <tr>
+      <td><b>2</b></td>
+      <td>El diseño de la pantalla de inicio puede resultar complicado de comprender al presentar banners como si fueran botones</td>
+      <td>2</td>
+      <td>Diseño estético y minimalista</td>
+   </tr>
+   <tr>
+      <td><b>3</b></td>
+      <td>No incluye una opción de recorrido asistido ni preguntas comunes dentro de las aplicaciones</td>
+      <td>1</td>
+      <td>Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de errores</td>
+   </tr>
+   <tr>
+      <td><b>4</b></td>
+      <td>No incluye un sección se solicitud de apoyo técnico de parte de los creadores</td>
+      <td>2</td>
+      <td>Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de errores</td>
+   </tr>
+   <tr>
+      <td><b>5</b></td>
+      <td>Uno de las opciones del inicio incluye un botón para ver descuentos más esta no guía a ningún otro contenido</td>
+      <td>3</td>
+      <td>Arquitectura de la información: Es útil?</td>
+   </tr>
+   <tr>
+      <td><b>6</b></td>
+      <td>Al no poder cargarse o existir imágenes para los salones, no se muestra una imagen por defecto, dejando un espacio vacío</td>
+      <td>1</td>
+      <td>Diseño estético y minimalista</td>
+   </tr>
+   <tr>
+      <td><b>7</b></td>
+      <td>No se muestra imágen o ícono que indique no se encuentraron resultados cuando se realiza la búsqueda de un salón y no hay ninguno que exista con este nombre</td>
+      <td>2</td>
+      <td>Visibilidad del estado del sistema</td>
+   </tr>
+</table>
+
+#### Descripción de problemas:
+
+##### PROBLEMA #1: El proceso de reservación de cita no puede detenerse en cualquier punto
+
+Severidad: 3  
+Heurística violada: Libertad y control del usuario
+
+Problema
+
+Cuando un usuario está realizando el proceso de reservación, una vez que inicia es complicado salir de esta pantalla dado que no existe una flecha que indique "volver" o "cancelar el proceso" de forma directa. La única flecha disponible regresa paso por paso, lo cual si bien es útil para editar algún dato de la reserva en proceso, no permite al usuario realizar la cancelación de forma inmediata. De la misma forma, si se desea dejar el proceso en medio para retomarlo posteriormente, no es posible, dado que no guarda hasta que haya sido totalmente completado.
+
+![Heuristicas img](img/heuristica1.png)
+
+Recomendación
+
+Agregar una opción en la parte inferior o superior que indique "Cancelar" para volver a la pantalla de visualización de servicios del salón.
+
+##### PROBLEMA #2: El diseño de la pantalla de inicio puede resultar complicado de comprender al presentar banners como si fueran botones
+
+Severidad: 2  
+Heurística violada: Diseño estético y minimalista
+
+Problema
+
+Algunos de los banners utilizados presentan un colo y sombras bastante resaltantes lo cual si bien es agradable a la vista, simula una apariencia parecida a la de un botón, lo que puede confundir a los usuarios y dificultar su desarrollo dentro de la aplicación al comenzar a utilizarla.
+
+![Heuristicas img](img/heuristica2.png)
+
+Recomendación
+
+Cambiar el diseño del banner principal, de forma en que este se vea solo como lo que es, un banner informativo y que no confunda a los usuarios.
+
+##### PROBLEMA #3: No incluye una opción de recorrido asistido ni preguntas comunes dentro de las aplicaciones
+
+Severidad: 1  
+Heurística violada: Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de errores
+
+Problema
+
+Si bien las aplicaciones son bastantes claras e intuitivas para cada segmento de usuario, es importante que exista una guía para evitar posibles confusiones, así como para informar a los usuarios nuevos sobre todas las funcionalidades disponibles. La falta de esta opción hace que podamos perder posibles usuarios y que, si alguno presentara una duda o dificultad, no tenga forma de consultar a los creadores.
+
+Recomendación
+
+Incuir un pequeño ícono de pregunta en la pantalla principal que guíe a una sección de preguntas frecuentes y explicación de funcionalidades. Así, no será difícil que los usuarios se orienter por si solos.
+
+##### PROBLEMA #4: No incluye una sección de solicitud de apoyo técnico de parte de los creadores
+
+Severidad: 2  
+Heurística violada: Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de errores
+
+Problema
+
+No existe forma de contactar a los creadores desde la aplicación. Esto se menciona a parte de la falta de una opción de preguntas frecuentes, dado que dicha sección serviría para orientar a los usuarios mas el contacto sería útil para que estos mismos informen a los creadores de posibles bugs no detectados, caída de los servidores, dificultades con alguna funcionalidad o el deseo de la integración de una nueva.
+
+Recomendación
+
+Incluir una opción de contacto en la sección de perfil, de forma en que el contacto sea posible y fácil de acceder pero sin intervenir en la pantalla principal dado que no es una sección muy usada.
+
+##### PROBLEMA #5: Uno de las opciones del inicio incluye un botón para ver descuentos más esta no guía a ningún otro contenido
+
+Severidad: 3  
+Heurística violada: Arquitectura de la información: Es útil?
+
+Problema
+
+Si bien la opción está habilitada y ofrece una guía para encontrar descuentos, esta no funciona y no termina guiando al usuario a ninguna opción adicional. Esto puede ser confuso para el usuario además porque en la parte inferior no se está incluyendo ninguna sección con un ícono referente a descuentos.
+
+![Heuristicas img](img/heuristica5.png)
+
+Recomendación
+
+Implementar la opción de forma en que se pueda guiar al usuario a los descuentos incluídos por las empresas registradas. Si esta opción aún no está lista, se debe retirar y en todo caso colocar como "proximamente".
+
+##### PROBLEMA #6: Al no poder cargarse o existir imágenes para los salones, no se muestra una imagen por defecto, dejando un espacio vacío
+
+Severidad: 1  
+Heurística violada: Diseño estético y minimalista
+
+Problema
+
+Resulta poco estético dejar un recuadro gris cuando las imágenes de los salones no han sido cargadas o el salón mismo no ha colocado una imágen para su presentación. Esto, al quedar poco atractivo, puede resultar negativo para los salones afectados, dado que menos usuarios preferirán sus servicios.
+
+![Heuristicas img](img/heuristica6.png)
+
+Recomendación
+
+Contar con un esuqeleto o imagen por defecto que pueda mostrarse cuando no se ha logrado cargar o no existe una imagen disponible. Así, resulta más agradble para el usuario y los salones sin imágenes no se ven tan opacados.
+
+##### PROBLEMA #7: No se muestra imágen o ícono que indique no se encuentraron resultados cuando se realiza la búsqueda de un salón y no hay ninguno que exista con este nombre
+
+Severidad: 2  
+Heurística violada: Visibilidad del estado del sistema
+
+Problema
+
+Cuando se realiza una búsqueda con la barra principal de navegación en la aplicación de clientes para buscar un servicio, al introducir una palabra para la que no existen coincidencias, no se muestra ningún elemtnos que expliqye este ni sugerencia de búsqueda alternativa. Esto puede resultar desmotivante para los usuarios o hasta confuso dado que pueden no estar seguros sobre si no existen resultados o se trata de un error o demora en el tiempo de carga.
+
+![Heuristicas img](img/heuristica7.png)
+
+Recomendación
+
+Incluir un ícono que indique no existen resultados o una frase que anime al usuario a realizar otra búsqueda.
 
 ## Conclusiones y recomendaciones
 
