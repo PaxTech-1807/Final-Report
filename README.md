@@ -5588,6 +5588,15 @@ Durante el Sprint 3, se completó la documentación de los endpoints relacionado
 **URL de Documentación Desplegada:** https://paxtech.azurewebsites.net/swagger-ui/index.html
 
 #### 4.2.3.7. Software Deployment Evidence for Sprint Review
+**Base de datos:**
+Para el despliegue de la base de datos en el Sprint 3 y Ultimo, se opto por mantener el uso de Neon en postgreesql, ya que no solo nos permita una visualizacion rapida y sencilla de la base de datos, los usuarios usandolo, y actividad desde una interfaz web, sino que tambien nos brinda estos servicios de manera gratuita hasta llegar a un limite de computarizacion, este limite se ha alcanzado y el precio para mantenerlo son 5 USD mensuales, lo cual es un precio accesible para el equipo y el proyecto.
+![Neon Dashboard](img/neonImage.png) 
+
+**Firebase Hosting:**
+Para el despliegue del FrontEnd de la aplicacion movil hecha en Flutter se opto por usar Firebase Hosting, ya que nos permite desplegar aplicaciones web y moviles de manera rapida y sencilla para testing de cada miembro del equipo.
+![Firebase app distribution](img/firebaseAppFlutter.png)
+0.1.0: https://appdistribution.firebase.google.com/testerapps/1:926361378609:android:89ad0df94b9d2275bfda10/releases/73i3ihr6ajtho?utm_source=firebase-console
+
 
 #### 4.2.3.8. Team Collaboration Insights during Sprint
 
@@ -5672,7 +5681,17 @@ Durante el Sprint 3, se completó la documentación de los endpoints relacionado
 
 ### 4.3.2. Registro de Entrevistas
 
-
+# Segmento Objetivo 1 (Salones de Belleza y Barberías)
+## Datos del Entrevistado #1
+- **Nombre completo:** Mileydi Patricia
+- **Segmento Objetivo:** Dueña de salón de estetica
+- **Edad:**  24 años
+- **Distrito:**  Greabridge Rd
+- **Screenshot del cuadro de video:** *![Entrevista 2](img/jorge_photo.png)*
+- **URL del video (Microsoft Stream):** *[Entrevista 02]()*
+- **Inicio de la entrevista:** 20:21 minutos
+- **Duración:** 23:42 minutos
+**Resumen:** Mileydi Patricia, esteticista con 5 años de experiencia en Estados Unidos. Ve la landing page de manera positiva, menciona que se ve con claridad la propuesta y caracteristicas que ofreceria la aplicacion, y que si estuviera en necesidad, pagaria por la subscripciones mencionadas. Luego de ver la aplicacion movil, comenta que le parece facil de manipular y le interesan bastante las funciones de notificaciones automaticas y panel de gestion de citas. En general, no se presentaron criticas negativas a parte de traduccion al ingles por parte de la aplicacion movil.
 
 ### 4.3.3. Evaluaciones según heurísticas
 
