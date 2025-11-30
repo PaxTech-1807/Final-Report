@@ -5932,6 +5932,13 @@ Incluir un ícono que indique no existen resultados o una frase que anime al usu
 
 <div style="page-break-before: always;"></div>
 
+## 5.2 Vide App Validation
+Para realizar la validacion de ambas aplicaciones hechas uno en flutter y otro en Kotlin, se realizo la validacion mediante firebase donde se invito a los testers a descargar la aplicacion y probarla. 
+![Video App Validation](img/video-app-validation.png)
+**URL del video (OneDrive):**
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210838_upc_edu_pe/IQBzuHA7Hu-0TqNIukvINdpmAcP5KnLaQu1EvA6Bb4MzAnk?e=l5EdPa
+
+
 ## 5.3 Video About the Product
 
 En este video se presenta el producto uTime, mostrando sus características principales, funcionalidades y el valor que ofrece a los usuarios. El video incluye una demostración de la aplicación móvil, destacando las funcionalidades clave como la búsqueda de salones, reserva de citas, gestión de perfil y la experiencia de usuario completa que ofrece la plataforma.
