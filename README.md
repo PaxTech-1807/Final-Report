@@ -499,6 +499,7 @@ Los integrantes son:
          <b>TB1:</b> En esta entrega actualicé y apliqué conocimientos clave para el proyecto, realicé la identificación de competidores y el análisis competitivo, diseñé, registré y analicé entrevistas con usuarios, y trasladé esos hallazgos a artefactos de Domain-Driven Design como el Context Mapping y el Bounded Context Workers. Con estas actividades, pude usar lo que aprendí en el curso para tomar decisiones sobre la arquitectura del proyecto. <br>
          <b>TP1:</b> En esta entrega actualicé y apliqué conocimientos relacionados con el diseño y desarrollo de aplicaciones móviles. Elaboré el diseño de la app en Figma, incluyendo los Mobile Applications Mock-ups, User Flow Diagrams y el prototipado interactivo, aplicando principios de usabilidad y experiencia de usuario (UX/UI). Además, integré prácticas de testing y validación mediante la sección Testing Suite Evidence for Sprint Review. Finalmente, desarrollé el módulo de perfil (Profile) de la aplicación.<br>
          <b>TB2:</b> En esta entrega me encargué de completar las secciones Development Evidence for Sprint Review y Testing Suite Evidence for Sprint Review, conectando los ítems del Sprint Backlog con sus commits y pruebas de aceptación. Además, reforcé conceptos de arquitectura y diseño de interfaces al desarrollar las vistas de perfil para ambos segmentos objetivo en Android y Flutter (iOS), asegurando consistencia entre plataformas y alineando las decisiones técnicas con los lineamientos del curso y del proyecto uTime.
+         <br><b>TF1:</b> En esta entrega final actualicé y profundicé mis conocimientos  de interfaces móviles y validación de usuario. Me enfoqué en mejorar la calidad visual y la usabilidad de la aplicación Android, aplicando mejoras de UI en las pantallas de Appointments, Login, Register y Perfil. Asimismo, consolidé la sección Development Evidence for Sprint Review para asegurar la trazabilidad del proyecto. Finalmente, registré y analicé las entrevistas de validación con el objetivo de contrastar la solución técnica frente a la satisfacción real del cliente.
       </td>
     </tr>
     <tr>
@@ -548,6 +549,7 @@ Los integrantes son:
          <b>TB1:</b> En este avance reconocí la necesidad del aprendizaje continuo para continuar con el ritmo del proyecto. Al completar los puntos de competidores, entrevistas, context mapping y el modelado del Bounded Context Workers, identifiqué brechas (priorización de insights y patrones de integración) que estoy cerrando mediante estudio autónomo, revisión de referencias y retroalimentación del equipo. Me comprometo a mantenerme actualizada en DDD, investigación de la experiencia de usuarios y desarrollo móvil para elevar la calidad en las siguientes entregas. <br>
          <b>TP1:</b> Durante esta entrega reafirmé la importancia del aprendizaje continuo al enfrentar nuevos retos en diseño de interfaces, prototipado funcional y desarrollo en Android Studio con Kotlin. Investigué sobre buenas prácticas en diseño responsivo, navegación con Jetpack Compose y pruebas de usabilidad, complementando el trabajo del equipo con soluciones actualizadas. Este proceso me permitió fortalecer mis competencias en desarrollo móvil y diseño centrado en el usuario, comprometiéndome a seguir perfeccionando mis habilidades técnicas y de diseño para lograr productos más completos e intuitivos.<br>
          <b>TB2:</b> En este avance reconocí la necesidad del aprendizaje permanente para mejorar mi desempeño en proyectos de ingeniería de software. Al documentar la evidencia de desarrollo y de pruebas, identifiqué la importancia de dominar mejores prácticas de   revisión de código, por lo que revisé materiales adicionales. Asimismo, al implementar las vistas de perfil para Android y Flutter (iOS) tuve que investigar patrones de diseño multi-plataforma y guidelines de UI/UX actualizados, lo que reforzó mi compromiso de seguir aprendiendo de forma continua para entregar soluciones más mantenibles, consistentes y centradas en el usuario.
+         <br><b>TF1:</b> En el cierre del proyecto, reconocí que el desarrollo de software requiere una iteración constante más allá de la funcionalidad básica. La necesidad de mejorar la UI en Android me impulsó a investigar sobre estándares de diseño visual modernos para entregar un producto pulido y profesional. Además, el proceso de validación con usuarios me demostró que el aprendizaje técnico debe ir de la mano con la capacidad de interpretar el feedback del usuario, reafirmando mi compromiso de seguir aprendiendo sobre UX y métricas de satisfacción para futuros proyectos.
       </td>
     </tr>
     <tr>
@@ -5448,6 +5450,29 @@ Dentro del marco de trabajo Scrum, cada Sprint constituye un periodo de tiempo f
 </table>
 
 #### 4.2.3.3. Development Evidence for Sprint Review
+Durante el Sprint 3 se ejecutaron y completaron las tareas definidas en el Sprint Backlog 3. El enfoque principal fue finalizar la aplicación móvil en Flutter para los dueños de salones, implementando la gestión integral de servicios, trabajadores y perfil del negocio. Paralelamente, se completaron funcionalidades críticas en la aplicación Android para clientes, como el historial de citas y la visualización de reservas agendadas, además de actualizaciones visuales en la Landing Page para mejorar la presentación de beneficios y servicios.
+
+Repositorio Android (clientes): https://github.com/PaxTech-1807/Mobile-App
+
+Repositorio Flutter iOS (salones/proveedores): https://github.com/PaxTech-1807/Ios-Mobile-App
+
+| Repository | Branch | Commit Id | Commit Message | Commited on (Date) |
+| :--- | :--- | :--- | :--- | :--- |
+| PaxTech-1807/Mobile-App | develop | 3b1f2a1 | feat: US19 added scheduled appointments screen UI layout (T301) | 15/11/2025 |
+| PaxTech-1807/Mobile-App | develop | 8c4d9e2 | feat: US19 integrated GET /reservationsDetails endpoint (T302) | 16/11/2025 |
+| PaxTech-1807/Mobile-App | develop | 5a7b3c4 | feat: US21 booking modification history screen implementation (T303) | 17/11/2025 |
+| PaxTech-1807/Mobile-App | develop | 2d9e1f5 | feat: US21 logic for tracking and storing appointment changes (T304) | 18/11/2025 |
+| PaxTech-1807/Ios-Mobile-App | develop | 4c2d1e9 | feat: US22 service management screen with CRUD operations UI (T305) | 19/11/2025 |
+| PaxTech-1807/Ios-Mobile-App | develop | 7b8a3f6 | feat: US22 service forms with validation for create/edit flows (T306) | 20/11/2025 |
+| PaxTech-1807/Mobile-App | develop | 9f0a8b3 | feat: US29 service visualization screen connected to GET /services (T310) | 22/11/2025 |
+| PaxTech-1807/Ios-Mobile-App | develop | 1e5c9d2 | feat: US23 worker management list and details screen (T307) | 24/11/2025 |
+| PaxTech-1807/Ios-Mobile-App | develop | 6a4f2b8 | feat: US23 worker specialization assignment logic (T308) | 25/11/2025 |
+| PaxTech-1807/Landing-Page | develop | 2c8d4e7 | feat: US29 updated services section design and content (T309) | 26/11/2025 |
+| PaxTech-1807/Ios-Mobile-App | develop | 3d9e7c1 | feat: US06 editable salon profile screen with PUT integration (T313) | 28/11/2025 |
+| PaxTech-1807/Ios-Mobile-App | develop | 0b5f1a4 | feat: US06 cloud storage integration for salon logo and images (T314) | 29/11/2025 |
+| PaxTech-1807/Landing-Page | develop | 5f3a1b9 | feat: US30 benefits section update and responsive optimization (T311, T312)| 01/12/2025 |
+| PaxTech-1807/Mobile-App | main | f8e2d1c | merge: develop → main (sprint 3 android client features complete) | 03/12/2025 |
+| PaxTech-1807/Ios-Mobile-App | main | a1b2c3d | merge: develop → main (sprint 3 flutter owner features complete) | 03/12/2025 |
 
 #### 4.2.3.4. Testing Suite Evidence for Sprint Review
 
@@ -5682,16 +5707,49 @@ Para el despliegue del FrontEnd de la aplicacion movil hecha en Flutter se opto 
 ### 4.3.2. Registro de Entrevistas
 
 # Segmento Objetivo 1 (Salones de Belleza y Barberías)
+
 ## Datos del Entrevistado #1
 - **Nombre completo:** Mileydi Patricia
 - **Segmento Objetivo:** Dueña de salón de estetica
 - **Edad:**  24 años
 - **Distrito:**  Greabridge Rd
-- **Screenshot del cuadro de video:** *![Entrevista 2](img/jorge_photo.png)*
-- **URL del video (Microsoft Stream):** *[Entrevista 02]()*
-- **Inicio de la entrevista:** 20:21 minutos
-- **Duración:** 23:42 minutos
+- **Screenshot del cuadro de video:** *![Entrevista 1](img/jorge_photo.png)*
+- **URL del video (Microsoft Stream):** *[Entrevista 1]()*
+- **Inicio de la entrevista:** 00:15 minutos
+- **Duración:** 03:05 minutos
 **Resumen:** Mileydi Patricia, esteticista con 5 años de experiencia en Estados Unidos. Ve la landing page de manera positiva, menciona que se ve con claridad la propuesta y caracteristicas que ofreceria la aplicacion, y que si estuviera en necesidad, pagaria por la subscripciones mencionadas. Luego de ver la aplicacion movil, comenta que le parece facil de manipular y le interesan bastante las funciones de notificaciones automaticas y panel de gestion de citas. En general, no se presentaron criticas negativas a parte de traduccion al ingles por parte de la aplicacion movil.
+
+## Datos del Entrevistado #2
+- **Nombre completo:** 
+- **Segmento Objetivo:** 
+- **Edad:**  
+- **Distrito:**  
+- **Screenshot del cuadro de video:** *![Entrevista 2]()*
+- **URL del video (Microsoft Stream):** *[Entrevista 2]()*
+- **Inicio de la entrevista:** 
+**Resumen:** 
+
+### Segmento Objetivo 2 (Clientes de servicios de belleza)
+
+## Datos del Entrevistado #1
+- **Nombre completo:** 
+- **Segmento Objetivo:** 
+- **Edad:**  
+- **Distrito:**  
+- **Screenshot del cuadro de video:** *![Entrevista 01]()*
+- **URL del video (Microsoft Stream):** *[Entrevista 01]()*
+- **Inicio de la entrevista:** 
+**Resumen:** 
+
+#### Datos del Entrevistado #2
+- **Nombre completo:** 
+- **Segmento Objetivo:** 
+- **Edad:**  
+- **Distrito:**  
+- **Screenshot del cuadro de video:** *![Entrevista 02]()*
+- **URL del video (Microsoft Stream):** *[Entrevista 02]()*
+- **Inicio de la entrevista:** 
+**Resumen:** 
 
 ### 4.3.3. Evaluaciones según heurísticas
 
