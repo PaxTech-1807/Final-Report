@@ -5250,7 +5250,7 @@ El desarrollo del flujo en Android contó con contribuciones significativas de t
 
 El inicio del desarrollo del flujo en Flutter también se refleja en las métricas de colaboración, mostrando las primeras contribuciones al nuevo flujo multiplataforma. Aunque el desarrollo de Flutter está en sus etapas iniciales, las métricas demuestran el compromiso del equipo con esta nueva implementación.
 
-![Team Collaboration Insights - Flutter](img/flutterinsight.png)
+![Team Collaboration Insights - Flutter](img/anashe.png)
 
 ### 4.2.3. Sprint 3
 
