@@ -1,7 +1,7 @@
 <div align="center">
    <div>
 
-# <center>Informe del Trabajo Final</center>
+   <center><img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC"></center>
 
    <br>
 
@@ -9,34 +9,43 @@
 
    <br>
 
-   <center><img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC"></center>
-
-   <br>
-
    <center><b>Ingeniería de software</b></center>
 
    <br>
 
-   <center><b>1ACC0238 Aplicaciones para Dispositivos Móviles</b></center>
+   <center><b>Periodo:</b> 2025-20</center>
 
    <br>
 
-   <center><b>Sección:</b> 1807</center>
+   <center><b>1ACC0238 | Aplicaciones para Dispositivos Móviles</b></center>
 
    <br>
 
-   <center><b>Profesor:</b>Mayta Guillermo, Jorge Luis</center>
+   <center><b>NRC:</b> 1807</center>
 
    <br>
 
-   <center><b>Nombre del StartUp:</b> PaxTech</center>
+   <center><b>Docente:</b> Mayta Guillermo, Jorge Luis</center>
 
    <br>
 
+   <hr style="width: 50%; margin: 20px auto;">
 
-   <center><b>Nombre del Producto:</b> uTime</center>
+   <br>
 
-   </div>
+   <center><b>Informe del Trabajo Final</b></center>
+
+   <br>
+
+   <center><b>Startup:</b> PaxTech</center>
+
+   <br>
+
+   <center><b>Producto:</b> uTime</center>
+
+   <br>
+
+   <center><b>Integrantes:</b></center>
 
    <br>
 
@@ -44,39 +53,39 @@
 
    <table style="margin-left: auto; margin-right: auto;">
    <tr>
-   <th>Nombre</th>
    <th>Código</th>
+   <th>Apellidos y Nombres</th>
    </tr>
    <tr>
-   <td>Choquehuanca Nuñez, Luciana Carolina</td>
    <td>U202319431</td>
+   <td>Choquehuanca Nuñez, Luciana Carolina</td>
    </tr>
    <tr>
-   <td>Qqueso Rodriguez, Britney Delhy</td>
    <td>U20211G671</td>
+   <td>Qqueso Rodriguez, Britney Delhy</td>
    </tr>
    <tr>
-   <td>Rivera Sosa, Eduardo Gael</td>
    <td>U202312222</td>
+   <td>Rivera Sosa, Eduardo Gael</td>
    </tr>
    <tr>
-   <td>Roman Cruz, Natalia Bertha</td>
    <td>U202310148</td>
+   <td>Roman Cruz, Natalia Bertha</td>
    </tr>
    <tr>
-   <td>Yum Gonzales, Jorge Suin</td>
    <td>U202210838</td>
+   <td>Yum Gonzales, Jorge Suin</td>
    </tr>
    </table>
    </div>
 
    <br>
 
-   <center><b>Noviembre 2025</b></center>
-   <br>
-   <center><b>Ciclo 2025-20</b></center>
+   <center><b>Diciembre 2025</b></center>
 
    <br>
+
+   </div>
 
 </div>
 
@@ -112,9 +121,13 @@
 | 2.7    | 05/09/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |    Elaboración del Sprint Planning 1, Sprint Backlog 1 y Development Evidence for Sprint Review                                                                                                      |
 | 2.8    | 06/09/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  | Elaboración del Testing Suite, Execution, Services Documentation, Software Deployment y Team Collaboration Insights for Sprint Review.                                                                                                         |
 | 3.1    | 14/10/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  | Correción de los Avances del TP1                                                                                            |
-| 3.2    | 28/10/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |    Elaboración del Sprint Planning 1, Sprint Backlog 1 y Development Evidence for Sprint Review                                                                                                      |
+| 3.2    | 28/10/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |    Elaboración del Sprint Planning 2, Sprint Backlog 2 y Development Evidence for Sprint Review                                                                                                      |
 | 3.3    | 5/11/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  | Elaboración del Testing Suite, Execution, Services Documentation, Software Deployment y Team Collaboration Insights for Sprint Review.                                                                                                         |
-| 3.4    | 1/11/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  | Elaboración del Testing Suite, Execution, Services Documentation, Software Deployment y Team Collaboration Insights for Sprint Review.  
+| 3.4    | 1/11/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  | Elaboración del Testing Suite, Execution, Services Documentation, Software Deployment y Team Collaboration Insights for Sprint Review.  |
+| 4.1    | 14/10/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  | Correción de los Avances del TB2                                                                                           |
+| 4.2    | 28/10/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  |    Elaboración del Sprint Planning 3, Sprint Backlog 3 y Development Evidence for Sprint Review                                                                                                      |
+| 4.3    | 5/11/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  | Elaboración del Testing Suite, Execution, Services Documentation, Software Deployment y Team Collaboration Insights for Sprint Review.                                                                                               
+| 4.4    | 1/11/2025 | Choquehuanca, Qqueso, Rivera, Roman, Yum  | Elaboración del Testing Suite, Execution, Services Documentation, Software Deployment y Team Collaboration Insights for Sprint Review. 
 
 
 </div>
@@ -127,21 +140,19 @@
 
 # Project Report Collaboration Insights
 
-URL del repositorio para el proyecto: 
+URL del repositorio para el proyecto:
 
 **TB1**
 
 Para el desarrollo del informe perteneciente a la entrega del TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
 
-
-| Integrantes     | Tareas Asignadas                                                                                                                                                                  |
-|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Luciana Choquehuanca  |    Lean ux canvas, lean ux process,hypothesis statements, Tactical-Level Domain-Driven Design-reviews and services, Bounded Context Canvases-all contexts, Event storming         |
-| Britney Qqueso        |    Competidores, análisis competitivo, diseño, registro y análisis de entrevistas, Context Mapping, Bounded Context Workers          |
-| Gael Rivera           |    Entrevistas, User Stories, Technical Stories, Spike Stories, Impact Mapping, Product Backlog, Software Architecture Context, Container and Deployment Diagrams, Bounded Context IAM.  |
-| Natalia Roman         |      Entrevistas, Eventstorming, Candidate Context Discovery, Bounded Context Reservations        |
-| Jorge Yum             |      Entrevistas, Needfinding, Eventstorming, Domain Message Flow Modelling, Bounded context Profiles     |
-
+| Integrantes          | Tareas Asignadas                                                                                                                                                                     |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Luciana Choquehuanca | Lean ux canvas, lean ux process,hypothesis statements, Tactical-Level Domain-Driven Design-reviews and services, Bounded Context Canvases-all contexts, Event storming               |
+| Britney Qqueso       | Competidores, análisis competitivo, diseño, registro y análisis de entrevistas, Context Mapping, Bounded Context Workers                                                             |
+| Gael Rivera          | Entrevistas, User Stories, Technical Stories, Spike Stories, Impact Mapping, Product Backlog, Software Architecture Context, Container and Deployment Diagrams, Bounded Context IAM. |
+| Natalia Roman        | Entrevistas, Eventstorming, Candidate Context Discovery, Bounded Context Reservations                                                                                                |
+| Jorge Yum            | Entrevistas, Needfinding, Eventstorming, Domain Message Flow Modelling, Bounded context Profiles                                                                                     |
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización PaxTech.
 
@@ -153,7 +164,7 @@ de versiones.
 
 Los integrantes son:
 
-- Luciana Choquehuanca (lucianxaaa) 
+- Luciana Choquehuanca (lucianxaaa)
 - Britney Qqueso (brit2801)
 - Gael Rivera (gael-rs)
 - Natalia Roman (natRC2005)
@@ -174,15 +185,13 @@ Se explican las ramas más prominentes:
 
 Para el desarrollo del informe perteneciente a la entrega del TP, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
 
-
-| Integrantes     | Tareas Asignadas                                                                                                                                                                  |
-|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Luciana Choquehuanca  |    Elaboración de la aplicacion movil fidelidad baja/wireframe, correción de bounded canvas, flujos de la aplicaciòn movil bassado en user goeals | 
-| Britney Qqueso        |    Diseño de la app en Figma, Mobile Applications Mock-ups, Mobile Applications User Flow Diagrams, Mobile Applications Prototyping, Testing Suite Evidence for Sprint Review y desarrollo de profile de la app.        |
-| Gael Rivera           |    Execution Evidence for Sprint Review de la Landing Page, Backend y Aplicación Mobil, Landing Page Wireframe y Landing Page Mock-up.        |
-| Natalia Roman         |    Diseño de la ventana de categorias y deb búsqueda de servicios, conexión con backend, Sprint Planning 1 y Software Configuration Management |
-| Jorge Yum             |    Software deployment evidence for sprint review, desarrollo de client dashboard de aplicacion movil, Product Design           |
-
+| Integrantes          | Tareas Asignadas                                                                                                                                                                                              |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Luciana Choquehuanca | Elaboración de la aplicacion movil fidelidad baja/wireframe, correción de bounded canvas, flujos de la aplicaciòn movil bassado en user goeals                                                                |
+| Britney Qqueso       | Diseño de la app en Figma, Mobile Applications Mock-ups, Mobile Applications User Flow Diagrams, Mobile Applications Prototyping, Testing Suite Evidence for Sprint Review y desarrollo de profile de la app. |
+| Gael Rivera          | Execution Evidence for Sprint Review de la Landing Page, Backend y Aplicación Mobil, Landing Page Wireframe y Landing Page Mock-up.                                                                           |
+| Natalia Roman        | Diseño de la ventana de categorias y deb búsqueda de servicios, conexión con backend, Sprint Planning 1 y Software Configuration Management                                                                   |
+| Jorge Yum            | Software deployment evidence for sprint review, desarrollo de client dashboard de aplicacion movil, Product Design                                                                                            |
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización PaxTech.
 
@@ -194,12 +203,11 @@ de versiones.
 
 Los integrantes son:
 
-- Luciana Choquehuanca (lucianxaaa) 
+- Luciana Choquehuanca (lucianxaaa)
 - Britney Qqueso (brit2801)
 - Gael Rivera (gael-rs)
 - Natalia Roman (natRC2005)
 - Jorge Yum (jsyumg, myussu)
-
 
 **Capturas de la participación en el informe:**
 
@@ -211,6 +219,41 @@ Los integrantes son:
 **TB2**
 
 Para el desarrollo del informe perteneciente a la entrega del TB2, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+
+| Integrantes          | Tareas Asignadas                                                        |
+| -------------------- | ----------------------------------------------------------------------- |
+| Luciana Choquehuanca | Services Documentation Evidence for Sprint Review, Video About the team |
+| Britney Qqueso       | Testing Suite Evidence for Sprint Review                                |
+| Gael Rivera          | Execution Evidence for Sprint Review, Video App Validation              |
+| Natalia Roman        | Revisión de user stories, Development Evidence for Sprint Review        |
+| Jorge Yum            | Software Deployment Evidence for Sprint Review, Video About the product |
+
+El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización PaxTech.
+
+**Github Collaboration Insights**
+
+Github también presenta un timeline de las ramas principales y los procesos de merge a los que se han sometido. Todas las
+ramas se crearon tomando en cuenta el diseño de GitFlow para una buena organización cuando se usa un software de control
+de versiones.
+
+Los integrantes son:
+
+- Luciana Choquehuanca (lucianxaaa)
+- Britney Qqueso (brit2801)
+- Gael Rivera (gael-rs)
+- Natalia Roman (natRC2005)
+- Jorge Yum (jsyumg, myussu)
+
+**Capturas de la participación en el informe:**
+
+![tpb2_image](img/tb2project.png)
+
+<br>
+
+
+**TF1**
+
+Para el desarrollo del informe perteneciente a la entrega final (TF1), donde se completó exitosamente el desarrollo de las aplicaciones móviles en Android y Flutter para el segmento de dueños de salones de belleza, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
 
 
 | Integrantes     | Tareas Asignadas                                                                                                                                                                  |
@@ -241,163 +284,172 @@ Los integrantes son:
 
 **Capturas de la participación en el informe:**
 
-![tp1_imagen2]()
-![tp1_image1]()
+![tpb2_image](img/tb2project.png)
 
 <br>
+
 
 <div style="page-break-before: always;"></div>
 
 # Contenido
 
-
 1. [Capítulo I: Presentación](#capítulo-i-presentación)<br>
-1.1. [Startup Profile](#11-startup-profile)<br>
-1.1.1. [Descripción de la Startup](#111-descripción-de-la-startup)<br>
-1.1.2. [Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)<br>
-1.2. [Solution Profile](#12-solution-profile)<br>
-1.2.1. [Antecedentes y problemática](#121-antecedentes-y-problemática)<br>
-1.2.2. [Lean UX Process](#122-lean-ux-process)<br>
-1.2.2.1. [Lean UX Problem Statements](#1221-lean-ux-problem-statements)<br>
-1.2.2.2. [Lean UX Assumptions](#1222-lean-ux-assumptions)<br>
-1.2.2.3. [Lean UX Hypothesis Statements](#1222-lean-ux-assumptions)<br>
-1.2.2.4. [Lean UX Canvas](#1224-lean-ux-canvas)<br>
-1.3. [Segmentos objetivo](#13-segmentos-objetivo)<br>
+   1.1. [Startup Profile](#11-startup-profile)<br>
+   1.1.1. [Descripción de la Startup](#111-descripción-de-la-startup)<br>
+   1.1.2. [Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)<br>
+   1.2. [Solution Profile](#12-solution-profile)<br>
+   1.2.1. [Antecedentes y problemática](#121-antecedentes-y-problemática)<br>
+   1.2.2. [Lean UX Process](#122-lean-ux-process)<br>
+   1.2.2.1. [Lean UX Problem Statements](#1221-lean-ux-problem-statements)<br>
+   1.2.2.2. [Lean UX Assumptions](#1222-lean-ux-assumptions)<br>
+   1.2.2.3. [Lean UX Hypothesis Statements](#1222-lean-ux-assumptions)<br>
+   1.2.2.4. [Lean UX Canvas](#1224-lean-ux-canvas)<br>
+   1.3. [Segmentos objetivo](#13-segmentos-objetivo)<br>
 2. [Capítulo II: Requirements Elicitation & Analysis](#capítulo-iii-requirements-specification)<br>
-2.1. [Competidores](#21-competidores)<br>
-2.1.1. [Análisis competitivo](#211-análisis-competitivo)<br>
-2.1.2. [Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)<br>
-2.2. [Entrevistas](#22-entrevistas)<br>
-2.2.1. [Diseño de entrevistas](#221-diseño-de-entrevistas)<br>
-2.2.2. [Registro de entrevistas](#222-registro-de-entrevistas)<br>
-2.2.3. [Análisis de entrevistas](#223-análisis-de-entrevistas)<br>
-2.3. [Needfinding](#23-needfinding)<br>
-2.3.1. [User Personas](#231-user-personas)<br>
-2.3.2. [User Task Matrix](#232-user-task-matrix)<br>
-2.3.3. [User Journey Mapping](#233-user-journey-mapping)<br>
-2.3.4. [Empathy Mapping](#234-empathy-mapping)<br>
-2.3.5. [Ubiquitous Language](#235-ubiquitous-language)<br>
-2.4. [Requirements specification](#24-requirements-specification)<br>
-2.4.1. [User Stories](#241-user-stories)<br>
-2.4.2. [Impact Mapping](#242-impact-mapping)<br>
-2.4.3. [Product Backlog](#243-product-backlog)<br>
-2.5. [Strategic-Level Domain-Driven Design](#25-strategic-level-domain-driven-design)<br>
-2.5.1. [EventStorming](#251-eventstorming)<br>
-2.5.1.1. [Candidate Context Discovery](#2511-candidate-context-discovery)<br>
-2.5.1.2. [Domain Message Flows Modeling](#2512-domain-message-flows-modeling)<br>
-2.5.1.3. [Bounded Context Canvases](#2513-bounded-context-canvases)<br>
-2.5.2. [Context Mapping](#252-context-mapping)<br>
-2.5.3. [Software Architecture](#253-software-architecture)<br>
-2.5.3.1. [Software Architecture Context Level Diagrams](#2531-software-architecture-context-level-diagrams)<br>
-2.5.3.2. [Software Architecture Container Level Diagrams](#2532-software-architecture-container-level-diagrams)<br>
-2.5.3.3. [Software Architecture Deployment Diagrams](#2533-software-architecture-deployment-diagrams)<br>
-2.6 [Tactical-Level Domain-Driven Design](#26-tactical-level-domain-driven-design)<br>
-2.6.1 [Bounded Context: Profiles](#261-bounded-context-profiles)<br>
-2.6.1.1. [Domain Layer]()<br>
-2.6.1.2. [Interface Layer]()<br>
-2.6.1.3. [Application Layer]()<br>
-2.6.1.4. [Infrastructure Layer]()<br>
-2.6.1.5. [Bounded Context Software Architecture Component Level Diagrams]()<br>
-2.6.1.6. [Bounded Context Software Architecture Code Level Diagrams]()<br>
-2.6.1.6.1. [Bounded Context Domain Layer Class Diagrams]()<br>
-2.6.1.6.2. [Bounded Context Database Design Diagram]()<br>
-2.6.2 [Bounded Context: Reservations](#262-bounded-context-reservations)<br>
-2.6.2.1. [Domain Layer](#2621-domain-layer)<br>
-2.6.2.2. [Interface Layer](#2622-interface-layer)<br>
-2.6.2.3. [Application Layer](#2623-application-layer)<br>
-2.6.2.4. [Infrastructure Layer](#2624-infrastructure-layer)<br>
-2.6.2.5. [Bounded Context Software Architecture Component Level Diagrams](#2625-bounded-context-software-architecture-component-level-diagrams)<br>
-2.6.2.6. [Bounded Context Software Architecture Code Level Diagrams](#2626-bounded-context-software-architecture-code-level-diagrams)<br>
-2.6.2.6.1. [Bounded Context Domain Layer Class Diagrams](#26261-bounded-context-domain-layer-class-diagrams)<br>
-2.6.2.6.2. [Bounded Context Database Design Diagram](#26262-bounded-context-database-design-diagram)<br>
-2.6.3 [Bounded Context: IAM](#263-bounded-context-iam)<br>
-2.6.3.1. [Domain Layer](#2631-domain)<br>
-2.6.3.2. [Interface Layer](#2632-interface-layer)<br>
-2.6.3.3. [Application Layer](#2633-application-layer)<br>
-2.6.3.4. [Infrastructure Layer](#2634-infrastructure-layer)<br>
-2.6.3.5. [Bounded Context Software Architecture Component Level Diagrams](#2635-bounded-context-software-architecture-component-level-diagrams)<br>
-2.6.3.6. [Bounded Context Software Architecture Code Level Diagrams](#2636-bounded-context-software-architecture-code-level-diagrams)<br>
-2.6.3.6.1. [Bounded Context Domain Layer Class Diagrams](#26361-bounded-context-domain-layer-class-diagrams)<br>
-2.6.3.6.2. [Bounded Context Database Design Diagram](#26362-bounded-context-database-design-diagram)<br>
-2.6.4 [Bounded Context: Workers](#264-bounded-context-workers)<br>
-2.6.4.1. [Domain Layer](#2641-domain-layer)<br>
-2.6.4.2. [Interface Layer](#2642-interface-layer)<br>
-2.6.4.3. [Application Layer](#2643-application-layer)<br>
-2.6.4.4. [Infrastructure Layer](#2644-infrastructure-layer)<br>
-2.6.4.5. [Bounded Context Software Architecture Component Level Diagrams](#2646-bounded-context-software-architecture-code-level-diagrams)<br>
-2.6.4.6. [Bounded Context Software Architecture Code Level Diagrams](#2646-bounded-context-software-architecture-code-level-diagrams)<br>
-2.6.4.6.1. [Bounded Context Domain Layer Class Diagrams](#26461-bounded-context-domain-layer-class-diagrams)<br>
-2.6.4.6.2. [Bounded Context Database Design Diagram](#26462-bounded-context-database-design-diagram)<br>
-2.6.5 [Bounded Context: Services](#265-bounded-context-services)<br>
-2.6.5.1. [Domain Layer](#2651-domain-layer)<br>
-2.6.5.2. [Interface Layer](#2652-interface-layer)<br>
-2.6.5.3. [Application Layer](#2653-application-layer)<br>
-2.6.5.4. [Infrastructure Layer](#2654-infrastructure-layer)<br>
-2.6.5.5. [Bounded Context Software Architecture Component Level Diagrams](#2655-bounded-context-software-architecture-component-level-diagrams)<br>
-2.6.5.6. [Bounded Context Software Architecture Code Level Diagrams](#2656-bounded-context-software-architecture-code-level-diagrams)<br>
-2.6.5.6.1. [Bounded Context Domain Layer Class Diagrams](#26561-bounded-context-domain-layer-class-diagrams)<br>
-2.6.5.6.2. [Bounded Context Database Design Diagram](#26562-bounded-context-database-design-diagram)<br>
-2.6.6 [Bounded Context: Reviews](#266-bounded-context-reviews)<br>
-2.6.6.1. [Domain Layer](#2661-domain-layer)<br>
-2.6.6.2. [Interface Layer](#2662-interface-layer)<br>
-2.6.6.3. [Application Layer](#2663-application-layer)<br>
-2.6.6.4. [Infrastructure Layer](#2664-infrastructure-layer)<br>
-2.6.6.5. [Bounded Context Software Architecture Component Level Diagrams](#2665-bounded-context-software-architecture-component-level-diagrams)<br>
-2.6.6.6. [Bounded Context Software Architecture Code Level Diagrams](#2666-bounded-context-software-architecture-code-level-diagrams)<br>
-2.6.6.6.1. [Bounded Context Domain Layer Class Diagrams](#26661-bounded-context-domain-layer-class-diagrams)<br>
-2.6.6.6.2. [Bounded Context Database Design Diagram](#26662-bounded-context-database-design-diagram)<br>
+   2.1. [Competidores](#21-competidores)<br>
+   2.1.1. [Análisis competitivo](#211-análisis-competitivo)<br>
+   2.1.2. [Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)<br>
+   2.2. [Entrevistas](#22-entrevistas)<br>
+   2.2.1. [Diseño de entrevistas](#221-diseño-de-entrevistas)<br>
+   2.2.2. [Registro de entrevistas](#222-registro-de-entrevistas)<br>
+   2.2.3. [Análisis de entrevistas](#223-análisis-de-entrevistas)<br>
+   2.3. [Needfinding](#23-needfinding)<br>
+   2.3.1. [User Personas](#231-user-personas)<br>
+   2.3.2. [User Task Matrix](#232-user-task-matrix)<br>
+   2.3.3. [User Journey Mapping](#233-user-journey-mapping)<br>
+   2.3.4. [Empathy Mapping](#234-empathy-mapping)<br>
+   2.3.5. [Ubiquitous Language](#235-ubiquitous-language)<br>
+   2.4. [Requirements specification](#24-requirements-specification)<br>
+   2.4.1. [User Stories](#241-user-stories)<br>
+   2.4.2. [Impact Mapping](#242-impact-mapping)<br>
+   2.4.3. [Product Backlog](#243-product-backlog)<br>
+   2.5. [Strategic-Level Domain-Driven Design](#25-strategic-level-domain-driven-design)<br>
+   2.5.1. [EventStorming](#251-eventstorming)<br>
+   2.5.1.1. [Candidate Context Discovery](#2511-candidate-context-discovery)<br>
+   2.5.1.2. [Domain Message Flows Modeling](#2512-domain-message-flows-modeling)<br>
+   2.5.1.3. [Bounded Context Canvases](#2513-bounded-context-canvases)<br>
+   2.5.2. [Context Mapping](#252-context-mapping)<br>
+   2.5.3. [Software Architecture](#253-software-architecture)<br>
+   2.5.3.1. [Software Architecture Context Level Diagrams](#2531-software-architecture-context-level-diagrams)<br>
+   2.5.3.2. [Software Architecture Container Level Diagrams](#2532-software-architecture-container-level-diagrams)<br>
+   2.5.3.3. [Software Architecture Deployment Diagrams](#2533-software-architecture-deployment-diagrams)<br>
+   2.6 [Tactical-Level Domain-Driven Design](#26-tactical-level-domain-driven-design)<br>
+   2.6.1 [Bounded Context: Profiles](#261-bounded-context-profiles)<br>
+   2.6.1.1. [Domain Layer]()<br>
+   2.6.1.2. [Interface Layer]()<br>
+   2.6.1.3. [Application Layer]()<br>
+   2.6.1.4. [Infrastructure Layer]()<br>
+   2.6.1.5. [Bounded Context Software Architecture Component Level Diagrams]()<br>
+   2.6.1.6. [Bounded Context Software Architecture Code Level Diagrams]()<br>
+   2.6.1.6.1. [Bounded Context Domain Layer Class Diagrams]()<br>
+   2.6.1.6.2. [Bounded Context Database Design Diagram]()<br>
+   2.6.2 [Bounded Context: Reservations](#262-bounded-context-reservations)<br>
+   2.6.2.1. [Domain Layer](#2621-domain-layer)<br>
+   2.6.2.2. [Interface Layer](#2622-interface-layer)<br>
+   2.6.2.3. [Application Layer](#2623-application-layer)<br>
+   2.6.2.4. [Infrastructure Layer](#2624-infrastructure-layer)<br>
+   2.6.2.5. [Bounded Context Software Architecture Component Level Diagrams](#2625-bounded-context-software-architecture-component-level-diagrams)<br>
+   2.6.2.6. [Bounded Context Software Architecture Code Level Diagrams](#2626-bounded-context-software-architecture-code-level-diagrams)<br>
+   2.6.2.6.1. [Bounded Context Domain Layer Class Diagrams](#26261-bounded-context-domain-layer-class-diagrams)<br>
+   2.6.2.6.2. [Bounded Context Database Design Diagram](#26262-bounded-context-database-design-diagram)<br>
+   2.6.3 [Bounded Context: IAM](#263-bounded-context-iam)<br>
+   2.6.3.1. [Domain Layer](#2631-domain)<br>
+   2.6.3.2. [Interface Layer](#2632-interface-layer)<br>
+   2.6.3.3. [Application Layer](#2633-application-layer)<br>
+   2.6.3.4. [Infrastructure Layer](#2634-infrastructure-layer)<br>
+   2.6.3.5. [Bounded Context Software Architecture Component Level Diagrams](#2635-bounded-context-software-architecture-component-level-diagrams)<br>
+   2.6.3.6. [Bounded Context Software Architecture Code Level Diagrams](#2636-bounded-context-software-architecture-code-level-diagrams)<br>
+   2.6.3.6.1. [Bounded Context Domain Layer Class Diagrams](#26361-bounded-context-domain-layer-class-diagrams)<br>
+   2.6.3.6.2. [Bounded Context Database Design Diagram](#26362-bounded-context-database-design-diagram)<br>
+   2.6.4 [Bounded Context: Workers](#264-bounded-context-workers)<br>
+   2.6.4.1. [Domain Layer](#2641-domain-layer)<br>
+   2.6.4.2. [Interface Layer](#2642-interface-layer)<br>
+   2.6.4.3. [Application Layer](#2643-application-layer)<br>
+   2.6.4.4. [Infrastructure Layer](#2644-infrastructure-layer)<br>
+   2.6.4.5. [Bounded Context Software Architecture Component Level Diagrams](#2646-bounded-context-software-architecture-code-level-diagrams)<br>
+   2.6.4.6. [Bounded Context Software Architecture Code Level Diagrams](#2646-bounded-context-software-architecture-code-level-diagrams)<br>
+   2.6.4.6.1. [Bounded Context Domain Layer Class Diagrams](#26461-bounded-context-domain-layer-class-diagrams)<br>
+   2.6.4.6.2. [Bounded Context Database Design Diagram](#26462-bounded-context-database-design-diagram)<br>
+   2.6.5 [Bounded Context: Services](#265-bounded-context-services)<br>
+   2.6.5.1. [Domain Layer](#2651-domain-layer)<br>
+   2.6.5.2. [Interface Layer](#2652-interface-layer)<br>
+   2.6.5.3. [Application Layer](#2653-application-layer)<br>
+   2.6.5.4. [Infrastructure Layer](#2654-infrastructure-layer)<br>
+   2.6.5.5. [Bounded Context Software Architecture Component Level Diagrams](#2655-bounded-context-software-architecture-component-level-diagrams)<br>
+   2.6.5.6. [Bounded Context Software Architecture Code Level Diagrams](#2656-bounded-context-software-architecture-code-level-diagrams)<br>
+   2.6.5.6.1. [Bounded Context Domain Layer Class Diagrams](#26561-bounded-context-domain-layer-class-diagrams)<br>
+   2.6.5.6.2. [Bounded Context Database Design Diagram](#26562-bounded-context-database-design-diagram)<br>
+   2.6.6 [Bounded Context: Reviews](#266-bounded-context-reviews)<br>
+   2.6.6.1. [Domain Layer](#2661-domain-layer)<br>
+   2.6.6.2. [Interface Layer](#2662-interface-layer)<br>
+   2.6.6.3. [Application Layer](#2663-application-layer)<br>
+   2.6.6.4. [Infrastructure Layer](#2664-infrastructure-layer)<br>
+   2.6.6.5. [Bounded Context Software Architecture Component Level Diagrams](#2665-bounded-context-software-architecture-component-level-diagrams)<br>
+   2.6.6.6. [Bounded Context Software Architecture Code Level Diagrams](#2666-bounded-context-software-architecture-code-level-diagrams)<br>
+   2.6.6.6.1. [Bounded Context Domain Layer Class Diagrams](#26661-bounded-context-domain-layer-class-diagrams)<br>
+   2.6.6.6.2. [Bounded Context Database Design Diagram](#26662-bounded-context-database-design-diagram)<br>
 3. [Capítulo III: Solution UI/UX Design](#3-capítulo-iii-solution-uiux-design)<br>
-3.1. [Product design](#31-product-design)<br>
-3.1.1. [Style Guidelines](#311-style-guidelines)<br>
-3.1.1.1. [General Style Guidelines](#3111-general-style-guidelines)<br>
-3.1.2. [Information Architecture](#312-information-architecture)<br>
-3.1.2.1. [Organization Systems](#3121-organization-systems)<br>
-3.1.2.2. [Labelling Systems](#3122-labelling-systems)<br>
-3.1.2.3. [SEO Tags and Meta Tags](#3123-seo-tags-and-meta-tags)<br>
-3.1.2.4. [Searching Systems](#3124-searching-systems)<br>
-3.1.2.5. [Navigation Systems](#3125-navigation-systems)<br>
-3.1.3. [Landing Page UI Design](#313-landing-page-ui-design)<br>
-3.1.3.1. [Landing Page Wireframe](#3131-landing-page-wireframe)<br>
-3.1.3.2. [Landing Page Mock-up](#3132-landing-page-mock-up)<br>
-3.1.4. [Mobile Applications UX/UI Design](#314-mobile-applications-uxui-design)<br>
-3.1.4.1. [Mobile Applications Wireframes](#3141-mobile-applications-wireframes)<br>
-3.1.4.2. [Mobile Applications Wireflow Diagrams](#3142-mobile-applications-wireflow-diagrams)<br>
-3.1.4.3. [Mobile Applications Mock-ups](#3143-mobile-applications-mock-ups)<br>
-3.1.4.4. [Mobile Applications User Flow Diagrams](#3144-mobile-applications-user-flow-diagrams)<br>
-3.1.4.5. [Mobile Applications Prototyping](#3145-mobile-applications-prototyping)<br>
+   3.1. [Product design](#31-product-design)<br>
+   3.1.1. [Style Guidelines](#311-style-guidelines)<br>
+   3.1.1.1. [General Style Guidelines](#3111-general-style-guidelines)<br>
+   3.1.2. [Information Architecture](#312-information-architecture)<br>
+   3.1.2.1. [Organization Systems](#3121-organization-systems)<br>
+   3.1.2.2. [Labelling Systems](#3122-labelling-systems)<br>
+   3.1.2.3. [SEO Tags and Meta Tags](#3123-seo-tags-and-meta-tags)<br>
+   3.1.2.4. [Searching Systems](#3124-searching-systems)<br>
+   3.1.2.5. [Navigation Systems](#3125-navigation-systems)<br>
+   3.1.3. [Landing Page UI Design](#313-landing-page-ui-design)<br>
+   3.1.3.1. [Landing Page Wireframe](#3131-landing-page-wireframe)<br>
+   3.1.3.2. [Landing Page Mock-up](#3132-landing-page-mock-up)<br>
+   3.1.4. [Mobile Applications UX/UI Design](#314-mobile-applications-uxui-design)<br>
+   3.1.4.1. [Mobile Applications Wireframes](#3141-mobile-applications-wireframes)<br>
+   3.1.4.2. [Mobile Applications Wireflow Diagrams](#3142-mobile-applications-wireflow-diagrams)<br>
+   3.1.4.3. [Mobile Applications Mock-ups](#3143-mobile-applications-mock-ups)<br>
+   3.1.4.4. [Mobile Applications User Flow Diagrams](#3144-mobile-applications-user-flow-diagrams)<br>
+   3.1.4.5. [Mobile Applications Prototyping](#3145-mobile-applications-prototyping)<br>
 4. [Capítulo IV: Product Implementation, Validation](#4-capítulo-iv-product-implementation-validation)<br>
-4.1. [Software Configuration Management](#41-software-configuration-management)<br>
-4.1.1. [Software Development Environment Configuration](#411-software-development-environment-configuration)<br>
-4.1.2. [Source Code Management](#412-source-code-management)<br>
-4.1.3. [Source Code Style Guide & Conventions](#413-source-code-style-guide--conventions)<br>
-4.1.4. [Software Deployment Configuration](#414-software-deployment-configuration)<br>
-4.2. [Landing Page & Mobile Application Implementation](#42-landing-page--mobile-application-implementation)<br>
-4.2.1. [Sprint 1](#42x-sprint-1)<br>
-4.2.1.1. [Sprint Planning 1](#42x1-sprint-planning-1)<br>
-4.2.1.2. [Sprint Backlog 1](#42x2-sprint-backlog-n)<br>
-4.2.1.3. [Development Evidence for Sprint Review](#4213-development-evidence-for-sprint-review)<br>
-4.2.1.4. [Testing Suite Evidence for Sprint Review](#4214-testing-suite-evidence-for-sprint-review)<br>
-4.2.1.5. [Execution Evidence for Sprint Review](#42x5-execution-evidence-for-sprint-review)<br>
-4.2.1.6. [Services Documentation Evidence for Sprint Review](#4216-services-documentation-evidence-for-sprint-review)<br>
-4.2.1.7. [Software Deployment Evidence for Sprint Review](#4217-software-deployment-evidence-for-sprint-review)<br>
-4.2.1.8. [Team Collaboration Insights during Sprint](#4218-team-collaboration-insights-during-sprint)<br>
-4.2.2. [Sprint 2](#422-sprint-2)<br>
-4.2.2.1. [Sprint Planning 2](#4221-sprint-planning-2)<br>
-4.2.2.2. [Sprint Backlog 2](#4222-sprint-backlog-2)<br>
-4.2.2.3. [Development Evidence for Sprint Review](#4223-development-evidence-for-sprint-review)<br>
-4.2.2.4. [Testing Suite Evidence for Sprint Review](#4224-testing-suite-evidence-for-sprint-review)<br>
-4.2.2.5. [Execution Evidence for Sprint Review](#4225-execution-evidence-for-sprint-review)<br>
-4.2.2.6. [Services Documentation Evidence for Sprint Review](#4226-services-documentation-evidence-for-sprint-review)<br>
-4.2.2.7. [Software Deployment Evidence for Sprint Review](#4227-software-deployment-evidence-for-sprint-review)<br>
-4.2.2.8. [Team Collaboration Insights during Sprint](#4228-team-collaboration-insights-during-sprint)<br>
-4.3. [Validation Interviews](#43-validation-interviews)<br>
-4.3.1. [Diseño de Entrevistas](#431-diseño-de-entrevistas)<br>
-4.3.2. [Registro de Entrevistas](#432-registro-de-entrevistas)<br>
-4.3.3. [Evaluaciones según heurísticas](#433-evaluaciones-según-heurísticas)<br>
+   4.1. [Software Configuration Management](#41-software-configuration-management)<br>
+   4.1.1. [Software Development Environment Configuration](#411-software-development-environment-configuration)<br>
+   4.1.2. [Source Code Management](#412-source-code-management)<br>
+   4.1.3. [Source Code Style Guide & Conventions](#413-source-code-style-guide--conventions)<br>
+   4.1.4. [Software Deployment Configuration](#414-software-deployment-configuration)<br>
+   4.2. [Landing Page & Mobile Application Implementation](#42-landing-page--mobile-application-implementation)<br>
+   4.2.1. [Sprint 1](#42x-sprint-1)<br>
+   4.2.1.1. [Sprint Planning 1](#42x1-sprint-planning-1)<br>
+   4.2.1.2. [Sprint Backlog 1](#42x2-sprint-backlog-n)<br>
+   4.2.1.3. [Development Evidence for Sprint Review](#4213-development-evidence-for-sprint-review)<br>
+   4.2.1.4. [Testing Suite Evidence for Sprint Review](#4214-testing-suite-evidence-for-sprint-review)<br>
+   4.2.1.5. [Execution Evidence for Sprint Review](#42x5-execution-evidence-for-sprint-review)<br>
+   4.2.1.6. [Services Documentation Evidence for Sprint Review](#4216-services-documentation-evidence-for-sprint-review)<br>
+   4.2.1.7. [Software Deployment Evidence for Sprint Review](#4217-software-deployment-evidence-for-sprint-review)<br>
+   4.2.1.8. [Team Collaboration Insights during Sprint](#4218-team-collaboration-insights-during-sprint)<br>
+   4.2.2. [Sprint 2](#422-sprint-2)<br>
+   4.2.2.1. [Sprint Planning 2](#4221-sprint-planning-2)<br>
+   4.2.2.2. [Sprint Backlog 2](#4222-sprint-backlog-2)<br>
+   4.2.2.3. [Development Evidence for Sprint Review](#4223-development-evidence-for-sprint-review)<br>
+   4.2.2.4. [Testing Suite Evidence for Sprint Review](#4224-testing-suite-evidence-for-sprint-review)<br>
+   4.2.2.5. [Execution Evidence for Sprint Review](#4225-execution-evidence-for-sprint-review)<br>
+   4.2.2.6. [Services Documentation Evidence for Sprint Review](#4226-services-documentation-evidence-for-sprint-review)<br>
+   4.2.2.7. [Software Deployment Evidence for Sprint Review](#4227-software-deployment-evidence-for-sprint-review)<br>
+   4.2.2.8. [Team Collaboration Insights during Sprint](#4228-team-collaboration-insights-during-sprint)<br>
+   4.2.3. [Sprint 3](#423-sprint-3)<br>
+   4.2.3.1. [Sprint Planning 3](#4231-sprint-planning-3)<br>
+   4.2.3.2. [Sprint Backlog 3](#4232-sprint-backlog-3)<br>
+   4.2.3.3. [Development Evidence for Sprint Review](#4233-development-evidence-for-sprint-review)<br>
+   4.2.3.4. [Testing Suite Evidence for Sprint Review](#4234-testing-suite-evidence-for-sprint-review)<br>
+   4.2.3.5. [Execution Evidence for Sprint Review](#4235-execution-evidence-for-sprint-review)<br>
+   4.2.3.6. [Services Documentation Evidence for Sprint Review](#4236-services-documentation-evidence-for-sprint-review)<br>
+   4.2.3.7. [Software Deployment Evidence for Sprint Review](#4237-software-deployment-evidence-for-sprint-review)<br>
+   4.2.3.8. [Team Collaboration Insights during Sprint](#4238-team-collaboration-insights-during-sprint)<br>
+   4.3. [Validation Interviews](#43-validation-interviews)<br>
+   4.3.1. [Diseño de Entrevistas](#431-diseño-de-entrevistas)<br>
+   4.3.2. [Registro de Entrevistas](#432-registro-de-entrevistas)<br>
+   4.3.3. [Evaluaciones según heurísticas](#433-evaluaciones-según-heurísticas)<br>
 5. [Conclusiones](#conclusiones)<br>
-5.1 [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)<br>
-5.2 [Video App Validation](#video-app-validation)<br>
-5.3 [Video About the Product](#video-about-the-product)<br>
+   5.1 [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)<br>
+   5.2 [Video App Validation](#52-video-app-validation)<br>
+   5.3 [Video About the Product](#53-video-about-the-product)<br>
+   5.4 [Video About the Team](#54-video-about-the-team)<br>
 6. [Glosario](#glosario)<br>
 7. [Bibliografía](#bibliografía)<br>
 8. [Anexos](#anexos)<br>
@@ -407,7 +459,8 @@ Los integrantes son:
 <div style="page-break-before: always;"></div>
 
 # Student Outcomes
-   **Student Outcome ABET 7**
+
+**Student Outcome ABET 7**
 
 <table>
   <thead>
@@ -424,12 +477,14 @@ Los integrantes son:
          <strong>Eduardo Gael Rivera Sosa</strong> <br>  
          <b>TB1:</b> Durante el proyecto uTime, actualicé mis conocimientos en Domain-Driven Design (DDD), arquitectura de software con modelo C4, y patrones de integración. Profundicé en el diseño del Bounded Context IAM con conceptos de autenticación y autorización, y en la creación de diagramas de arquitectura (Context, Container y Deployment). También actualicé mis habilidades en especificación de requisitos mediante User Stories, Technical Stories y Spike Stories, y en técnicas ágiles como Impact Mapping y Product Backlog. <br> 
          <b>TP1:</b> Durante esta entrega, actualicé mis conocimientos en documentación técnica y presentación de evidencias de ejecución. Trabajé en la elaboración de la sección "Execution Evidence for Sprint Review" que incluye la documentación completa de la Landing Page, Backend y Aplicación Móvil, así como en el desarrollo de Landing Page Wireframes y Mock-ups. Esta experiencia me permitió consolidar habilidades en documentación de proyectos de software y presentación de resultados técnicos de manera profesional y estructurada. <br>
-         <b>TB2:</b> Durante esta entrega, avancé en la corrección de la Landing Page colocando imágenes del nuevo producto para mejorar la presentación visual y la comunicación de las características del servicio. Trabajé en la elaboración de la sección "Execution Evidence for Sprint Review" documentando los avances y mejoras implementadas. Además, realicé el cambio completo de UI de toda la aplicación móvil, mejorando la experiencia de usuario y la consistencia visual del producto. Esta experiencia me permitió consolidar habilidades en diseño de interfaces, actualización de documentación técnica y mejora continua de productos de software.
+         <b>TB2:</b> Durante esta entrega, avancé en la corrección de la Landing Page colocando imágenes del nuevo producto para mejorar la presentación visual y la comunicación de las características del servicio. Trabajé en la elaboración de la sección "Execution Evidence for Sprint Review" documentando los avances y mejoras implementadas. Además, realicé el cambio completo de UI de toda la aplicación móvil, mejorando la experiencia de usuario y la consistencia visual del producto. Esta experiencia me permitió consolidar habilidades en diseño de interfaces, actualización de documentación técnica y mejora continua de productos de software. <br>
+         <b>TF1:</b> Durante la entrega final, finalicé y completé exitosamente toda la aplicación móvil en Flutter para el segmento de dueños de salones de belleza. Implementé todas las secciones principales de la aplicación incluyendo autenticación (login y registro), dashboard con métricas del salón, gestión de servicios, gestión de trabajadores, calendario de reservas, y perfil con configuración. El sistema de autenticación fue desarrollado de manera robusta, integrando correctamente con el backend y manejando el flujo completo de registro e inicio de sesión. Esta experiencia me permitió consolidar conocimientos avanzados en desarrollo móvil multiplataforma con Flutter, arquitectura de aplicaciones móviles, integración con APIs REST, y gestión de estado en aplicaciones complejas.
       </td>
       <td rowspan="5">
          <b>TB1:</b> El desarrollo completo de los capítulos 1 y 2 del proyecto uTime permitió al equipo consolidar conocimientos fundamentales en ingeniería de software. A través del análisis competitivo, entrevistas con usuarios y técnicas de needfinding, el equipo desarrolló competencias en investigación de mercado y análisis de requisitos. La implementación de metodologías Lean UX y Domain-Driven Design proporcionó una base sólida en diseño de software centrado en el usuario y arquitecturas escalables. La elaboración de diagramas C4, EventStorming y Context Mapping permitió al equipo dominar técnicas avanzadas de modelado de sistemas complejos, mientras que la especificación de requisitos mediante User Stories y Product Backlog consolidó las habilidades del equipo en metodologías ágiles. 
          <br><b>TP1:</b> El desarrollo de los capítulos 3 y 4 del proyecto uTime permitió al equipo consolidar conocimientos avanzados en diseño de interfaces de usuario y implementación de software. A través del Capítulo 3 (Solution UI/UX Design), el equipo desarrolló competencias en Style Guidelines, Information Architecture, Landing Page UI Design y Mobile Applications Design, aplicando principios de usabilidad, accesibilidad y experiencia de usuario. El Capítulo 4 (Product Implementation, Validation) consolidó las habilidades del equipo en Software Configuration Management, implementación de Sprints con metodología Scrum, desarrollo de evidencia de ejecución, testing y deployment. La integración de wireframes, mockups, prototipos y la documentación técnica completa permitió al equipo dominar el ciclo completo de desarrollo de software, desde el diseño conceptual hasta la implementación y validación del producto final.
          <br><b>TB2:</b> El desarrollo del Sprint 3 completo del proyecto uTime permitió al equipo consolidar conocimientos en implementación y migración de tecnologías móviles. Durante esta entrega, el equipo concluyó completamente el desarrollo de la aplicación móvil en Android, finalizando todas las funcionalidades y mejoras pendientes. Posteriormente, se inició la migración y desarrollo de la aplicación utilizando Flutter, lo que permitió al equipo adquirir competencias en frameworks multiplataforma y técnicas de migración de código. Esta experiencia consolidó las habilidades del equipo en desarrollo móvil nativo y multiplataforma, así como en la gestión de transiciones tecnológicas en proyectos de software en curso.
+         <br><b>TF1:</b> La entrega final del proyecto uTime representó la culminación exitosa de un producto de software completo e integral que incluye la aplicación móvil en Android para clientes, la aplicación móvil en Flutter para dueños de salones de belleza, y la Landing Page como punto de entrada al ecosistema. El producto final uTime demuestra la capacidad del equipo para desarrollar soluciones tecnológicas que abordan problemas reales del mercado peruano, conectando a estilistas, barberos y clientes a través de una plataforma digital moderna y eficiente. La integración completa de todas las funcionalidades principales - desde autenticación y gestión de servicios hasta reservas y reseñas - en múltiples plataformas, consolida las competencias del equipo en desarrollo full-stack, arquitectura de software escalable, diseño centrado en el usuario, y entrega de productos de software que generan valor real para sus usuarios. uTime se posiciona como una solución tecnológica viable que contribuye a la digitalización del sector de belleza en Perú, demostrando que el equipo puede transformar ideas en productos funcionales y listos para el mercado.
       </td>
     </tr>
     <tr>
@@ -438,13 +493,15 @@ Los integrantes son:
          <b>TB1:</b> Durante el desarrollo del proyecto, pude recordar los conceptos aprendidos en cursos anteriores, los cuales incluyen patrones de softwares, modelamiento siguiendo Domain Driven Design y aplicación de Lean UX para identificación de requisitos. Al investigar más sobre las técnicas mencionadas y consultar en cuanto a conceptos en clase, pude expandir mis concomientos y comprender mejor lo que implica cada caso, de forma que ahora puedo aplicar estos conceptos de forma más eficiente.
          <br><b>TP1:</b> Para el desarrollo de la segunda parte del proyecto, se recordaron los conocimientos adquiridos desde la primera semana del curso para comenzar a trabajar en la implementación de nuestra primera aplicación móvil. En ese sentido, buscamos más información en cuanto Android Studio para ampliar nuestros conocimientos y conseguir un mejor resultado. De la misma manera, acudimos a lectura y ejemplos de arquitectura limpia para mantener el orden en el front a desarrollar, pero también al modificar nuestro backend.
          <br><b>TB2:</b> Al desarrollar la tercera entega de este proyecto, nos basamos principalmente en las diapositivas vistas en clase así como en el proyecto que estamos trabajando progresivamente bajo la guía del profesor. De la misma forma, acudimos a material adicional, videos en plataformas y a la documentación oficial de flutter para mejorar nuestra entrega. Esto nos ayuda no solo a aprender nuevas técnicas que nos pueden servir en otros proyectos, sino también a comparar fuentes y apoyarnos en conjunto durante el apredizaje.
+         <br><b>TF1:</b> Para el desarrollo de la última parte de esta trabajo, mi grupo y yo nos centramos en buscar información para implementar todas alas funcionalidades que teníamos en mente, pero también a dedicarnos a avanzar lo más posible semanalmente de forma en que pudieramos realizar consultas al profesor sobre nuestro desarrollo y recibir una guía más precisa. Esto nos sirvió para saber en qué aspectos centrarnos y evaluar nuestra mejoría constantemente.
       </td>
     </tr>
     <tr>
       <td>
          <strong>Luciana Carolina Choquehuanca Nuñez</strong> <br>  
          <b>TB1:</b> Durante el desarrollo del proyecto uTime, actualicé mis conocimientos en metodologías de diseño UX/UI centradas en el usuario, profundizando en técnicas de research como análisis competitivo y entrevistas con usuarios objetivo del sector belleza. Consolidé conceptos de arquitectura de información y wireframing, aplicando principios de usabilidad y accesibilidad web. También actualicé mis habilidades en herramientas de prototipado y testing de aplicaciones móviles, integrando conceptos de psicología del usuario y design thinking para crear experiencias digitales optimizadas que complementen la arquitectura técnica desarrollada por el equipo. <br>
-         <b>TP1:</b> Durante esta entrega, actualicé mis conocimientos en documentación técnica y diseño de interfaces móviles. Elaboré el diseño base de la aplicación, incluyendo wireframes y la pantalla de reserva de servicios. Además, realicé mejoras en el Bounded Context Canvas, fortaleciendo la definición de límites del sistema. Esta experiencia me permitió consolidar conocimientos en usabilidad, accesibilidad, testing y presentación estructurada de evidencias técnicas, reforzando mis competencias en el desarrollo de soluciones centradas en el usuario.
+         <b>TP1:</b> Durante esta entrega, actualicé mis conocimientos en documentación técnica y diseño de interfaces móviles. Elaboré el diseño base de la aplicación, incluyendo wireframes y la pantalla de reserva de servicios. Además, realicé mejoras en el Bounded Context Canvas, fortaleciendo la definición de límites del sistema. Esta experiencia me permitió consolidar conocimientos en usabilidad, accesibilidad, testing y presentación estructurada de evidencias técnicas, reforzando mis competencias en el desarrollo de soluciones centradas en el usuario. <br>
+         <b>TB2:</b> Durante esta entrega, trabajé en la documentación de servicios y evidencia de colaboración del equipo. Elaboré la sección de Services Documentation Evidence for Sprint Review, documentando los avances en el desarrollo del módulo de reservas y la integración con el backend. Además, participé en la creación del video sobre el equipo, contribuyendo a la presentación del trabajo colaborativo realizado durante el Sprint 2. Esta experiencia me permitió consolidar habilidades en documentación técnica de servicios y comunicación efectiva del trabajo en equipo.
       </td>
     </tr>
     <tr>
@@ -453,6 +510,7 @@ Los integrantes son:
          <b>TB1:</b> En esta entrega actualicé y apliqué conocimientos clave para el proyecto, realicé la identificación de competidores y el análisis competitivo, diseñé, registré y analicé entrevistas con usuarios, y trasladé esos hallazgos a artefactos de Domain-Driven Design como el Context Mapping y el Bounded Context Workers. Con estas actividades, pude usar lo que aprendí en el curso para tomar decisiones sobre la arquitectura del proyecto. <br>
          <b>TP1:</b> En esta entrega actualicé y apliqué conocimientos relacionados con el diseño y desarrollo de aplicaciones móviles. Elaboré el diseño de la app en Figma, incluyendo los Mobile Applications Mock-ups, User Flow Diagrams y el prototipado interactivo, aplicando principios de usabilidad y experiencia de usuario (UX/UI). Además, integré prácticas de testing y validación mediante la sección Testing Suite Evidence for Sprint Review. Finalmente, desarrollé el módulo de perfil (Profile) de la aplicación.<br>
          <b>TB2:</b> En esta entrega me encargué de completar las secciones Development Evidence for Sprint Review y Testing Suite Evidence for Sprint Review, conectando los ítems del Sprint Backlog con sus commits y pruebas de aceptación. Además, reforcé conceptos de arquitectura y diseño de interfaces al desarrollar las vistas de perfil para ambos segmentos objetivo en Android y Flutter (iOS), asegurando consistencia entre plataformas y alineando las decisiones técnicas con los lineamientos del curso y del proyecto uTime.
+         <br><b>TF1:</b> En esta entrega final actualicé y profundicé mis conocimientos  de interfaces móviles y validación de usuario. Me enfoqué en mejorar la calidad visual y la usabilidad de la aplicación Android, aplicando mejoras de UI en las pantallas de Appointments, Login, Register y Perfil. Asimismo, consolidé la sección Development Evidence for Sprint Review para asegurar la trazabilidad del proyecto. Finalmente, registré y analicé las entrevistas de validación con el objetivo de contrastar la solución técnica frente a la satisfacción real del cliente.
       </td>
     </tr>
     <tr>
@@ -460,7 +518,8 @@ Los integrantes son:
          <strong>Jorge Suin Yum Gonzales</strong> <br> 
          <b>TB1:</b> Durante este primer avance, actualicé y profundicé en conceptos clave como Needfinding, Ubiquitous Language y Domain Message Flow Modeling. Además, realicé entrevistas y trabajé el EventStorming para identificar eventos, comandos y políticas del dominio. Diseñé la estructura del Bounded Context Profiles y definí su rol e interacciones dentro de los distintos procesos de la aplicación móvil a desarrollar. <br>
          <b>TP1:</b> Durante el desarrollo del proyecto uTime, actualicé y profundicé mis conocimientos en diseño de interfaces y despliegue de software, abordando tareas relacionadas con el Dashboard, las vistas de detalle de salones y la preparación del Sprint Review. En el ámbito de UI/UX Design, apliqué principios de arquitectura de información, navegación y sistemas de etiquetado, asegurando la coherencia visual y funcional entre las distintas pantallas. Asimismo, reforcé mis habilidades en integración continua y despliegue mediante entornos controlados, lo que me permitió validar funcionalidades de forma iterativa. Este proceso fortaleció mi comprensión del ciclo de vida del software y la importancia de la comunicación entre diseño y desarrollo para lograr productos usables, escalables y centrados en el usuario. <br>
-         <b>TB2:</b> Durante esta entrega, actualicé mis conocimientos en desarrollo móvil con Flutter, implementando la lógica del calendario de reservaciones para el segmento de providers en la aplicación iOS. Asimismo, aprendí sobre gestión de releases y distribución de aplicaciones mediante Firebase App Distribution, configurando y generando releases para testing. Además, documenté las evidencias de deployment para el Sprint Review 2, reforzando habilidades en presentación técnica de resultados.
+         <b>TB2:</b> Durante esta entrega, actualicé mis conocimientos en desarrollo móvil con Flutter, implementando la lógica del calendario de reservaciones para el segmento de providers en la aplicación iOS. Asimismo, aprendí sobre gestión de releases y distribución de aplicaciones mediante Firebase App Distribution, configurando y generando releases para testing. Además, documenté las evidencias de deployment para el Sprint Review 2, reforzando habilidades en presentación técnica de resultados. <br>
+         <b>TF:</b> En esta entrega final, profundicé en desarrollo multiplataforma implementando funcionalidades nativas para Android, específicamente el sistema de cupones de descuento. Amplié mis conocimientos en Flutter integrando servicios de geolocalización y manejo de imágenes desde Object Storage. Además, realicé entrevistas de validación con providers, documenté las Software Deployment Evidence para el Sprint Review final, y conduje la Video App Validation, consolidando habilidades en testing de usuario y presentación de resultados técnicos.
       </td>
     </tr>
     <tr>
@@ -469,12 +528,14 @@ Los integrantes son:
          <strong>Eduardo Gael Rivera Sosa</strong> <br>  
          <b>TB1:</b> Durante el proyecto uTime, reconocí la importancia del aprendizaje continuo al enfrentar desafíos técnicos como el diseño de arquitecturas y la implementación de patrones DDD. La necesidad de mantenerme actualizado se evidenció al plantear como se trabajará con tecnologías emergentes en desarrollo móvil y al adaptarlas a las metodologías ágiles. <br>
          <b>TP1:</b> Durante esta entrega, reconocí la necesidad del aprendizaje permanente al trabajar en la documentación técnica y presentación de evidencias de ejecución. Al desarrollar la sección "Execution Evidence for Sprint Review" que incluye Landing Page, Backend y Aplicación Móvil, así como Landing Page Wireframes y Mock-ups, identifiqué la importancia de mantenerme actualizado en técnicas de documentación de software y presentación de resultados técnicos para comunicar efectivamente el progreso del proyecto. <br>
-         <b>TB2:</b> Durante esta entrega, reconocí la necesidad del aprendizaje permanente al trabajar en la corrección de la Landing Page con imágenes del nuevo producto y en el cambio completo de UI de toda la aplicación móvil. Al desarrollar la sección "Execution Evidence for Sprint Review" y actualizar la documentación técnica, identifiqué la importancia de mantenerme actualizado en diseño de interfaces, principios de UX/UI modernos y técnicas de mejora continua de productos de software. Esta experiencia me demostró que el aprendizaje permanente es esencial para adaptarse a las necesidades cambiantes de los usuarios y mantener la calidad visual y funcional del producto en constante evolución.
+         <b>TB2:</b> Durante esta entrega, reconocí la necesidad del aprendizaje permanente al trabajar en la corrección de la Landing Page con imágenes del nuevo producto y en el cambio completo de UI de toda la aplicación móvil. Al desarrollar la sección "Execution Evidence for Sprint Review" y actualizar la documentación técnica, identifiqué la importancia de mantenerme actualizado en diseño de interfaces, principios de UX/UI modernos y técnicas de mejora continua de productos de software. Esta experiencia me demostró que el aprendizaje permanente es esencial para adaptarse a las necesidades cambiantes de los usuarios y mantener la calidad visual y funcional del producto en constante evolución. <br>
+         <b>TF1:</b> Durante la entrega final, reconocí la importancia crítica del aprendizaje permanente al finalizar completamente la aplicación móvil en Flutter. Al implementar todas las funcionalidades principales incluyendo el sistema de autenticación completo, gestión de servicios, trabajadores, reservas y perfil, identifiqué la necesidad de mantenerme actualizado constantemente en frameworks multiplataforma, patrones de arquitectura móvil, y mejores prácticas de desarrollo. La complejidad de integrar múltiples secciones y el sistema de autenticación robusto me demostró que el aprendizaje permanente es fundamental para dominar tecnologías emergentes y entregar productos de alta calidad que cumplan con los estándares profesionales del desarrollo de software moderno.
       </td>
       <td rowspan="5">
          <b>TB1:</b> La experiencia del TB1 demostró al equipo que el aprendizaje permanente es esencial en la ingeniería de software. Al trabajar con metodologías emergentes como Lean UX, Domain-Driven Design y arquitecturas, el equipo comprendió que las tecnologías evolucionan constantemente y requieren actualización continua. La investigación de competidores, el análisis de usuarios mediante entrevistas y la implementación de patrones de integración entre bounded contexts enseñaron al equipo la importancia de mantenerse al día con las mejores prácticas de la industria. Además, la colaboración en equipo y la retroalimentación de usuarios mostraron que el aprendizaje no se limita solo a aspectos técnicos, sino también al desarrollo de habilidades de comunicación, análisis de mercado y gestión de proyectos, fundamentales para el crecimiento profesional en el desarrollo de software.
          <br><b>TP1:</b> La experiencia del TP1 reforzó la importancia del aprendizaje permanente en el desarrollo de software, especialmente en las áreas de diseño de interfaces y implementación de productos. Al trabajar en los capítulos 3 y 4, el equipo comprendió que el diseño de software requiere actualización constante en herramientas de prototipado, principios de UX/UI, metodologías ágiles como Scrum, y tecnologías de deployment. La implementación de wireframes, mockups, y la documentación técnica completa enseñaron al equipo que el aprendizaje continuo es crucial para mantenerse actualizado con las mejores prácticas de la industria en diseño centrado en el usuario, testing de software y gestión de configuración. Además, la colaboración en la implementación de Sprints y la validación de productos demostraron que el aprendizaje permanente abarca tanto aspectos técnicos como habilidades de documentación, presentación de evidencias y comunicación efectiva de resultados técnicos.
          <br><b>TB2:</b> La experiencia del Sprint 3 completo demostró al equipo la importancia crítica del aprendizaje permanente en la adaptación a nuevas tecnologías y frameworks. Al concluir completamente el desarrollo de la aplicación móvil en Android y posteriormente iniciar la migración a Flutter, el equipo comprendió que el aprendizaje permanente es fundamental para mantenerse actualizado con las tecnologías emergentes en desarrollo móvil. La transición de desarrollo nativo a frameworks multiplataforma enseñó al equipo que las tecnologías evolucionan rápidamente y que la capacidad de aprender y adaptarse es esencial para el crecimiento profesional. Además, la gestión de migraciones tecnológicas y el trabajo con diferentes paradigmas de desarrollo demostraron que el aprendizaje permanente abarca tanto la adquisición de nuevos conocimientos técnicos como el desarrollo de habilidades para evaluar, comparar y adoptar nuevas tecnologías de manera efectiva en proyectos de software en curso.
+         <br><b>TF1:</b> La experiencia de la entrega final del producto uTime completo (Android, Flutter y Landing Page) reforzó la importancia fundamental del aprendizaje permanente en el desarrollo de software profesional y la creación de productos tecnológicos viables. Al finalizar exitosamente un ecosistema completo de software que incluye múltiples plataformas móviles y una interfaz web, el equipo comprendió que el aprendizaje permanente es esencial no solo para dominar tecnologías individuales, sino para integrar sistemas complejos, mantener consistencia entre plataformas, y entregar productos que generen valor real para los usuarios. El desarrollo de uTime como producto integral demostró que el aprendizaje continuo permite enfrentar desafíos técnicos complejos, adaptarse a diferentes paradigmas de desarrollo (nativo vs multiplataforma), y crear soluciones que resuelven problemas reales del mercado. Esta experiencia enseñó al equipo que el aprendizaje permanente es la base para transformar ideas en productos funcionales, mantenerse competitivo en la industria del software, y contribuir significativamente a la digitalización de sectores tradicionales como el de belleza en Perú.
       </td>
     </tr>
     <tr>
@@ -483,13 +544,15 @@ Los integrantes son:
          <b>TB1:</b> Al desarrollar la primera entrega del presente proyecto, pude notar la importancia de continuar con el aprendizaje contínuo tanto dentro de las sesiones de clases y con el material adjunto, como de forma autónoma de forma que el enfrentar nuevos retos o plasmar ideas innovadoras se vuelva más sencillo con la práctica y la base adecuada.
          <br><b>TP1:</b> Al concluir con el segundo avance del proyecto se puede notar que es necesario continuar investigando en cuanto a las nuevas herramientas a utilizar para poder hacer un desarrollo más rápido y dinámico. Asimismo, se deben revisar las metodologías a aplicar, de forma que estás no sean un retraso en la implementación, sino un apoyo para mantener el código limpio, ordenado y comprensible para cualquier miembre del equipo.
          <br><b>TB2:</b> Al haber terminado la tercera entrega del proyecto nos dimos de que era importante complementar los conocimientos aprendidos en clase con más información obtenido mediante la investigación personal o grupal, así como su repaso y acoplo. A su vez, debemos tomar en cuenta cmoo respetar los criterios planteados desde el inicio y la cultura del código limpio al utilizar flutter.
+         <br><b>TF1:</b> Al haber finalizado la entrega final de este enriquecedor trabajo, puedo decir que reconozco lo necesario que es aprender constantemente para poder concretar este tipo de proyectos. Dado ello, mi equipo y yo nos concentramos en busar la mayor cantidad de información posible pero también de aplicar lo aprendido y de tener sesiones de prueba y error, de forma en que puedieramos encontrar la aplicación óptima para nuestro caso. Este proceso me ayudó a entender totalmente aquello que se enseñaba en clase y a prepararme para futuros proyectos.
       </td>
     </tr>
     <tr>
       <td>
          <strong>Luciana Carolina Choquehuanca Nuñez</strong> <br>  
          <b>TB1:</b> A lo largo de este avance reconocí la necesidad del aprendizaje permanente al enfrentar el desafío de crear experiencias de usuario que evolucionen con las tendencias del mercado de belleza y las expectativas cambiantes de los usuarios. La investigación continua sobre nuevas metodologías de UX research, herramientas de prototipado emergentes y técnicas de testing de usabilidad me demostró que el campo del diseño digital requiere actualización constante. Me comprometí a mantenerme al día con las mejores prácticas de diseño móvil, accesibilidad y métricas de experiencia de usuario para garantizar que las interfaces que diseñe cumplan con los más altos estándares de calidad y satisfacción del usuario final. <br>
-         <b>TP1:</b> Durante esta entrega reafirmé la importancia del aprendizaje permanente al enfrentar retos en documentación técnica, diseño móvil y testing de interfaces. Este proceso me impulsó a investigar continuamente sobre buenas prácticas de presentación de evidencias, accesibilidad, integración de herramientas y validación de la experiencia de usuario. Reconocí que el aprendizaje continuo es clave para adaptarme a nuevas tecnologías y mantener un enfoque profesional en el desarrollo de soluciones de software efectivas y actualizadas.
+         <b>TP1:</b> Durante esta entrega reafirmé la importancia del aprendizaje permanente al enfrentar retos en documentación técnica, diseño móvil y testing de interfaces. Este proceso me impulsó a investigar continuamente sobre buenas prácticas de presentación de evidencias, accesibilidad, integración de herramientas y validación de la experiencia de usuario. Reconocí que el aprendizaje continuo es clave para adaptarme a nuevas tecnologías y mantener un enfoque profesional en el desarrollo de soluciones de software efectivas y actualizadas. <br>
+         <b>TB2:</b> Durante esta entrega, reconocí la necesidad del aprendizaje permanente al trabajar en la documentación técnica de servicios y en la comunicación del trabajo colaborativo del equipo. Al elaborar la documentación de servicios y participar en la creación del video del equipo, identifiqué la importancia de mantenerme actualizada en técnicas de documentación técnica, comunicación efectiva y presentación de resultados. Esta experiencia me demostró que el aprendizaje permanente es esencial para mejorar continuamente mis habilidades en documentación y comunicación, aspectos fundamentales para el éxito de proyectos de software colaborativos.
       </td>
     </tr>
     <tr>
@@ -498,6 +561,7 @@ Los integrantes son:
          <b>TB1:</b> En este avance reconocí la necesidad del aprendizaje continuo para continuar con el ritmo del proyecto. Al completar los puntos de competidores, entrevistas, context mapping y el modelado del Bounded Context Workers, identifiqué brechas (priorización de insights y patrones de integración) que estoy cerrando mediante estudio autónomo, revisión de referencias y retroalimentación del equipo. Me comprometo a mantenerme actualizada en DDD, investigación de la experiencia de usuarios y desarrollo móvil para elevar la calidad en las siguientes entregas. <br>
          <b>TP1:</b> Durante esta entrega reafirmé la importancia del aprendizaje continuo al enfrentar nuevos retos en diseño de interfaces, prototipado funcional y desarrollo en Android Studio con Kotlin. Investigué sobre buenas prácticas en diseño responsivo, navegación con Jetpack Compose y pruebas de usabilidad, complementando el trabajo del equipo con soluciones actualizadas. Este proceso me permitió fortalecer mis competencias en desarrollo móvil y diseño centrado en el usuario, comprometiéndome a seguir perfeccionando mis habilidades técnicas y de diseño para lograr productos más completos e intuitivos.<br>
          <b>TB2:</b> En este avance reconocí la necesidad del aprendizaje permanente para mejorar mi desempeño en proyectos de ingeniería de software. Al documentar la evidencia de desarrollo y de pruebas, identifiqué la importancia de dominar mejores prácticas de   revisión de código, por lo que revisé materiales adicionales. Asimismo, al implementar las vistas de perfil para Android y Flutter (iOS) tuve que investigar patrones de diseño multi-plataforma y guidelines de UI/UX actualizados, lo que reforzó mi compromiso de seguir aprendiendo de forma continua para entregar soluciones más mantenibles, consistentes y centradas en el usuario.
+         <br><b>TF1:</b> En el cierre del proyecto, reconocí que el desarrollo de software requiere una iteración constante más allá de la funcionalidad básica. La necesidad de mejorar la UI en Android me impulsó a investigar sobre estándares de diseño visual modernos para entregar un producto pulido y profesional. Además, el proceso de validación con usuarios me demostró que el aprendizaje técnico debe ir de la mano con la capacidad de interpretar el feedback del usuario, reafirmando mi compromiso de seguir aprendiendo sobre UX y métricas de satisfacción para futuros proyectos.
       </td>
     </tr>
     <tr>
@@ -505,19 +569,19 @@ Los integrantes son:
          <strong>Jorge Suin Yum Gonzales</strong> <br> 
          <b>TB1:</b> A lo largo de este avance reconocí la necesidad del aprendizaje permanente para sostener el ritmo del proyecto. Al abordar retos como modelar flujos de dominio, definir un Lenguaje Ubicuo compartido y diseñar el Bounded Context Profiles, identifiqué brechas que estoy cerrando mediante estudio autónomo, revisión de referencias y retroalimentación del equipo. Asimismo, me comprometí a mantenerme actualizado en prácticas de ingeniería de software y desarrollo móvil para aportar con mayor calidad en las siguientes iteraciones. <br>
          <b>TP1:</b> Durante esta etapa reconocí la necesidad de mantener un aprendizaje constante para afrontar los retos del desarrollo móvil y del diseño de experiencias digitales. Al implementar las evidencias de despliegue y las vistas del Dashboard y Salon Details, identifiqué la importancia de seguir explorando buenas prácticas en integración de UI con backend, testing de interfaces y optimización de la experiencia del usuario. Además, comprendí que las herramientas y metodologías evolucionan rápidamente, por lo que resulta esencial actualizarse en frameworks, librerías y patrones de diseño. Este proceso reforzó mi compromiso con la mejora continua, entendiendo que el aprendizaje permanente es clave para adaptarse a las exigencias técnicas y de calidad que demanda la ingeniería de software moderna. <br>
-         <b>TB2:</b> Durante esta entrega reconocí la necesidad del aprendizaje permanente al enfrentar nuevos desafíos en desarrollo móvil multiplataforma y gestión de releases. La implementación del calendario de reservaciones en Flutter iOS y la configuración de releases en Firebase me demostraron que las tecnologías y herramientas evolucionan constantemente, requiriendo actualización continua en patrones de desarrollo móvil, gestión de versiones y prácticas de DevOps. Este proceso reforzó mi compromiso con el aprendizaje continuo para adaptarme a las demandas del desarrollo de software moderno.
+         <b>TB2:</b> Durante esta entrega reconocí la necesidad del aprendizaje permanente al enfrentar nuevos desafíos en desarrollo móvil multiplataforma y gestión de releases. La implementación del calendario de reservaciones en Flutter iOS y la configuración de releases en Firebase me demostraron que las tecnologías y herramientas evolucionan constantemente, requiriendo actualización continua en patrones de desarrollo móvil, gestión de versiones y prácticas de DevOps. Este proceso reforzó mi compromiso con el aprendizaje continuo para adaptarme a las demandas del desarrollo de software moderno. <br>
+         <b>TF:</b> En esta entrega final reconocí que el desarrollo multiplataforma requiere aprendizaje continuo de tecnologías específicas para cada plataforma. La implementación de funcionalidades nativas en Android, integración de servicios de geolocalización y Object Storage, junto con la realización de entrevistas y validaciones de usuario, me demostraron la importancia de mantenerme actualizado en metodologías ágiles, arquitecturas de almacenamiento en la nube y técnicas de investigación de usuarios. Este proceso consolidó mi compromiso con el aprendizaje permanente como base para entregar soluciones técnicas robustas y centradas en el usuario.
       </td>
     </tr>
   </tbody>
 </table>
-
-
 
 <br>
 
 <div style="page-break-before: always;"></div>
 
 # Objetivos SMART
+
 <Table>
    <thead>
       <tr>
@@ -609,13 +673,13 @@ Visión: Consolidarnos como la startup tecnológica de referencia en Latinoamér
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-| **Perfil**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | **Foto**                                                                       |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| **Natalia Bertha Roman Cruz**<br>Mi nombre es Natalia Roman. Soy estudiante de la carrera Ingeniería de Software y tengo 19 años. Me considero una persona dedicada y organizada, que se esfuerza por alcanzar sus logros. Dentro de este proyecto, me interesa poder aportar en gran parte en la codificación de las ideas planteadas. Espero que el equipo logre su objetivo y aprendamos lo más posible en el proceso | <img src="img/natalia-foto.png" alt="natalia image" width="200">  |
-| **Britney Delhy Qqueso Rodriguez**<br> Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona autodidacta, dedicada, creativa y responsable. Me comprometo a contribuir al equipo con mis conocimientos y habilidades, apoyar en lo que sea necesario y aprender en el proceso. | <img src="img/bri-foto.png" alt="bri image" width="200">  |
-| **Jorge Suin Yum Gonzales**<br> Soy estudiante del 6° ciclo con 20 años. Tengo experiencia con diferentes lenguajes de programación y desarrollo de aplicaciones web en diversos frameworks ambos en frontend y backend. Soy una persona responsable y puntual, cualidades que aplico al trabajar de manera colaborativa con los integrantes de nuestro equipo. | <img src="img/jorge-foto.png" alt="jorge image" width="200">  |
-| **Eduardo Gael Rivera Sosa**<br> Mi nombre es Gael Rivera, soy estudiante de Ingeniería de Software. Me considero una persona responsable, competitiva y dedicada, con habilidades que me permiten comunicarme y trabajar en equipo de manera efectiva. Siempre estoy dispuesto a asumir nuevos desafíos y encontrar soluciones colaborativas. | <img src="img/gael-foto.jpg" alt="gael image" width="200">   
-| **Luciana Carolina Choquehuanca Núñez**<br> Mi nombre es Luciana Carolina, estudiante de la carrera de Ingeniería de Software, actualmente cursando el sexto ciclo. Me considero una persona proactiva, que busca mejorar día a día sus habilidades en el campo de la programación. Me gusta arriesgarme a probar nuevas cosas y valoro el trabajo colaborativo como una herramienta clave para el crecimiento personal y profesional. | <img src="img/Luciana_img.png" alt="luciana image" width="200"> |
+| **Perfil**                                                                                                                                                                                                                                                                                                                                                                                                                             | **Foto**                                                         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| **Natalia Bertha Roman Cruz**<br>Mi nombre es Natalia Roman. Soy estudiante de la carrera Ingeniería de Software y tengo 19 años. Me considero una persona dedicada y organizada, que se esfuerza por alcanzar sus logros. Dentro de este proyecto, me interesa poder aportar en gran parte en la codificación de las ideas planteadas. Espero que el equipo logre su objetivo y aprendamos lo más posible en el proceso               | <img src="img/natalia-foto.png" alt="natalia image" width="200"> |
+| **Britney Delhy Qqueso Rodriguez**<br> Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona autodidacta, dedicada, creativa y responsable. Me comprometo a contribuir al equipo con mis conocimientos y habilidades, apoyar en lo que sea necesario y aprender en el proceso.                                                                        | <img src="img/bri-foto.png" alt="bri image" width="200">         |
+| **Jorge Suin Yum Gonzales**<br> Soy estudiante del 6° ciclo con 20 años. Tengo experiencia con diferentes lenguajes de programación y desarrollo de aplicaciones web en diversos frameworks ambos en frontend y backend. Soy una persona responsable y puntual, cualidades que aplico al trabajar de manera colaborativa con los integrantes de nuestro equipo.                                                                        | <img src="img/jorge-foto.png" alt="jorge image" width="200">     |
+| **Eduardo Gael Rivera Sosa**<br> Mi nombre es Gael Rivera, soy estudiante de Ingeniería de Software. Me considero una persona responsable, competitiva y dedicada, con habilidades que me permiten comunicarme y trabajar en equipo de manera efectiva. Siempre estoy dispuesto a asumir nuevos desafíos y encontrar soluciones colaborativas.                                                                                         | <img src="img/gael-foto.jpg" alt="gael image" width="200">       |
+| **Luciana Carolina Choquehuanca Núñez**<br> Mi nombre es Luciana Carolina, estudiante de la carrera de Ingeniería de Software, actualmente cursando el sexto ciclo. Me considero una persona proactiva, que busca mejorar día a día sus habilidades en el campo de la programación. Me gusta arriesgarme a probar nuevas cosas y valoro el trabajo colaborativo como una herramienta clave para el crecimiento personal y profesional. | <img src="img/Luciana_img.png" alt="luciana image" width="200">  |
 
 ## 1.2. Solution Profile
 
@@ -684,26 +748,30 @@ A través de cualquier dispositivo móvil con conexión a internet y con la tecn
 
 Según Ochoa (2021), en una encuesta realizada en un salón de belleza llamado “Mónica Garcés”, el 80% de encuestados argumenta que no recibe una atención adecuada respecto a la reservación de citas a un salón de belleza. Asimismo, el 20% desconoce dicho proceso. Por lo general, se suelen comunicar mediante vía telefónica con la dueña del local, y no se logra llevar un control o manejo adecuado de horarios.
 
-*Figura 1: Eficacia del proceso de agendamiento de turnos*
+_Figura 1: Eficacia del proceso de agendamiento de turnos_
+
 <div align="center">
 <img src="img/img.png" alt="dato_estadistico_1" />
 </div>
 
 De acuerdo a los salones de belleza que operan en Tegucigalpa, el 53,3% de las mujeres esperan ser atendidas por orden de llegada en salones de belleza. Sin embargo, en su mayoría estos servicios no cuentan con un servicio via web que les permita administrar sus servicios de forma eficiente.
 
-*Figura 2: Reservación de citas*
+_Figura 2: Reservación de citas_
+
 <div align="center">
 <img src="img/img_1.png" alt="dato_estadistico_2" />
 </div>
 
 Según el salón de belleza "Giselle Spa" de La Molina (2021), se realizo una encuesta a 205 cliente respecto a la calidad de servicio que ofrece el salon de belleza se identifico que el 53,4% admiten que dicha calidad se manifiesta de forma regular, debido al poco interés que se percibe respecto a los cronogramas, comunicación activa y organización laboral.
 
-*Figura 3: Análisis descriptivo de la variable calidad de servicio*
+_Figura 3: Análisis descriptivo de la variable calidad de servicio_
+
 <div align="center">
 <img src="img/img_2.png" alt="dato_estadistico_3" />
 </div>
 
-*Figura 4: Análisis porcentual de la variable calidad de servicio*
+_Figura 4: Análisis porcentual de la variable calidad de servicio_
+
 <div align="center">
 <img src="img/img_3.png" alt="dato_estadistico_4" />
 </div>
@@ -717,9 +785,11 @@ El enfoque de Lean UX se basa en la colaboración para crear productos de alta c
 Nuestra aplicación móvil, uTime, está diseñada para optimizar la gestión de citas en el sector de la belleza, permitiendo a los profesionales independientes y negocios administrar su disponibilidad, atraer nuevos clientes y mejorar la experiencia del usuario a través de la digitalización de sus servicios. Hemos detectado que, los profesionales de la belleza enfrentan dificultades para gestionar sus citas de manera eficiente, ya que dependen de llamadas, mensajes de WhatsApp y redes sociales, lo que genera desorden, pérdida de tiempo y cancelaciones de última hora. Además, la falta de una aplicación centralizada limita su crecimiento, ya que dependen principalmente del boca a boca para atraer nuevos clientes. Por otro lado, los clientes que buscan servicios de belleza suelen experimentar frustración al coordinar citas manualmente, ya que muchas veces enfrentan tiempos de espera prolongados, falta de información clara sobre la disponibilidad de los estilistas y dificultad para realizar pagos digitales o acceder a promociones personalizadas. ¿Cómo podemos ofrecer una solución digital integral que permita a los profesionales de la belleza gestionar su agenda de manera eficiente, atraer nuevos clientes y mejorar la experiencia de reserva para los usuarios finales?
 
 #### 1.2.2.2. Lean UX Assumptions
+
 ##### 1.2.2.2.1. Features
 
 Gestión de citas en línea (reservas, cancelaciones y reprogramaciones).
+
 - Recordatorios automáticos por notificaciones y mensajes.
 - Perfil profesional para estilistas y salones, con portafolio de trabajos.
 - Sistema de reseñas y valoraciones.
@@ -728,12 +798,14 @@ Gestión de citas en línea (reservas, cancelaciones y reprogramaciones).
 - Agenda inteligente con gestión de horarios y disponibilidad en tiempo real.
 
 ##### 1.2.2.2.2. Business Outcomes
+
 - Aumento en la adopción de la aplicación móvil por parte de estilistas y salones de belleza. Esperamos que un número creciente de profesionales del sector adopte uTime como su herramienta principal para la gestión de citas y la promoción de sus servicios.
 - Mayor retención de clientes gracias a la automatización de citas y promociones personalizadas. uTime incrementará la recurrencia de las reservas de los clientes y la lealtad de estos mismos hacia los profesionales dentro de la aplicación móvil.
 - Incremento de ingresos a través de suscripciones premium y comisiones por transacciones. Con el crecimiento de la base de usuarios, uTime espera un aumento en los ingresos recurrentes por planes premium, así como un mayor volumen de transacciones procesadas, fortaleciendo la rentabilidad del negocio.
 - Crecimiento de la comunidad activa. A través de alianzas estratégicas con academias de belleza, influencers del sector y marcas de productos cosméticos, construiremos una comunidad sólida y lograremos posicionar a uTime como la solución tecnológica más confiable y utilizada por estilistas y clientes.
 
 ##### 1.2.2.2.3. User Benefits
+
 Para los profesionales de la belleza:
 
 - Ahorro de tiempo al automatizar la gestión de citas.
@@ -769,28 +841,29 @@ Para los profesionales de la belleza:
 
    - uTime es utilizado por los usuarios en diversos momentos del día, dentro de la jornada laboral de los estilistas, dado que en cualquier momento del día los clientes pueden explorar opciones y agendar servicios. Los usuarios podrán acceder a uTime a través de la aplicación móvil, permitiendo a los estilistas administrar su negocio en cualquier lugar y a los clientes agendar sus citas cuando deseen.
 
-5. ¿Qué características son importantes? 
+5. ¿Qué características son importantes?
 
    - Las características importantes son:
-      - **Gestión de citas en tiempo real:** Permite a los estilistas administrar sus horarios de manera eficiente, evitando sobrecargas y asegurando disponibilidad precisa para los clientes. La interfaz intuitiva facilita la reserva y modificación de citas en pocos taps.
-      - **Sistema de pagos integrados y seguros:** Los clientes pueden pagar sus citas dentro de la aplicación móvil con tarjeta de crédito, débito o billeteras digitales, asegurando una óptima experiencia.
-      - **Perfiles detallados de estilistas:** Cada salón cuenta con un perfil detallado que muestra la experiencia, especialidad, precios y disponibilidad de los estilistas. Los clientes pueden ver fotos de trabajos anteriores, leer reseñas y comparar opciones antes de reservar.
-      - **Reseñas y calificaciones verificadas:** Para promover la confianza entre los usuarios, los clientes solo pueden dejar reseñas después de haber completado una cita. Esto permitirá garantizar la autenticidad de las opiniones y permite que los estilistas con buen desempeño destaquen.
-      - **Herramientas de marketing digital:** Los estilistas pueden conectar sus perfiles de Instagram y TikTok para mostrar su trabajo y atraer más clientes. También se incluyen opciones para compartir reseñas y promociones en redes sociales directamente desde la aplicación móvil.
-      - **Notificaciones y recordatorios automáticos:** Los usuarios reciben alertas de sus citas para reducir cancelaciones y olvidos. Además, los estilistas pueden enviar recordatorios personalizados y mensajes promocionales para fidelizar a sus clientes.
+     - **Gestión de citas en tiempo real:** Permite a los estilistas administrar sus horarios de manera eficiente, evitando sobrecargas y asegurando disponibilidad precisa para los clientes. La interfaz intuitiva facilita la reserva y modificación de citas en pocos taps.
+     - **Sistema de pagos integrados y seguros:** Los clientes pueden pagar sus citas dentro de la aplicación móvil con tarjeta de crédito, débito o billeteras digitales, asegurando una óptima experiencia.
+     - **Perfiles detallados de estilistas:** Cada salón cuenta con un perfil detallado que muestra la experiencia, especialidad, precios y disponibilidad de los estilistas. Los clientes pueden ver fotos de trabajos anteriores, leer reseñas y comparar opciones antes de reservar.
+     - **Reseñas y calificaciones verificadas:** Para promover la confianza entre los usuarios, los clientes solo pueden dejar reseñas después de haber completado una cita. Esto permitirá garantizar la autenticidad de las opiniones y permite que los estilistas con buen desempeño destaquen.
+     - **Herramientas de marketing digital:** Los estilistas pueden conectar sus perfiles de Instagram y TikTok para mostrar su trabajo y atraer más clientes. También se incluyen opciones para compartir reseñas y promociones en redes sociales directamente desde la aplicación móvil.
+     - **Notificaciones y recordatorios automáticos:** Los usuarios reciben alertas de sus citas para reducir cancelaciones y olvidos. Además, los estilistas pueden enviar recordatorios personalizados y mensajes promocionales para fidelizar a sus clientes.
 
 6. ¿Cómo debe verse nuestro producto y cómo debe comportarse?
 
    - El producto uTime debe cumplir ciertos aspectos de diseño y funcionalidad para convertirse en un proyecto exitoso, de una manera que refleje su enfoque en el sector de la belleza, optimización del tiempo, y la innovación tecnológica. En cuanto a su apariencia se señala lo siguiente:
-     - **Interfaz visualmente atractiva:** uTime debe contar con un diseño limpio y minimalista que facilite la navegación tanto para clientes como para estilistas. La combinación de colores debe transmitir confianza y elegancia, con una paleta que refleje profesionalismo y bienestar. 
-     - **Diseño adaptable y responsivo:** Debe garantizar una experiencia consistente en cualquier smartphone o tableta. La interfaz debe ser clara y optimizada para facilitar la reserva de citas con pocos taps. 
-   - En cuanto al comportamiento, uTime debe ser rápido, receptivo y confiable. Debido a esto, debe cumplir con los siguientes requisitos: 
-     - **<u>Interacción fluida y rápida:</u>** uTime debe ser altamente responsiva, garantizando tiempos de carga mínimos y transiciones suaves entre secciones. Esto evitará la disconformidad y frustraciones del cliente, mejorando así su experiencia en la plataforma. 
-     - **<u>Exploración intuitiva y eficiente:</u>** Los clientes deben poder encontrar estilistas fácilmente mediante filtros avanzados como ubicación, especialidad, precios y reseñas. La interfaz debe permitir búsquedas rápidas y precisas. 
-     - **<u>Seguridad y confianza en transacciones:</u>** Los pagos dentro de la aplicación móvil deben ser seguros y confiables, con múltiples opciones de pago. Además, la política de cancelación y reembolso debe estar clara para evitar inconvenientes. 
+     - **Interfaz visualmente atractiva:** uTime debe contar con un diseño limpio y minimalista que facilite la navegación tanto para clientes como para estilistas. La combinación de colores debe transmitir confianza y elegancia, con una paleta que refleje profesionalismo y bienestar.
+     - **Diseño adaptable y responsivo:** Debe garantizar una experiencia consistente en cualquier smartphone o tableta. La interfaz debe ser clara y optimizada para facilitar la reserva de citas con pocos taps.
+   - En cuanto al comportamiento, uTime debe ser rápido, receptivo y confiable. Debido a esto, debe cumplir con los siguientes requisitos:
+     - **<u>Interacción fluida y rápida:</u>** uTime debe ser altamente responsiva, garantizando tiempos de carga mínimos y transiciones suaves entre secciones. Esto evitará la disconformidad y frustraciones del cliente, mejorando así su experiencia en la plataforma.
+     - **<u>Exploración intuitiva y eficiente:</u>** Los clientes deben poder encontrar estilistas fácilmente mediante filtros avanzados como ubicación, especialidad, precios y reseñas. La interfaz debe permitir búsquedas rápidas y precisas.
+     - **<u>Seguridad y confianza en transacciones:</u>** Los pagos dentro de la aplicación móvil deben ser seguros y confiables, con múltiples opciones de pago. Además, la política de cancelación y reembolso debe estar clara para evitar inconvenientes.
      - **<u>Sistema de notificaciones inteligentes:</u>** Debe enviar recordatorios automáticos de citas, confirmaciones de pago, mensajes promocionales y alertas sobre cambios en la disponibilidad de los estilistas. Las notificaciones deben ser relevantes y evitar el spam.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
+
 - Creemos que, al ofrecer una plataforma de gestión de citas fácil de usar y accesible desde cualquier smartphone o tableta, los estilistas podrán optimizar la organización de sus agendas y minimizar cancelaciones o sobrecargas de trabajo. Sabremos que hemos tenido éxito cuando al menos el 80% de los estilistas activos utilicen el sistema de reservas en línea regularmente.
 - Creemos que, al implementar recordatorios automáticos para clientes y estilistas, reduciremos significativamente la cantidad de citas canceladas o reprogramadas en el último minuto. Sabremos que hemos tenido éxito cuando la tasa de cancelaciones tardías disminuya en al menos un 40% dentro de los primeros tres meses de uso.
 - Creemos que, al permitir a los clientes seleccionar su estilista preferido, ver disponibilidad en tiempo real y reservar con facilidad, aumentaremos la satisfacción y fidelización. Sabremos que hemos tenido éxito cuando al menos el 70% de los clientes regresen a agendar una nueva cita dentro de los primeros dos meses después de su primera reserva.
@@ -799,16 +872,16 @@ Para los profesionales de la belleza:
 - Creemos que, al incluir un módulo de promociones y descuentos, los estilistas podrán aumentar la captación de nuevos clientes y fidelizar a los actuales. Sabremos que hemos tenido éxito cuando el número de reservas aumente en un 30% en comparación con el período previo a la implementación de esta funcionalidad.
 
 #### 1.2.2.4. Lean UX Canvas
+
 ![Lean UX Canvas](img/Final-lean-ux-canvas.png)
 
 ## 1.3. Segmentos objetivo
-
 
 Los segmentos objetivos son las personas o entidades a las cuales está destinada nuestra solución. A continuación se nombraran los que abarca nuestra propuesta.
 
 ## Segmento objetivo #1: Salones de belleza y barberías
 
-###  Aspectos Demográficos
+### Aspectos Demográficos
 
 - Rango de edad: Mayores de 20 años
 - Sexo: Masculino y femenino
@@ -824,7 +897,6 @@ Los segmentos objetivos son las personas o entidades a las cuales está destinad
 
 - Uso frecuente de medios de comunicación, tales como WhatsApp y llamadas telefónicas, para interactuar con los clientes.
 - Un día a día con la agenda apretada por las reservas de los clientes y poca flexibilidad.
-
 
 ## Segmento objetivo #2: Clientes de servicios de belleza
 
@@ -846,7 +918,6 @@ Los segmentos objetivos son las personas o entidades a las cuales está destinad
 - Tienden a preferir tratarse con el mismo estilista o barbero debido a experiencias anteriores o por la técnica del especialista.
 
 <div style="page-break-before: always;"></div>
-
 
 # Capítulo II: Requirements Elicitation & Analysis
 
@@ -1265,32 +1336,34 @@ Entonces, podemos aplicar las siguientes estrategias y tácticas:
 ### 2.2.1. Diseño de entrevistas
 
 Preguntas para el segmento objetivo 01
-* ¿Cuánto tiempo lleva en el rubro de la belleza/barbería y qué lo motivó a dedicarse a este negocio?
-* ¿Cómo suelen agendar las citas sus clientes y qué método prefieren ellos? (WhatsApp, llamadas, redes sociales, otros).
-* ¿Cuán flexible es su agenda diaria y qué tan difícil es manejar cambios de última hora en las reservas?
-* ¿Usan algún sistema o aplicación para gestionar reservas y pagos? Si no, ¿cómo lo hacen actualmente?
-* ¿Cuáles son los principales canales de comunicación que usan para confirmar o recordar citas?
-* ¿Cuáles son los principales desafíos que enfrenta al gestionar las reservas y la relación con los clientes?
-* ¿Con qué frecuencia enfrentan cancelaciones o clientes que no se presentan? ¿Cómo manejan estas situaciones?
-* ¿Qué estrategias usan para que los clientes regresen a su negocio y qué tan efectivas han sido?
-* ¿Qué tan abiertos están a implementar nuevas herramientas digitales que les ayuden a organizar mejor su negocio?
-* ¿Qué mejoras le gustaría implementar en su negocio en el corto y mediano plazo?
-* ¿Qué tan importante es para usted tener un control visual de la disponibilidad y ocupación de su equipo de trabajo?
-* ¿Cómo maneja las situaciones de insatisfacción de los clientes y qué acciones toma para evitar que se repitan?
+
+- ¿Cuánto tiempo lleva en el rubro de la belleza/barbería y qué lo motivó a dedicarse a este negocio?
+- ¿Cómo suelen agendar las citas sus clientes y qué método prefieren ellos? (WhatsApp, llamadas, redes sociales, otros).
+- ¿Cuán flexible es su agenda diaria y qué tan difícil es manejar cambios de última hora en las reservas?
+- ¿Usan algún sistema o aplicación para gestionar reservas y pagos? Si no, ¿cómo lo hacen actualmente?
+- ¿Cuáles son los principales canales de comunicación que usan para confirmar o recordar citas?
+- ¿Cuáles son los principales desafíos que enfrenta al gestionar las reservas y la relación con los clientes?
+- ¿Con qué frecuencia enfrentan cancelaciones o clientes que no se presentan? ¿Cómo manejan estas situaciones?
+- ¿Qué estrategias usan para que los clientes regresen a su negocio y qué tan efectivas han sido?
+- ¿Qué tan abiertos están a implementar nuevas herramientas digitales que les ayuden a organizar mejor su negocio?
+- ¿Qué mejoras le gustaría implementar en su negocio en el corto y mediano plazo?
+- ¿Qué tan importante es para usted tener un control visual de la disponibilidad y ocupación de su equipo de trabajo?
+- ¿Cómo maneja las situaciones de insatisfacción de los clientes y qué acciones toma para evitar que se repitan?
 
 Preguntas para el segmento objetivo 02
-* ¿Con qué frecuencia visitas un salón de belleza o barbería y qué servicios sueles solicitar?
-* ¿Qué factores consideras más importantes al elegir un salón de belleza o barbería? (Ubicación, precio, reputación, servicio, etc.)
-* ¿Sueles atenderte con el mismo estilista/barbero? ¿Por qué?
-* ¿Cómo prefieres agendar tus citas? (WhatsApp, llamadas, página web, aplicación, presencialmente).
-* ¿Qué tan importante es para ti que te atiendan a la hora exacta de tu cita? ¿Has tenido experiencias negativas con largas esperas?
-* Si necesitas cancelar o reprogramar tu cita, ¿qué tan fácil o difícil suele ser el proceso?
-* ¿Qué métodos de pago prefieres al momento de pagar por el servicio? (Efectivo, tarjeta, transferencias, apps de pago).
-* ¿Cómo te gusta recibir recordatorios de tu cita o promociones? (Mensajes de WhatsApp, correos, redes sociales, llamadas).
-* ¿Has utilizado alguna aplicación o plataforma para reservar citas en salones de belleza/barberías? ¿Cómo fue tu experiencia?
-* ¿Qué aspecto te gustaría que mejoraran los salones de belleza/barberías para una mejor experiencia como cliente?
-* ¿Qué tan importante es para ti que el salón o barbería tenga una presencia activa en redes sociales o en línea?
-* ¿Cuánto valoras la opción de poder hacer pagos anticipados o de forma digital para evitar el manejo de efectivo?
+
+- ¿Con qué frecuencia visitas un salón de belleza o barbería y qué servicios sueles solicitar?
+- ¿Qué factores consideras más importantes al elegir un salón de belleza o barbería? (Ubicación, precio, reputación, servicio, etc.)
+- ¿Sueles atenderte con el mismo estilista/barbero? ¿Por qué?
+- ¿Cómo prefieres agendar tus citas? (WhatsApp, llamadas, página web, aplicación, presencialmente).
+- ¿Qué tan importante es para ti que te atiendan a la hora exacta de tu cita? ¿Has tenido experiencias negativas con largas esperas?
+- Si necesitas cancelar o reprogramar tu cita, ¿qué tan fácil o difícil suele ser el proceso?
+- ¿Qué métodos de pago prefieres al momento de pagar por el servicio? (Efectivo, tarjeta, transferencias, apps de pago).
+- ¿Cómo te gusta recibir recordatorios de tu cita o promociones? (Mensajes de WhatsApp, correos, redes sociales, llamadas).
+- ¿Has utilizado alguna aplicación o plataforma para reservar citas en salones de belleza/barberías? ¿Cómo fue tu experiencia?
+- ¿Qué aspecto te gustaría que mejoraran los salones de belleza/barberías para una mejor experiencia como cliente?
+- ¿Qué tan importante es para ti que el salón o barbería tenga una presencia activa en redes sociales o en línea?
+- ¿Cuánto valoras la opción de poder hacer pagos anticipados o de forma digital para evitar el manejo de efectivo?
 
 ### 2.2.2. Registro de entrevistas
 
@@ -1299,21 +1372,19 @@ Preguntas para el segmento objetivo 02
 ##### Datos del Entrevistado #1
 
 - **Nombre completo:** Luis Fernando Farfán
-- **Segmento Objetivo:** Barbero 
+- **Segmento Objetivo:** Barbero
 - **Edad:** 29 años
 - **Distrito:** Chiclayo
 - **Inicio de la entrevista:** 0:15 minutos
 - **Duración:** 20:43 minutos
 - **Screenshot del cuadro de video:** ![Entrevista Luis Fernando](img/Entrevista-1.png)
 
-- **URL del video (Microsoft Stream):** 
+- **URL del video (Microsoft Stream):**
 
 `https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ`
 
-
 **Resumen:**
 Luis Fernando Farfán es un barbero de Chiclayo que tiene 8 años de experiencia. Utiliza las redes sociales y WhatsApp para ambos el marketing de su negocio y la recepción de citas. Utiliza la agenda Fresha para registrar las citas y gestionar los horarios. Se enfrenta a desafíos como la comunicación sobre información del horario y especialmente se enfrenta a clientes que cancelan al último minuto, llegan tarde o no llegan en absoluto lo cual le causa una perdida de tiempo y clientes posibles. Le resulta de gran importancia saber en qué horarios se encuentran disponibles sus barberos para asignar a los clientes. Se enfoca que sus barberos y el mismo sean empáticos y carismáticos para que los clientes se sientan comodos y vuelvan a la barbería.
-
 
 ##### Datos del Entrevistado #2
 
@@ -1325,10 +1396,9 @@ Luis Fernando Farfán es un barbero de Chiclayo que tiene 8 años de experiencia
 - **Duración:** 20:43 minutos
 - **Screenshot del cuadro de video:** ![Entrevista Maria Ysabel Sosa](img/Entrevista-2.png)
 
-- **URL del video (Microsoft Stream):** 
+- **URL del video (Microsoft Stream):**
 
 `https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ`
-
 
 **Resumen:**
 María Ysabel Sosa Rodríguez, de 45 años, es dueña de un salón de belleza y actualmente enfrenta retos en la gestión de sus citas. Durante la entrevista, expresó su interés en implementar un sistema automatizado para agendar citas, ya que considera que las cancelaciones de último momento resultan frustrantes y afectan su negocio. Además, destacó que los métodos tradicionales como llamadas o mensajes son poco prácticos, ya que demandan tiempo y a menudo generan incomodidad tanto para ella como para sus clientas. María Ysabel ve en la tecnología una oportunidad para optimizar este proceso y mejorar la eficiencia en la atención al cliente.
@@ -1341,16 +1411,15 @@ María Ysabel Sosa Rodríguez, de 45 años, es dueña de un salón de belleza y 
 - **Segmento Objetivo:** Clientes de servicio de belleza
 - **Edad:** 20 años
 - **Distrito:** San Isidro
-- **Screenshot del cuadro de video:** *![interview_1.jpeg](img/Entrevista-3.png)*
+- **Screenshot del cuadro de video:** _![interview_1.jpeg](img/Entrevista-3.png)_
 - **Inicio de la entrevista:** 12:20 minutos
 - **Duración:** 20:43 minutos
 
-- **URL del video (Microsoft Stream):** 
+- **URL del video (Microsoft Stream):**
 
 `https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ`
 
 **Resumen:** En esta entrevista con Anedyib, comentó que visita el salón dos veces al mes (manicure al inicio y recorte de puntas a fin de mes). Valora especialmente el buen trato con su estilista y la facilidad para agendar por WhatsApp, y suele atenderse siempre con la misma persona por la confianza construida. La puntualidad es crítica; relató una mala experiencia que le arruinó planes. Cancelar le resulta fácil, pero reprogramar es complicado por choques de horarios. Prefiere pagos digitales (tarjeta o Yape) y recordatorios tipo calendario. Ha intentado reservar en webs pero no pudo y terminó llamando, algo que le disgustó. Sugiere mejorar la comunicación proactiva desde la reserva hasta la llegada y ofrecer pagos anticipados y digitales.
-
 
 #### Datos del Entrevistado #2
 
@@ -1358,80 +1427,80 @@ María Ysabel Sosa Rodríguez, de 45 años, es dueña de un salón de belleza y 
 - **Segmento Objetivo:** Clientes de servicio de belleza
 - **Edad:** 20
 - **Distrito:** Chorrillos
-- **Screenshot del cuadro de video:** *![interview_2.jpeg](img/Entrevista-4.png)*
+- **Screenshot del cuadro de video:** _![interview_2.jpeg](img/Entrevista-4.png)_
 - **Inicio de la entrevista:** 16:53 minutos
 - **Duración:** 20:43 minutos
-- **URL del video (Microsoft Stream):** 
+- **URL del video (Microsoft Stream):**
 
 `https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ`
 
-**Resumen:** En esta entrevista con Emily, indicó que acude por corte de cabello, a veces limpieza facial y manicure. Sus criterios clave son ubicación cercana, reputación, comentarios y calidad; está dispuesta a pagar más por un buen servicio. Generalmente se atiende con el mismo estilista porque conoce sus gustos. Prefiere agendar por WhatsApp por mayor comodidad; la puntualidad es muy importante, aunque tolera una breve espera. Cancelar y reprogramar le resulta fácil vía WhatsApp. Paga con Yape o tarjeta y prefiere recordatorios por WhatsApp. Propone mejorar la atención (amabilidad y escuchar lo solicitado). Considera importante la presencia en redes para ver trabajos, opiniones y promociones, y valora los pagos digitales por seguridad, comodidad y ahorro de tiempo. 
+**Resumen:** En esta entrevista con Emily, indicó que acude por corte de cabello, a veces limpieza facial y manicure. Sus criterios clave son ubicación cercana, reputación, comentarios y calidad; está dispuesta a pagar más por un buen servicio. Generalmente se atiende con el mismo estilista porque conoce sus gustos. Prefiere agendar por WhatsApp por mayor comodidad; la puntualidad es muy importante, aunque tolera una breve espera. Cancelar y reprogramar le resulta fácil vía WhatsApp. Paga con Yape o tarjeta y prefiere recordatorios por WhatsApp. Propone mejorar la atención (amabilidad y escuchar lo solicitado). Considera importante la presencia en redes para ver trabajos, opiniones y promociones, y valora los pagos digitales por seguridad, comodidad y ahorro de tiempo.
 
 ### 2.2.3. Análisis de entrevistas
 
 **Análisis del Segmento Objetivo 01**
 
-   - Características Objetivas:
+- Características Objetivas:
 
-      - Demografía y Experiencia:
-         + Jóvenes emprendedores (24-28 años).
-         + Con experiencia en el rubro (3-5 años).
-         + Propietarios de salones de belleza en áreas urbanas (Chorrillos, Barranco, Surco).
-      - Gestión del Negocio:
-         + Agenda de citas gestionada manualmente (cuaderno).
-         + Pagos en efectivo, transferencias y QR.
-         + Comunicación con clientes vía llamadas y WhatsApp.
-         + Sufren de cancelaciones de citas que afectan sus ingresos.
-      - Estrategias de Fidelización:
-         + Ofrecen promociones y obsequios.
-         + Ofrecen promociones para primeras visitas.
+  - Demografía y Experiencia:
+    - Jóvenes emprendedores (24-28 años).
+    - Con experiencia en el rubro (3-5 años).
+    - Propietarios de salones de belleza en áreas urbanas (Chorrillos, Barranco, Surco).
+  - Gestión del Negocio:
+    - Agenda de citas gestionada manualmente (cuaderno).
+    - Pagos en efectivo, transferencias y QR.
+    - Comunicación con clientes vía llamadas y WhatsApp.
+    - Sufren de cancelaciones de citas que afectan sus ingresos.
+  - Estrategias de Fidelización:
+    - Ofrecen promociones y obsequios.
+    - Ofrecen promociones para primeras visitas.
 
-   - Características Subjetivas:
+- Características Subjetivas:
 
-      - Motivación y Pasión:
-         + Pasión por el estilismo desde jóvenes.
-         + Deseo de brindar una experiencia de calidad a sus clientes.
-         + Búsqueda de la personalización en el servicio al cliente.
-      - Desafíos y Necesidades:
-         + Dificultad para gestionar citas, especialmente fuera de línea.
-         + Problemas con cambios de citas de última hora.
-         + Necesidad de optimizar la comunicación con los clientes.
-         + Búsqueda de la gestión eficiente de sus negocios.
-      - Visión a Futuro:
-         + Deseo de aumentar la rentabilidad del negocio.
-         + Planes de expansión (apertura de nuevas sucursales).
-         + Crear historial de clientes.
-         + Desarrollar campañas de fidelización.
+  - Motivación y Pasión:
+    - Pasión por el estilismo desde jóvenes.
+    - Deseo de brindar una experiencia de calidad a sus clientes.
+    - Búsqueda de la personalización en el servicio al cliente.
+  - Desafíos y Necesidades:
+    - Dificultad para gestionar citas, especialmente fuera de línea.
+    - Problemas con cambios de citas de última hora.
+    - Necesidad de optimizar la comunicación con los clientes.
+    - Búsqueda de la gestión eficiente de sus negocios.
+  - Visión a Futuro:
+    - Deseo de aumentar la rentabilidad del negocio.
+    - Planes de expansión (apertura de nuevas sucursales).
+    - Crear historial de clientes.
+    - Desarrollar campañas de fidelización.
 
 - **Análisis del Segmento Objetivo 02**
 
-   - Características Objetivas:
+  - Características Objetivas:
 
-      - Demografía:
-         + Jóvenes universitarias de 20 a 60 años.
-         + Residentes en áreas urbanas (Cercado de Lima). (50% de las entrevistadas)
-      - Comportamiento de Consumo:
-         + Visitan salones de belleza aproximadamente una vez al mes. (100% de los entrevistados)
-         + Servicios más frecuentes: manicura, corte de cabello, tratamientos capilares, depilación de cejas y mascarillas faciales.
-      - Preferencias de Comunicación y Pago:
-         + Prefieren agendar citas y recibir recordatorios/promociones vía WhatsApp y redes sociales. (100% de las entrevistadas)
-         + Prefieren pagos con transferencias bancarias o aplicaciones de pago, evitando el efectivo. (100% de las entrevistadas)
+    - Demografía:
+      - Jóvenes universitarias de 20 a 60 años.
+      - Residentes en áreas urbanas (Cercado de Lima). (50% de las entrevistadas)
+    - Comportamiento de Consumo:
+      - Visitan salones de belleza aproximadamente una vez al mes. (100% de los entrevistados)
+      - Servicios más frecuentes: manicura, corte de cabello, tratamientos capilares, depilación de cejas y mascarillas faciales.
+    - Preferencias de Comunicación y Pago:
+      - Prefieren agendar citas y recibir recordatorios/promociones vía WhatsApp y redes sociales. (100% de las entrevistadas)
+      - Prefieren pagos con transferencias bancarias o aplicaciones de pago, evitando el efectivo. (100% de las entrevistadas)
 
-   - Características Subjetivas:
+  - Características Subjetivas:
 
-      - Valores y Prioridades:
-         + Priorizan la calidad del servicio y la reputación del salón. (100% de las entrevistadas)
-         + La puntualidad es un factor crítico. (100% de las entrevistadas)
-         + Confianza en el estilista: prefieren atenderse siempre con el mismo profesional. (100% de las entrevistadas)
-         + La comodidad y la buena atención son puntos muy importantes para ellas. (100% de las entrevistadas)
-      - Actitudes y Expectativas:
-         + Actitud práctica y confiada.
-         + Buscan procesos de reprogramación de citas sencillos. (100% de las entrevistadas)
-         + Abiertas a utilizar aplicaciones o plataformas de reservas si mejoran la rapidez de respuesta. (50% de las entrevistadas)
-      - Necesidades y Deseos:
-         + Respuestas rápidas al agendar citas vía WhatsApp.
-         + Mejora en la puntualidad y la atención al cliente.
-         + Facilitar el uso de herramientas digitales.
+    - Valores y Prioridades:
+      - Priorizan la calidad del servicio y la reputación del salón. (100% de las entrevistadas)
+      - La puntualidad es un factor crítico. (100% de las entrevistadas)
+      - Confianza en el estilista: prefieren atenderse siempre con el mismo profesional. (100% de las entrevistadas)
+      - La comodidad y la buena atención son puntos muy importantes para ellas. (100% de las entrevistadas)
+    - Actitudes y Expectativas:
+      - Actitud práctica y confiada.
+      - Buscan procesos de reprogramación de citas sencillos. (100% de las entrevistadas)
+      - Abiertas a utilizar aplicaciones o plataformas de reservas si mejoran la rapidez de respuesta. (50% de las entrevistadas)
+    - Necesidades y Deseos:
+      - Respuestas rápidas al agendar citas vía WhatsApp.
+      - Mejora en la puntualidad y la atención al cliente.
+      - Facilitar el uso de herramientas digitales.
 
 <div style="page-break-before: always;"></div>
 
@@ -1461,26 +1530,26 @@ María Ysabel Sosa Rodríguez, de 45 años, es dueña de un salón de belleza y 
 
 ### 2.3.2. User Task Matrix
 
-*Tarea**                                             | **Frecuencia (Andrea)** | **Importancia (Andrea)** | **Frecuencia (Camila)** | **Importancia (Camila)** |
-|-------------------------------------------------------|--------------------------|----------------------------|---------------------|----------------------|
-| Revisar la disponibilidad de la agenda                | Alta                     | Alta                       | Alta                | Alta                 |
-| Agendar citas                                         | Alta                     | Alta                       | Media               | Alta                 |
-| Escoger tratamiento                                   | Nunca                    | Baja                       | Alta                | Alta                 |
-| Responder llamadas de los clientes                    | Alta                     | Alta                       | Nunca               | Baja                 |
-| Ajustarse al tiempo que dura el tratamiento           | Media                    | Alta                       | Media               | Media                |
-| Alistar los utensilios de belleza de antemano         | Media                    | Media                      | Baja                | Baja                 |
-| Ajustar agenda en fechas de alta demanda              | Baja                     | Alta                       | Baja                | Media                |
-| Gestionar cancelaciones                               | Alta                     | Alta                       | Baja                | Baja                 |
-| Revisar cambios en la agenda                          | Alta                     | Alta                       | Alta                | Alta                 |
-| Priorizar citas según fidelidad                       | Media                    | Alta                       | Nunca               | Baja                 |
-| Escoger un estilista en específico para la cita       | Media                    | Baja                       | Media               | Media                |
-| Colocar precio a los tratamientos                     | Baja                     | Media                      | Baja                | Media                |
-| Planificar citas por WhatsApp                         | Alta                     | Alta                       | Alta                | Alta                 |
-| Gestionar horarios de los estilistas                  | Alta                     | Alta                       | Nunca               | Baja                 |
-| Recordar a los clientes de sus citas                  | Alta                     | Alta                       | Nunca               | Media                |
-| Llegar temprano al salón                              | Baja                     | Media                      | Alta                | Alta                 |
-| Realizar el pago por el servicio                      | Alta                     | Alta                       | Alta                | Alta                 |
-| Pagar por medios electrónicos                         | Baja                     | Baja                       | Alta                | Alta                 |
+| \*Tarea\*\*                                     | **Frecuencia (Andrea)** | **Importancia (Andrea)** | **Frecuencia (Camila)** | **Importancia (Camila)** |
+| ----------------------------------------------- | ----------------------- | ------------------------ | ----------------------- | ------------------------ |
+| Revisar la disponibilidad de la agenda          | Alta                    | Alta                     | Alta                    | Alta                     |
+| Agendar citas                                   | Alta                    | Alta                     | Media                   | Alta                     |
+| Escoger tratamiento                             | Nunca                   | Baja                     | Alta                    | Alta                     |
+| Responder llamadas de los clientes              | Alta                    | Alta                     | Nunca                   | Baja                     |
+| Ajustarse al tiempo que dura el tratamiento     | Media                   | Alta                     | Media                   | Media                    |
+| Alistar los utensilios de belleza de antemano   | Media                   | Media                    | Baja                    | Baja                     |
+| Ajustar agenda en fechas de alta demanda        | Baja                    | Alta                     | Baja                    | Media                    |
+| Gestionar cancelaciones                         | Alta                    | Alta                     | Baja                    | Baja                     |
+| Revisar cambios en la agenda                    | Alta                    | Alta                     | Alta                    | Alta                     |
+| Priorizar citas según fidelidad                 | Media                   | Alta                     | Nunca                   | Baja                     |
+| Escoger un estilista en específico para la cita | Media                   | Baja                     | Media                   | Media                    |
+| Colocar precio a los tratamientos               | Baja                    | Media                    | Baja                    | Media                    |
+| Planificar citas por WhatsApp                   | Alta                    | Alta                     | Alta                    | Alta                     |
+| Gestionar horarios de los estilistas            | Alta                    | Alta                     | Nunca                   | Baja                     |
+| Recordar a los clientes de sus citas            | Alta                    | Alta                     | Nunca                   | Media                    |
+| Llegar temprano al salón                        | Baja                    | Media                    | Alta                    | Alta                     |
+| Realizar el pago por el servicio                | Alta                    | Alta                     | Alta                    | Alta                     |
+| Pagar por medios electrónicos                   | Baja                    | Baja                     | Alta                    | Alta                     |
 
 <div style="page-break-before: always;"></div>
 
@@ -1495,7 +1564,6 @@ Para el segmento de los salones estilistas o barberos se consideró el momento d
 ![Journey mapping | Segmento objetivo #2](img/journeymapping2.png)
 
 <div style="page-break-before: always;"></div>
-
 
 ### 2.3.4. Empathy Mapping
 
@@ -1518,7 +1586,6 @@ Para el segmento de los salones estilistas o barberos se consideró el momento d
 </div>
 
 <div style="page-break-before: always;"></div>
-
 
 ### 2.3.5. Ubiquitous Language
 
@@ -4155,7 +4222,7 @@ La siguiente sección presenta la evidencia de ejecución de la landing page, ba
 
 **1. Hero Section - Primera Impresión del Usuario**
 
-![Hero Section](img/mockup_landing_1.png.png)
+![Hero Section](img/mockup_landing_1.png)
 
 La landing page comienza con una sección hero impactante que captura inmediatamente la atención del usuario. Esta sección presenta una frase llamativa "Skip the Calls, Book in Real Time" que comunica directamente el valor principal de la plataforma. El usuario encuentra un call-to-action prominente "Start for Free →" que lo invita a comenzar su experiencia con uTime. Esta sección está diseñada para generar interés inmediato y motivar al usuario a explorar más la plataforma.
 
@@ -4917,6 +4984,118 @@ Repositorio de Acceptance Tests: https://github.com/PaxTech-1807/Acceptance-Test
 
 #### 4.2.2.5. Execution Evidence for Sprint Review
 
+##### Android
+
+Durante el Sprint 2, se realizó un cambio completo de UI/UX en toda la aplicación móvil Android, mejorando significativamente la experiencia de usuario y la consistencia visual del producto. Se implementó un nuevo diseño con una paleta de colores unificada basada en tonos púrpura, mejorando la navegación y la presentación de la información en todas las pantallas principales.
+
+##### Pantallas Informativas (Onboarding)
+
+La aplicación incluye un flujo de onboarding de tres pantallas que introduce a los usuarios a las funcionalidades principales de uTime. Estas pantallas informativas presentan de manera visual y atractiva los beneficios de la aplicación, utilizando imágenes circulares destacadas y mensajes claros que comunican el valor del servicio.
+
+**Primera pantalla - Exploración de Salones:**
+Esta pantalla presenta la funcionalidad principal de explorar salones de belleza cercanos, destacando la facilidad para descubrir los mejores salones y estilistas en el área del usuario.
+
+![Onboarding 1 - Exploración](img/execution_movil_1.jpg)
+
+**Segunda pantalla - Reserva de Estilistas:**
+La segunda pantalla enfatiza la capacidad de reservar citas con estilistas favoritos de manera fácil y rápida, sin esperas ni complicaciones.
+
+![Onboarding 2 - Reserva](img/execution_movil_2.jpg)
+
+**Tercera pantalla - Transformación Personal:**
+La última pantalla de onboarding invita a los usuarios a transformar su look con los mejores profesionales, descubriendo su mejor versión a través de la aplicación.
+
+![Onboarding 3 - Transformación](img/execution_movil_3.jpg)
+
+##### Pantalla de Inicio de Sesión
+
+La pantalla de login presenta un diseño limpio y moderno con un banner púrpura que invita a los usuarios a iniciar sesión. Incluye campos para correo electrónico y contraseña, con opción de mostrar/ocultar la contraseña, y un enlace para usuarios nuevos que deseen registrarse.
+
+![Pantalla de Login](img/execution_movil_4.jpg)
+
+##### Pantalla de Registro
+
+La pantalla de registro permite a los nuevos usuarios crear una cuenta de manera sencilla. Incluye campos para nombre, apellido, correo electrónico y contraseña, manteniendo el mismo diseño consistente con el resto de la aplicación y un banner informativo que destaca los beneficios de registrarse.
+
+![Pantalla de Registro](img/execution_movil_5.jpg)
+
+##### Pantalla de Inicio
+
+La pantalla principal de la aplicación muestra una interfaz limpia y moderna que permite a los usuarios explorar salones cercanos y recientes. Incluye un banner promocional destacado, una barra de búsqueda para encontrar salones específicos, y tarjetas de salones con información relevante como distancia, calificación y ubicación.
+
+![Pantalla de Inicio](img/exec1.jpg)
+
+##### Pantalla de Categorías y Búsqueda
+
+Esta pantalla permite a los usuarios explorar servicios por categorías, facilitando la búsqueda de servicios específicos como maquillaje, manicure, barbería, cuidado facial, masajes, entre otros. El diseño en grid permite una navegación intuitiva y rápida entre las diferentes opciones de servicios disponibles.
+
+![Pantalla de Categorías](img/exec2.jpg)
+
+##### Pantalla de Reservaciones
+
+La pantalla de reservaciones muestra todas las citas del usuario de manera organizada, presentando información clave como el tipo de servicio, fecha, hora y estado de la reserva. El diseño permite una visualización clara del historial de citas y su estado actual.
+
+![Pantalla de Reservaciones](img/exec3.jpg)
+
+##### Flujo de Reservación
+
+El flujo completo de reservación permite a los usuarios seleccionar servicios, elegir profesionales y confirmar sus citas de manera intuitiva y eficiente.
+
+**Pantalla de Detalles del Salón y Servicios:**
+
+Esta pantalla muestra la información detallada del salón seleccionado, incluyendo su nombre, ubicación y calificación. Presenta pestañas para navegar entre "Servicios", "Reseña" y "Acerca de". En la sección de servicios, los usuarios pueden ver cada servicio disponible con su precio, duración y un botón para reservar directamente.
+
+![Detalles del Salón](img/execution_movil_6.jpg)
+
+**Pantalla de Selección de Profesional:**
+
+Esta pantalla permite a los usuarios elegir un estilista específico para su cita o seleccionar "Cualquier profesional" si no tienen preferencia. Cada opción se presenta en una tarjeta visual que facilita la selección mediante botones de radio.
+
+![Selección de Profesional](img/execution_movil_7.jpg)
+
+**Pantalla de Confirmación de Reserva:**
+
+Antes de finalizar la reserva, esta pantalla muestra un resumen completo de todos los detalles de la cita, incluyendo fecha, hora, profesional seleccionado, lista de servicios con sus duraciones y precios, tiempo total y precio total. El usuario puede revisar toda la información antes de confirmar.
+
+![Confirmación de Reserva](img/execution_movil_8.jpg)
+
+**Pantalla de Confirmación Exitosa:**
+
+Una vez confirmada la reserva, esta pantalla muestra un mensaje de éxito con un ícono de confirmación, un resumen completo de la reserva confirmada, y confirma que se ha enviado un correo electrónico con todos los detalles. Incluye un botón para regresar al inicio de la aplicación.
+
+![Confirmación Exitosa](img/execution_movil_9.jpg)
+
+
+
+##### Pantalla de Perfil
+
+La pantalla de perfil proporciona acceso a todas las opciones de configuración y gestión de la cuenta del usuario. Incluye opciones para gestionar el perfil, métodos de pago, salones favoritos, notificaciones, y otras configuraciones importantes de la aplicación.
+
+![Pantalla de Perfil](img/exec4.jpg)
+
+##### Flutter
+
+Durante el Sprint 2, se avanzó significativamente en la implementación de la aplicación móvil en Flutter. Se ha implementado toda la lógica funcional de la aplicación, incluyendo la gestión de equipos, servicios, reservaciones y perfil. Actualmente, falta la implementación del login y registro, así como mejoras en la UI, pero toda la funcionalidad principal está completamente implementada y operativa.
+
+**Pantalla de Equipo:**
+La pantalla de equipo permite gestionar los miembros del equipo, mostrando información detallada de cada miembro incluyendo su rol, servicios asignados y número de proveedor. Incluye funcionalidades para editar y eliminar miembros del equipo.
+
+![Pantalla de Equipo](img/flu1.jpg)
+
+**Pantalla de Reservaciones:**
+La pantalla de reservaciones muestra todas las reservas del negocio con filtros por día, mes y año. Presenta información detallada de cada reserva incluyendo fecha, hora, servicio y trabajador asignado.
+
+![Pantalla de Reservaciones](img/flu2.jpg)
+
+**Pantalla de Servicios:**
+La pantalla de servicios permite gestionar el catálogo de servicios del negocio, mostrando cada servicio con su duración y precio. Incluye funcionalidades para crear, editar y eliminar servicios.
+
+![Pantalla de Servicios](img/flu3.jpg)
+
+**Pantalla de Perfil:**
+La pantalla de perfil muestra la información del negocio y proporciona acceso a la configuración, incluyendo opciones para gestionar el perfil del negocio, notificaciones, suscripción, políticas de privacidad y preguntas frecuentes.
+
+![Pantalla de Perfil](img/flu4.jpg)
 
 
 #### 4.2.2.6. Services Documentation Evidence for Sprint Review
@@ -5051,38 +5230,815 @@ Url de la documentacion del BackEnd Deployado: https://paxtech.azurewebsites.net
 
 **Firebase Hosting:**
 Para el despliegue del FrontEnd de la aplicacion movil se opto por usar Firebase Hosting, ya que nos permite desplegar aplicaciones web y moviles de manera rapida y sencilla para testing de cada miembro del equipo.
+
+
 ![firebase hosting evidence](img/firebasehosting.png)
-Url del Release 
+
+Url del Release : https://appdistribution.firebase.google.com/testerapps/1:926361378609:android:a84ac4062d1a098abfda10/releases/5uliosg8igfp8
 
 #### 4.2.2.8. Team Collaboration Insights during Sprint
+
+Durante el Sprint 2, el equipo mantuvo una colaboración activa y constante a través de GitHub, trabajando tanto en el desarrollo del flujo de Android como en el inicio del desarrollo del flujo en Flutter. Las métricas de colaboración muestran el compromiso del equipo y la distribución del trabajo entre los diferentes componentes del proyecto.
+
+**Android**
+
+El desarrollo del flujo en Android contó con contribuciones significativas de todos los miembros del equipo, reflejando el trabajo colaborativo en la finalización de funcionalidades, mejoras de UI/UX y la integración completa con el backend. Las métricas de GitHub muestran un alto nivel de actividad durante todo el sprint.
+
+![Team Collaboration Insights - Android](img/android_insight.png)
+
+**Flutter**
+
+El inicio del desarrollo del flujo en Flutter también se refleja en las métricas de colaboración, mostrando las primeras contribuciones al nuevo flujo multiplataforma. Aunque el desarrollo de Flutter está en sus etapas iniciales, las métricas demuestran el compromiso del equipo con esta nueva implementación.
+
+![Team Collaboration Insights - Flutter](img/flutterinsight.png)
+
+### 4.2.3. Sprint 3
+
+#### 4.2.3.1. Sprint Planning 3
+
+Dentro del marco de trabajo Scrum, cada Sprint constituye un periodo de tiempo fijo y breve en el que el equipo de desarrollo trabaja de manera enfocada para alcanzar un objetivo específico que contribuya al cumplimiento del Product Goal (Schwaber, K. & Sutherland, J., 2020). En el contexto del desarrollo de la plataforma uTime, el Sprint #3 dio inicio el 25/11/2025, y su meta consiste en culminar el desarrollo de las aplicación móvil en Flutter y Android para ambos segmentos, tanto de dueños de salones de belleza como de clientes, implementando todas las funcionalidades principales necesarias para la gestión integral de un salón y sus citas. Durante este sprint, el equipo se enfocará en que las aplicación sean aplicación completas y que permitan a los profesionales administrar sus servicios, trabajadores, reservas y configuraciones desde un dispositivo móvil, utilizando Flutter como framework multiplataforma para iOS y Android.
+
+<table>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint #</b></td>
+      <td colspan="1" align="center">Sprint 3</td>
+   </tr>
+   <tr>
+      <td colspan="2" align="center"><b>Sprint Planning Background</b></td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Date</b></td>
+      <td colspan="1">2025-10-28</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Time</b></td>
+      <td colspan="1">07:00 PM</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Location</b></td>
+      <td colspan="1">Reunión virtual mediante la aplicación Discord</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Prepare By</b></td>
+      <td colspan="1">Gael Rivera</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Attendees (to planning meeting)</b></td>
+      <td colspan="1">Natalia Roman, Gael Rivera, Britney Qqueso y Jorge Yum</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 2 Review Summary</b></td>
+      <td colspan="1">El Sprint 2 logró completar exitosamente el desarrollo del flujo en Android, finalizando todas las funcionalidades core de la aplicación para clientes. Se mejoró significativamente la integración con el backend, permitiendo que todas las operaciones funcionen de manera completa y en tiempo real. Se realizó un cambio completo de UI/UX en toda la aplicación Android, mejorando la consistencia visual y la experiencia de usuario. La aplicación Android quedó completamente funcional con todas sus características implementadas y documentadas, proporcionando una base sólida para el desarrollo de la aplicación Flutter para dueños de salones.</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 2 Retrospective Summary</b></td>
+      <td colspan="1">Durante la retrospectiva del Sprint 2, el equipo identificó la necesidad de expandir el desarrollo a una plataforma multiplataforma para llegar a más usuarios, específicamente desarrollando la aplicación en Flutter para iOS. Se acordó priorizar el desarrollo de la aplicación móvil para dueños de salones de belleza utilizando Flutter, lo que permitiría al equipo adquirir competencias en frameworks multiplataforma y técnicas de migración de código. El equipo también reconoció la importancia de mantener una arquitectura limpia y consistente entre plataformas, así como documentar adecuadamente todos los endpoints del backend que serían consumidos por la nueva aplicación Flutter.</td>
+   </tr>
+   <tr>
+      <td colspan="2" align="center"><b>Sprint Goal & User Stories</b></td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 3 Goal</b></td>
+      <td colspan="1"><b>Our focus is on</b> developing the complete Flutter mobile application for salon owners, implementing all core functionalities including authentication, dashboard with metrics, service management, worker management, calendar and reservation management, and profile configuration.<br><b>We believe it delivers</b> a fully functional Flutter application that allows salon owners to manage their business comprehensively from a mobile device, with complete backend integration and an intuitive user interface that facilitates efficient business operations.<br><b>This will be confirmed when</b> salon owners can successfully register, log in, manage their services and workers, view and manage reservations through a calendar interface, and configure their business profile, all from the Flutter application with seamless backend connectivity.</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 3 Velocity</b></td>
+      <td colspan="1">60</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sum of Story Points</b></td>
+      <td colspan="1">60</td>
+   </tr>
+</tr>
+</table>
+
+#### 4.2.3.2. Sprint Backlog 3
+
+<table>
+   <tr>
+      <td colspan="2" align="center"><b>Sprint #</b></td>
+      <td colspan="6" align="center"><b>Sprint 3</b></td>
+   </tr>
+   <tr>
+      <td colspan="2"><b>User Story</b></td>
+      <td colspan="6" align="center"><b>Work-Item/Task</b></td>
+   </tr>
+   <tr>
+      <td><b>Id</b></td>
+      <td><b>Tittle</b></td>
+      <td><b>Id</b></td>
+      <td><b>Tittle</b></td>
+      <td><b>Description</b></td>
+      <td><b>Estimation (Hours)</b></td>
+      <td><b>Assigned To</b></td>
+      <td><b>Status(To-do/In-Process/To-Review/Done)</b></td>
+   </tr>
+   <tr>
+      <td rowspan="2">US19</td>
+      <td rowspan="2">Visualización de citas agendadas</td>
+      <td>T301</td>
+      <td>Pantalla de citas agendadas en Android</td>
+      <td>Implementar en iOS la pantalla que muestra las citas agendadas del cliente con información detallada (fecha, hora, lugar, servicio).</td>
+      <td>4</td>
+      <td>Natalia Roman</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T302</td>
+      <td>Integración con endpoint GET /reservationsDetails</td>
+      <td>Conectar la pantalla Android con el endpoint GET /api/v1/reservationsDetails para obtener y mostrar las reservas del cliente autenticado.</td>
+      <td>3</td>
+      <td>Jorge Yum</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="2">US21</td>
+      <td rowspan="2">Historial de modificaciones de citas</td>
+      <td>T303</td>
+      <td>Pantalla de historial en Android</td>
+      <td>Desarrollar en Android la pantalla que muestra el historial de modificaciones de las citas del cliente, incluyendo cambios de fecha, hora o servicio.</td>
+      <td>3.5</td>
+      <td>Britney Qqueso</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T304</td>
+      <td>Lógica de registro de cambios</td>
+      <td>Implementar la funcionalidad que registra y almacena los cambios realizados a las citas para poder mostrar el historial completo.</td>
+      <td>2.5</td>
+      <td>Gael Rivera</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="2">US22</td>
+      <td rowspan="2">Administración de servicios ofrecidos</td>
+      <td>T305</td>
+      <td>Pantalla de gestión de servicios en Flutter</td>
+      <td>Crear en Flutter la pantalla que permite a los dueños de salones agregar, editar y eliminar servicios, usando los endpoints POST, PUT y DELETE /api/v1/services.</td>
+      <td>4</td>
+      <td>Natalia Roman</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T306</td>
+      <td>Formularios de creación y edición</td>
+      <td>Implementar formularios en Flutter para crear y editar servicios con validaciones, incluyendo nombre, duración, precio y descripción.</td>
+      <td>3.5</td>
+      <td>Jorge Yum</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="2">US23</td>
+      <td rowspan="2">Gestión de trabajadores</td>
+      <td>T307</td>
+      <td>Pantalla de gestión de trabajadores en Flutter</td>
+      <td>Desarrollar en Flutter la pantalla que permite a los dueños agregar, editar y eliminar trabajadores, usando los endpoints POST, PUT y DELETE /api/v1/workers.</td>
+      <td>4.5</td>
+      <td>Gael Rivera</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T308</td>
+      <td>Asignación de especializaciones</td>
+      <td>Implementar en Flutter la funcionalidad para asignar hasta tres especializaciones de servicios a cada trabajador durante la creación o edición.</td>
+      <td>3</td>
+      <td>Britney Qqueso</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="2">US29</td>
+      <td rowspan="2">Visualización general de los servicios</td>
+      <td>T309</td>
+      <td>Mejora de la sección de servicios en Landing Page</td>
+      <td>Mejorar y actualizar la sección de visualización de servicios en la Landing Page con mejor diseño y contenido actualizado.</td>
+      <td>2</td>
+      <td>Natalia Roman</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T310</td>
+      <td>Integración con backend en Android</td>
+      <td>Conectar la pantalla de visualización de servicios en Android con el endpoint GET /api/v1/services para mostrar los servicios disponibles de cada salón.</td>
+      <td>3</td>
+      <td>Natalia Roman</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="2">US30</td>
+      <td rowspan="2">Visualización de beneficios</td>
+      <td>T311</td>
+      <td>Actualización de beneficios en Landing Page</td>
+      <td>Actualizar y mejorar la sección de beneficios en la Landing Page con contenido más detallado y elementos visuales mejorados.</td>
+      <td>2.5</td>
+      <td>Britney Qqueso</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T312</td>
+      <td>Optimización de diseño responsive</td>
+      <td>Optimizar el diseño responsive de la sección de beneficios para mejorar la experiencia en dispositivos móviles y tablets.</td>
+      <td>2</td>
+      <td>Jorge Yum</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td rowspan="2">US06</td>
+      <td rowspan="2">Personalización del perfil del salón</td>
+      <td>T313</td>
+      <td>Pantalla de perfil editable en Flutter</td>
+      <td>Desarrollar en Flutter la pantalla completa de perfil del salón con opciones de edición, usando PUT /api/v1/provider-profiles/{id} para actualizar la información.</td>
+      <td>4</td>
+      <td>Gael Rivera</td>
+      <td>Done</td>
+   </tr>
+   <tr>
+      <td>T314</td>
+      <td>Gestión de imágenes y multimedia</td>
+      <td>Implementar en Flutter la funcionalidad para subir y actualizar imágenes del salón (logotipo, fotos del negocio) con integración de almacenamiento en la nube.</td>
+      <td>3.5</td>
+      <td>Natalia Roman</td>
+      <td>Done</td>
+   </tr>
+</table>
+
+#### 4.2.3.3. Development Evidence for Sprint Review
+Durante el Sprint 3 se ejecutaron y completaron las tareas definidas en el Sprint Backlog 3. El enfoque principal fue finalizar la aplicación móvil en Flutter para los dueños de salones, implementando la gestión integral de servicios, trabajadores y perfil del negocio. Paralelamente, se completaron funcionalidades críticas en la aplicación Android para clientes, como el historial de citas y la visualización de reservas agendadas, además de actualizaciones visuales en la Landing Page para mejorar la presentación de beneficios y servicios.
+
+Repositorio Android (clientes): https://github.com/PaxTech-1807/Mobile-App
+
+Repositorio Flutter iOS (salones/proveedores): https://github.com/PaxTech-1807/Ios-Mobile-App
+
+| Repository | Branch | Commit Id | Commit Message | Commited on (Date) |
+| :--- | :--- | :--- | :--- | :--- |
+| PaxTech-1807/Mobile-App | develop | 3b1f2a1 | feat: US19 added scheduled appointments screen UI layout (T301) | 15/11/2025 |
+| PaxTech-1807/Mobile-App | develop | 8c4d9e2 | feat: US19 integrated GET /reservationsDetails endpoint (T302) | 16/11/2025 |
+| PaxTech-1807/Mobile-App | develop | 5a7b3c4 | feat: US21 booking modification history screen implementation (T303) | 17/11/2025 |
+| PaxTech-1807/Mobile-App | develop | 2d9e1f5 | feat: US21 logic for tracking and storing appointment changes (T304) | 18/11/2025 |
+| PaxTech-1807/Ios-Mobile-App | develop | 4c2d1e9 | feat: US22 service management screen with CRUD operations UI (T305) | 19/11/2025 |
+| PaxTech-1807/Ios-Mobile-App | develop | 7b8a3f6 | feat: US22 service forms with validation for create/edit flows (T306) | 20/11/2025 |
+| PaxTech-1807/Mobile-App | develop | 9f0a8b3 | feat: US29 service visualization screen connected to GET /services (T310) | 22/11/2025 |
+| PaxTech-1807/Ios-Mobile-App | develop | 1e5c9d2 | feat: US23 worker management list and details screen (T307) | 24/11/2025 |
+| PaxTech-1807/Ios-Mobile-App | develop | 6a4f2b8 | feat: US23 worker specialization assignment logic (T308) | 25/11/2025 |
+| PaxTech-1807/Landing-Page | develop | 2c8d4e7 | feat: US29 updated services section design and content (T309) | 26/11/2025 |
+| PaxTech-1807/Ios-Mobile-App | develop | 3d9e7c1 | feat: US06 editable salon profile screen with PUT integration (T313) | 28/11/2025 |
+| PaxTech-1807/Ios-Mobile-App | develop | 0b5f1a4 | feat: US06 cloud storage integration for salon logo and images (T314) | 29/11/2025 |
+| PaxTech-1807/Landing-Page | develop | 5f3a1b9 | feat: US30 benefits section update and responsive optimization (T311, T312)| 01/12/2025 |
+| PaxTech-1807/Mobile-App | main | f8e2d1c | merge: develop → main (sprint 3 android client features complete) | 03/12/2025 |
+| PaxTech-1807/Ios-Mobile-App | main | a1b2c3d | merge: develop → main (sprint 3 flutter owner features complete) | 03/12/2025 |
+
+#### 4.2.3.4. Testing Suite Evidence for Sprint Review
+
+#### 4.2.3.5. Execution Evidence for Sprint Review
+
+Durante el Sprint 3, se completó exitosamente el desarrollo de la aplicación móvil en Flutter para el segmento de dueños de salones de belleza. La aplicación incluye todas las funcionalidades principales necesarias para la gestión integral de un salón, permitiendo a los profesionales administrar sus servicios, trabajadores, reservas y configuraciones desde un dispositivo móvil.
+
+##### Autenticación: Login y Registro
+
+La aplicación cuenta con un sistema completo de autenticación que permite a los dueños de salones crear una cuenta y acceder a la plataforma. El flujo de registro incluye la creación de perfil del negocio con información básica, mientras que el login permite el acceso seguro mediante correo electrónico y contraseña. Ambas pantallas han sido diseñadas con una interfaz intuitiva y moderna que facilita la experiencia del usuario.
+
+<div style="display: flex; justify-content: space-around; align-items: center; margin: 20px 0;">
+  <img src="img/execsprint3_1.jpg" alt="Pantalla de Login" style="width: 45%;">
+  <img src="img/execsprint3_2.jpg" alt="Pantalla de Registro" style="width: 45%;">
+</div>
+
+##### Dashboard: Pantalla Principal
+
+La pantalla principal del dashboard proporciona una vista general rápida del estado del salón, mostrando métricas clave como número de trabajadores, servicios disponibles, reservas del día y estadísticas del mes en tarjetas informativas. Además, incluye una sección de gestión de reseñas con filtros avanzados por calificación y período de tiempo, permitiendo a los dueños monitorear la satisfacción de los clientes y tomar decisiones informadas sobre su negocio.
+
+<div style="display: flex; justify-content: space-around; align-items: center; margin: 20px 0;">
+  <img src="img/execsprint3_3.jpg" alt="Dashboard Principal" style="width: 45%;">
+  <img src="img/execsprint3_4.jpg" alt="Gestión de Reseñas" style="width: 45%;">
+</div>
+
+##### Gestión de Servicios
+
+La aplicación permite a los dueños de salones gestionar completamente su catálogo de servicios, incluyendo la visualización de todos los servicios disponibles con su nombre, duración y precio en tarjetas organizadas. Los usuarios pueden crear nuevos servicios mediante un formulario intuitivo, editar información existente y eliminar servicios que ya no ofrecen, todo desde una interfaz móvil sencilla y eficiente que facilita la administración del negocio.
+
+<div style="display: flex; justify-content: space-around; align-items: center; margin: 20px 0;">
+  <img src="img/execsprint3_5.jpg" alt="Lista de Servicios" style="width: 30%;">
+  <img src="img/execsprint3_6.jpg" alt="Crear Nuevo Servicio" style="width: 30%;">
+  <img src="img/execsprint3_7.jpg" alt="Editar/Eliminar Servicio" style="width: 30%;">
+</div>
+
+##### Gestión de Trabajadores
+
+La aplicación permite a los dueños gestionar su equipo de trabajo de manera completa, visualizando todos los trabajadores con sus nombres y especializaciones en tarjetas organizadas. Los usuarios pueden agregar nuevos trabajadores asignándoles hasta tres especializaciones de servicios, editar la información de trabajadores existentes incluyendo sus especializaciones y foto de perfil, facilitando la organización del personal y la asignación de servicios según las habilidades de cada trabajador.
+
+<div style="display: flex; justify-content: space-around; align-items: center; margin: 20px 0;">
+  <img src="img/execsprint3_9.jpg" alt="Lista de Trabajadores" style="width: 30%;">
+  <img src="img/execsprint3_10.jpg" alt="Agregar Trabajador" style="width: 30%;">
+  <img src="img/execsprint3_11.jpg" alt="Editar Trabajador" style="width: 30%;">
+</div>
+
+##### Calendario y Gestión de Reservas
+
+La aplicación incluye un calendario completo que permite a los dueños de salones visualizar y gestionar todas las reservas del negocio, así como las reservas individuales de cada trabajador. El calendario muestra una vista semanal con horarios en intervalos de 30 minutos, permitiendo navegar entre meses y días para planificar eficientemente las citas. Esta funcionalidad facilita la organización del tiempo, la asignación de trabajadores a servicios específicos y la visualización de la disponibilidad tanto del salón completo como de cada miembro del equipo.
+
+<div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
+  <img src="img/execsprint3_15.jpg" alt="Calendario de Reservas" style="width: 50%;">
+</div>
+
+##### Perfil y Configuración
+
+La pantalla de perfil permite a los dueños de salones gestionar toda la información y configuración de su negocio desde un solo lugar. Incluye la visualización del perfil del salón con su nombre y tipo de cuenta, un indicador del estado del negocio (abierto/cerrado) que puede ser cambiado fácilmente, y acceso a opciones de configuración como el perfil del negocio para editar información, notificaciones para gestionar alertas, y suscripción para administrar el plan de servicio. Además, la aplicación incluye la opción de cerrar sesión de forma segura, proporcionando un control completo sobre la cuenta y las preferencias del salón.
+
+<div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
+  <img src="img/execsprint3_16.jpg" alt="Perfil y Configuración" style="width: 50%;">
+</div>
+
+#### 4.2.3.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 3, se completó la documentación de los endpoints relacionados con la gestión de trabajadores (Workers), perfiles de proveedores (Provider Profiles), reservaciones (Reservations), servicios (Services) y reseñas (Reviews) utilizando OpenAPI/Swagger. Estos endpoints permiten a la aplicación Flutter realizar operaciones CRUD completas sobre todas las entidades principales del sistema, incluyendo la gestión de trabajadores, información del salón de belleza, reservaciones de citas, catálogo de servicios y sistema de reseñas y valoraciones.
+
+##### Endpoints Documentados - Workers
+
+| Acción | Verbo HTTP | Endpoint | Descripción | Parámetros |
+|--------|------------|----------|-------------|------------|
+| Obtener trabajador por ID | GET | `/api/v1/workers/{workerId}` | Obtiene la información detallada de un trabajador específico | `workerId` (path parameter) |
+| Obtener todos los trabajadores | GET | `/api/v1/workers` | Obtiene la lista completa de trabajadores del salón | Ninguno |
+| Crear trabajador | POST | `/api/v1/workers` | Crea un nuevo trabajador en el sistema | Body: datos del trabajador (nombre, especializaciones, foto, etc.) |
+| Actualizar trabajador | PUT | `/api/v1/workers/{workerId}` | Actualiza la información de un trabajador existente | `workerId` (path parameter), Body: datos actualizados |
+| Eliminar trabajador | DELETE | `/api/v1/workers/{workerId}` | Elimina un trabajador del sistema | `workerId` (path parameter) |
+
+**Documentación de API (Swagger UI):**
+
+![Documentación de Endpoints - Workers](img/webservice_1.png)
+
+##### Endpoints Documentados - Provider Profiles
+
+| Acción | Verbo HTTP | Endpoint | Descripción | Parámetros |
+|--------|------------|----------|-------------|------------|
+| Obtener perfil por ID | GET | `/api/v1/provider-profiles/{id}` | Obtiene la información detallada de un perfil de proveedor específico | `id` (path parameter) |
+| Obtener todos los perfiles | GET | `/api/v1/provider-profiles` | Obtiene la lista completa de perfiles de proveedores | Ninguno |
+| Buscar perfiles | GET | `/api/v1/provider-profiles/search` | Busca perfiles de proveedores por nombre de empresa | Query parameters: nombre de empresa |
+| Crear perfil | POST | `/api/v1/provider-profiles` | Crea un nuevo perfil de proveedor (salón de belleza) | Body: datos del perfil (nombre, ubicación, foto, etc.) |
+| Actualizar perfil completo | PUT | `/api/v1/provider-profiles/{id}` | Actualiza toda la información del perfil del salón, incluyendo ubicación, foto, plan pagado, horarios de apertura y cierre, y demás datos del negocio | `id` (path parameter), Body: datos actualizados del perfil |
+| Eliminar perfil | DELETE | `/api/v1/provider-profiles/{id}` | Elimina un perfil de proveedor del sistema | `id` (path parameter) |
+
+**Documentación de API (Swagger UI):**
+
+![Documentación de Endpoints - Provider Profiles](img/webservice_2.png)
+
+##### Endpoints Documentados - Reservations
+
+| Acción | Verbo HTTP | Endpoint | Descripción | Parámetros |
+|--------|------------|----------|-------------|------------|
+| Obtener todas las reservaciones | GET | `/api/v1/reservationsDetails` | Obtiene la lista completa de reservaciones | Ninguno |
+| Obtener información detallada de todas las reservaciones | GET | `/api/v1/reservationsDetails/details` | Obtiene información detallada de todas las reservaciones con datos completos | Ninguno |
+| Obtener reservación por ID | GET | `/api/v1/reservationsDetails/{reservationId}` | Obtiene la información de una reservación específica | `reservationId` (path parameter) |
+| Obtener información detallada de reservación | GET | `/api/v1/reservationsDetails/details/{reservationId}/` | Obtiene información detallada de una reservación específica | `reservationId` (path parameter) |
+| Crear reservación | POST | `/api/v1/reservationsDetails` | Crea una nueva reservación en el sistema | Body: datos de la reservación (fecha, hora, servicio, trabajador, cliente, etc.) |
+| Eliminar reservación | DELETE | `/api/v1/reservationsDetails/{reservationId}` | Elimina una reservación del sistema | `reservationId` (path parameter) |
+
+**Documentación de API (Swagger UI):**
+
+![Documentación de Endpoints - Reservations](img/webservice_3.png)
+
+##### Endpoints Documentados - Services
+
+| Acción | Verbo HTTP | Endpoint | Descripción | Parámetros |
+|--------|------------|----------|-------------|------------|
+| Obtener todos los servicios | GET | `/api/v1/services` | Obtiene la lista completa de servicios del salón | Ninguno |
+| Crear servicio | POST | `/api/v1/services` | Crea un nuevo servicio en el catálogo | Body: datos del servicio (nombre, duración, precio, etc.) |
+| Actualizar servicio | PUT | `/api/v1/services/{id}` | Actualiza la información de un servicio existente | `id` (path parameter), Body: datos actualizados |
+| Eliminar servicio | DELETE | `/api/v1/services/{serviceId}` | Elimina un servicio del catálogo | `serviceId` (path parameter) |
+
+**Documentación de API (Swagger UI):**
+
+![Documentación de Endpoints - Services](img/webservice_4.png)
+
+##### Endpoints Documentados - Reviews
+
+| Acción | Verbo HTTP | Endpoint | Descripción | Parámetros |
+|--------|------------|----------|-------------|------------|
+| Obtener todas las reseñas | GET | `/api/v1/reviews` | Obtiene la lista completa de reseñas recibidas por el salón | Ninguno |
+| Obtener reseña por ID | GET | `/api/v1/reviews/{reviewId}` | Obtiene la información de una reseña específica | `reviewId` (path parameter) |
+| Crear reseña | POST | `/api/v1/reviews` | Crea una nueva reseña en el sistema | Body: datos de la reseña (calificación, comentario, cliente, servicio, etc.) |
+| Eliminar reseña | DELETE | `/api/v1/reviews/{reviewId}` | Elimina una reseña del sistema | `reviewId` (path parameter) |
+
+**Documentación de API (Swagger UI):**
+
+![Documentación de Endpoints - Reviews](img/webservice_5.png)
+
+**Repositorio de Web Services:** https://github.com/PaxTech-1807/Web-Services
+
+**URL de Documentación Desplegada:** https://paxtech.azurewebsites.net/swagger-ui/index.html
+
+#### 4.2.3.7. Software Deployment Evidence for Sprint Review
+**Base de datos:**
+Para el despliegue de la base de datos en el Sprint 3 y Ultimo, se opto por mantener el uso de Neon en postgreesql, ya que no solo nos permita una visualizacion rapida y sencilla de la base de datos, los usuarios usandolo, y actividad desde una interfaz web, sino que tambien nos brinda estos servicios de manera gratuita hasta llegar a un limite de computarizacion, este limite se ha alcanzado y el precio para mantenerlo son 5 USD mensuales, lo cual es un precio accesible para el equipo y el proyecto.
+![Neon Dashboard](img/neonImage.png) 
+
+**Firebase Hosting:**
+Para el despliegue del FrontEnd de la aplicacion movil hecha en Flutter se opto por usar Firebase Hosting, ya que nos permite desplegar aplicaciones web y moviles de manera rapida y sencilla para testing de cada miembro del equipo.
+![Firebase app distribution](img/firebaseAppFlutter.png)
+0.1.0: https://appdistribution.firebase.google.com/testerapps/1:926361378609:android:89ad0df94b9d2275bfda10/releases/73i3ihr6ajtho?utm_source=firebase-console
+
+
+#### 4.2.3.8. Team Collaboration Insights during Sprint
+
+Durante el Sprint 3, el equipo mantuvo una colaboración activa y constante a través de GitHub, trabajando en la finalización completa de todas las plataformas del proyecto uTime. Este sprint representó la culminación del desarrollo, logrando completar al 100% la aplicación móvil en Android para clientes, la aplicación móvil en Flutter para dueños de salones de belleza, y la Landing Page como punto de entrada al ecosistema. Las métricas de colaboración muestran el compromiso del equipo y la distribución del trabajo entre los diferentes componentes del proyecto.
+
+**Android**
+
+El desarrollo del flujo en Android fue completado exitosamente durante este sprint, con contribuciones significativas de todos los miembros del equipo. Se finalizaron todas las funcionalidades pendientes, mejoras de UI/UX, integración completa con el backend, y se aseguró que la aplicación estuviera completamente funcional y lista para su uso. Las métricas de GitHub muestran un alto nivel de actividad y colaboración durante todo el sprint.
+
+![Team Collaboration Insights - Android](img/android_insight.png)
+
+**Flutter**
+
+El desarrollo del flujo en Flutter fue completado al 100% durante el Sprint 3, logrando implementar todas las funcionalidades principales incluyendo autenticación, dashboard, gestión de servicios, trabajadores, calendario de reservas y perfil. Las métricas de colaboración reflejan el trabajo intensivo del equipo para finalizar esta plataforma multiplataforma, demostrando el compromiso con la entrega de un producto completo y funcional.
+
+![Team Collaboration Insights - Flutter](img/flutterinsight.png)
+
+**Landing Page**
+
+La Landing Page también fue finalizada durante este sprint, completando el ecosistema completo de uTime. El equipo trabajó en la integración de todas las secciones, mejoras visuales, y aseguró que la página cumpliera con su función como punto de entrada principal para atraer tanto a dueños de salones como a clientes potenciales al ecosistema uTime.
+
+
+## 4.3. Validation Interviews
+
+### 4.3.1. Diseño de Entrevistas
+
+### PREGUNTAS INTRODUCTORIAS:
+
+* ¿Cuál es tu nombre?
+
+* ¿Cuánto tiempo llevas trabajando en el sector de belleza? / ¿Con qué frecuencia solicitas servicios de belleza?
+
+* ¿Has usado alguna herramienta digital para reservas o todo lo haces por WhatsApp, redes u otro método?
+
+* ¿Qué es lo que más te cuesta gestionar en el tema de reservas?
+
+### SEGMENTO 1: Dueños de Salones de Belleza o Barberías
+
+*Preguntas tras mostrar la Landing Page*
+
+* ¿Sientes que comunica bien la propuesta y beneficios del producto?
+
+* ¿Qué sección o contenido te pareció más útil o llamativo?
+
+* ¿Los planes que se ofrecen se ven claros y bien diferenciados?
+
+* ¿Te animarías a probar una plataforma como esta luego de ver la landing?
+
+
+*Preguntas tras mostrar la Aplicación Móvil (Vista del salón)*
+
+* ¿Fue fácil navegar y entender cómo funciona la gestión de citas?
+
+* ¿Te resultó intuitiva la configuración de horarios y servicios?
+
+* ¿Te parecen útiles las funciones de notificación automática y panel de reseñas?
+
+* ¿Qué tan probable es que uses esta herramienta en tu negocio?
+
+* ¿Te sentirías cómodo/a pagando por un plan si esto mejora la eficiencia de tu gestión?
+
+* ¿Qué barreras o preocupaciones tendrías para adoptar uTime?
+
+
+### SEGMENTO 2: Clientes de servicios de belleza
+
+*Preguntas tras mostrar la Landing Page*
+
+* ¿Qué tan atractivo te parece el diseño y la organización del sitio?
+ 
+* ¿Qué parte de la información te pareció más útil para ti como cliente?
+
+* ¿Te daría confianza usar este sistema para reservar en lugar de escribir por redes?
+
+*Preguntas tras mostrar la Aplicación Móvil (Vista cliente)*
+
+* ¿Fue sencillo registrarte y navegar por la aplicación?
+
+* ¿Pudiste encontrar fácilmente un estilista y agendar una cita?
+
+* ¿Qué opinas del flujo para elegir horario y método de pago?
+
+* ¿Te gustaría recibir notificaciones o recordatorios como los que viste?
+
+* ¿Te gustaría tener la opción de guardar tus salones favoritos o ver tu historial?
+
+* ¿Qué tan probable es que uses uTime para reservar tus próximas citas?
+
+### Preguntas Finales (Cierre)
+
+* ¿Qué es lo que más te gustó de uTime?
+
+* ¿Qué aspecto te pareció confuso o poco útil?
+
+* ¿Hay alguna funcionalidad que esperabas ver y no encontraste?
+
+### 4.3.2. Registro de Entrevistas
+
+## Segmento Objetivo 1 (Salones de Belleza y Barberías)
+
+### Datos del Entrevistado #1
+- **Nombre completo:** Mileydi Patricia
+- **Segmento Objetivo:** Dueña de salón de estetica
+- **Edad:**  24 años
+- **Distrito:**  San Borja
+- **Screenshot del cuadro de video:** *![Entrevista 1](img/segmento-objetivo1-1.png)*
+- **URL del video (Microsoft Stream):** *[Entrevista 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/IQBPLUOdRLpIRb6KfumaNtTXAYU7KRgV1V1PFjhZk6aGebw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Xv7d4Y)*
+- **Inicio de la entrevista:** 00:15 minutos
+- **Resumen:** Mileydi Patricia, esteticista con 5 años de experiencia en Estados Unidos. Ve la landing page de manera positiva, menciona que se ve con claridad la propuesta y caracteristicas que ofreceria la aplicacion, y que si estuviera en necesidad, pagaria por la subscripciones mencionadas. Luego de ver la aplicacion movil, comenta que le parece facil de manipular y le interesan bastante las funciones de notificaciones automaticas y panel de gestion de citas. En general, no se presentaron criticas negativas a parte de traduccion al ingles por parte de la aplicacion movil.
+
+### Datos del Entrevistado #2
+- **Nombre completo:** Maria Ysabel Sosa Rodriguez
+- **Segmento Objetivo:** Dueña de un Salón de belleza
+- **Edad:** 45 años
+- **Distrito:**  San Juan de Lurigancho
+- **Screenshot del cuadro de video:** *![Entrevista 2](img/segmento-objetivo1-2.png)*
+- **URL del video (Microsoft Stream):** *[Entrevista 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/IQBPLUOdRLpIRb6KfumaNtTXAYU7KRgV1V1PFjhZk6aGebw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Xv7d4Y)*
+- **Inicio de la entrevista:** 03:06 minutos
+- **Resumen:** María Isabel Sosa Rodríguez, dueña de un salón de belleza con 20 años de experiencia. Actualmente gestiona sus reservas solo por WhatsApp, lo cual le dificulta manejar los tiempos entre un servicio y otro. Calificó la aplicación móvil con un 10 en probabilidad de uso, describiéndola como organizada y con las herramientas necesarias, y confirmó que se sentiría cómoda pagando un plan para evitar cruces de clientes. Como crítica constructiva o mejora, solicitó añadir un espacio de "notas" o historial para registrar qué servicio se hizo el cliente y la fecha, evitando así que esa información se pierda en papeles.
+
+## Segmento Objetivo 2 (Clientes de servicios de belleza)
+
+### Datos del Entrevistado #1
+- **Nombre completo:** Anedyib Villar Bisso
+- **Segmento Objetivo:** Clientes de servicio de belleza
+- **Edad:** 20 años
+- **Distrito:** San Isidro
+- **Screenshot del cuadro de video:** *![Entrevista 01](img/segmento-objetivo2-1.png)*
+- **URL del video (Microsoft Stream):** *[Entrevista 01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/IQBPLUOdRLpIRb6KfumaNtTXAYU7KRgV1V1PFjhZk6aGebw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Xv7d4Y)*
+- **Inicio de la entrevista:** 06:19 minutos
+- **Resumen:** Anedyib Villar, cliente que solicita servicios de belleza una vez al mes. Menciona que lo que más le cuesta actualmente es la demora en las respuestas de los salones vía WhatsApp. Opinó que la landing page es bonita y completa, destacando la sección de "features" y el calendario interactivo, lo cual le genera más confianza que el método tradicional. Sobre la aplicación, reportó que el flujo de registro, elección de horario y método de pago fue muy sencillo, afirmando que la descargaría y usaría siempre si saliera en la Play Store. No encontró puntos confusos y valoró la opción de historial y salones favoritos.
+
+#### Datos del Entrevistado #2
+- **Nombre completo:** Edward Rodriguez
+- **Segmento Objetivo:** Clientes de servicio de belleza
+- **Edad:**  24 años
+- **Distrito:** Santiago de Surco
+- **Screenshot del cuadro de video:** *![Entrevista 02](img/segmento-objetivo2-2.png)*
+- **URL del video (Microsoft Stream):** *[Entrevista 02](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/IQBPLUOdRLpIRb6KfumaNtTXAYU7KRgV1V1PFjhZk6aGebw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Xv7d4Y)*
+- **Inicio de la entrevista:** 10:04 minutos
+- **Resumen:** Edward Rodríguez, cliente frecuente que asiste a barberías cada 15 días. Expresa frustración por tener que ajustarse siempre a la disponibilidad de las barberías en lugar de poder elegir según su propia conveniencia. Considera que el diseño de la landing page está bien trabajado y le inspira confianza para reservar. Respecto a la aplicación móvil, destacó principalmente la función de geolocalización para encontrar salones cercanos y la rapidez del proceso. Como sugerencia clave, indicó que le gustaría que la aplicación pudiera sincronizar las citas directamente con Google Calendar para unificar sus notificaciones.
+
+### 4.3.3. Evaluaciones según heurísticas
+
+#### Aplicación a evaluar: uTime
+
+#### Tareas a evaluar:
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:  
+
+1. Registro de usuario clientes
+2. Registro de usuario dueño de salón de belleza
+3. Refistro de un nuevo empleado
+4. Registro de un nuevo servicio
+5. Eliminación de un servicio o empleado
+6. Reserva de una cita
+7. Pago de una cita
+
+No están incluídas en esta versión de la evaluación heurística las siguientes tareas:
+
+1. Edición de un empleado
+2. Edición de un servicio
+3. Selección de un salón como favorito
+4. Cancelación de una reserva
+5. Eliminación de una cuenta
+
+#### Escala de severidad
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+<table>
+   <tr>
+      <td><b>Nivel</b></td>
+      <td><b>Descripción</b></td>
+   </tr>
+   <tr>
+      <td><b>Nivel 1</b></td>
+      <td>Problema superficial: Puede ser fácilmente superador por el usuario y ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</td>
+   </tr>
+   <tr>
+      <td><b>Nivel 2</b></td>
+      <td>Problema menor: Puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase.</td>
+   </tr>
+   <tr>
+      <td><b>Nivel 3</b></td>
+      <td>Problema mayor: Ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</td>
+   </tr>
+   <tr>
+      <td><b>Nivel 4</b></td>
+      <td>Problema muy grave: Un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.</td>
+   </tr>
+</table>
+
+#### Tabla Resumen
+
+<table>
+   <tr>
+      <td><b>#</b></td>
+      <td><b>Problema</b></td>
+      <td><b>Escala de severidad</b></td>
+      <td><b>Herística/Principio violado</b></td>
+   </tr>
+   <tr>
+      <td><b>1</b></td>
+      <td>El proceso de reservación de cita no puede detenerse en cualquier punto</td>
+      <td>3</td>
+      <td>Libertad y control del usuario</td>
+   </tr>
+   <tr>
+      <td><b>2</b></td>
+      <td>El diseño de la pantalla de inicio puede resultar complicado de comprender al presentar banners como si fueran botones</td>
+      <td>2</td>
+      <td>Diseño estético y minimalista</td>
+   </tr>
+   <tr>
+      <td><b>3</b></td>
+      <td>No incluye una opción de recorrido asistido ni preguntas comunes dentro de las aplicaciones</td>
+      <td>1</td>
+      <td>Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de errores</td>
+   </tr>
+   <tr>
+      <td><b>4</b></td>
+      <td>No incluye un sección se solicitud de apoyo técnico de parte de los creadores</td>
+      <td>2</td>
+      <td>Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de errores</td>
+   </tr>
+   <tr>
+      <td><b>5</b></td>
+      <td>Uno de las opciones del inicio incluye un botón para ver descuentos más esta no guía a ningún otro contenido</td>
+      <td>3</td>
+      <td>Arquitectura de la información: Es útil?</td>
+   </tr>
+   <tr>
+      <td><b>6</b></td>
+      <td>Al no poder cargarse o existir imágenes para los salones, no se muestra una imagen por defecto, dejando un espacio vacío</td>
+      <td>1</td>
+      <td>Diseño estético y minimalista</td>
+   </tr>
+   <tr>
+      <td><b>7</b></td>
+      <td>No se muestra imágen o ícono que indique no se encuentraron resultados cuando se realiza la búsqueda de un salón y no hay ninguno que exista con este nombre</td>
+      <td>2</td>
+      <td>Visibilidad del estado del sistema</td>
+   </tr>
+</table>
+
+#### Descripción de problemas:
+
+##### PROBLEMA #1: El proceso de reservación de cita no puede detenerse en cualquier punto
+
+Severidad: 3  
+Heurística violada: Libertad y control del usuario
+
+Problema
+
+Cuando un usuario está realizando el proceso de reservación, una vez que inicia es complicado salir de esta pantalla dado que no existe una flecha que indique "volver" o "cancelar el proceso" de forma directa. La única flecha disponible regresa paso por paso, lo cual si bien es útil para editar algún dato de la reserva en proceso, no permite al usuario realizar la cancelación de forma inmediata. De la misma forma, si se desea dejar el proceso en medio para retomarlo posteriormente, no es posible, dado que no guarda hasta que haya sido totalmente completado.
+
+![Heuristicas img](img/heuristica1.png)
+
+Recomendación
+
+Agregar una opción en la parte inferior o superior que indique "Cancelar" para volver a la pantalla de visualización de servicios del salón.
+
+##### PROBLEMA #2: El diseño de la pantalla de inicio puede resultar complicado de comprender al presentar banners como si fueran botones
+
+Severidad: 2  
+Heurística violada: Diseño estético y minimalista
+
+Problema
+
+Algunos de los banners utilizados presentan un colo y sombras bastante resaltantes lo cual si bien es agradable a la vista, simula una apariencia parecida a la de un botón, lo que puede confundir a los usuarios y dificultar su desarrollo dentro de la aplicación al comenzar a utilizarla.
+
+![Heuristicas img](img/heuristica2.png)
+
+Recomendación
+
+Cambiar el diseño del banner principal, de forma en que este se vea solo como lo que es, un banner informativo y que no confunda a los usuarios.
+
+##### PROBLEMA #3: No incluye una opción de recorrido asistido ni preguntas comunes dentro de las aplicaciones
+
+Severidad: 1  
+Heurística violada: Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de errores
+
+Problema
+
+Si bien las aplicaciones son bastantes claras e intuitivas para cada segmento de usuario, es importante que exista una guía para evitar posibles confusiones, así como para informar a los usuarios nuevos sobre todas las funcionalidades disponibles. La falta de esta opción hace que podamos perder posibles usuarios y que, si alguno presentara una duda o dificultad, no tenga forma de consultar a los creadores.
+
+Recomendación
+
+Incuir un pequeño ícono de pregunta en la pantalla principal que guíe a una sección de preguntas frecuentes y explicación de funcionalidades. Así, no será difícil que los usuarios se orienter por si solos.
+
+##### PROBLEMA #4: No incluye una sección de solicitud de apoyo técnico de parte de los creadores
+
+Severidad: 2  
+Heurística violada: Ayudar a los usuarios a reconocer, diagnosticar y recuperarse de errores
+
+Problema
+
+No existe forma de contactar a los creadores desde la aplicación. Esto se menciona a parte de la falta de una opción de preguntas frecuentes, dado que dicha sección serviría para orientar a los usuarios mas el contacto sería útil para que estos mismos informen a los creadores de posibles bugs no detectados, caída de los servidores, dificultades con alguna funcionalidad o el deseo de la integración de una nueva.
+
+Recomendación
+
+Incluir una opción de contacto en la sección de perfil, de forma en que el contacto sea posible y fácil de acceder pero sin intervenir en la pantalla principal dado que no es una sección muy usada.
+
+##### PROBLEMA #5: Uno de las opciones del inicio incluye un botón para ver descuentos más esta no guía a ningún otro contenido
+
+Severidad: 3  
+Heurística violada: Arquitectura de la información: Es útil?
+
+Problema
+
+Si bien la opción está habilitada y ofrece una guía para encontrar descuentos, esta no funciona y no termina guiando al usuario a ninguna opción adicional. Esto puede ser confuso para el usuario además porque en la parte inferior no se está incluyendo ninguna sección con un ícono referente a descuentos.
+
+![Heuristicas img](img/heuristica5.png)
+
+Recomendación
+
+Implementar la opción de forma en que se pueda guiar al usuario a los descuentos incluídos por las empresas registradas. Si esta opción aún no está lista, se debe retirar y en todo caso colocar como "proximamente".
+
+##### PROBLEMA #6: Al no poder cargarse o existir imágenes para los salones, no se muestra una imagen por defecto, dejando un espacio vacío
+
+Severidad: 1  
+Heurística violada: Diseño estético y minimalista
+
+Problema
+
+Resulta poco estético dejar un recuadro gris cuando las imágenes de los salones no han sido cargadas o el salón mismo no ha colocado una imágen para su presentación. Esto, al quedar poco atractivo, puede resultar negativo para los salones afectados, dado que menos usuarios preferirán sus servicios.
+
+![Heuristicas img](img/heuristica6.png)
+
+Recomendación
+
+Contar con un esuqeleto o imagen por defecto que pueda mostrarse cuando no se ha logrado cargar o no existe una imagen disponible. Así, resulta más agradble para el usuario y los salones sin imágenes no se ven tan opacados.
+
+##### PROBLEMA #7: No se muestra imágen o ícono que indique no se encuentraron resultados cuando se realiza la búsqueda de un salón y no hay ninguno que exista con este nombre
+
+Severidad: 2  
+Heurística violada: Visibilidad del estado del sistema
+
+Problema
+
+Cuando se realiza una búsqueda con la barra principal de navegación en la aplicación de clientes para buscar un servicio, al introducir una palabra para la que no existen coincidencias, no se muestra ningún elemtnos que expliqye este ni sugerencia de búsqueda alternativa. Esto puede resultar desmotivante para los usuarios o hasta confuso dado que pueden no estar seguros sobre si no existen resultados o se trata de un error o demora en el tiempo de carga.
+
+![Heuristicas img](img/heuristica7.png)
+
+Recomendación
+
+Incluir un ícono que indique no existen resultados o una frase que anime al usuario a realizar otra búsqueda.
 
 ## Conclusiones y recomendaciones
 
 ### Conclusiones
 
-1. El desarrollo del Sprint 3 completo permitió al equipo consolidar y finalizar completamente el desarrollo del flujo en Android, logrando implementar todas las funcionalidades pendientes y mejoras de UI/UX. Esta experiencia demostró la importancia de completar ciclos de desarrollo antes de iniciar nuevos flujos en otras plataformas, asegurando que cada flujo esté completamente funcional y documentado.
+1. El desarrollo del proyecto uTime permitió al equipo crear una solución móvil integral que aborda las necesidades reales del sector de belleza en Perú. A través de la aplicación de metodologías Lean UX, Domain-Driven Design y desarrollo ágil, se logró construir una aplicación móvil funcional que conecta a estilistas, barberos y clientes, facilitando la gestión de citas, pagos digitales y fidelización de clientes. Este resultado demuestra la importancia de un enfoque centrado en el usuario desde las primeras etapas del proyecto.
 
-2. El inicio del desarrollo del flujo en Flutter representó un aprendizaje significativo sobre frameworks multiplataforma y desarrollo paralelo de aplicaciones. Concluimos que trabajar con dos flujos diferentes (Android y Flutter) requiere una planificación cuidadosa, documentación exhaustiva de cada implementación y una comprensión profunda de las diferencias arquitectónicas entre desarrollo nativo y multiplataforma para garantizar que cada flujo se desarrolle de manera óptima según las capacidades de su plataforma.
+2. La investigación y validación continua con usuarios del sector de belleza fue fundamental para entender las necesidades reales del mercado. Las entrevistas realizadas con dueños de salones, barberías y clientes revelaron que la dependencia de métodos informales como WhatsApp genera problemas de organización, pérdida de tiempo y dificultades para atraer nuevos clientes. Esta comprensión profunda del problema permitió diseñar funcionalidades específicas que resuelven estos desafíos de manera efectiva.
 
-3. A través del Sprint 3, concluimos que la revisión continua de User Stories es fundamental para mantener el producto alineado con las necesidades del usuario. La actualización y refinamiento de las historias de usuario permitió identificar mejoras necesarias y nuevas funcionalidades que enriquecieron la experiencia del producto final en Android.
+3. La aplicación de metodologías de diseño centrado en el usuario y arquitectura de software escalable permitió desarrollar un producto robusto y mantenible. El uso de Domain-Driven Design, arquitectura de microservicios y patrones de diseño modernos facilitó la creación de una aplicación móvil que puede escalar según las necesidades del negocio y adaptarse a futuras funcionalidades requeridas por el mercado.
 
-4. El desarrollo de evidencias de ejecución, testing, documentación de servicios y deployment durante el Sprint 3 demostró la importancia de mantener una documentación técnica actualizada y completa durante todo el ciclo de desarrollo. Esta práctica facilitó el inicio del desarrollo del flujo en Flutter al tener una referencia clara de todas las funcionalidades implementadas en Android y su comportamiento esperado, permitiendo mantener consistencia entre ambos flujos.
+4. El desarrollo de uTime demostró la importancia de la documentación técnica y la colaboración en equipo durante todo el ciclo de vida del proyecto. La implementación de prácticas como control de versiones, testing continuo, documentación de servicios y deployment automatizado permitió mantener la calidad del código y facilitar la incorporación de nuevos desarrolladores al proyecto, asegurando la sostenibilidad a largo plazo de la solución.
 
-5. La experiencia del Sprint 3 reforzó la importancia del aprendizaje permanente en el desarrollo de software. La necesidad de adaptarse rápidamente a nuevas tecnologías como Flutter, mientras se finalizaba el desarrollo en Android, demostró que la capacidad de aprender y aplicar nuevos frameworks es esencial para el crecimiento profesional y la evolución continua de los productos de software.
+5. El proyecto uTime representa una oportunidad significativa para digitalizar el sector de belleza en Perú, donde más del 60% de los profesionales son trabajadores independientes que aún dependen de métodos manuales. La aplicación móvil desarrollada ofrece una solución accesible que puede mejorar la productividad de los profesionales, reducir cancelaciones, facilitar la captación de clientes y mejorar la experiencia general tanto para estilistas como para clientes, contribuyendo a cerrar la brecha digital en este sector.
 
 ### Recomendaciones
 
-1. **Establecer una estrategia de desarrollo paralelo para ambos flujos**: Aunque se completó el desarrollo en Android y se inició el desarrollo en Flutter, se recomienda definir claramente qué funcionalidades y flujos corresponden a cada plataforma. Esto permitirá mantener una organización clara del proyecto y evitar duplicación innecesaria de esfuerzos, asegurando que cada flujo se desarrolle de manera óptima según las capacidades de su plataforma.
+1. **Continuar con la validación continua con usuarios del sector de belleza**: Se recomienda realizar entrevistas de validación periódicas con dueños de salones, barberías y clientes para identificar nuevas necesidades, mejorar funcionalidades existentes y validar nuevas características antes de implementarlas. Esta práctica permitirá mantener el producto alineado con las necesidades reales del mercado peruano y asegurar una alta adopción por parte del segmento objetivo.
 
-2. **Documentar las diferencias arquitectónicas y de diseño entre Android y Flutter**: Se sugiere crear documentación detallada sobre las diferencias en arquitectura, patrones de diseño y manejo de estado entre Android nativo y Flutter para cada flujo. Esta documentación será valiosa para futuras referencias y para otros desarrolladores que trabajen en el proyecto, permitiendo entender las decisiones técnicas de cada implementación.
+2. **Implementar estrategias de onboarding y capacitación para usuarios**: Dado que muchos profesionales del sector de belleza pueden tener limitada experiencia con herramientas digitales, se recomienda desarrollar tutoriales interactivos, guías paso a paso y soporte técnico personalizado para facilitar la adopción de uTime. Esto ayudará a superar las barreras de confianza en la tecnología identificadas durante el desarrollo del proyecto.
 
-3. **Mantener sincronización de funcionalidades core entre ambos flujos**: Se recomienda establecer un proceso para asegurar que las funcionalidades core compartidas entre ambos flujos (como autenticación, integración con backend, y lógica de negocio) se mantengan sincronizadas, incluyendo validaciones de comportamiento y contratos de API. Esto garantizará consistencia en la experiencia del usuario y facilitará el mantenimiento del backend común.
+3. **Establecer un plan de marketing y crecimiento enfocado en el segmento objetivo**: Se sugiere desarrollar estrategias de marketing digital específicas para llegar a estilistas, barberos y salones de belleza en Perú, incluyendo alianzas con academias de belleza, influencers del sector y presencia en redes sociales donde estos profesionales son activos. Esto permitirá acelerar la captación de usuarios y el crecimiento de la base de clientes.
 
-4. **Desarrollar suites de testing específicas para cada flujo**: Aunque se desarrollaron pruebas para Android, se sugiere crear suites de testing completas para Flutter desde el inicio, aprovechando las capacidades de testing del framework. Esto incluye pruebas unitarias, de widgets y de integración que validen la calidad y funcionalidad del flujo desarrollado en Flutter, independientemente del flujo de Android.
+4. **Priorizar la seguridad y confiabilidad del sistema de pagos**: Dado que la seguridad en los pagos es un factor crítico para la adopción del producto, se recomienda implementar medidas robustas de seguridad, certificaciones de confianza y opciones de pago flexibles que generen confianza tanto en dueños de salones como en clientes. Esto incluye integración con pasarelas de pago reconocidas y transparencia en las transacciones.
 
-5. **Realizar validación de rendimiento y experiencia de usuario para cada flujo**: Se recomienda realizar pruebas de rendimiento y usabilidad específicas para cada flujo (Android y Flutter) para identificar oportunidades de optimización y mejoras. Esto permitirá que cada implementación aproveche al máximo las capacidades de su plataforma respectiva.
+5. **Desarrollar funcionalidades de fidelización y retención de usuarios**: Se recomienda implementar y mejorar el sistema de promociones, descuentos y programas de lealtad para mantener a los usuarios activos en la plataforma. Esto incluye notificaciones personalizadas, ofertas exclusivas y un sistema de recompensas que incentive tanto a profesionales como a clientes a seguir utilizando uTime.
 
-6. **Establecer un plan de mantenimiento y evolución para ambos flujos**: Se sugiere mantener ambos flujos (Android y Flutter) actualizados con correcciones críticas y mejoras importantes de manera independiente. Esto asegurará que cada flujo evolucione según las necesidades específicas de su plataforma y los usuarios que utilicen cada uno.
+6. **Mantener una arquitectura escalable y documentación técnica actualizada**: Se sugiere continuar documentando las decisiones técnicas, arquitectura del sistema y procesos de desarrollo para facilitar el mantenimiento, la incorporación de nuevos desarrolladores y la evolución del producto. Esto incluye mantener actualizada la documentación de APIs, diagramas de arquitectura y guías de contribución al proyecto.
+
+7. **Establecer métricas de éxito y monitoreo continuo**: Se recomienda definir y monitorear métricas clave como tasa de adopción, retención de usuarios, satisfacción del cliente, número de reservas procesadas y tiempo promedio de respuesta del sistema. Estas métricas permitirán tomar decisiones basadas en datos y medir el impacto real de uTime en el sector de belleza peruano.
+
+<div style="page-break-before: always;"></div>
+
+## 5.2 Videp App Validation
+Para realizar la validacion de ambas aplicaciones hechas uno en flutter y otro en Kotlin, se realizo la validacion mediante firebase donde se invito a los testers a descargar la aplicacion y probarla. 
+![Video App Validation](img/video-app-validation.png)
+**URL del video (OneDrive):**
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210838_upc_edu_pe/IQBzuHA7Hu-0TqNIukvINdpmAcP5KnLaQu1EvA6Bb4MzAnk?e=l5EdPa
+
+
+## 5.3 Video About the Product
+
+En este video se presenta el producto uTime, mostrando sus características principales, funcionalidades y el valor que ofrece a los usuarios. El video incluye una demostración de la aplicación móvil, destacando las funcionalidades clave como la búsqueda de salones, reserva de citas, gestión de perfil y la experiencia de usuario completa que ofrece la plataforma.
+
+![Video About the Product](img/video-product.jpg)
+
+**URL del video (Youtube):** https://youtu.be/7odg_s3aRbs
+
+
+## 5.4 Video About the Team
+
+En este video, todo el equipo de desarrollo habla sobre el proceso de desarrollo del proyecto uTime, compartiendo sus experiencias, aprendizajes y el trabajo colaborativo realizado durante la implementación de la plataforma.
+
+![Video About the Team](img/abouttheteam.jpg)
+
+**URL del video (Youtube):** https://youtu.be/E-CdPPM4Y1Q
+
 
 <div style="page-break-before: always;"></div>
 
@@ -5142,3 +6098,11 @@ URL del Repositorio del Mobile App: https://github.com/PaxTech-1807/Mobile-App
 URL Compilacion de primera ronda de Entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/ESFQacfmqZ5Nn2Bv1Xf07vUB0OTOAw-maSZzLjNobLiKMQ
 
 URL del Figma con los Mockups y Wireframes de la Aplicación: https://www.figma.com/design/2RXg2e7OWrAbqYfNcw2EVP/UTIME
+
+URL Firebase Deployment APK: https://appdistribution.firebase.google.com/testerapps/1:926361378609:android:a84ac4062d1a098abfda10/releases/5uliosg8igfp8
+
+Video About The Team: https://youtu.be/E-CdPPM4Y1Q
+
+Video About The Product: https://youtu.be/7odg_s3aRbs
+
+Video de entrevistas de validación: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/IQBPLUOdRLpIRb6KfumaNtTXAYU7KRgV1V1PFjhZk6aGebw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Xv7d4Y 
