@@ -5627,6 +5627,7 @@ Para el despliegue del FrontEnd de la aplicacion movil hecha en Flutter se opto 
 
 ## 4.3. Validation Interviews
 
+### 4.3.1. Diseño de Entrevistas
 
 ### PREGUNTAS INTRODUCTORIAS:
 
@@ -5698,17 +5699,11 @@ Para el despliegue del FrontEnd de la aplicacion movil hecha en Flutter se opto 
 
 * ¿Hay alguna funcionalidad que esperabas ver y no encontraste?
 
-
-
-### 4.3.1. Diseño de Entrevistas
-
-
-
 ### 4.3.2. Registro de Entrevistas
 
-# Segmento Objetivo 1 (Salones de Belleza y Barberías)
+## Segmento Objetivo 1 (Salones de Belleza y Barberías)
 
-## Datos del Entrevistado #1
+### Datos del Entrevistado #1
 - **Nombre completo:** Mileydi Patricia
 - **Segmento Objetivo:** Dueña de salón de estetica
 - **Edad:**  24 años
@@ -5719,7 +5714,7 @@ Para el despliegue del FrontEnd de la aplicacion movil hecha en Flutter se opto 
 - **Duración:** 03:05 minutos
 **Resumen:** Mileydi Patricia, esteticista con 5 años de experiencia en Estados Unidos. Ve la landing page de manera positiva, menciona que se ve con claridad la propuesta y caracteristicas que ofreceria la aplicacion, y que si estuviera en necesidad, pagaria por la subscripciones mencionadas. Luego de ver la aplicacion movil, comenta que le parece facil de manipular y le interesan bastante las funciones de notificaciones automaticas y panel de gestion de citas. En general, no se presentaron criticas negativas a parte de traduccion al ingles por parte de la aplicacion movil.
 
-## Datos del Entrevistado #2
+### Datos del Entrevistado #2
 - **Nombre completo:** 
 - **Segmento Objetivo:** 
 - **Edad:**  
@@ -5729,9 +5724,9 @@ Para el despliegue del FrontEnd de la aplicacion movil hecha en Flutter se opto 
 - **Inicio de la entrevista:** 
 **Resumen:** 
 
-### Segmento Objetivo 2 (Clientes de servicios de belleza)
+## Segmento Objetivo 2 (Clientes de servicios de belleza)
 
-## Datos del Entrevistado #1
+### Datos del Entrevistado #1
 - **Nombre completo:** 
 - **Segmento Objetivo:** 
 - **Edad:**  
