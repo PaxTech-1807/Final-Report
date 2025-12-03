@@ -1,7 +1,7 @@
 <div align="center">
    <div>
 
-# <center>Informe del Trabajo Final</center>
+   <center><img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC"></center>
 
    <br>
 
@@ -9,33 +9,43 @@
 
    <br>
 
-   <center><img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC"></center>
-
-   <br>
-
    <center><b>Ingeniería de software</b></center>
 
    <br>
 
-   <center><b>1ACC0238 Aplicaciones para Dispositivos Móviles</b></center>
+   <center><b>Periodo:</b> 2025-20</center>
 
    <br>
 
-   <center><b>Sección:</b> 1807</center>
+   <center><b>1ACC0238 | Aplicaciones para Dispositivos Móviles</b></center>
 
    <br>
 
-   <center><b>Profesor:</b>Mayta Guillermo, Jorge Luis</center>
+   <center><b>NRC:</b> 1807</center>
 
    <br>
 
-   <center><b>Nombre del StartUp:</b> PaxTech</center>
+   <center><b>Docente:</b> Mayta Guillermo, Jorge Luis</center>
 
    <br>
 
-   <center><b>Nombre del Producto:</b> uTime</center>
+   <hr style="width: 50%; margin: 20px auto;">
 
-   </div>
+   <br>
+
+   <center><b>Informe del Trabajo Final</b></center>
+
+   <br>
+
+   <center><b>Startup:</b> PaxTech</center>
+
+   <br>
+
+   <center><b>Producto:</b> uTime</center>
+
+   <br>
+
+   <center><b>Integrantes:</b></center>
 
    <br>
 
@@ -43,39 +53,39 @@
 
    <table style="margin-left: auto; margin-right: auto;">
    <tr>
-   <th>Nombre</th>
    <th>Código</th>
+   <th>Apellidos y Nombres</th>
    </tr>
    <tr>
-   <td>Choquehuanca Nuñez, Luciana Carolina</td>
    <td>U202319431</td>
+   <td>Choquehuanca Nuñez, Luciana Carolina</td>
    </tr>
    <tr>
-   <td>Qqueso Rodriguez, Britney Delhy</td>
    <td>U20211G671</td>
+   <td>Qqueso Rodriguez, Britney Delhy</td>
    </tr>
    <tr>
-   <td>Rivera Sosa, Eduardo Gael</td>
    <td>U202312222</td>
+   <td>Rivera Sosa, Eduardo Gael</td>
    </tr>
    <tr>
-   <td>Roman Cruz, Natalia Bertha</td>
    <td>U202310148</td>
+   <td>Roman Cruz, Natalia Bertha</td>
    </tr>
    <tr>
-   <td>Yum Gonzales, Jorge Suin</td>
    <td>U202210838</td>
+   <td>Yum Gonzales, Jorge Suin</td>
    </tr>
    </table>
    </div>
 
    <br>
 
-   <center><b>Noviembre 2025</b></center>
-   <br>
-   <center><b>Ciclo 2025-20</b></center>
+   <center><b>Diciembre 2025</b></center>
 
    <br>
+
+   </div>
 
 </div>
 
