@@ -5637,6 +5637,25 @@ Para el despliegue del FrontEnd de la aplicacion movil hecha en Flutter se opto 
 
 #### 4.2.3.8. Team Collaboration Insights during Sprint
 
+Durante el Sprint 3, el equipo mantuvo una colaboración activa y constante a través de GitHub, trabajando en la finalización completa de todas las plataformas del proyecto uTime. Este sprint representó la culminación del desarrollo, logrando completar al 100% la aplicación móvil en Android para clientes, la aplicación móvil en Flutter para dueños de salones de belleza, y la Landing Page como punto de entrada al ecosistema. Las métricas de colaboración muestran el compromiso del equipo y la distribución del trabajo entre los diferentes componentes del proyecto.
+
+**Android**
+
+El desarrollo del flujo en Android fue completado exitosamente durante este sprint, con contribuciones significativas de todos los miembros del equipo. Se finalizaron todas las funcionalidades pendientes, mejoras de UI/UX, integración completa con el backend, y se aseguró que la aplicación estuviera completamente funcional y lista para su uso. Las métricas de GitHub muestran un alto nivel de actividad y colaboración durante todo el sprint.
+
+![Team Collaboration Insights - Android](img/android_insight.png)
+
+**Flutter**
+
+El desarrollo del flujo en Flutter fue completado al 100% durante el Sprint 3, logrando implementar todas las funcionalidades principales incluyendo autenticación, dashboard, gestión de servicios, trabajadores, calendario de reservas y perfil. Las métricas de colaboración reflejan el trabajo intensivo del equipo para finalizar esta plataforma multiplataforma, demostrando el compromiso con la entrega de un producto completo y funcional.
+
+![Team Collaboration Insights - Flutter](img/flutterinsight.png)
+
+**Landing Page**
+
+La Landing Page también fue finalizada durante este sprint, completando el ecosistema completo de uTime. El equipo trabajó en la integración de todas las secciones, mejoras visuales, y aseguró que la página cumpliera con su función como punto de entrada principal para atraer tanto a dueños de salones como a clientes potenciales al ecosistema uTime.
+
+
 ## 4.3. Validation Interviews
 
 ### 4.3.1. Diseño de Entrevistas
