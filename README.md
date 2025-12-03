@@ -5717,14 +5717,14 @@ Para el despliegue del FrontEnd de la aplicacion movil hecha en Flutter se opto 
 **Resumen:** Mileydi Patricia, esteticista con 5 años de experiencia en Estados Unidos. Ve la landing page de manera positiva, menciona que se ve con claridad la propuesta y caracteristicas que ofreceria la aplicacion, y que si estuviera en necesidad, pagaria por la subscripciones mencionadas. Luego de ver la aplicacion movil, comenta que le parece facil de manipular y le interesan bastante las funciones de notificaciones automaticas y panel de gestion de citas. En general, no se presentaron criticas negativas a parte de traduccion al ingles por parte de la aplicacion movil.
 
 ### Datos del Entrevistado #2
-- **Nombre completo:** 
-- **Segmento Objetivo:** 
-- **Edad:**  
-- **Distrito:**  
-- **Screenshot del cuadro de video:** *![Entrevista 2]()*
+- **Nombre completo:** Maria Ysabel Sosa Rodriguez
+- **Segmento Objetivo:** Dueña de salón de belleza
+- **Edad:**  46
+- **Distrito:** Lince
+- **Screenshot del cuadro de video:** *![Entrevista 2](img/validation-2-segmento-2.png)*
 - **URL del video (Microsoft Stream):** *[Entrevista 2]()*
 - **Inicio de la entrevista:** 
-**Resumen:** 
+**Resumen:** María mostró una reacción muy positiva hacia la aplicación uTime, destacando especialmente las funcionalidades de gestión de servicios y trabajadores, las cuales considera fundamentales para la administración eficiente de su salón de belleza. Le encantó el sistema de notificaciones automáticas, reconociendo su valor para mantener una comunicación efectiva con los clientes y reducir olvidos o cancelaciones de última hora. Como recomendación para mejorar el producto, sugirió implementar un sistema de historial detallado para los clientes donde se pueda registrar, además de los servicios realizados, qué productos específicos se utilizaron en cada sesión. Esta funcionalidad permitiría tener un mapeo completo de las preferencias y tratamientos de cada cliente, facilitando la planificación de futuras sesiones y mejorando la personalización del servicio ofrecido. 
 
 ## Segmento Objetivo 2 (Clientes de servicios de belleza)
 
@@ -5987,7 +5987,7 @@ Incluir un ícono que indique no existen resultados o una frase que anime al usu
 
 <div style="page-break-before: always;"></div>
 
-## 5.2 Vide App Validation
+## 5.2 Videp App Validation
 Para realizar la validacion de ambas aplicaciones hechas uno en flutter y otro en Kotlin, se realizo la validacion mediante firebase donde se invito a los testers a descargar la aplicacion y probarla. 
 ![Video App Validation](img/video-app-validation.png)
 **URL del video (OneDrive):**
