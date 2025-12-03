@@ -5709,44 +5709,43 @@ Para el despliegue del FrontEnd de la aplicacion movil hecha en Flutter se opto 
 - **Nombre completo:** Mileydi Patricia
 - **Segmento Objetivo:** Dueña de salón de estetica
 - **Edad:**  24 años
-- **Distrito:**  Greabridge Rd
-- **Screenshot del cuadro de video:** *![Entrevista 1](img/jorge_photo.png)*
-- **URL del video (Microsoft Stream):** *[Entrevista 1]()*
+- **Distrito:**  San Borja
+- **Screenshot del cuadro de video:** *![Entrevista 1](img/segmento-objetivo1-1.png)*
+- **URL del video (Microsoft Stream):** *[Entrevista 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/IQBPLUOdRLpIRb6KfumaNtTXAYU7KRgV1V1PFjhZk6aGebw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Xv7d4Y)*
 - **Inicio de la entrevista:** 00:15 minutos
-- **Duración:** 03:05 minutos
-**Resumen:** Mileydi Patricia, esteticista con 5 años de experiencia en Estados Unidos. Ve la landing page de manera positiva, menciona que se ve con claridad la propuesta y caracteristicas que ofreceria la aplicacion, y que si estuviera en necesidad, pagaria por la subscripciones mencionadas. Luego de ver la aplicacion movil, comenta que le parece facil de manipular y le interesan bastante las funciones de notificaciones automaticas y panel de gestion de citas. En general, no se presentaron criticas negativas a parte de traduccion al ingles por parte de la aplicacion movil.
+- **Resumen:** Mileydi Patricia, esteticista con 5 años de experiencia en Estados Unidos. Ve la landing page de manera positiva, menciona que se ve con claridad la propuesta y caracteristicas que ofreceria la aplicacion, y que si estuviera en necesidad, pagaria por la subscripciones mencionadas. Luego de ver la aplicacion movil, comenta que le parece facil de manipular y le interesan bastante las funciones de notificaciones automaticas y panel de gestion de citas. En general, no se presentaron criticas negativas a parte de traduccion al ingles por parte de la aplicacion movil.
 
 ### Datos del Entrevistado #2
 - **Nombre completo:** Maria Ysabel Sosa Rodriguez
-- **Segmento Objetivo:** Dueña de salón de belleza
-- **Edad:**  46
-- **Distrito:** Lince
-- **Screenshot del cuadro de video:** *![Entrevista 2](img/validation-2-segmento-2.png)*
-- **URL del video (Microsoft Stream):** *[Entrevista 2]()*
-- **Inicio de la entrevista:** 
-**Resumen:** María mostró una reacción muy positiva hacia la aplicación uTime, destacando especialmente las funcionalidades de gestión de servicios y trabajadores, las cuales considera fundamentales para la administración eficiente de su salón de belleza. Le encantó el sistema de notificaciones automáticas, reconociendo su valor para mantener una comunicación efectiva con los clientes y reducir olvidos o cancelaciones de última hora. Como recomendación para mejorar el producto, sugirió implementar un sistema de historial detallado para los clientes donde se pueda registrar, además de los servicios realizados, qué productos específicos se utilizaron en cada sesión. Esta funcionalidad permitiría tener un mapeo completo de las preferencias y tratamientos de cada cliente, facilitando la planificación de futuras sesiones y mejorando la personalización del servicio ofrecido. 
+- **Segmento Objetivo:** Dueña de un Salón de belleza
+- **Edad:** 45 años
+- **Distrito:**  San Juan de Lurigancho
+- **Screenshot del cuadro de video:** *![Entrevista 2](img/segmento-objetivo1-2.png)*
+- **URL del video (Microsoft Stream):** *[Entrevista 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/IQBPLUOdRLpIRb6KfumaNtTXAYU7KRgV1V1PFjhZk6aGebw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Xv7d4Y)*
+- **Inicio de la entrevista:** 03:06 minutos
+- **Resumen:** María Isabel Sosa Rodríguez, dueña de un salón de belleza con 20 años de experiencia. Actualmente gestiona sus reservas solo por WhatsApp, lo cual le dificulta manejar los tiempos entre un servicio y otro. Calificó la aplicación móvil con un 10 en probabilidad de uso, describiéndola como organizada y con las herramientas necesarias, y confirmó que se sentiría cómoda pagando un plan para evitar cruces de clientes. Como crítica constructiva o mejora, solicitó añadir un espacio de "notas" o historial para registrar qué servicio se hizo el cliente y la fecha, evitando así que esa información se pierda en papeles.
 
 ## Segmento Objetivo 2 (Clientes de servicios de belleza)
 
 ### Datos del Entrevistado #1
-- **Nombre completo:** 
-- **Segmento Objetivo:** 
-- **Edad:**  
-- **Distrito:**  
-- **Screenshot del cuadro de video:** *![Entrevista 01]()*
-- **URL del video (Microsoft Stream):** *[Entrevista 01]()*
-- **Inicio de la entrevista:** 
-**Resumen:** 
+- **Nombre completo:** Anedyib Villar Bisso
+- **Segmento Objetivo:** Clientes de servicio de belleza
+- **Edad:** 20 años
+- **Distrito:** San Isidro
+- **Screenshot del cuadro de video:** *![Entrevista 01](img/segmento-objetivo2-1.png)*
+- **URL del video (Microsoft Stream):** *[Entrevista 01](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/IQBPLUOdRLpIRb6KfumaNtTXAYU7KRgV1V1PFjhZk6aGebw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Xv7d4Y)*
+- **Inicio de la entrevista:** 06:19 minutos
+- **Resumen:** Anedyib Villar, cliente que solicita servicios de belleza una vez al mes. Menciona que lo que más le cuesta actualmente es la demora en las respuestas de los salones vía WhatsApp. Opinó que la landing page es bonita y completa, destacando la sección de "features" y el calendario interactivo, lo cual le genera más confianza que el método tradicional. Sobre la aplicación, reportó que el flujo de registro, elección de horario y método de pago fue muy sencillo, afirmando que la descargaría y usaría siempre si saliera en la Play Store. No encontró puntos confusos y valoró la opción de historial y salones favoritos.
 
 #### Datos del Entrevistado #2
-- **Nombre completo:** 
-- **Segmento Objetivo:** 
-- **Edad:**  
-- **Distrito:**  
-- **Screenshot del cuadro de video:** *![Entrevista 02]()*
-- **URL del video (Microsoft Stream):** *[Entrevista 02]()*
-- **Inicio de la entrevista:** 
-**Resumen:** 
+- **Nombre completo:** Edward Rodriguez
+- **Segmento Objetivo:** Clientes de servicio de belleza
+- **Edad:**  24 años
+- **Distrito:** Santiago de Surco
+- **Screenshot del cuadro de video:** *![Entrevista 02](img/segmento-objetivo2-2.png)*
+- **URL del video (Microsoft Stream):** *[Entrevista 02](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/IQBPLUOdRLpIRb6KfumaNtTXAYU7KRgV1V1PFjhZk6aGebw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Xv7d4Y)*
+- **Inicio de la entrevista:** 10:04 minutos
+- **Resumen:** Edward Rodríguez, cliente frecuente que asiste a barberías cada 15 días. Expresa frustración por tener que ajustarse siempre a la disponibilidad de las barberías en lugar de poder elegir según su propia conveniencia. Considera que el diseño de la landing page está bien trabajado y le inspira confianza para reservar. Respecto a la aplicación móvil, destacó principalmente la función de geolocalización para encontrar salones cercanos y la rapidez del proceso. Como sugerencia clave, indicó que le gustaría que la aplicación pudiera sincronizar las citas directamente con Google Calendar para unificar sus notificaciones.
 
 ### 4.3.3. Evaluaciones según heurísticas
 
@@ -6076,3 +6075,5 @@ URL Firebase Deployment APK: https://appdistribution.firebase.google.com/testera
 Video About The Team: https://youtu.be/E-CdPPM4Y1Q
 
 Video About The Product: https://youtu.be/7odg_s3aRbs
+
+Video de entrevistas de validación: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g671_upc_edu_pe/IQBPLUOdRLpIRb6KfumaNtTXAYU7KRgV1V1PFjhZk6aGebw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Xv7d4Y 
