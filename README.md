@@ -4222,7 +4222,7 @@ La siguiente sección presenta la evidencia de ejecución de la landing page, ba
 
 **1. Hero Section - Primera Impresión del Usuario**
 
-![Hero Section](img/mockup_landing_1.png.png)
+![Hero Section](img/mockup_landing_1.png)
 
 La landing page comienza con una sección hero impactante que captura inmediatamente la atención del usuario. Esta sección presenta una frase llamativa "Skip the Calls, Book in Real Time" que comunica directamente el valor principal de la plataforma. El usuario encuentra un call-to-action prominente "Start for Free →" que lo invita a comenzar su experiencia con uTime. Esta sección está diseñada para generar interés inmediato y motivar al usuario a explorar más la plataforma.
 
